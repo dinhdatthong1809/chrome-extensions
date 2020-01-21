@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        html {
+            width: 300px;
+        }
+
+        .button {
+            background-color: #f26f21;
+            border: 1px solid white;
+            color: white;
+            padding: 5px 10px;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: none;
+            display: block;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.4s;
+        }
+
+        .button:hover {
+            background-color: #a03c01;
+        }
+
+        .button4 {
+            border-radius: 7px;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>FPoly quiz collector <small><em>- by BlueShootingStar -</em></small></h3>
+    <input type="number" name="fromId" placeholder="From" required><br>
+    <input type="number" name="toId" placeholder="To" required><br>
+    <button type="button" id="btnDownloadAllQuizes" class="button button4" autofocus>Download all quizes!</button>
+</body>
+
+<script defer src="assets/plugins/jquery/jquery-3.4.1.min.js"></script>
+<script defer type="module" src="assets/js/popup.js"></script>
+
+</html>

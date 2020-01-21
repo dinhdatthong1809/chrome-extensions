@@ -1,0 +1,68 @@
+{
+    "name": "GPXPlus egg dex collector",
+    "version": "1.0",
+    "description": "Collects all eggs of GPXPlus",
+    "author": "BlueShootingStar1809",
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "declarativeContent",
+        "downloads",
+        "storage"
+    ],
+    "background": {
+        "scripts": [
+            "assets/plugins/jquery/jquery-3.4.1.min.js",
+            "assets/js/background.js"
+        ],
+        "persistent": false
+    },
+    "page_action": {
+        "default_title": "Press Ctrl(Win)/Command(Mac)+Shift+Space then Enter to automize",
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "assets/images/icon16.png",
+            "32": "assets/images/icon32.png",
+            "48": "assets/images/icon48.png",
+            "128": "assets/images/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "assets/images/icon16.png",
+        "32": "assets/images/icon32.png",
+        "48": "assets/images/icon48.png",
+        "128": "assets/images/icon128.png"
+    },
+    "commands": {
+        "_execute_page_action": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+Space",
+                "mac": "MacCtrl+Shift+Space"
+            },
+            "description": "Opens popup.html"
+        }
+    },
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "js": [
+                "assets/plugins/jquery/jquery-3.4.1.min.js",
+                "assets/js/runBeforeDocument.js"
+            ],
+            "matches": [
+                "https://globalpokedexplus.fandom.com/wiki/Egg_Guide"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "js": [
+                "assets/plugins/jquery/jquery-3.4.1.min.js",
+                "assets/js/runAfterDocument.js"
+            ],
+            "matches": [
+                "https://globalpokedexplus.fandom.com/wiki/Egg_Guide"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
