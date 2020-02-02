@@ -9,10 +9,17 @@ function editDataInLocalStorage() {
     localStorage["usersHide"] = 1;
 
     // usersDisplay
-    localStorage["usersDisplay"].achievement = 0;
-    localStorage["usersDisplay"].count = 1000;
-    localStorage["usersDisplay"].list_type = "party";
-    localStorage["usersDisplay"].sort = "";
+    localStorage["usersDisplay"] = JSON.stringify(
+        {
+            list: "today",
+            sort: "",
+            count: 1000,
+            stat: 0,
+            achievement: 0,
+            list_type: "party",
+            page: 1
+        }
+    );
 
     // usersOpen
     localStorage["usersOpen"] = JSON.stringify(

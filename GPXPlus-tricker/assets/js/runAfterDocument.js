@@ -1,6 +1,7 @@
 let hasLocalStorage = true;
 let max = 3000;
 $("#usersOpen").off("submit");
+
 runAfterDocument();
 
 function runAfterDocument() {

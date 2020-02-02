@@ -30,7 +30,7 @@ function btnDownloadAllQuizesClickHandler(element) {
 
     chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
         chrome.tabs.executeScript(null, { file: "./assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
-            chrome.tabs.executeScript(null, { code: 'let myConfig = ' + JSON.stringify(myConfig) }, function () {
+            chrome.tabs.executeScript(null, { code: 'myConfig = ' + JSON.stringify(myConfig) }, function () {
                 chrome.tabs.executeScript(null, { file: "./assets/js/downloadAllQuizes.js" });
             });
         });

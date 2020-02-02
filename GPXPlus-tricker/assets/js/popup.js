@@ -1,7 +1,7 @@
-main();
-
 let interval = null;
 let auto = false;
+
+main();
 
 function main() {
     initUI();
@@ -14,29 +14,53 @@ function initUI() {
         let url = tabs[0].url;
 
         if (url.match(/https:\/\/gpx\.plus\/info\/.*/g)) {
-            $("#dynamicPart")
-                .append('<button type="button" id="btnAuto" class="button button-red" autofocus>Start automize!</button>')
-                .append('<button type="button" id="btnInteractFast" class="button button-black">Interact fast!</button>')
-                ;
-            $("#btnAuto").on("click", btnAutoClickHandler);
-            $("#btnInteractFast").on("click", btnInteractFastClickHandler);
+            initInfoPageUI();
         }
 
         else if (url.match(/https:\/\/gpx\.plus\/lab.*/g)) {
-            $("#dynamicPart")
-                .append('<input id="eggId" type="text" autofocus>')
-                .append('<button type="button" id="btnFindEgg" class="button button-red">Find egg!</button>')
-                ;
-            $("#btnFindEgg").on("click", btnFindEggClickHandler);
+            initLabPageUI();
+        }
+
+        else if (url.match(/https:\/\/gpx\.plus\/shelter\/safari.*/g)) {
+            initSafariPageUI();
         }
 
         else {
-            $("#dynamicPart")
-                .append('<button type="button" id="btnOpenPokechest" class="button button-black" autofocus>Open Pokéchests!</button>')
-                ;
-            $("#btnOpenPokechest").on("click", btnOpenPokechestClickHandler);
+            initOtherPageUI();
         }
     });
+}
+
+function initInfoPageUI() {
+    $("#dynamicPart")
+        .append('<button type="button" id="btnAuto" class="button button-red" autofocus>Start automize!</button>')
+        .append('<button type="button" id="btnInteractFast" class="button button-black">Interact fast!</button>')
+        ;
+    $("#btnAuto").on("click", btnAutoClickHandler);
+    $("#btnInteractFast").on("click", btnInteractFastClickHandler);
+}
+
+function initLabPageUI() {
+    $("#dynamicPart")
+        .append('<input id="eggId" type="text" placeholder="Image url of egg" autofocus>')
+        .append('<button type="button" id="btnSearchEgg" class="button button-red">Search egg!</button>')
+        ;
+    $("#btnSearchEgg").on("click", btnSearchEggClickHandler);
+}
+
+function initSafariPageUI() {
+    $("#dynamicPart")
+        .append('<input id="pokemonName" type="text" placeholder="Name of pokemon" autofocus>')
+        .append('<button type="button" id="btnSearchPokemon" class="button button-red">Search pokemon!</button>')
+        ;
+    $("#btnSearchPokemon").on("click", btnSearchPokemonClickHandler);
+}
+
+function initOtherPageUI() {
+    $("#dynamicPart")
+        .append('<button type="button" id="btnOpenPokechest" class="button button-black" autofocus>Open Pokéchests!</button>')
+        ;
+    $("#btnOpenPokechest").on("click", btnOpenPokechestClickHandler);
 }
 
 function btnAutoClickHandler(element) {
@@ -66,25 +90,60 @@ function btnOpenPokechestClickHandler(element) {
     });
 }
 
-function btnFindEggClickHandler(element) {
+function btnSearchEggClickHandler(element) {
+    let value = $("#eggId").val().trim();
+
+    if (value == "") {
+        return;
+    }
+
     if (auto) {
-        $("#btnFindEgg").html("Find egg!");
+        $("#btnSearchEgg").html("Search egg!");
         clearInterval(interval);
     }
     else {
-        $("#btnFindEgg").html("Stop finding!");
+        $("#btnSearchEgg").html("Stop searching!");
         interval = setInterval(function () {
-            findEgg($("#eggId").val());
+            searchEgg(value);
         }, 2000);
     }
 
     auto = !auto;
 }
 
-function findEgg(eggId) {
+function searchEgg(eggId) {
     chrome.tabs.executeScript(null, { file: "./assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
         chrome.tabs.executeScript(null, { code: `eggId = "${eggId}"` }, function () {
-            chrome.tabs.executeScript(null, { file: "./assets/js/findEgg.js" });
+            chrome.tabs.executeScript(null, { file: "./assets/js/searchEgg.js" });
+        });
+    });
+}
+
+function btnSearchPokemonClickHandler(element) {
+    let value = $("#pokemonName").val().trim();
+
+    if (value == "") {
+        return;
+    }
+
+    if (auto) {
+        $("#btnSearchPokemon").html("Search pokemon!");
+        clearInterval(interval);
+    }
+    else {
+        $("#btnSearchPokemon").html("Stop searching!");
+        interval = setInterval(function () {
+            searchPokemon(value);
+        }, 2000);
+    }
+
+    auto = !auto;
+}
+
+function searchPokemon(pokemonName) {
+    chrome.tabs.executeScript(null, { file: "./assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
+        chrome.tabs.executeScript(null, { code: `pokemonName = "${pokemonName}"` }, function () {
+            chrome.tabs.executeScript(null, { file: "./assets/js/searchPokemon.js" });
         });
     });
 }

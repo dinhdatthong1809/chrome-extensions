@@ -34,6 +34,10 @@ async function downloadAllQuizes() {
                 let question = getQuestion(response);
                 let answer = getAnswer(response);
 
+                if (answer == "special") {
+                    console.log(`special error: ${i}`);
+                }
+
                 quizes[i] = {
                     question: question,
                     answer: answer
@@ -98,7 +102,12 @@ function getAnswer(html) {
     let answer;
 
     if (keyElementA.html() == undefined) {
-        keyElementA = $(html).find(".ilc_question_Standard")[1].getElementsByTagName("option");
+        try {
+            keyElementA = $(html).find(".ilc_question_Standard")[1].getElementsByTagName("option");
+        }
+        catch (err) {
+            return "special";
+        }
         answer = [];
         for (item of keyElementA) {
             answer.push(item.text);
