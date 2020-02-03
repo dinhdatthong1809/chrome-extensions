@@ -75,7 +75,7 @@ function getQuestion(html) {
     if (conversationQuestion.length >= 2) {
         let question = "";
         for (item of conversationQuestion) {
-            question += ($(item).text() + "\n");
+            question += ($(item).html().replace(/<br>/g, "\n").replace(/\s\n/g, "\n").trim() + "\n");
         }
 
         return question;
