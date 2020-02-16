@@ -19,10 +19,10 @@
         "default_popup": "index.html"
     },
     "icons": {
-        "16": "assets/img/icon16.png",
-        "32": "assets/img/icon32.png",
-        "48": "assets/img/icon48.png",
-        "128": "assets/img/icon128.png"
+        "16": "assets/img/app-icon/icon16.png",
+        "32": "assets/img/app-icon/icon32.png",
+        "48": "assets/img/app-icon/icon48.png",
+        "128": "assets/img/app-icon/icon128.png"
     },
     "commands": {
         "_execute_page_action": {

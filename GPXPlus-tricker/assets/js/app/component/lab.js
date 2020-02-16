@@ -9,8 +9,9 @@ export default class Lab {
 
     initUI = () => {
         $("#dynamicPart").append(`
-            <input id="eggId" type="text" placeholder="Image url of egg" autocomplete="off" autofocus>
-            <button type="button" id="btnSearchEgg" class="button button-red">Search egg!</button>
+            <h2><img src="assets/img/egg.png"> Lab<h2>
+            <input id="eggId" type="text" class="text-box-yellow" placeholder="Image url of egg" autocomplete="off" autofocus>
+            <button type="button" id="btnSearchEgg" class="button button-yellow">Search egg!</button>
         `);
     }
 

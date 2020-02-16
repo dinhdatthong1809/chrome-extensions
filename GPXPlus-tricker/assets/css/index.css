@@ -21,12 +21,34 @@ body {
   border-right: 0px;
 }
 
+footer {
+  margin: auto;
+  width: 90%;
+  text-align: right;
+}
+
 .button-red {
   background-color: #bf2004;
 }
 
 .button-red:hover {
   background-color: #6b190a;
+}
+
+.button-green {
+  background-color: #1aaa07;
+}
+
+.button-green:hover {
+  background-color: #137706;
+}
+
+.button-yellow {
+  background-color: #f8d050;
+}
+
+.button-yellow:hover {
+  background-color: #c8a040;
 }
 
 .button-black {
@@ -38,7 +60,7 @@ body {
 }
 
 .button {
-  border: 1px solid black;
+  border: 1px solid #616161;
   font-weight: bold;
   color: white;
   padding: 5px 10px;
@@ -49,17 +71,24 @@ body {
   font-size: 16px;
   margin: 4px 0px;
   cursor: pointer;
-  transition: 0.4s;
+  transition: 0.3s;
   border-radius: 7px;
 }
 
+.container {
+  margin: auto;
+  width: 90%;
+}
+
 #title {
-  text-align: center;
+  text-align: left;
+  color: #bf2004;
 }
 
 #dynamicPart {
-  margin: auto;
-  width: 90%;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 input[type="text"] {
@@ -67,12 +96,23 @@ input[type="text"] {
   padding: 8px 12px;
   margin: 5px 0;
   display: inline-block;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid #000000;
   border-radius: 7px;
   box-sizing: border-box;
+  transition: 0.3s;
 }
 
-input[type="text"]:focus {
+.text-box-red:focus {
   outline: none !important;
   border: 1px solid #bf2004;
+}
+
+.text-box-green:focus {
+  outline: none !important;
+  border: 1px solid #1aaa07;
+}
+
+.text-box-yellow:focus {
+  outline: none !important;
+  border: 1px solid #f8d050;
 }

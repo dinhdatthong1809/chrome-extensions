@@ -9,6 +9,7 @@ export default class Info {
 
     initUI = () => {
         $("#dynamicPart").append(`
+            <h2><img src="assets/img/trainer-gold.png"> Feeder<h2>
             <button type="button" id="btnAuto" class="button button-red" autofocus>Start automizing!</button>
         `);
     }

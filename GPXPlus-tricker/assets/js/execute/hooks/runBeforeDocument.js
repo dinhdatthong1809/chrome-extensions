@@ -24,7 +24,7 @@ function editDataInLocalStorage() {
     // usersOpen
     localStorage["usersOpen"] = JSON.stringify(
         {
-            number: "3000",
+            number: "4000",
             type: "0",
             area: "2"
         }

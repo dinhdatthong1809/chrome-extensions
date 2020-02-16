@@ -9,8 +9,9 @@ export default class Safari {
 
     initUI = () => {
         $("#dynamicPart").append(`
-            <input id="pokemonName" type="text" placeholder="Name of pokemon" autofocus>
-            <button type="button" id="btnSearchPokemon" class="button button-red">Search pokemon!</button>
+            <h2><img src="assets/img/bulbasaur.png"> Safari Zone<h2>
+            <input id="pokemonName" type="text" class="text-box-green" placeholder="Name of pokemon" autofocus>
+            <button type="button" id="btnSearchPokemon" class="button button-green">Search pokemon!</button>
         `);
     }
 
