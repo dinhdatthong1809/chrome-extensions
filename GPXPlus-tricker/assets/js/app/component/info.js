@@ -8,9 +8,9 @@ export default class Info {
     }
 
     initUI = () => {
-        $("#dynamicPart")
-            .append('<button type="button" id="btnAuto" class="button button-red" autofocus>Start automizing!</button>')
-            ;
+        $("#dynamicPart").append(`
+            <button type="button" id="btnAuto" class="button button-red" autofocus>Start automizing!</button>
+        `);
     }
 
     initFunctions = () => {

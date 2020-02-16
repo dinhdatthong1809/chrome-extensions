@@ -3,11 +3,11 @@ export default class Other {
         this.initUI();
         this.initFunctions();
     }
-    
+
     initUI = () => {
-        $("#dynamicPart")
-            .append('<button type="button" id="btnOpenPokechest" class="button button-black" autofocus>Open Pokéchests!</button>')
-            ;
+        $("#dynamicPart").append(`
+            <button type="button" id="btnOpenPokechest" class="button button-black" autofocus>Open Pokéchests!</button>
+        `);
     }
 
     initFunctions = () => {

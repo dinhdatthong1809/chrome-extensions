@@ -8,10 +8,10 @@ export default class Lab {
     }
 
     initUI = () => {
-        $("#dynamicPart")
-            .append('<input id="eggId" type="text" placeholder="Image url of egg" autofocus>')
-            .append('<button type="button" id="btnSearchEgg" class="button button-red">Search egg!</button>')
-            ;
+        $("#dynamicPart").append(`
+            <input id="eggId" type="text" placeholder="Image url of egg" autocomplete="off" autofocus>
+            <button type="button" id="btnSearchEgg" class="button button-red">Search egg!</button>
+        `);
     }
 
     initFunctions = () => {

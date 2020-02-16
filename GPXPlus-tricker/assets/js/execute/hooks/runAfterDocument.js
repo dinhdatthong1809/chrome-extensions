@@ -1,5 +1,5 @@
 let hasLocalStorage = true;
-let max = 3000;
+let max = 4000;
 
 runAfterDocument();
 
@@ -60,7 +60,7 @@ function modifyUsersScript() {
 
         var options = $(this).serializeJSON();
         if (options.number > max) {
-            alert("Please enter a number 3000 or below!");
+            alert(`Please enter a number ${max} or below!`);
             return false;
         }
         var links = function () {

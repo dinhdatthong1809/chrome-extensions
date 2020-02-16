@@ -8,10 +8,10 @@ export default class Safari {
     }
 
     initUI = () => {
-        $("#dynamicPart")
-            .append('<input id="pokemonName" type="text" placeholder="Name of pokemon" autofocus>')
-            .append('<button type="button" id="btnSearchPokemon" class="button button-red">Search pokemon!</button>')
-            ;
+        $("#dynamicPart").append(`
+            <input id="pokemonName" type="text" placeholder="Name of pokemon" autofocus>
+            <button type="button" id="btnSearchPokemon" class="button button-red">Search pokemon!</button>
+        `);
     }
 
     initFunctions = () => {
