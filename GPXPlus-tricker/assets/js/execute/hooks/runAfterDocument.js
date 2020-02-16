@@ -1,6 +1,5 @@
 let hasLocalStorage = true;
 let max = 3000;
-$("#usersOpen").off("submit");
 
 runAfterDocument();
 
@@ -52,6 +51,8 @@ function berryFeeder(fnames, src, srcName, newWindow) {
 
 function modifyUsersScript() {
     // modify a part of users.js script
+    $("#usersOpen").off("submit");
+
     $("#usersOpen").submit(function (e) {
         e.preventDefault();
         if ($("#usersTable").is(":empty"))

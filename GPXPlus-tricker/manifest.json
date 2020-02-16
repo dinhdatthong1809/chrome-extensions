@@ -2,35 +2,27 @@
     "name": "GPXPlus tricker",
     "version": "1.0",
     "description": "Tricker for GPXPlus game",
-    "author": "BlueShootingStar1809",
+    "author": "DinhDatThong1809",
     "permissions": [
         "tabs",
         "activeTab",
-        "declarativeContent",
-        "storage"
+        "declarativeContent"
     ],
     "background": {
         "scripts": [
-            "assets/plugins/jquery/jquery-3.4.1.min.js",
-            "assets/js/background.js"
+            "assets/js/app/background.js"
         ],
         "persistent": false
     },
     "page_action": {
         "default_title": "Press Ctrl(Win)/Command(Mac)+Space then Enter to automize",
-        "default_popup": "popup.html",
-        "default_icon": {
-            "16": "assets/images/icon16.png",
-            "32": "assets/images/icon32.png",
-            "48": "assets/images/icon48.png",
-            "128": "assets/images/icon128.png"
-        }
+        "default_popup": "index.html"
     },
     "icons": {
-        "16": "assets/images/icon16.png",
-        "32": "assets/images/icon32.png",
-        "48": "assets/images/icon48.png",
-        "128": "assets/images/icon128.png"
+        "16": "assets/img/icon16.png",
+        "32": "assets/img/icon32.png",
+        "48": "assets/img/icon48.png",
+        "128": "assets/img/icon128.png"
     },
     "commands": {
         "_execute_page_action": {
@@ -44,24 +36,24 @@
     "manifest_version": 2,
     "content_scripts": [
         {
-            "js": [
-                "assets/plugins/jquery/jquery-3.4.1.min.js",
-                "assets/js/runBeforeDocument.js"
-            ],
+            "run_at": "document_start",
             "matches": [
                 "https://gpx.plus/users/*"
             ],
-            "run_at": "document_start"
+            "js": [
+                "assets/plugins/jquery/jquery-3.4.1.min.js",
+                "assets/js/execute/hooks/runBeforeDocument.js"
+            ]
         },
         {
-            "js": [
-                "assets/plugins/jquery/jquery-3.4.1.min.js",
-                "assets/js/runAfterDocument.js"
-            ],
+            "run_at": "document_end",
             "matches": [
                 "https://gpx.plus/users/*"
             ],
-            "run_at": "document_end"
+            "js": [
+                "assets/plugins/jquery/jquery-3.4.1.min.js",
+                "assets/js/execute/hooks/runAfterDocument.js"
+            ]
         }
     ]
 }
