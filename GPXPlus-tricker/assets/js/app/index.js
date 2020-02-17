@@ -2,6 +2,7 @@ import Info from './component/info.js'
 import Lab from './component/lab.js'
 import Safari from './component/safari.js';
 import Other from './component/other.js';
+import Shelter from './component/shelter.js';
 
 main();
 
@@ -19,15 +20,15 @@ function initUI() {
         if (url.match(/https:\/\/gpx\.plus\/info\/.*/g)) {
             content = new Info();
         }
-
         else if (url.match(/https:\/\/gpx\.plus\/lab.*/g)) {
             content = new Lab();
         }
-
+        else if (url.match(/https:\/\/gpx\.plus\/shelter\/eggs.*/g)) {
+            content = new Shelter();
+        }
         else if (url.match(/https:\/\/gpx\.plus\/shelter\/safari.*/g)) {
             content = new Safari();
         }
-
         else {
             content = new Other();
         }

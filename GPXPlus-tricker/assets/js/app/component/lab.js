@@ -32,16 +32,16 @@ export default class Lab {
         }
         else {
             $("#btnSearchEgg").html("Stop searching!");
-            this.interval = setInterval(this.searchEgg, 2000, eggId);
+            this.interval = setInterval(this.huntLabEgg, 2000, eggId);
         }
 
         this.auto = !this.auto;
     }
 
-    searchEgg = (eggId) => {
+    huntLabEgg = (eggId) => {
         chrome.tabs.executeScript(null, { file: "assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
             chrome.tabs.executeScript(null, { code: `eggId = "${eggId}"` }, function () {
-                chrome.tabs.executeScript(null, { file: "assets/js/execute/searchEgg.js" });
+                chrome.tabs.executeScript(null, { file: "assets/js/execute/huntLabEgg.js" });
             });
         });
     }
