@@ -20,12 +20,10 @@ export default class Info {
 
     btnAutoClickHandler = () => {
         if (this.isRunning) {
-            this.setStateInput(true);
             clearInterval(this.interval);
             $("#btnAuto").html("Start feeding!");
         }
         else {
-            this.setStateInput(false);
             this.interval = setInterval(this.interactAutomatically, 500);
             $("#btnAuto").html("Stop feeding!");
         }
