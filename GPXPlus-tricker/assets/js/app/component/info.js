@@ -10,7 +10,7 @@ export default class Info {
     initUI = () => {
         $("#dynamicPart").append(`
             <h2><img src="assets/img/trainer-gold.png"> Feeder<h2>
-            <button type="button" id="btnAuto" class="button button-red" autofocus>Start automizing!</button>
+            <button type="button" id="btnAuto" class="button button-red" autofocus>Start feeding!</button>
         `);
     }
 
@@ -20,11 +20,11 @@ export default class Info {
 
     btnAutoClickHandler = () => {
         if (this.auto) {
-            $("#btnAuto").html("Start automizing!");
+            $("#btnAuto").html("Start feeding!");
             clearInterval(this.interval);
         }
         else {
-            $("#btnAuto").html("Stop automizing!");
+            $("#btnAuto").html("Stop feeding!");
             this.interval = setInterval(this.interactAutomatically, 500);
         }
 
