@@ -1,6 +1,6 @@
 export default class Safari {
     interval = null;
-    auto = false;
+    isRunning = false;
 
     init = () => {
         this.initUI();
@@ -26,16 +26,18 @@ export default class Safari {
             return;
         }
 
-        if (this.auto) {
-            $("#btnSearchPokemon").html("Search pokemon!");
+        if (this.isRunning) {
+            setStateInput(true);
             clearInterval(this.interval);
+            $("#btnSearchPokemon").html("Search pokemon!");
         }
         else {
-            $("#btnSearchPokemon").html("Stop searching!");
+            setStateInput(false);
             this.interval = setInterval(this.searchPokemon, 2000, pokemonName);
+            $("#btnSearchPokemon").html("Stop searching!");
         }
 
-        this.auto = !this.auto;
+        this.isRunning = !this.isRunning;
     }
 
     searchPokemon = (pokemonName) => {
@@ -44,5 +46,9 @@ export default class Safari {
                 chrome.tabs.executeScript(null, { file: "assets/js/execute/searchPokemon.js" });
             });
         });
+    }
+
+    setStateInput = (enable) => {
+        $("#pokemonName").prop('disabled', !enable);
     }
 }

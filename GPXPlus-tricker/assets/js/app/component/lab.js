@@ -1,6 +1,6 @@
 export default class Lab {
     interval = null;
-    auto = false;
+    isRunning = false;
 
     init = () => {
         this.initUI();
@@ -11,7 +11,7 @@ export default class Lab {
         $("#dynamicPart").append(`
             <h2><img src="assets/img/egg.png"> Lab<h2>
             <input id="eggId" type="text" class="text-box-yellow" placeholder="Image url of egg" autocomplete="off" autofocus>
-            <button type="button" id="btnSearchEgg" class="button button-yellow">Search egg!</button>
+            <button type="button" id="btnSearchEgg" class="button button-yellow">Start searching!</button>
         `);
     }
 
@@ -26,16 +26,18 @@ export default class Lab {
             return;
         }
 
-        if (this.auto) {
-            $("#btnSearchEgg").html("Search egg!");
+        if (this.isRunning) {
+            this.setStateInput(true);
             clearInterval(this.interval);
+            $("#btnSearchEgg").html("Start searching!");
         }
         else {
-            $("#btnSearchEgg").html("Stop searching!");
+            this.setStateInput(false);
             this.interval = setInterval(this.huntLabEgg, 2000, eggId);
+            $("#btnSearchEgg").html("Stop searching!");
         }
 
-        this.auto = !this.auto;
+        this.isRunning = !this.isRunning;
     }
 
     huntLabEgg = (eggId) => {
@@ -44,6 +46,10 @@ export default class Lab {
                 chrome.tabs.executeScript(null, { file: "assets/js/execute/huntLabEgg.js" });
             });
         });
+    }
+
+    setStateInput = (enable) => {
+        $("#eggId").prop('disabled', !enable);
     }
 
 }

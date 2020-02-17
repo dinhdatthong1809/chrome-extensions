@@ -1,6 +1,6 @@
 export default class Shelter {
     interval = null;
-    auto = false;
+    isRunning = false;
 
     init = () => {
         this.initUI();
@@ -39,23 +39,33 @@ export default class Shelter {
             return;
         }
 
-        if (this.auto) {
-            $("#btnSearchEgg").html("Start searching!");
+        if (this.isRunning) {
+            this.setStateInput(true);
             clearInterval(this.interval);
+            $("#btnSearchEgg").html("Start searching!");
         }
         else {
-            $("#btnSearchEgg").html("Stop searching!");
+            this.setStateInput(false);
             this.interval = setInterval(this.searchEgg, 2000, eggNames);
+            $("#btnSearchEgg").html("Stop searching!");
         }
 
-        this.auto = !this.auto;
+        this.isRunning = !this.isRunning;
     }
 
     searchEgg = (eggNames) => {
+        eggNames = JSON.stringify(eggNames);
+
         chrome.tabs.executeScript(null, { file: "assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
-            chrome.tabs.executeScript(null, { code: `eggNames = "${eggNames}"` }, function () {
+            chrome.tabs.executeScript(null, { code: `eggNames = ${eggNames}` }, function () {
                 chrome.tabs.executeScript(null, { file: "assets/js/execute/searchEgg.js" });
             });
         });
+    }
+
+    setStateInput = (enable) => {
+        for (let i = 1; i <= 6; i++) {
+            $(`#eggName${i}`).prop('disabled', !enable);
+        }
     }
 }

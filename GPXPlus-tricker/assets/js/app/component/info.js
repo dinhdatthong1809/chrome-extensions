@@ -1,6 +1,6 @@
 export default class Info {
     interval = null;
-    auto = false;
+    isRunning = false;
 
     init = () => {
         this.initUI();
@@ -19,16 +19,18 @@ export default class Info {
     }
 
     btnAutoClickHandler = () => {
-        if (this.auto) {
-            $("#btnAuto").html("Start feeding!");
+        if (this.isRunning) {
+            this.setStateInput(true);
             clearInterval(this.interval);
+            $("#btnAuto").html("Start feeding!");
         }
         else {
-            $("#btnAuto").html("Stop feeding!");
+            this.setStateInput(false);
             this.interval = setInterval(this.interactAutomatically, 500);
+            $("#btnAuto").html("Stop feeding!");
         }
 
-        this.auto = !this.auto;
+        this.isRunning = !this.isRunning;
     }
 
     interactAutomatically = () => {
