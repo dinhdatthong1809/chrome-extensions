@@ -8,11 +8,17 @@ export default class Safari {
     }
 
     initUI = () => {
-        $("#dynamicPart").append(`
-            <h2><img src="assets/img/bulbasaur.png"> Safari Zone<h2>
-            <input id="pokemonName" type="text" class="text-box-green" placeholder="Name of pokemon" autofocus>
-            <button type="button" id="btnSearchPokemon" class="button button-green">Search pokemon!</button>
-        `);
+        let template = "";
+        template += `<h2><img src="assets/img/bulbasaur.png"> Safari Zone<h2>`;
+        for (let i = 1; i <= 6; i++) {
+            template += (`
+                <input id="pokemonName${i}" type="text" class="text-box-green" placeholder="Name of pokemon" autofocus>
+                <input id="pokemonLevel${i}" type="number" class="text-box-green" placeholder="Level" min="1" max="100">
+            `);
+        }
+        template += `<button type="button" id="btnSearchPokemon" class="button button-green">Search pokemon!</button>`;
+
+        $("#dynamicPart").append(template);
     }
 
     initFunctions = () => {
@@ -20,35 +26,55 @@ export default class Safari {
     }
 
     btnSearchPokemonClickHandler = () => {
-        let pokemonName = $("#pokemonName").val().trim();
+        let pokemons = this.getPokemons();
 
-        if (pokemonName == "") {
+        if (pokemons.length == 0) {
             return;
         }
 
         if (this.isRunning) {
-            setStateInput(true);
+            this.setStateInput(true);
             clearInterval(this.interval);
             $("#btnSearchPokemon").html("Search pokemon!");
         }
         else {
-            setStateInput(false);
-            this.interval = setInterval(this.searchPokemon, 2000, pokemonName);
+            this.setStateInput(false);
+            this.interval = setInterval(this.searchPokemon, 2000, pokemons);
             $("#btnSearchPokemon").html("Stop searching!");
         }
 
         this.isRunning = !this.isRunning;
     }
 
-    searchPokemon = (pokemonName) => {
+    getPokemons = () => {
+        let pokemons = [];
+
+        for (let i = 1; i <= 6; i++) {
+            let pokemon = {
+                name: $(`#pokemonName${i}`).val().trim().toLowerCase()[0].toUpperCase(),
+                level: $(`#pokemonLevel${i}`).val().trim()
+            };
+
+            if (pokemon.name == "") continue;
+
+            pokemons.push(pokemon);
+        }
+
+        return pokemons;
+    }
+
+    searchPokemon = (pokemons) => {
         chrome.tabs.executeScript(null, { file: "assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
-            chrome.tabs.executeScript(null, { code: `pokemonName = "${pokemonName}"` }, function () {
+            chrome.tabs.executeScript(null, { code: `pokemons = "${pokemons}"` }, function () {
                 chrome.tabs.executeScript(null, { file: "assets/js/execute/searchPokemon.js" });
             });
         });
     }
 
     setStateInput = (enable) => {
-        $("#pokemonName").prop('disabled', !enable);
+        for (let i = 1; i <= 6; i++) {
+            $(`#pokemonName${i}`).prop('disabled', !enable);
+            $(`#pokemonLevel${i}`).prop('disabled', !enable);
+        }
     }
 }

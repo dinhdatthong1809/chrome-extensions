@@ -8,16 +8,16 @@ export default class Shelter {
     }
 
     initUI = () => {
-        $("#dynamicPart").append(`
-            <h2><img src="assets/img/egg.png"> Egg Shelter<h2>
-            <input id="eggName1" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <input id="eggName2" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <input id="eggName3" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <input id="eggName4" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <input id="eggName5" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <input id="eggName6" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
-            <button type="button" id="btnSearchEgg" class="button button-yellow">Start searching!</button>
-        `);
+        let template = "";
+        template += `<h2><img src="assets/img/egg.png"> Egg Shelter<h2>`;
+        for (let i = 1; i <= 6; i++) {
+            template += (`
+                <input id="eggName${i}" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
+            `);
+        }
+        template += `<button type="button" id="btnSearchEgg" class="button button-yellow">Start searching!</button>`;
+
+        $("#dynamicPart").append(template);
     }
 
     initFunctions = () => {
@@ -25,17 +25,9 @@ export default class Shelter {
     }
 
     btnSearchEggClickHandler = () => {
-        let eggNames = [];
+        let eggs = this.getEggs();
 
-        for (let i = 1; i <= 6; i++) {
-            let eggName = $(`#eggName${i}`).val().trim();
-
-            if (eggName == "") continue;
-
-            eggNames.push(eggName);
-        }
-
-        if (eggNames.length == 0) {
+        if (eggs.length == 0) {
             return;
         }
 
@@ -46,18 +38,33 @@ export default class Shelter {
         }
         else {
             this.setStateInput(false);
-            this.interval = setInterval(this.searchEgg, 2000, eggNames);
+            this.interval = setInterval(this.searchEgg, 2000, eggs);
             $("#btnSearchEgg").html("Stop searching!");
         }
 
         this.isRunning = !this.isRunning;
     }
 
-    searchEgg = (eggNames) => {
-        eggNames = JSON.stringify(eggNames);
+    getEggs = () => {
+        let eggs = [];
+
+        for (let i = 1; i <= 6; i++) {
+            let egg = {
+                name: $(`#eggName${i}`).val().trim().toLowerCase()[0].toUpperCase()
+            };
+            if (egg.name == "") continue;
+
+            eggs.push(egg);
+        }
+
+        return eggs;
+    }
+
+    searchEgg = (eggs) => {
+        eggs = JSON.stringify(eggs);
 
         chrome.tabs.executeScript(null, { file: "assets/plugins/jquery/jquery-3.4.1.min.js" }, function () {
-            chrome.tabs.executeScript(null, { code: `eggNames = ${eggNames}` }, function () {
+            chrome.tabs.executeScript(null, { code: `eggs = ${eggs}` }, function () {
                 chrome.tabs.executeScript(null, { file: "assets/js/execute/searchEgg.js" });
             });
         });

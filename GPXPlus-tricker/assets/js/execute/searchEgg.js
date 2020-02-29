@@ -1,15 +1,20 @@
 searchEgg();
 
 function searchEgg() {
-    $(`img[data-tooltip='Mystery Egg']`).click();
-    $("button[data-value='1']").click();
+    grabEgg({ name: "Mystery" });
 
-    for (let i = 0; i < eggNames.length; i++) {
-        let eggName = eggNames[i] + " Egg";
-
-        $(`img[data-tooltip='${eggName}']`).click();
-        $("button[data-value='1']").click();
-
-        $(".shelterLoad").click();
+    for (let i = 0; i < eggs.length; i++) {
+        grabEgg(eggs[i]);
     }
+
+    $(".shelterLoad").click();
+}
+
+function grabEgg(egg) {
+    $(`img[data-tooltip='${egg.name} Egg']`).click();
+    chooseYes();
+}
+
+function chooseYes() {
+    $("button[data-value='1']").click();
 }
