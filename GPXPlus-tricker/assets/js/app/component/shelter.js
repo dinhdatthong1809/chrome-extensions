@@ -12,7 +12,7 @@ export default class Shelter {
         template += `<h2><img src="assets/img/egg.png"> Egg Shelter<h2>`;
         for (let i = 1; i <= 6; i++) {
             template += (`
-                <input id="eggName${i}" type="text" class="text-box-yellow" placeholder="Name of egg" autofocus>
+                <input id="eggName${i}" type="text" class="text-box-yellow" placeholder="Name" autofocus>
             `);
         }
         template += `<button type="button" id="btnSearchEgg" class="button button-yellow">Start searching!</button>`;
@@ -50,7 +50,7 @@ export default class Shelter {
 
         for (let i = 1; i <= 6; i++) {
             let egg = {
-                name: $(`#eggName${i}`).val().trim().toLowerCase()[0].toUpperCase()
+                name: $(`#eggName${i}`).val().trim()
             };
             if (egg.name == "") continue;
 

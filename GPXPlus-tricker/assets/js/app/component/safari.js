@@ -12,8 +12,8 @@ export default class Safari {
         template += `<h2><img src="assets/img/bulbasaur.png"> Safari Zone<h2>`;
         for (let i = 1; i <= 6; i++) {
             template += (`
-                <input id="pokemonName${i}" type="text" class="text-box-green" placeholder="Name of pokemon" autofocus>
-                <input id="pokemonLevel${i}" type="number" class="text-box-green" placeholder="Level" min="1" max="100">
+                <input id="pokemonName${i}" type="text" class="text-box-green pokemonName" placeholder="Name" autofocus>
+                <input id="pokemonLevel${i}" type="number" class="text-box-green pokemonLevel" placeholder="Level" min="1" max="100">
             `);
         }
         template += `<button type="button" id="btnSearchPokemon" class="button button-green">Search pokemon!</button>`;
@@ -51,7 +51,7 @@ export default class Safari {
 
         for (let i = 1; i <= 6; i++) {
             let pokemon = {
-                name: $(`#pokemonName${i}`).val().trim().toLowerCase()[0].toUpperCase(),
+                name: $(`#pokemonName${i}`).val().trim(),
                 level: $(`#pokemonLevel${i}`).val().trim()
             };
 
