@@ -1,0 +1,1178 @@
+{
+    "20154": {
+        "question": "A:What’s your typical week like?\nB: ________",
+        "answer": "I work every weekday."
+    },
+    "20156": {
+        "question": "A: Let’s go dancing.\nB: ________",
+        "answer": "I’m really sorry. I’m too busy."
+    },
+    "20158": {
+        "question": "Jan’s hair isn’t dark. It’s ________.",
+        "answer": "light"
+    },
+    "20160": {
+        "question": "When my brother is late for school, he ________.",
+        "answer": "doesn’t shave"
+    },
+    "20162": {
+        "question": "A: Excuse me. I’m looking for the Golden Theater.\nB: ________",
+        "answer": "Oh. That’s down the street, on the right."
+    },
+    "20164": {
+        "question": "A: Tell me something about your children.\nB: Sure. ________",
+        "answer": "What do you want to know?"
+    },
+    "20166": {
+        "question": "________ eggs in the fridge.",
+        "answer": "There are"
+    },
+    "20168": {
+        "question": "Mona wants to see a movie, but she doesn’t feel well today. She ________ go tonight.",
+        "answer": "can’t"
+    },
+    "20170": {
+        "question": "Bob has ________ seen that play.",
+        "answer": "already"
+    },
+    "20172": {
+        "question": "________ them later?",
+        "answer": "Will you call"
+    },
+    "20174": {
+        "question": "That hotel doesn’t have Internet service.\nYou ________ stay someplace else.",
+        "answer": "had better"
+    },
+    "20176": {
+        "question": "Our old printer wasn’t ________ fast as the new one. The new one is much faster.",
+        "answer": "nearly as"
+    },
+    "20178": {
+        "question": "A: ________\nB: No. It’s my first time.",
+        "answer": "Have you ever been here before?"
+    },
+    "20180": {
+        "question": "A: Be sure not to miss the Metropolitan Museum while you’re in New York.\nB: ________",
+        "answer": "Really? Why’s that?"
+    },
+    "20182": {
+        "question": "I heard he had a toothache, so he ________ be at the dentist.",
+        "answer": "must"
+    },
+    "20184": {
+        "question": "She got her father ________ the car.",
+        "answer": "to pick up"
+    },
+    "20186": {
+        "question": "Harry ________ be a musician, but he changed his mind.",
+        "answer": "was going to"
+    },
+    "20188": {
+        "question": "Amy ________ married Clark. They would have been happy.",
+        "answer": "should have"
+    },
+    "20190": {
+        "question": "Could you tell me ________?",
+        "answer": "what this means"
+    },
+    "20192": {
+        "question": "They ________ lost if they had brought a map.",
+        "answer": "wouldn’t have gotten"
+    },
+    "20194": {
+        "question": "It’s too late ________ for a walk in that neighborhood.",
+        "answer": "to go"
+    },
+    "20196": {
+        "question": "A: Sorry I’m late. I got stuck in traffic.\nB: ________",
+        "answer": "That’s OK. It can happen to anyone."
+    },
+    "20198": {
+        "question": "A: ________\nB: No, I’m just browsing.",
+        "answer": "Looking for anything special?"
+    },
+    "20200": {
+        "question": "I asked her ________ she had bought tickets yet.",
+        "answer": "whether"
+    },
+    "20202": {
+        "question": "By the time he graduates, Sam ________ over one hundred books.",
+        "answer": "will have read"
+    },
+    "20204": {
+        "question": "________, George would have helped her.",
+        "answer": "Had she asked"
+    },
+    "20206": {
+        "question": "Not only ________ here, but they didn’t call either.",
+        "answer": "are they not"
+    },
+    "20208": {
+        "question": "Animals should ________ humanely.",
+        "answer": "be treated"
+    },
+    "20210": {
+        "question": "She doesn’t appreciate ________ made to apologize for nothing.",
+        "answer": "being"
+    },
+    "20212": {
+        "question": "A: ________\nB: No. But I wish I did. Why do you ask?",
+        "answer": "I was wondering . . . Do you play chess? "
+    },
+    "20214": {
+        "question": "A: ________\nB: What’s the matter with it?",
+        "answer": "Can you believe that hairdo?"
+    },
+    "20216": {
+        "question": "Peter didn’t see Kate this morning. When he woke up, she ________.",
+        "answer": "had already left"
+    },
+    "20218": {
+        "question": "If you had called earlier, you ________ good tickets.",
+        "answer": "would have gotten"
+    },
+    "20220": {
+        "question": "I’ll call you at 10:00 A.M. ________ I’m really busy.",
+        "answer": "unless"
+    },
+    "20222": {
+        "question": "The food was excellent. ________, they told all of their friends about the restaurant.",
+        "answer": "Consequently"
+    },
+    "20224": {
+        "question": "If the wheel hadn’t been invented, other inventions ________.",
+        "answer": "might not been developed"
+    },
+    "23383": {
+        "question": "Hãy chỉ ra đáp án đúng về Unity3D?",
+        "answer": "Unity3D là phần mềm làm games trực tiếp theo thời gian thực, mà không cần render"
+    },
+    "23384": {
+        "question": "Trong các định dạng sau, định dạng nào tối ưu nhất?",
+        "answer": "FBX"
+    },
+    "23385": {
+        "question": "Khi sử dụng các file ngoài, bạn cần thực hiện thao tác nào?",
+        "answer": "Import"
+    },
+    "23396": {
+        "question": "Unity có bao nhiêu phiên bản?",
+        "answer": "2"
+    },
+    "23397": {
+        "question": "Hãy chỉ ra đáp án đúng về cách khởi động Unity trong Window 7?",
+        "answer": "Start -&gt; Program -&gt; Unity"
+    },
+    "23398": {
+        "question": "Hãy chỉ ra đáp án đúng về cách khởi động Unity trong MacOS?",
+        "answer": "Application -&gt; Unity"
+    },
+    "23399": {
+        "question": "Mỗi Project của Unity chứa bao nhiêu thư mục Assets?",
+        "answer": "1"
+    },
+    "23410": {
+        "question": "Nội dung của thư mục Asset được hiển thị trong cửa sổ nào?",
+        "answer": "Project View"
+    },
+    "23411": {
+        "question": "Nơi nào cho phép tạo Scenes, Script, 3D models, Textures, Audio, Prefabs?",
+        "answer": "Asset"
+    },
+    "23412": {
+        "question": "Cửa sổ Hierachy chứa thành phần nào?",
+        "answer": "GameObject hiện thời"
+    },
+    "23423": {
+        "question": "Hãy chỉ ra đáp án đúng về Parenting?",
+        "answer": "bất kỳ một game object nào muốn là đối tượng con(child) thì ta chỉ việc kéo thả đối tượng đó vào trong đối tượng dự tính làm Parenting trong Hierarchy"
+    },
+    "23424": {
+        "question": "Hãy chỉ ra đáp án đúng về Game View?",
+        "answer": "Game View được rendered từ những Camera trong Game"
+    },
+    "23435": {
+        "question": "Hãy chỉ ra đáp án đúng về chế độ \"Play Mode\"?",
+        "answer": "Trong chế độ Play, mọi giá trị thay đổi sẽ được lưu tạm, và bị xóa khi thoát khỏi chế độplay"
+    },
+    "23436": {
+        "question": "Inspector sẽ hiển thị mọi thông tin về đối tượng đang làm việc một cách chi tiết, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "23437": {
+        "question": "Hãy chỉ ra đáp án đúng về Inspector?",
+        "answer": "\"Tại Inspector bạn có thể điều chỉnh, thiết lập mọi thông số chức năng của những mối liên kết GameObject-Component \""
+    },
+    "23448": {
+        "question": "Hãy chỉ ra đáp án đúng?",
+        "answer": "Mọi thuộc tính thể hiện trong Inspector đều không thể được tùy biến một cách trực tiếp"
+    },
+    "23449": {
+        "question": "Có thể thể drag-drop một GameObject hay một Prefab vào trong Inspector không",
+        "answer": "Có"
+    },
+    "23450": {
+        "question": "Hãy chỉ ra đáp án đúng về Layout?",
+        "answer": "Bạn có thể lưu lại những thiết lập về cấu trúc của các Views, bằng cách click vào menu Dropdown Layout ở thanh Toolbar, chọn Save Layout"
+    },
+    "23451": {
+        "question": "Bạn có thể tùy ý thay đổi cấu trúc của các Views bằng cách click-dragging những tab tới những nơi bạn muốn không?",
+        "answer": "Có"
+    },
+    "23452": {
+        "question": "Views có thể được đặt bên cạnh bên, hay bên dưới bất kỳ cửa sổ nào, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "23456": {
+        "question": "GUI là viết tắt của cụm từ nào?",
+        "answer": "Graphical User Interface"
+    },
+    "23467": {
+        "question": "Để tạo một background box, ta dùng câu lệnh nào?",
+        "answer": "GUI.LoadBox (Rect (10,10,100,90), \"Loader Menu\")"
+    },
+    "23468": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của đoạn lệnh su: if (GUI.Button (Rect (20,40,80,20), \"Level 1\")) {Application.LoadLevel (1);}",
+        "answer": "Tạo button đầu tiên, khi người cùng click sẽ load nhiều đối tượng trong scene"
+    },
+    "23469": {
+        "question": "Position là đối số thứ mấy trong GUI?",
+        "answer": "4"
+    },
+    "23470": {
+        "question": "Hàm Rect() định nghĩa mấy thuộc tính?",
+        "answer": "4"
+    },
+    "23471": {
+        "question": "Các đối số sau thuộc hàm nào? left-most position, top-most position, total width, total height",
+        "answer": "Rect()"
+    },
+    "23482": {
+        "question": "GUI Control có đối số là Content không?",
+        "answer": "Có"
+    },
+    "23483": {
+        "question": "Đoạn lệnh sau thực hiện công việc gì? function OnGUI () {&nbsp;&nbsp; GUI.Label (Rect (0,0,100,50), ”Hello World\");}",
+        "answer": "Hiển thị hình ảnh"
+    },
+    "23557": {
+        "question": "Hãy chỉ ra đáp án đúng về GUIStyles?",
+        "answer": "GUIStyles được thiết kế bắt chước Cascading Style Sheets (CSS) cho trình duyệt"
+    },
+    "23558": {
+        "question": "Hãy chỉ ra đáp án đúng về GUISkins?",
+        "answer": "GUISkins là tập hợp của GUIStyles"
+    },
+    "23559": {
+        "question": "GUI Control có luôn luôn xuất hiện cùng các GUIStyles không?",
+        "answer": "Có"
+    },
+    "23560": {
+        "question": "Hãy chỉ ra cách khai báo biến đúng trong JavaScript?",
+        "answer": "\"var cannon GameObject; \""
+    },
+    "23561": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của dòng lệnh sau: cannon = GameObject.Find(\"Launcher\");",
+        "answer": "\"Gán đối tượng game với thành phần hình ảnh là ”Launcher” \""
+    },
+    "23562": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của dòng lệnh sau: cannon.GetComponent(launchMissile).fireMissile();",
+        "answer": "Lấy component (script) tên là launchMissile và gọi hàm chứa nó là fireMissile ()"
+    },
+    "23563": {
+        "question": "Hàm sau thực hiện tác vụ gì? Instantiate(aMissile, transform.position, transform.rotation);",
+        "answer": "\"Khởi tạo đối tượng aMissile \""
+    },
+    "23564": {
+        "question": "Toolbar chứa bao nhiêu loại loại điều khiển cơ bản?",
+        "answer": "5"
+    },
+    "23565": {
+        "question": "Đoạn code sau thực hiện tác vụ gì? GUI.TextField (Rect (400, 30, 50, 20), missileCount, 25);",
+        "answer": "\"Cập nhật trườngTextField trong GUIControl.js \""
+    },
+    "23566": {
+        "question": "Đoạn code sau thực hiện tác vụ gì? missileCount = numberOfMissiles.ToString();",
+        "answer": "convert biến numberOfMissiles sang kiểu String"
+    },
+    "23567": {
+        "question": "Hãy chỉ ra đáp án đúng về các thành phần của GUI?",
+        "answer": "\"Buttons, Check Boxes, Radio Buttons, Text Fields, Edit Fields, Scroll Bars\""
+    },
+    "23568": {
+        "question": "GUI có hỗ trợ xây dựng interface không?",
+        "answer": "Có"
+    },
+    "23579": {
+        "question": "Hãy chỉ ra đáp án đúng về Head-Up Display?",
+        "answer": "Thông báo cho người sử dụng về trạng thái của nhân vật"
+    },
+    "23580": {
+        "question": "Có thể Import HUD theo thao tác nào?",
+        "answer": "Asset- Import New Asset "
+    },
+    "23581": {
+        "question": "Hãy chỉ ra đáp án đúng về Audio Listener?",
+        "answer": "nhận đầu vào từ bất cứ một nguồn âm thanh nào trong Scenes và các âm thanh thông qua máy tính"
+    },
+    "23582": {
+        "question": "có thể nghe thấy âm thanh trên bất cứ địa điểm nào của Scene, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "23583": {
+        "question": "Có thể chỉnh sửa thuộc tính của âm thanh ở đâu?",
+        "answer": "Inspector View"
+    },
+    "23584": {
+        "question": "Thuộc tính Audio Clip có ý nghĩa gì?",
+        "answer": "Chọn file âm thanh cho Scene"
+    },
+    "23585": {
+        "question": "Thuộc tính Mute có ý nghĩa gì?",
+        "answer": "Tắt âm thanh cho Scene"
+    },
+    "23586": {
+        "question": "Hãy chỉ ra ý nghĩa của thuộc tính Bypass Effects?",
+        "answer": "Lọc nhanh đối tượng “by-pass” to audio source"
+    },
+    "23587": {
+        "question": "Hãy chỉ ra ý nghĩa của thuộc tính Play on Wake?",
+        "answer": "Nếu enable, âm thanh sẽ được chạy ngay khi ra mắt Scene"
+    },
+    "23588": {
+        "question": "Hãy chỉ ra ý nghĩa của thuộc tính Priority?",
+        "answer": "Xác định độ ưu tiên của Audio Source trong số tất cả các Audio Source có trong Scene"
+    },
+    "23589": {
+        "question": "Priority = 0 có ý nghĩa gì?",
+        "answer": "Sử dụng ở mức 0 cho bài nhạc để tránh bị thường xuyên trao đổi"
+    },
+    "23590": {
+        "question": "Priority có giá trị mặc định là bao nhiêu?",
+        "answer": "128"
+    },
+    "23591": {
+        "question": "Hãy chỉ ra ý nghĩa của thuộc tính Pitch?",
+        "answer": "\"Số dùng thay đổi tốc độ của âm thanh. Tốc độ bằng 1 là ở mức chạy bình thường. \""
+    },
+    "23592": {
+        "question": "Hãy chỉ ra đáp án đúng về 3D Source Setting?",
+        "answer": "Dùng để Cài đặt file được áp dụng cho Audio source nếu Audio Clip là một file âm thanh 3D"
+    },
+    "23593": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Pan Lever?",
+        "answer": "Cài đặt để máy 3D có được hiệu ứng từ Audio source."
+    },
+    "23594": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Spread?",
+        "answer": "Cài đặt độ lớn âm thanh ảnh hưởng tới âm thanh 3D Stereo nếu Audio Clip là một âm thanh 3D"
+    },
+    "23595": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Doppler&nbsp; Lever?",
+        "answer": "Xác định bao nhiêu hiệu ứng âm thanh Dopper sẽ được áp dụng cho Audio Source"
+    },
+    "23596": {
+        "question": "Hãy chỉ ra đáp án đúng về Min Distance?",
+        "answer": "Với Min Distance, âm thanh sẽ đạt mức to nhất có thể"
+    },
+    "23597": {
+        "question": "Hãy chỉ ra đáp án đúng về Max Distance?",
+        "answer": "Khoảng cách mà âm thanh dừng suy giảm. Sau khoảng cách này nó sẽ tạm ngừng không cho MinDistance tăng nữa"
+    },
+    "23598": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Logarithmic Rolloff?",
+        "answer": "Âm thanh là lớn khi bạn ở gần nguồn âm thanh. Nhưng khi chúng ta nhận được từ các đối tượng nó sẽ giảm đi nhanh chóng một cách đáng kể"
+    },
+    "23599": {
+        "question": "Hãy chỉ ra đáp án đúng về Mesh?",
+        "answer": "Khi một đối tượng mô hình 3D được Import. Unity sẽ gán cho nó một đại diện như một bộ lưới. Lưới phải được đính kèm với một Game Object"
+    },
+    "23600": {
+        "question": "Hãy chỉ ra file định dạng model 3D?",
+        "answer": "FBX"
+    },
+    "23601": {
+        "question": "Hãy chỉ ra ưu điểm file định dạng model 3D?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23602": {
+        "question": "Hãy chỉ ra nhược điểm file định dạng model 3D?",
+        "answer": "Có thể gây chậm trong việc tạo mẫu và sử dụng lại"
+    },
+    "23603": {
+        "question": "Unity có thể sử dụng các file của các phần mềm nào?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23604": {
+        "question": "Phím tắt để mở Animation View trong Unity Window là gì?",
+        "answer": "Ctrl + 6"
+    },
+    "23605": {
+        "question": "Hãy chỉ ra đáp án đúng về Animation?",
+        "answer": "Để sử dụng Animation cơ bản, trước tiên chọn Create new clip. Animation sẽ hiển thị các tùy chọn trên Animation View hoặc trên Inspector"
+    },
+    "23606": {
+        "question": "Hãy chỉ ra đáp án đúng về việc áp dụng Animation?",
+        "answer": "Để áp dụng animation cho một đối tượng nào đó bạn phải chọn vào đối tượng đó và thuộc tính animation tương ứng sẽ hiển thị trên Animation View tương ứng"
+    },
+    "23607": {
+        "question": "Hãy chỉ ra thao tác đúng khi Sử dụng Cuves?",
+        "answer": "Chọn Right Click -&gt; Add Curves"
+    },
+    "23608": {
+        "question": "Hãy chỉ ra đáp án đúng về việc chỉnh sửa Curves?",
+        "answer": "\"Chỉnh sửa Curves bằng cách tại các frame đã được tạo, kéo đường kẻ theo ý bạn muốn. Nó sẽ hiển thị ngay trên Scene View hoặc trên Inspector \""
+    },
+    "23609": {
+        "question": "Tại các điểm Frame, có thể xóa frame, chỉnh/chọn tiếp tuyến hay không?",
+        "answer": "Có"
+    },
+    "23610": {
+        "question": "Có thể sử dụng button nhỏ (+) để thêm Frame hoặc Event cho Animation hay không?",
+        "answer": "Có"
+    },
+    "23611": {
+        "question": "Hãy chỉ ra 2 vấn đề chính của một nhân vật hoạt hình",
+        "answer": "sự di chuyển của nó trong thế giới và tạo hiệu ứng cho phù hợp."
+    },
+    "23612": {
+        "question": "Trong Unity có cho phép bạn pha trộn vật liệu hay không?",
+        "answer": "Có"
+    },
+    "23613": {
+        "question": "Bạn có thể chuyển đổi qua lại giữa hình ảnh động và tĩnh trong unity không?",
+        "answer": "Có"
+    },
+    "23614": {
+        "question": "Đoạn code sau có ý nghĩa gì? function Update () {&nbsp;&nbsp; if (Input.GetAxis(\"Vertical\") &gt; 0.2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; animation.CrossFade (\"walk\");&nbsp;&nbsp; else&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; animation.CrossFade (\"idle\");}&nbsp;",
+        "answer": "\"chuyển đổi giữa hoạt hình động và hoạt hình tĩnh \""
+    },
+    "23615": {
+        "question": "Animation Layers có ý nghĩa gì?",
+        "answer": "Dùng để nhóm các hình ảnh động "
+    },
+    "23616": {
+        "question": "Hãy chỉ ra ý nghĩa của dòng code sau: animation.CrossFade()",
+        "answer": "pha trộn giữa nhiều Clip hoạt hình "
+    },
+    "23617": {
+        "question": "Tag được dùng làm gì?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23618": {
+        "question": "Khi tạo địa hình, ta có thể dùng công cụ brush không?",
+        "answer": "Có"
+    },
+    "23619": {
+        "question": "Để tạo một Plane, ta vào theo đường dẫn nào?",
+        "answer": "Edit -&gt; Create Other -&gt;Plane"
+    },
+    "23620": {
+        "question": "Hãy chỉ ra đáp án đúng về tạo nguồn sáng?",
+        "answer": "Game Object -&gt; Create Other -&gt; Directional Light"
+    },
+    "23621": {
+        "question": "Có mấy kiểu nguồn sáng cơ bản?",
+        "answer": "3"
+    },
+    "23622": {
+        "question": "Hãy chỉ ra&nbsp; đáp án đúng về Dirictional Light?",
+        "answer": "Có thể định hướng chiếu cho nó, các tia chiếu là song song"
+    },
+    "23623": {
+        "question": "Hãy chỉ ra&nbsp; đáp án đúng về Point Light?",
+        "answer": "là điểm sáng, thường dùng để tạo các điểm sáng nhỏ trên các Character"
+    },
+    "23624": {
+        "question": "Hãy chỉ ra&nbsp; đáp án đúng về Spotlight?",
+        "answer": "thường dùng là hiệu ứng chiếu cho đèn các loại xe, đèn pin, ánh sáng hắt vào object trong các&nbsp; cảnh"
+    },
+    "23625": {
+        "question": "Camera có phải là một Game Object không?",
+        "answer": "Có "
+    },
+    "23626": {
+        "question": "Trong một cảnh có thể có tối đa bao nhiêu camera?",
+        "answer": "Nhiều"
+    },
+    "23627": {
+        "question": "Hãy chỉ ra đáp án đúng về Clear Flags của Camera?",
+        "answer": "Xác định các bộ phận mà màn hình sẽ bị xóa."
+    },
+    "23628": {
+        "question": "Hãy chỉ ra đáp án đúng về Background của Camera?",
+        "answer": "Xác định màu nền cho phần màn hình còn lại"
+    },
+    "23629": {
+        "question": "Hãy chỉ ra đáp án đúng về Culling Mask?",
+        "answer": "\"Chỉ định các lớp đối tượng của bạn trong Inspector. Cho phép hoặc bỏ qua các đối tượng được hiển thị trong Camera \""
+    },
+    "23630": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Perspective&nbsp; trong camera?",
+        "answer": "Camera hiển thị các đối tượng theo phối cảnh trọn vẹn"
+    },
+    "23631": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Orthographic trong camera?",
+        "answer": "Hiển thị các đối tượng như một thể thống nhất, không có theo nghĩa của phối cảnh"
+    },
+    "23632": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Size trong camera?",
+        "answer": "Kích thước quan sát của Camera khi chọn phép chiếu là Orthographic"
+    },
+    "23633": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của \"Field of view\" trong camera?",
+        "answer": "Chiều rộng của góc nhìn Camera. Được đo bằng độ dọc theo trục Local Y"
+    },
+    "23634": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Depth trong camera?",
+        "answer": "Layer nào có giá trị lớn hơn thì nó sẽ được ưu tiên được hiển thị lên màn hình"
+    },
+    "23635": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của Rendering path trong camera?",
+        "answer": "Tùy chọn cho việc xác định phương pháp vẽ những gì sẽ được hiển thị lên Camera"
+    },
+    "23636": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của \"Use Player Setting\" trong Rendering path của camera?",
+        "answer": "Sử dụng cài đặt Player"
+    },
+    "23637": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của \"Vertex Lit\" trong Rendering path của camera?",
+        "answer": "Tất cả các đối tượng được đưa ra bởi máy ảnh sẽ được trả lại như đối tượng Vertex-Lit"
+    },
+    "23658": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của \"Forward\" trong Rendering path của camera?",
+        "answer": "tất cả các đối tượng sẽ được trả về như một tài liệu"
+    },
+    "23669": {
+        "question": "Hãy chỉ ra đáp án đúng về tạo Leaderboard ?",
+        "answer": "Để tạo được leaderboard thì bạn phải cài đặt leaderboard ở trên google play developer."
+    },
+    "23801": {
+        "question": "Để tạo leaderboard ta cần update các packages nào?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23802": {
+        "question": "Hãy chỉ ra thao tác đúng về cài đặt leaderboard trong unity?",
+        "answer": "Windows -&gt; Google play Games -&gt; Setup -&gt;Android setup"
+    },
+    "23803": {
+        "question": "Hãy chỉ ra hàm show leaderboard toàn bộ?",
+        "answer": "OnShowLeaderBoard();"
+    },
+    "23814": {
+        "question": "Hãy chỉ ra đáp án đúng về Raycast?",
+        "answer": "Raycasting thường được sử dụng trong những việc như xác định đường ngắm của người chơi "
+    },
+    "23815": {
+        "question": "Để tạo khối lập phương, bạn vào theo đường dẫn nào?",
+        "answer": "GameObject → 3D Object → Cube"
+    },
+    "23826": {
+        "question": "trong script của Raycast ta đang làm là khai báo 4 biến : RaycastHit, float, bool, vật rắn dùng để làm gì?",
+        "answer": "Quản lý logic"
+    },
+    "23837": {
+        "question": "Dòng code sau dùng để làm gì: Debug.DrawRay(Camera.main.transform.position, Camera.main.transform.forward * rayLength, Color.red, 0.5f);",
+        "answer": "\"vẽ một đường màu đỏ trong Scene khi game đang chạy \""
+    },
+    "23838": {
+        "question": "Dòng code sau dùng để làm gì: if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out vision, rayLength))",
+        "answer": "Gây ra Raycast, nếu Raycast chạm một cái gì đó"
+    },
+    "23929": {
+        "question": "Tham số thứ nhất có ý nghĩa gì: Debug.DrawRay(Camera.main.transform.position, Camera.main.transform.forward * rayLength, Color.red, 0.5f);",
+        "answer": "xác định vị trí mà nó bắt đầu vẽ"
+    },
+    "23930": {
+        "question": "Tham số thứ 2 có ý nghĩa gì: Debug.DrawRay(Camera.main.transform.position, Camera.main.transform.forward * rayLength, Color.red, 0.5f);",
+        "answer": "thể hiện hướng di chuyển"
+    },
+    "23931": {
+        "question": "Tham số thứ 3 có ý nghĩa gì: Debug.DrawRay(Camera.main.transform.position, Camera.main.transform.forward * rayLength, Color.red, 0.5f);",
+        "answer": "dùng để xác định màu"
+    },
+    "23932": {
+        "question": "Tham số thứ 1 có ý nghĩ gì: if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out vision, rayLength))",
+        "answer": "là vị trí raycast bắt đầu"
+    },
+    "23933": {
+        "question": "Tham số thứ 2 có ý nghĩ gì: if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out vision, rayLength))",
+        "answer": "thể hiện hướng của raycast "
+    },
+    "23934": {
+        "question": "Tham số thứ 3 có ý nghĩ gì: if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out vision, rayLength))",
+        "answer": "\"tham số thông tin hit(điểm va chạm) \""
+    },
+    "23935": {
+        "question": "Tham số thứ 4 có ý nghĩ gì: if(Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out vision, rayLength))",
+        "answer": "là chiều dài của raycast"
+    },
+    "23936": {
+        "question": "Hãy chỉ ra đáp án đúng về ý nghĩa của dòng code: if(vision.collider.tag == “Interactive”)",
+        "answer": "kiểm tra xem đối tượng được gắn tag có phải là \"Interactive\""
+    },
+    "23937": {
+        "question": "Hãy chỉ ra ý nghĩa của dòng code sau: Debug.Log (vision.collider.name);",
+        "answer": "xuất ra tên của các đối tượng"
+    },
+    "23938": {
+        "question": "Hãy chỉ ra ý nghĩa của dòng code sau: grabbedObject = vision.rigidbody;",
+        "answer": "\"gắn cho grabbedObject một rigidbody để raycast có thể tương tác. \""
+    },
+    "23939": {
+        "question": "Hãy chỉ ra ý nghĩa của dòng code sau: grabbedObject.isKinematic = true;",
+        "answer": "\"vô hiệu hóa các tương tác vật lý trên đối tượng \""
+    },
+    "23940": {
+        "question": "Để xem phần quản lý Tag và layer, ta vào theo đường dẫn nào?",
+        "answer": "Edit -&gt;&nbsp;Project Settings -&gt; Tags và Layers"
+    },
+    "23941": {
+        "question": "Hãy chỉ ra đáp án đúng về Tag?",
+        "answer": "Tags được đánh dấu bằng các giá trị, có thể dùng để xác định các đối tượng trong Project "
+    },
+    "23942": {
+        "question": "Hãy chỉ ra chức năng của Sorting layer?",
+        "answer": "được sử dụng kết hợp các Sprite đồ họa trong hệ thống 2D"
+    },
+    "23943": {
+        "question": "Unity có quản lý bao nhiêu layer mặc định?",
+        "answer": "8"
+    },
+    "23944": {
+        "question": "Hãy chỉ ra đáp án đúng về Layer?",
+        "answer": "Layer được sử dụng để hạn chế các hoạt động như raycasting hoặc rendering"
+    },
+    "23945": {
+        "question": "Hãy chỉ ra đáp án đúng về Collision?",
+        "answer": "Collision đại diện cho sự va chạm "
+    },
+    "23946": {
+        "question": "Hãy chỉ ra đáp án đúng về trigger?",
+        "answer": "Trong Unity, Trigger là một loại Collider có thể xuyên qua"
+    },
+    "23947": {
+        "question": "Khi chúng ta tạo một mảng, chuỗi hoặc đối tượng thì sau đó bộ nhớ sẽ giao cho một vùng nhớ nào?",
+        "answer": "HEAP"
+    },
+    "23948": {
+        "question": "việc quản lý bộ nhớ được thực hiện tự động bởi hệ thống nào?",
+        "answer": "Unity’s Mon develop engine"
+    },
+    "23949": {
+        "question": "Hãy chỉ ra kiểu dữ liệu nào là kiểu giá trị trong Unity?",
+        "answer": "char"
+    },
+    "23950": {
+        "question": "Hãy chỉ ra kiểu dữ liệu nào là kiểu struct trong Unity?",
+        "answer": "vector3"
+    },
+    "23951": {
+        "question": "Hãy chỉ ra kiểu dữ liệu nào là kiểu tham chiếu trong Unity?",
+        "answer": "object"
+    },
+    "23952": {
+        "question": "Hãy chỉ ra đáp án đúng về quá trình thu gom rác?",
+        "answer": "Quá trình định vị và giải phóng bộ nhớ không sử dụng được gọi là quá trình thu gom rác "
+    },
+    "23953": {
+        "question": "Hãy chỉ ra đáp án đúng về GC (Garbage Collection)?",
+        "answer": "GC không phải làm bằng tay và không thể được nhìn thấy bởi các lập trình viên "
+    },
+    "23954": {
+        "question": "Hãy chỉ ra các built-in feature sử dụng serialization?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23955": {
+        "question": "Hãy chỉ ra đáp án đúng về Built-in feature Inspector window?",
+        "answer": "\"Built-in feature sử dụng serialization Inspector không giao tiếp với C# API \""
+    },
+    "23956": {
+        "question": "Hãy chỉ ra đáp án đúng về prefabs?",
+        "answer": "\"Bên trong một Prefab là dòng dữ liệu tuần tự của một (hoặc nhiều) GameObjects và component \""
+    },
+    "23957": {
+        "question": "Hãy chỉ ra đáp án đúng về Instantiation?",
+        "answer": "\"Khi bạn gọi Instantiate() vào bất cứ thứ gì tồn tại trong một scene , các Editor sau đó tạo ra một GameObject mới và deserializesdữ liệu vào GameObject mới. \""
+    },
+    "23958": {
+        "question": "Hãy chỉ ra đáp án đúng về saving?",
+        "answer": "Nếu bạn mở một file .unity Scene với một text editor, và đã thiết lập các Unity Editor để buộc serialization text, nó sẽ chạy serializer với một phụ trợ YAML."
+    },
+    "23959": {
+        "question": "Hãy chỉ ra đáp án đúng về Loading?",
+        "answer": "Trong Editor YAML tải (load) cũng như tải thời gian chạy của Scene, Asset, và AssetBundles đều sử dụng hệ thống serilization"
+    },
+    "23960": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Tối ưu hoá là một phần trong quá trình phát triển game, nói một cách đơn giản nó là quy trình để cải tiến tính hiệu quả của hiệu năng game của bạn"
+    },
+    "23961": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Hiệu năng được biểu thị bằng số frame trên giây (fps)"
+    },
+    "23962": {
+        "question": "Các thiết bị di động có thể xử lý tối đa bao nhiêu đỉnh?",
+        "answer": "100 000 "
+    },
+    "23963": {
+        "question": "Hãy chỉ ra phương pháp rối ưu hoá trong code?",
+        "answer": "\"Đặt biến kiểu tĩnh và chỉ thị #pragma strict \""
+    },
+    "23964": {
+        "question": "Trong quá trình tối ưu nên tránh dùng hàm nào?",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "23965": {
+        "question": "Sử dụng trigger có phải là một biện pháp tối ưu không?",
+        "answer": "Có"
+    },
+    "23966": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Object pooling là cách tối ưu bằng cách tạo mảng các mô hình đối tượng game làm sẵn dưới dạng \"pool\" (bể chứa) để có thể lấy ra đối tượng khi cần rồi trả lại đối tượng khi không sử dụng nữa "
+    },
+    "23967": {
+        "question": "Hãy chỉ ra phát biểu đúng về Coroutine?",
+        "answer": "Corooutine có thể tạm ngừng việc thực thi của nó trong một frame rồi lấy lại và tiếp tục thực thi trong frame tiếp theo qua bất kỳ độ dài frame nào"
+    },
+    "23968": {
+        "question": "Hãy chỉ ra đáp án đúng về hàm Update?",
+        "answer": "Khi bạn gọi một hàm khác từ trong hàm Update() hay FixedUpdate() thì hàm bạn gọi được chạy từ lúc bắt đầu cho tới lúc kết thúc một frame"
+    },
+    "23969": {
+        "question": "Một trong các phương pháp tối ưu game là?",
+        "answer": "Giảm thiểu Draw call"
+    },
+    "23970": {
+        "question": "Hãy chỉ ra đáp án đúng về hàm Update?",
+        "answer": "OnGUI()tiêu tốn tài nguyên hơn hàm Update()"
+    },
+    "23971": {
+        "question": "Hãy chỉ ra ý nghĩa của hàm GameObject.FindByTag()?",
+        "answer": "mỗi lần gọi hàm là 1 lần duyệt lại tất cả các object trong scene"
+    },
+    "23972": {
+        "question": "Để tối ưu ta nên sử dụng hàm SendMessage() nhiều lần?",
+        "answer": "Sai"
+    },
+    "23973": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Sử dụng boxcollider thay vì sử dụng poligon collider, mesh collider"
+    },
+    "23974": {
+        "question": "Để tối ưuu game ta nên sử dụng OnTriggerEnter thay vì dùng Raycast?",
+        "answer": "Sai"
+    },
+    "23975": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Phương thức Decompress On Load được hiểu là ta sẽ bỏ nén hết các audio khi load"
+    },
+    "23976": {
+        "question": "Hãy chỉ ra phát biểu đúng?",
+        "answer": "Compressed in memory được hiểu như là: Máy sẽ giữ tạm bản nén của âm thanh trong bộ nhớ, khi nào chương trình cần thì giải nén ra mà chạy"
+    },
+    "23977": {
+        "question": "Để tăng tương tác với người dùng, bạn nên đưa từ khoá vào trong tiêu đề game? ",
+        "answer": "Đúng"
+    },
+    "23978": {
+        "question": "Share game có phải là cách tăng số lượt download không?",
+        "answer": "Có"
+    },
+    "23979": {
+        "question": "Chức năng Post trong wordpress dùng để làm gì?",
+        "answer": "Đăng tải tin tức"
+    },
+    "23980": {
+        "question": "Chức năng Category trong wordpress dùng để làm gì?",
+        "answer": "Tạo chuyên mục"
+    },
+    "23981": {
+        "question": "Page&nbsp;khá&nbsp;giống&nbsp;&nbsp;Post&nbsp;tuy&nbsp;nhiên&nbsp;&nbsp;Page&nbsp;lại&nbsp;không&nbsp;&nbsp;có&nbsp;gom nhóm&nbsp;&nbsp;theo&nbsp;&nbsp;Category&nbsp;&nbsp;như&nbsp;&nbsp;Post?",
+        "answer": "Đúng"
+    },
+    "23982": {
+        "question": "Để tạo cấu trúc nội dung bài viết ta chọn?",
+        "answer": "Posts -&gt; categorized"
+    },
+    "23983": {
+        "question": "Những&nbsp;&nbsp;bài&nbsp;Post&nbsp;nếu&nbsp;&nbsp;không&nbsp;&nbsp;chọn&nbsp;&nbsp;chuyên&nbsp;&nbsp;mụcCategory thì&nbsp;mặc&nbsp;định&nbsp;bài&nbsp;Post&nbsp;sẽ&nbsp;được&nbsp;chọn&nbsp;vào&nbsp;Uncategorized?",
+        "answer": "Đúng"
+    },
+    "23984": {
+        "question": "Để tạp một Post chúng ta chọn? ",
+        "answer": "Tất cả A, B đều đúng"
+    },
+    "23985": {
+        "question": "Để xóa bài viết chúng ta chọn?",
+        "answer": "Trash"
+    },
+    "23986": {
+        "question": "Để sửa bài viết chúng ta chọn?",
+        "answer": "Edit"
+    },
+    "23987": {
+        "question": "Editor là trình soạn thảo nội dung rất mạnh mẽ của WordPress?",
+        "answer": "Đúng"
+    },
+    "23988": {
+        "question": "Để tạo Page chúng ta chọn?",
+        "answer": "Menu Page -&gt;Add New"
+    },
+    "23989": {
+        "question": "Parent trong mục Page&nbsp; Attributes&nbsp; có nghĩa trang cha để quản lý phân cấp cho các trang?",
+        "answer": "Đúng"
+    },
+    "23990": {
+        "question": "Template trong mục Page&nbsp; Attributes&nbsp; có nghĩa mẫu&nbsp; giao&nbsp; diện&nbsp; trang,&nbsp; tùy&nbsp; theme&nbsp; sẽ&nbsp; có&nbsp; số lượng&nbsp; và Template&nbsp; khác&nbsp; nhau?",
+        "answer": "Đúng"
+    },
+    "23991": {
+        "question": "Order trong mục Page&nbsp; Attributes&nbsp; có nghĩa trật&nbsp; tự&nbsp; sắp&nbsp; xếp&nbsp; trước&nbsp; sau&nbsp; trong&nbsp; danh&nbsp; sách&nbsp; các Page ?",
+        "answer": "Đúng"
+    },
+    "23992": {
+        "question": "Để&nbsp;thêm&nbsp;một&nbsp;Category&nbsp;mới&nbsp;bạn&nbsp;nhập",
+        "answer": "Tất cả đều đúng"
+    },
+    "23993": {
+        "question": "Mỗi bài viết có một hình đại diện để hiển thị trong danh sách bài&nbsp; viết,&nbsp; để&nbsp; chọn&nbsp; hình&nbsp; hiển&nbsp; thị ta&nbsp; chọn&nbsp; Feature&nbsp; Image&nbsp; cho Post",
+        "answer": "Đúng"
+    },
+    "23994": {
+        "question": "Có thể xem trước bài viết trước khi đăng không?",
+        "answer": "Có"
+    },
+    "23995": {
+        "question": "Chức năng xem trước nội dung bài viết?",
+        "answer": "Preview"
+    },
+    "23996": {
+        "question": "Khi muốn bài viết mình xuất hiện để mọi người có thể xem hãy nhấn nút Publish để đăng bài.",
+        "answer": "Đúng"
+    },
+    "23997": {
+        "question": "WordPress có hỗ trợ tính năng lên lịch đăng tự động?",
+        "answer": "Có"
+    },
+    "23998": {
+        "question": "Trong lúc viết bài có nhu cầu chèn link tới các website khác. Việc chèn link sẽ thực hiện như sau: Để&nbsp; con&nbsp; nháy&nbsp; vào&nbsp; vị&nbsp; trí&nbsp; muốn&nbsp; chèn&nbsp; link,&nbsp; sau&nbsp; đó&nbsp; Click&nbsp; vào biểu tượng móc xích ?",
+        "answer": "Đúng"
+    },
+    "23999": {
+        "question": "Woocommerce là một plugin miễn phí được sử dụng để tạo một trang thương mại điện tử cỡ nhỏ tốt nhất hiện nay trong WordPress?",
+        "answer": "Đúng"
+    },
+    "24000": {
+        "question": "Chức năng của Woocommerce là gì?",
+        "answer": "Tất cả đáp án trên"
+    },
+    "24001": {
+        "question": "Sau khi download về xong tiến hành cài đặt ta chọn?",
+        "answer": "Plugins -&gt;Upload plugin"
+    },
+    "24002": {
+        "question": "Sau khi cài đặt xong Woocommerce chúng ta có cần phải active không?",
+        "answer": "Có"
+    },
+    "24003": {
+        "question": "Sau khi cài đặt xong Woocommerce nằm ở đâu trên wordpress?",
+        "answer": "Left"
+    },
+    "24004": {
+        "question": "Mặc định sau khi cài xong Woocommerce, bạn vào phần quản lý trang (Pages) sẽ thấy có một số trang mặc định mà Woocommerce tự tạo ra để có thể sử dụng các chức năng cần thiết trên trang bán hàng.",
+        "answer": " Đúng"
+    },
+    "24005": {
+        "question": "Hãy chỉ ra đâu là các trang mặc định mà Woocommerce tạo ra khi cài đặt thành công?",
+        "answer": "Tất cả đáp án trên"
+    },
+    "24006": {
+        "question": "Để thêm sản phẩm chúng ta chọn?",
+        "answer": "Products -&gt; Add product"
+    },
+    "24007": {
+        "question": "Khi thêm sản phẩm các thông tin sau cần phải khai báo?",
+        "answer": "Tất cả đáp án trên"
+    },
+    "24008": {
+        "question": "Để thiết lập danh mục sản phẩm chúng ta chọn bảng?",
+        "answer": "Product Category"
+    },
+    "24009": {
+        "question": "Từ khóa sản phẩm là các từ khóa mà chúng ta cho là có liên quan đến sản phẩm?",
+        "answer": "Đúng"
+    },
+    "24010": {
+        "question": "Để tìm ra từ khóa phù hợp nhất cho website của mình, có thể nghiên cứu từ khóa tại?",
+        "answer": "Google Adwords"
+    },
+    "24011": {
+        "question": "Mỗi sản phẩm có bắt buộc ảnh đại diện?",
+        "answer": "Có"
+    },
+    "24012": {
+        "question": "Trong Wordpress có thư viện ảnh không?",
+        "answer": "Có"
+    },
+    "24013": {
+        "question": "Để đăng bài viết chúng ta chọn chức năng?",
+        "answer": "Publish"
+    },
+    "24014": {
+        "question": "Để thiết lập tiền tệ trong Woocommerce chúng ta chọn",
+        "answer": "Woocommerce -&gt; Settings"
+    },
+    "24015": {
+        "question": "Để thiết lập menu cho giỏ hàng chúng ta chọn?",
+        "answer": "Appearance -&gt; Menus"
+    },
+    "24016": {
+        "question": "Woocommerce là một plugin hoàn toàn có phí?",
+        "answer": "Sai"
+    },
+    "24017": {
+        "question": "Giao diện cài đặt của Woocommerce thân thiện và dễ sử dụng ?",
+        "answer": "Có"
+    },
+    "24018": {
+        "question": "Woocommerce đưa ra quy trình đặt hàng?",
+        "answer": "Đúng"
+    },
+    "24019": {
+        "question": "WordPress hiện nay đang được đánh giá là mã nguồn mở tốt nhất và phù hợp nhất cho SEO?",
+        "answer": "Đúng "
+    },
+    "24020": {
+        "question": "WordPress được đánh giá là mã nguồn mở tốt nhất cho SEO trong thời điểm hiện tại là do?",
+        "answer": "Cả A, B đều đúng"
+    },
+    "24021": {
+        "question": "Plugin SEO BY YOAST có khả năng gì?",
+        "answer": "khả năng can thiệp sâu vào bên trong code"
+    },
+    "24022": {
+        "question": "Seo được viết tắt bởi những từ nào",
+        "answer": "Search Engine Optimization"
+    },
+    "24023": {
+        "question": "Để cài đặt SEO by Yoast Plugin, Chuyển đến phần Gói mở Rộng (nếu là tiếng việt) hoặc Plugin (nếu là tiếng anh).",
+        "answer": "Đúng"
+    },
+    "24024": {
+        "question": "Trong quá trình cài đặt chúng ta có Active cho SEO BY YOAST ?",
+        "answer": " Có"
+    },
+    "24025": {
+        "question": "Sau khi cài đặt thành công buổi tượng SEO nằm ở vị trí nào trong wordpress",
+        "answer": "Right"
+    },
+    "24026": {
+        "question": "Chức năng nào cho phép chúng ta có thể cấu hình tổng thể các thuộc tính chung nhất của Plugin hỗ trợ SEO?",
+        "answer": "General "
+    },
+    "24027": {
+        "question": "Nơi nào lưu trữ các thông tin về wesite trong SEO",
+        "answer": "Your Info"
+    },
+    "24028": {
+        "question": "Title Separator là chức năng cho phép định dạng cách sắp xếp hiển thị trên tiêu đề của các webpage?",
+        "answer": "Sai"
+    },
+    "24029": {
+        "question": "Tab Security&nbsp;là chức năng bảo vệ và hỗ trợ cấu hình vào cấu trúc các thẻ Meta",
+        "answer": "Đúng"
+    },
+    "24030": {
+        "question": "Tab nào cho phép thiết lập tiêu đề trang chủ và Meta Description cho trang chủ",
+        "answer": "Homepage"
+    },
+    "24031": {
+        "question": "Tag nào cho phép cấu hình Title &amp; Meta Description của khá nhiều bộ phận trong wesite như Bài viết, Trang con, Hình ảnh..?",
+        "answer": " Post Types "
+    },
+    "24032": {
+        "question": "Tag nào cho phép bạn thiết lập các thuộc tính title và meta Description cho các phần như Category (chuyên mục) và Thẻ Tag?",
+        "answer": "Taxonomies"
+    },
+    "24033": {
+        "question": "Tag nào cho phép bạn thiết lập các cấu hình cho trang của thành viên, trang thời gian?",
+        "answer": "Archives"
+    },
+    "24034": {
+        "question": "Tag nào cho phép thiết lập một số chức năng nâng cao?",
+        "answer": "Other"
+    },
+    "24035": {
+        "question": "Để tối ưu Permalink (đường dẫn tĩnh) chúng ta chọn",
+        "answer": "Settings -&gt; Reading"
+    },
+    "24036": {
+        "question": "Title bài viết trong WordPress bạn chỉ nên đặt từ tốt nhất là bao nhiêu ký tự",
+        "answer": "65 - 68"
+    },
+    "24037": {
+        "question": "Title bài viết trong WordPress không được chứa",
+        "answer": "Ký tự đặc biệt"
+    },
+    "24038": {
+        "question": "Tối ưu đường dẫn tĩnh, ALT của Images, Description, Title giúp thân thiện với website và tăng thư hạng đối với các bộ máy tìm kiếm?",
+        "answer": "Đúng"
+    },
+    "24039": {
+        "question": "Có bao nhiêu loại đèn phân tích mức độ tối ưu của từ khoá trong một bài viết của SEO By Yoast ?",
+        "answer": "4"
+    },
+    "24040": {
+        "question": "Đèn màu xám phân tích mức độ tối ưu của từ khoá trong một bài viết của SEO By Yoast có nghĩa gì?",
+        "answer": "Giá trị check content chuẩn SEO"
+    },
+    "24041": {
+        "question": "Đèn màu đỏ phân tích mức độ tối ưu của từ khoá trong một bài viết của SEO By Yoast có nghĩa gì?",
+        "answer": "Nội dung tối ưu tương đối tệ"
+    },
+    "24042": {
+        "question": "Đèn màu vàng phân tích mức độ tối ưu của từ khoá trong một bài viết của SEO By Yoast có nghĩa gì?",
+        "answer": "nội dung của bạn tối ưu “tạm được”."
+    },
+    "24043": {
+        "question": "Đèn xanh lá cây phân tích mức độ tối ưu của từ khoá trong một bài viết của SEO By Yoast có nghĩa gì?",
+        "answer": "nội dung tốt"
+    },
+    "24044": {
+        "question": "Thẻ Heading 1 &lt;h1&gt; hay còn gọi là thẻ “tiêu đề 1″ có độ ưu tiên lớn nhất trong 6 thẻ Heading?",
+        "answer": "Đúng"
+    },
+    "24045": {
+        "question": "Văn bản nằm trong Heading 1 có ý nghĩa?&nbsp;",
+        "answer": "Cả A, B, C đều đúng"
+    },
+    "24046": {
+        "question": "Plugin SEO Auto Links, giúp từ khóa mục tiêu tự động gắn liên kết, giúp giảm thiểu tối đa thời gian?",
+        "answer": " Đúng"
+    },
+    "24047": {
+        "question": "Sau khi cài đặt thành công&nbsp; SEO Auto Links mặc định nằm ở vị trí nào trong wordpress?",
+        "answer": "Left"
+    },
+    "24048": {
+        "question": "XML Sitemap được hiểu như là một “bản đồ” thu nhỏ của website và nó sẽ liệt kê tất cả các liên kết có bên trong website trong đó?",
+        "answer": " Đúng"
+    },
+    "24049": {
+        "question": "Mục đích khi lấy sitemap này gửi lên Google Webmaster Tools là gì?",
+        "answer": "Đưa địa chỉ trong sitemap hệ thống dữ liệu của Google."
+    },
+    "24050": {
+        "question": "Để cài đặt XML Sitemap ta chọn&nbsp; Plugins -&gt; Add New và tìm plugin tên Google XML Sitemap, sau đó ấn Install Now.",
+        "answer": "Đúng"
+    },
+    "24051": {
+        "question": "Trong quá trình cài đặt XML Sitemap chúng ta có Active?",
+        "answer": "Có"
+    },
+    "24052": {
+        "question": "Sau khi cài đặt và kích hoạt, để bắt đầu thiết lập và tạo sitemap ta chọn?",
+        "answer": "Settings -&gt; XML-sitemap "
+    },
+    "24053": {
+        "question": "Google Analytics (GA) là dịch vụ được cung cấp miễn phí bởi Google và nó được coi như là một yếu tố không thể thiếu đối với những người làm quản trị trang web?",
+        "answer": "Đúng"
+    },
+    "24054": {
+        "question": "Dịch vụ Google Analytics cho phép làm gì?",
+        "answer": "Tất cả đáp trên là đúng"
+    },
+    "24055": {
+        "question": "Chức năng Google Webmaster Tool dùng để làm gì",
+        "answer": "Cả A, B đều đúng"
+    },
+    "24056": {
+        "question": "Chức năng của Google Webmaster Tool và Google Analytics giống hay khác nhau?",
+        "answer": "Khác"
+    },
+    "24057": {
+        "question": "Cài đặt Analytics và Webmaster tools giúp cho việc quản lý website thuận tiện hơn?",
+        "answer": "Đúng"
+    },
+    "24058": {
+        "question": "Để thêm tài khoản người dùng chúng ta chọn?",
+        "answer": "User -&gt; Add new"
+    },
+    "24059": {
+        "question": "Để xem tất cả các tài khoản đã có chúng ta chọn?",
+        "answer": "User -&gt; All users"
+    },
+    "24060": {
+        "question": "Để xem thông tin người dùng chúng ta chọn?",
+        "answer": "User -&gt; Profile"
+    },
+    "24061": {
+        "question": "Các thông tin cần nhập khi tạo tài khoản là?",
+        "answer": "Cả A, B, C đều đúng"
+    },
+    "24062": {
+        "question": "Hãy chỉ ra thông tin nào là bắt buộc phải nhập không được để trống khi tạo tài khoản người dùng?",
+        "answer": "Tất cả A, B đều đúng"
+    },
+    "24063": {
+        "question": "Khi tạo Role cho người chúng ta có thể gán quyền administrator?",
+        "answer": "Có"
+    },
+    "24064": {
+        "question": "Theme WordPress cung cấp cho chúng ta những vùng riêng để tùy biến về giao diện gọi là Sidebar",
+        "answer": "Đúng"
+    },
+    "24065": {
+        "question": "Trên Sidebar&nbsp; có thể đặt nhiều chức năng giao diện được gọi là Widget?",
+        "answer": "Đúng"
+    },
+    "24066": {
+        "question": "Vị trí Sidebar có thể nằm ở đâu trên website",
+        "answer": "Tất cả A, B đều đúng"
+    },
+    "24067": {
+        "question": "Để truy cập vào chức năng Widgets chúng ta chọn?",
+        "answer": "Appearance -&gt; Widgets"
+    },
+    "24068": {
+        "question": "Widgets có phải là một plugin đặc biệt không ?",
+        "answer": " Có"
+    },
+    "24069": {
+        "question": "Để cài đặt Widgets có bao nhiêu cách?",
+        "answer": "2"
+    },
+    "24070": {
+        "question": "Cài đặt Widgets có giống cài đặt plugins không?",
+        "answer": "Giống"
+    },
+    "24071": {
+        "question": "Để xem các Widget đã được cài đặt chúng ta chọn?",
+        "answer": "Appearance -&gt; Widget -&gt; Avaiable Widget"
+    },
+    "24072": {
+        "question": "Chức năng Revision của WordPress dùng để làm gì?",
+        "answer": "Lưu lịch sử những lần lưu nháp của post"
+    },
+    "24073": {
+        "question": "Chức năng Post Format của WordPress dùng để làm gì?",
+        "answer": " Định dạng bài đọc cho người đọc"
+    },
+    "24074": {
+        "question": "Hiện tại Wordpress hỗ trợ tối đa bao nhiêu định dạng Post Format",
+        "answer": "10"
+    },
+    "24075": {
+        "question": "Hãy chỉ đâu là định dạng của Post Format",
+        "answer": "Cả A, B, C đều đúng"
+    },
+    "24076": {
+        "question": "Tất cả định dạng Video,Quote,Link ,Gallery ,Status ,Audio,Chat là định dạng của Post Format?",
+        "answer": "Đúng"
+    },
+    "24077": {
+        "question": "Hãy chỉ ra tên plugin có chức năng bảo mật wordpress thông qua Firewall (tường lửa) và quét Virus và bảo mật đăng nhập, chặn IP để cải thiện trang wordpress trở nên hoàn thiện hơn?",
+        "answer": "Wordfence security"
+    }
+}

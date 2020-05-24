@@ -1,0 +1,1274 @@
+{
+    "370949": {
+        "question": "Bootstrap là gì?",
+        "answer": "framework"
+    },
+    "370950": {
+        "question": "Bootstrap do ai phát triển?",
+        "answer": "Twitter"
+    },
+    "370951": {
+        "question": "Bootstrap là framework về?",
+        "answer": "css"
+    },
+    "370952": {
+        "question": "Bootstrap hỗ trợ bao nhiêu trình duyệt?",
+        "answer": "tất cả"
+    },
+    "370953": {
+        "question": "Download Bootstrap ở trang nào?",
+        "answer": "getbootstrap.com"
+    },
+    "370954": {
+        "question": "CDN là viết tắt của cụm từ nào?",
+        "answer": "Content Delivery Network"
+    },
+    "370955": {
+        "question": "Để tạo trang web sử dụng bootstrap ta có cần Thêm HTML5 doctype không?",
+        "answer": "có "
+    },
+    "370956": {
+        "question": "Để tạo trang web sử dụng bootstrap ta có cần Thêm Viewport\n &nbsp;không?",
+        "answer": "có "
+    },
+    "370957": {
+        "question": "Để tạo trang web sử dụng bootstrap ta có cần Gọi vào thư viện Bootstrap không?",
+        "answer": "có "
+    },
+    "370958": {
+        "question": "Thuộc tính nào liên quan đến zoom?",
+        "answer": "meta viewport "
+    },
+    "370959": {
+        "question": "Để không cho phép người sử dụng zoom ta dùng thuộc tính nào?",
+        "answer": "initial-scale"
+    },
+    "370960": {
+        "question": "Để không cho phép người sử dụng zoom ta khai báo như thế nào?",
+        "answer": "initial-scale=1"
+    },
+    "370961": {
+        "question": "Hãy chỉ ra class container chính trong bootstrap?",
+        "answer": ".container"
+    },
+    "370962": {
+        "question": "Hãy chỉ ra class container chính trong bootstrap?",
+        "answer": ".container-fluid"
+    },
+    "370963": {
+        "question": "Hệ thống grid cho phép tối đa bao nhiêu cột trong bootstrap?",
+        "answer": "12"
+    },
+    "370964": {
+        "question": "Class nào dùng để hỗ trợ mobile?",
+        "answer": "xs"
+    },
+    "370965": {
+        "question": "Class nào dùng để hỗ trợ máy tính bảng?",
+        "answer": "sm"
+    },
+    "370966": {
+        "question": "Bootstrap có hỗ trợ responsive design không?",
+        "answer": "có "
+    },
+    "370967": {
+        "question": "Phát biểu nào đúng cho Node JS?&nbsp;",
+        "answer": "Mã nguồn mở server framework"
+    },
+    "370968": {
+        "question": "Node js có thể chạy trên các platform nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "370969": {
+        "question": "Node js dựa trên ngôn ngữ nào?",
+        "answer": "javascript "
+    },
+    "370970": {
+        "question": "Node Js hỗ trợ các tính năng nào?&nbsp;",
+        "answer": "Tất cả đều đúng"
+    },
+    "370971": {
+        "question": "Phát biểu nào đúng về Node JS?",
+        "answer": "Node.js&nbsp;sử dụng nguyên lý lập trình&nbsp;bất đồng bộ&nbsp;và&nbsp;giảm thiểu thời gian chờ đợi xử lý từ server"
+    },
+    "370972": {
+        "question": "Mô hình hoạt động của Node js theo cơ chế nào?",
+        "answer": "event loop"
+    },
+    "370973": {
+        "question": "Phát biểu nào đúng về Node JS?",
+        "answer": "Node.js chạy đơn luồng, không khóa (non-blocking)"
+    },
+    "370974": {
+        "question": "Lệnh nào có tác dụng kiểm tra việc cài đặt Node js",
+        "answer": "node -v"
+    },
+    "370975": {
+        "question": "Dùng từ khóa nào để khai báo việc đọc, thực thi, xử lý đối tượng trong node js?&nbsp;",
+        "answer": "require"
+    },
+    "370976": {
+        "question": "Phương thức nào có tác dụng tạo server nhận request từ client trong node js?&nbsp;",
+        "answer": "createServer"
+    },
+    "370977": {
+        "question": "Phương thức nào cho phép gởi gởi “header data” cho client?&nbsp;",
+        "answer": "writeHead"
+    },
+    "370978": {
+        "question": "Lệnh nào thực thi file \"myfirst.js\" trong node js?",
+        "answer": "node myfirst.js"
+    },
+    "370979": {
+        "question": "Phát biểu nào đúng về module?",
+        "answer": "Module được xem như là thư viện JavaScript "
+    },
+    "370980": {
+        "question": "Module nào được load tự động khi start node js?&nbsp;",
+        "answer": "Built-in Modules"
+    },
+    "370981": {
+        "question": "Cú pháp đúng khi khai báo sử dụng các Built-in Modules?&nbsp;",
+        "answer": "var module= require('module_name);"
+    },
+    "370982": {
+        "question": "Khái niệm \"User defined Modules\" nào đúng?",
+        "answer": "Là một tập tin Js chứa một hoặc nhiều function"
+    },
+    "370983": {
+        "question": "\"User defined Modules\" dùng từ khóa nào để tạo thuộc tính và phương thức ?",
+        "answer": "export"
+    },
+    "370984": {
+        "question": "Câu lệnh nào khai báo sử dụng module \"http\" trong node js?",
+        "answer": "var http= require('http');"
+    },
+    "370985": {
+        "question": "Lệnh nào khai báo server sẽ lắng nghe tại port 5000?",
+        "answer": "server.listen(5000);"
+    },
+    "370986": {
+        "question": "Câu lệnh nào tạo module tên 'myDateTime'?",
+        "answer": "exports.myDateTime = function ()"
+    },
+    "370987": {
+        "question": "Chọn phát biểu đúng về web server?",
+        "answer": "Web server là một máy tính lưu trữ các file thành phần của một website "
+    },
+    "370988": {
+        "question": "Web server có thể lưu trữ những tài liệu nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "370989": {
+        "question": "Phát biểu nào về việc truy cập web server là đúng?",
+        "answer": "có thể truy cập tới web server thông qua một tên miền"
+    },
+    "370990": {
+        "question": "Cái nào được xem là web server?",
+        "answer": "Tất cả đều đúng"
+    },
+    "370991": {
+        "question": "Khi tạo Node js server cần thêm module nào?",
+        "answer": "http"
+    },
+    "370992": {
+        "question": "Câu lệnh nào đúng khi thêm module http vào tập tin node js",
+        "answer": "var http=require('http');"
+    },
+    "370993": {
+        "question": "Phương thức nào được sử dụng tạo server?&nbsp;",
+        "answer": "http.creatServer"
+    },
+    "370994": {
+        "question": "Phần nào trong câu lệnh \"res.writeHead(200, {'Content-Type': 'text/html'});\" xác định loại dữ liệu trả về là html",
+        "answer": "text/html"
+    },
+    "370995": {
+        "question": "Câu lệnh \" res.write('Hello World!');\" thực thi kết quả nào?",
+        "answer": "Trả chuỗi 'Hello World' về client"
+    },
+    "370996": {
+        "question": "Node js có cho phép định hướng người dùng đến địa chỉ web xác định trước hay không?",
+        "answer": "Có"
+    },
+    "370997": {
+        "question": "Để nhúng module File System dùng phương thức require() nhúng module nào?",
+        "answer": "fs"
+    },
+    "370998": {
+        "question": "Lệnh nào đúng khi dùng module 'fs'?",
+        "answer": "var&nbsp;fs = require('fs');"
+    },
+    "370999": {
+        "question": "Node js tương tác được với thành phần nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "371000": {
+        "question": "Node js dùng phương thức nào để đọc tập tin?",
+        "answer": "fs.readFile()"
+    },
+    "371001": {
+        "question": "Node js dùng phương thức nào để nối thêm nội dung vào tập tin?",
+        "answer": "fs.appendFile()"
+    },
+    "371002": {
+        "question": "Node js dùng phương thức nào để ghi nội dung và tập tin?",
+        "answer": "fs.writeFile()"
+    },
+    "371003": {
+        "question": "Node js dùng phương thức nào để xóa tập tin?",
+        "answer": "fs.unlink()"
+    },
+    "371004": {
+        "question": "Node js dùng phương thức nào để thay đổi tên tập tin?",
+        "answer": "fs.rename()"
+    },
+    "371005": {
+        "question": "Trong lệnh 'fs.writeFile(filename, data[, options], callback)' tham số nào quy định phần encoding?",
+        "answer": "options"
+    },
+    "371006": {
+        "question": "trong câu lệnh 'fs.open(path, flags[, mode], callback)' thì tham số 'mode' nhận giá trị mặc định nào?",
+        "answer": "readwrite"
+    },
+    "371007": {
+        "question": "Định nghĩa nào đúng nhất về Express?",
+        "answer": "Framework"
+    },
+    "371008": {
+        "question": "Express hoạt động trên nền tảng nào?",
+        "answer": "Node js"
+    },
+    "371009": {
+        "question": "Express cung cấp các tính năng để phát triển ứng dụng dạng nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371010": {
+        "question": "Express hỗ trợ phát triển ứng dụng theo mô hình nào?",
+        "answer": "MVC"
+    },
+    "371011": {
+        "question": "Express hỗ trợ các tính năng nào?&nbsp;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371012": {
+        "question": "Khi cài đặt Express cần có file nào?",
+        "answer": "package.json"
+    },
+    "371013": {
+        "question": "Tập tin package.json có thể chứa những thông tin nào?",
+        "answer": "tất cả đều đúng"
+    },
+    "371014": {
+        "question": "Để tạo package.json, thực hiện lệnh nào?",
+        "answer": "npm init"
+    },
+    "371015": {
+        "question": "Để tiến hành cài đặt Express trong Node.JS, thực hiện lệnh nào ?",
+        "answer": "npm install express --save"
+    },
+    "371016": {
+        "question": "Nội dung tập tin Package.json gồm có gi?&nbsp;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371017": {
+        "question": "Thư mục được tự động phát sinh thêm sau khi cài đặt thành công Express?",
+        "answer": "node_modules"
+    },
+    "371018": {
+        "question": "Lệnh 'var express = require('express');' thực hiện điều gì?",
+        "answer": "khởi tạo server với express framework"
+    },
+    "371019": {
+        "question": "Lệnh 'app.listen(8000);' dùng để làm gi?",
+        "answer": "xét cổng port 8000 cho server"
+    },
+    "371020": {
+        "question": "Lệnh 'app.get('/', function (req, res) {\n &nbsp;&nbsp;&nbsp; res.send('hello world!');' thực hiện công việc nào?",
+        "answer": "định tuyến cho url trả về chữ hello world"
+    },
+    "371021": {
+        "question": "Template Engine hỗ trợ cho việc gi?",
+        "answer": "giúp việc markup HTML trở nên nhanh chóng"
+    },
+    "371022": {
+        "question": "Template Engine dựa trên ngôn ngữ nào?",
+        "answer": "html - css"
+    },
+    "371023": {
+        "question": "Định nghĩa nào đúng nhất về Handlebars ?",
+        "answer": "Handlebars là một thư viện javascrip"
+    },
+    "371024": {
+        "question": "Thưc hiện lệnh nào để sử dụng Handlebars?",
+        "answer": "npm install express-handlebars --save"
+    },
+    "371025": {
+        "question": "Handlebars template được luu file với phần mở rộng nào?",
+        "answer": "file.hbs"
+    },
+    "371026": {
+        "question": "Lệnh 'var express_handlebars&nbsp; = require('express-handlebars');' thực hiện công việc gi?",
+        "answer": "Cấu hình handlebars"
+    },
+    "371027": {
+        "question": "Multer là thư viện?",
+        "answer": "Express"
+    },
+    "371028": {
+        "question": "Phát biểu nào đúng về Multer?",
+        "answer": "multer là phần mềm trung gian (middleware) của NodeJS"
+    },
+    "371029": {
+        "question": "Multer xử lý được những vấn đề nào?&nbsp;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371030": {
+        "question": "Sử dụng lệnh nào cài đặt multer?&nbsp;",
+        "answer": "npm install multer --save"
+    },
+    "371031": {
+        "question": "Thuộc tính nào của form nhận giá trị 'multipart/form-data'?&nbsp;",
+        "answer": "enctype"
+    },
+    "371032": {
+        "question": "Lệnh nào khai báo sử dụng multer?",
+        "answer": "var&nbsp;multer&nbsp;&nbsp;=&nbsp;require('multer')"
+    },
+    "371033": {
+        "question": "Công cụ nào khai báo các thao tác trên tập tin?",
+        "answer": "diskStorage"
+    },
+    "371034": {
+        "question": "diskStorage gồm những tham số nào?",
+        "answer": "destination và filename"
+    },
+    "371035": {
+        "question": "Trong lệnh 'destination: function (req, file, cb)' , tham số nào được dùng thay đổi đường dẫn?&nbsp;",
+        "answer": "cb"
+    },
+    "371036": {
+        "question": "Trong lệnh 'destination: function (req, file, cb)' , tham số nào được dùng thay đổi tên file?&nbsp;",
+        "answer": "cb"
+    },
+    "371037": {
+        "question": "Thuộc tính nào xác định tên file mặc định?",
+        "answer": "file.originalname"
+    },
+    "371038": {
+        "question": "Phương thức nào gọi đường dẫn tới template và form?&nbsp;",
+        "answer": "Get(router) "
+    },
+    "371039": {
+        "question": "Phương thức nào để Upload file ?&nbsp;",
+        "answer": "Postl"
+    },
+    "371040": {
+        "question": "Lệnh nào khai báo sử dụng post?",
+        "answer": "app.post('/profile',&nbsp;function&nbsp;(req,&nbsp;res)"
+    },
+    "371041": {
+        "question": "Để giới hạn kích thước, dung lượng tâp tin khi upload, dùng đối tượng nào?",
+        "answer": "Limits"
+    },
+    "371042": {
+        "question": "Hàm fieldNameSize có công dụng gì?&nbsp;",
+        "answer": "xác định kích thước tên trường tối đa "
+    },
+    "371043": {
+        "question": "Hàm fieldSize có công dụng gì?&nbsp;",
+        "answer": "kích thước giá trị của trường tối đa "
+    },
+    "371044": {
+        "question": "Hàm fields có công dụng gì?&nbsp;",
+        "answer": "số lượng tối đa của trường không phải là tệp"
+    },
+    "371045": {
+        "question": "Lệnh nào giới hạn kích thước 1MB?",
+        "answer": "limits:{filesize: 1*1024*1024}"
+    },
+    "371046": {
+        "question": "Có thể upload các dạng tập tin ảnh nào?&nbsp;",
+        "answer": "Tất cả đều đúng"
+    },
+    "371047": {
+        "question": "Phát biểu nào đúng về MongoDB?",
+        "answer": "MongoDB là một CSDL mã nguồn mở"
+    },
+    "371048": {
+        "question": "MongoDB là cơ sở dữ liệu loại nào?&nbsp;",
+        "answer": "cơ sở dữ liệu NoSQL"
+    },
+    "371049": {
+        "question": "MongoDB được viết bằng ngôn ngữ nào?&nbsp;",
+        "answer": "C++"
+    },
+    "371050": {
+        "question": "Phát biểu nào đúng về MongoDB?",
+        "answer": "Hoạt động trên đa nền tảng"
+    },
+    "371051": {
+        "question": "MongoDB hoạt động trên các khái niệm?",
+        "answer": " Collection và Document"
+    },
+    "371052": {
+        "question": "NoSQL viết tắt bởi cụm từ nào?",
+        "answer": "None-Relational SQL"
+    },
+    "371053": {
+        "question": "Vì sao NoSql có hiệu suất tốt hơn SQL?&nbsp;",
+        "answer": "Bỏ qua các ràng buộc dữ liệu"
+    },
+    "371054": {
+        "question": "Kiểu dữ liệu chính được dùng trong NoSQL là gì?",
+        "answer": "Json"
+    },
+    "371055": {
+        "question": "Dữ liệu thao tác của MongoDB chủ yếu hoạt động trên môi trường nào?",
+        "answer": "ram"
+    },
+    "371056": {
+        "question": "Mlab cung cấp các server chính cho MongoDB là gi?&nbsp;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371057": {
+        "question": "Phát biểu nào đúng về _id trong MongoDB?",
+        "answer": "Là trường bắt buộc có trong mỗi document"
+    },
+    "371058": {
+        "question": "Phát biểu nào đúng về Collection trong MongoDB?",
+        "answer": "Là nhóm của nhiều document trong MongoDB"
+    },
+    "371059": {
+        "question": "Phát biểu nào đúng về Cursor trong MongoDB?",
+        "answer": "là một con trỏ đến tập kết quả của một truy vấn"
+    },
+    "371060": {
+        "question": "Phát biểu nào đúng về Database trong MongoDB?",
+        "answer": "Nơi chứa các Collection"
+    },
+    "371061": {
+        "question": "Phát biểu nào đúng về Document&nbsp; trong MongoDB? &nbsp; &nbsp; &nbsp;",
+        "answer": "Một bản ghi thuộc một Collection"
+    },
+    "371062": {
+        "question": "Phát biểu nào đúng về Field trong MongoDB?",
+        "answer": "Là một cặp name – value trong một document"
+    },
+    "371063": {
+        "question": "JSON là viết tắt của cụm từ nào?&nbsp;",
+        "answer": "JavaScript Object Notation"
+    },
+    "371064": {
+        "question": "MongoDB phù hợp cho các ứng dụng dạng nào?",
+        "answer": "realtime"
+    },
+    "371065": {
+        "question": "Đâu là nhược điểm của MongoDB?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371066": {
+        "question": "MongoDB lưu trữ dữ liệu theo hướng nào?",
+        "answer": "hướng tài liệu (document)"
+    },
+    "371067": {
+        "question": "Mongoose là gì?",
+        "answer": "thư viện mô hình hóa đối tượng(Object Data Model - ODM) cho MongoDB và NodeJS"
+    },
+    "371068": {
+        "question": "Mongoose cho phép định nghĩa các object với?&nbsp;",
+        "answer": "schema"
+    },
+    "371069": {
+        "question": "Tác dụng của Mongoose là gì?",
+        "answer": "kết nối MongoDB và NodeJS"
+    },
+    "371070": {
+        "question": "Mongoose hiện có bao nhiêu SchemaTypes",
+        "answer": "8"
+    },
+    "371071": {
+        "question": "SchemaTypes nào quy định chữ viết hoa, chữ viết thường?",
+        "answer": "String"
+    },
+    "371072": {
+        "question": "SchemaTypes nào quy định loại dữ liệu nhị phân?",
+        "answer": "Buffer"
+    },
+    "371073": {
+        "question": "SchemaTypes nào chỉ định một liên kết đến một tài liệu khác trong Database?",
+        "answer": "ObjectId"
+    },
+    "371074": {
+        "question": "SchemaTypes nào cho phép lưu trữ các mảng giống như Javascript?",
+        "answer": "array"
+    },
+    "371075": {
+        "question": "Câu lệnh nào thực hiện cài đặt Mongoose?",
+        "answer": "npm install mongoose --save"
+    },
+    "371076": {
+        "question": "Câu lệnh nào thực hiện gọi thư viện mongoose?",
+        "answer": "var mongoose = require('mongoose');"
+    },
+    "371077": {
+        "question": "Phương thức nào được sử dụng tạo kết nối đến database?",
+        "answer": "mongoose.connect()"
+    },
+    "371078": {
+        "question": "Câu lệnh nào cho phép tạo schema có chứa hai thuộc tính: firstName?",
+        "answer": "var userSchema = mongoose.Schema({firstName: String});"
+    },
+    "371079": {
+        "question": "Schema được \"biên dịch\" thành mô hình qua phương thức nào?&nbsp;",
+        "answer": "mongoose.model()"
+    },
+    "371080": {
+        "question": "Phương thức nào được sử dụng thêm collection và document cho MongoDB?",
+        "answer": "save"
+    },
+    "371081": {
+        "question": "Thuộc tính Required trong đoạn lệnh 'firstName: {type: String,required: true}' có công dụng nào?",
+        "answer": "Bắt buộc nhập liệu"
+    },
+    "371082": {
+        "question": "Mongoose cung cấp cácchức năng nào để tìm dữ liệu cho một Model ?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "371083": {
+        "question": "Phương thức nào thực hiện xóa một dòng dữ liệu?",
+        "answer": "remove"
+    },
+    "371084": {
+        "question": "Phương thức nào vừa định nghĩa một phần tử của mô hình vừa lưu lại ?",
+        "answer": "create()"
+    },
+    "371085": {
+        "question": "Lệnh nào bật server index.js?",
+        "answer": "nodemon index.js"
+    },
+    "371086": {
+        "question": "Trường 'Id' trong mongoose có kiểu nào?",
+        "answer": "chuỗi"
+    },
+    "371087": {
+        "question": "Phát biểu nào đúng về Socket.io?&nbsp;",
+        "answer": "Là một module của NodeJs"
+    },
+    "371088": {
+        "question": "Socket.io là một thư viện của?&nbsp;",
+        "answer": "WebSocket"
+    },
+    "371089": {
+        "question": "Mục đích của Socket.io là gi?",
+        "answer": "tạo ra realtime NodeJS application"
+    },
+    "371090": {
+        "question": "Khi thêm Socket.io module vào trong ứng dụng nó sẽ cung cấp cho chúng ta hai object đó là?",
+        "answer": "socket server và socket client"
+    },
+    "371091": {
+        "question": "Dòng lệnh nào giúp Node.JS hiểu và đọc file package.json?",
+        "answer": "npm install"
+    },
+    "371092": {
+        "question": "Thêm quyền truy cập Internet cho ứng dụng android trong file nào?",
+        "answer": "AndroidManifest.xml"
+    },
+    "371093": {
+        "question": "Sự kiện nào lắng nghe các sự kiện kết nối lên server?",
+        "answer": "io.sockets.on('connection', function (socket)"
+    },
+    "371094": {
+        "question": "Sự kiện nào lắng nghe các sự kiện client gửi lên server với data là message?",
+        "answer": "socket.on('sendmessage', function(message)"
+    },
+    "371095": {
+        "question": "Lệnh nào cho phép xem Ip từ thiết bị máy tính?",
+        "answer": "ipconfig"
+    },
+    "371096": {
+        "question": "Lệnh nào hỗ trợ kết nối đến node server?",
+        "answer": "SocketIO socket = new SocketIO(new URL(SERVER_ADDRESS)"
+    },
+    "371097": {
+        "question": "Lệnh nào khai báo dùng thư viện express?",
+        "answer": "var express = require(\"express\");"
+    },
+    "371098": {
+        "question": "Lệnh nào khai báo dùng thư viện socket.io?",
+        "answer": "var io = require(\"socket.io\").listen(server);"
+    },
+    "371099": {
+        "question": "Lệnh nào chỉ định dùng port 3000?",
+        "answer": "server.listen(3000);"
+    },
+    "371100": {
+        "question": "Sự kiện nào lắng nghe việc kết nối server thất bại?",
+        "answer": "mSocket.on(Socket.EVENT_CONNECT_ERROR, onConnectError)"
+    },
+    "371101": {
+        "question": "Sự kiện nào lắng nghe việc kết nối server thành công?",
+        "answer": "mSocket.on(Socket.EVENT_CONNECT, onConnectSucsses);"
+    },
+    "371102": {
+        "question": "Phương thức nào bắt đầu việc kết nối server?",
+        "answer": "mSocket.connect()"
+    },
+    "371103": {
+        "question": "Lệnh nào gửi một message lên server?",
+        "answer": "mSocket.emit(\"new message\", message);"
+    },
+    "371104": {
+        "question": "Trong câu lệnh 'mSocket.emit(\"new message\", message); ' thì 'new message' là gì?",
+        "answer": "key được lắng nghe phía server"
+    },
+    "371105": {
+        "question": "Lện nào lưu lại user login khi đăng nhập lên server?",
+        "answer": "socket.user = user_name"
+    },
+    "371106": {
+        "question": "Lệnh nào đóng kết nối server?",
+        "answer": "mSocket.disconnect(); "
+    },
+    "371107": {
+        "question": "Loại đèn nào sau đây thường được dùng để báo hiệu?",
+        "answer": "Đèn Led"
+    },
+    "371108": {
+        "question": "Đèn Led được dùng nhiều trong lập trình IOT bởi các lý do sau?",
+        "answer": "Tất cả đáp án trên"
+    },
+    "371109": {
+        "question": "Thông số 5mm của loại đèn LED 5mm có ý nghĩa gì?",
+        "answer": "Là đường kính của LED"
+    },
+    "371110": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau đây?",
+        "answer": "không thể kết nối trực tiếp LED với pin hoặc nguồn điện. "
+    },
+    "371111": {
+        "question": "Thiết bị nào giúp cho phép giới hạn dòng điện chạy qua đèn LED?",
+        "answer": "Điện trở"
+    },
+    "371112": {
+        "question": "Dấu hiệu nào để phân biệt cực âm và cực dương của đèn LED?",
+        "answer": "Cực âm ngắn hơn cực dương"
+    },
+    "371113": {
+        "question": "LED siêu sáng và LED thường có đặc điểm nào giống nhau?",
+        "answer": "Cùng kích cỡ"
+    },
+    "371114": {
+        "question": "Thường giá của đèn LED siêu sáng đắt gấp bao nhiêu lần so với đèn LED thường?",
+        "answer": "2"
+    },
+    "371115": {
+        "question": "Đặc điểm chung của LED dán (SMD) là ?",
+        "answer": "Cực kỳ nhỏ"
+    },
+    "371116": {
+        "question": "Loại mạch nào là ứng dụng của LED dán?",
+        "answer": "Mạch in"
+    },
+    "371117": {
+        "question": "Chữ RGB trong LED RGB được viết tắt bởi?",
+        "answer": "RED-GREEN-BLUE"
+    },
+    "371118": {
+        "question": "Đặc điểm của đèn LED RGB là gì?",
+        "answer": "Sử dụng 3 màu trong một con LED"
+    },
+    "371119": {
+        "question": "Chức năng chính của điện trở là gì?",
+        "answer": "Cản trở dòng điện"
+    },
+    "371120": {
+        "question": "Ứng dụng của điện trở dùng để làm gì?",
+        "answer": "Điều khiển thay đổi độ sáng của LED"
+    },
+    "371121": {
+        "question": "Đơn vị của điện trở&nbsp; là gì?",
+        "answer": "Ohm"
+    },
+    "371122": {
+        "question": "Để cung cấp nguồn cho LED và điện trở, thì mạch Arduino phải có sẵn nguồn là bao nhiêu",
+        "answer": "5V"
+    },
+    "371123": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau đây?",
+        "answer": "\"Đặt điện trở để hạn chế dòng vào LEDkhông phụ thuộc vào vị trí của điện trở và LED.\""
+    },
+    "371124": {
+        "question": "Thiết bị nào sau đây giúp phát ra âm thanh để làm ứng dụng còi báo trong lập trình Arduino?",
+        "answer": "Buzzer"
+    },
+    "371125": {
+        "question": "Thiết bị Buzzer có bao nhiêu chân?",
+        "answer": "2"
+    },
+    "371126": {
+        "question": "Giá thị trường của thiết bị như thế nào?",
+        "answer": "Rẻ"
+    },
+    "371127": {
+        "question": "Kích thước loại button nào thường sử dụng nhiều nhất trong lập trình IOT?",
+        "answer": "3mm hoặc 9mm"
+    },
+    "371128": {
+        "question": "Loại button nào có kích thước cực nhỏ, dùng làm nút reset cho Arduino Promini?",
+        "answer": "Button dán"
+    },
+    "371129": {
+        "question": "Nút nhấn thường có bao nhiêu chân?",
+        "answer": "2"
+    },
+    "371130": {
+        "question": "Nguyên lý hoạt động của các chân trong nút bấm là gì?",
+        "answer": "Dòng điện từ 1 chân bất kì có thể tới 3 chân còn lại"
+    },
+    "371131": {
+        "question": "Muốn sử dụng nút bấm, có cần sử dụng điển trở khi thiết kế bo mạch không?",
+        "answer": "Có"
+    },
+    "371132": {
+        "question": "Lệnh nào sau đây cho phép đọc giá trị của nút bấm ở chân D2?",
+        "answer": "Readdigital(2)"
+    },
+    "371133": {
+        "question": "Giá trị nào đại diện cho thao tác có nhấn nút bấm?",
+        "answer": "1"
+    },
+    "371134": {
+        "question": "Giá trị nào đại diện cho thao tác không có nhấn nút bấm?",
+        "answer": "0"
+    },
+    "371135": {
+        "question": "Khi nào điện trở được gọi là điện trở pulldown ?",
+        "answer": "Khi chưa nhấn nút, nếu nối chân D2 với GND qua 1 điện trở thì người ta gọi điện trở "
+    },
+    "371136": {
+        "question": "Khi nào điện trở được gọi là điện trở pullup ?",
+        "answer": "Nếu nối D2 với chân 5V qua một điện trở "
+    },
+    "371137": {
+        "question": "Phím tắt cho phép mở cửa sổ Serial Monitor?",
+        "answer": "Ctrl + Shift + M"
+    },
+    "371138": {
+        "question": "Cấu trúc của LED 7 đoạn bao gồm mấy đèn LED?",
+        "answer": "8"
+    },
+    "371139": {
+        "question": "LED 7 đoạn gồm 2 loại đó là?",
+        "answer": "Dương chung và âm chung"
+    },
+    "371140": {
+        "question": "Để hiển thị số 0 khi sử dụng LED 7 đoạn, đoạn nào phải sáng?",
+        "answer": "a, b, c, d, e, f "
+    },
+    "371141": {
+        "question": "Dãy mã nhị phân nào thể hiện số 1 khi sử dụng LED 7 đoạn?",
+        "answer": "B01100000"
+    },
+    "371142": {
+        "question": "Dãy mã nhị phân nào thể hiện số 7 khi sử dụng LED 7 đoạn?",
+        "answer": "B11100000"
+    },
+    "371143": {
+        "question": "Lệnh nào định nghĩa chân xuất tín hiệu OUTPUT?",
+        "answer": "pinMode(A, OUTPUT)"
+    },
+    "371144": {
+        "question": "Dùng module nào để hiển thị các chữ như mong muốn?",
+        "answer": "Max7219"
+    },
+    "371145": {
+        "question": "Module sử dụng IC max7219 là Ic tích hợp, có bao nhiêu chân?",
+        "answer": "24"
+    },
+    "371146": {
+        "question": "Để nối Module IC max7219 tới Arduino, cần sử dụng chân như thế nào?",
+        "answer": "Sử dụng 3 chân dữ liệu và 2 chân nguồn"
+    },
+    "371147": {
+        "question": "Chức năng của trình theo dõi serial (serial monitor) là gì?",
+        "answer": "Hiển thị thông tin"
+    },
+    "371148": {
+        "question": "Hàm nào cho phép thiết lập tốc độ kết nối qua công USB khi sử dụng trình theo dõi?&nbsp;",
+        "answer": "Serial.begin()"
+    },
+    "371149": {
+        "question": "Nội dung hiển thị được lên trình theo dõi được qui định bởi hàm nào?",
+        "answer": "Serial.print() "
+    },
+    "371150": {
+        "question": "Hàm nào để lấy text gửi từ máy tính? ",
+        "answer": "Serial.readStringUntil('\\n')"
+    },
+    "371151": {
+        "question": "Thư viện nào cho phép điều khiển LCD?",
+        "answer": "LiquidCrystal"
+    },
+    "371152": {
+        "question": "Thư viện nào được xây dựng để có thể lập trình điều khiển các module LCD ô vuông một cách nhanh chóng?",
+        "answer": "LiquidCrystal"
+    },
+    "371153": {
+        "question": "LCD có bao nhiêu chân dữ liệu?",
+        "answer": "8"
+    },
+    "371154": {
+        "question": "Chân VSS của LCD tương đương với?",
+        "answer": "Cực âm"
+    },
+    "371155": {
+        "question": "Chân VDD của LCD tương đương với?",
+        "answer": "Cực dương (5V)"
+    },
+    "371156": {
+        "question": "Chức năng chân Vo của LCD dùng để làm gì?",
+        "answer": "Điều khiển ánh sáng của màn hình"
+    },
+    "371157": {
+        "question": "Chức năng chân RS của LCD dùng để làm gì?",
+        "answer": "Điều khiển địa chỉ nào sẽ được ghi dữ liệu"
+    },
+    "371158": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau đây?",
+        "answer": "Chân Enable của LCD cho phép ghi vào LCD"
+    },
+    "371159": {
+        "question": "Chân dữ liệu từ D0 - D7 của LCD sẽ có các giá trị là?",
+        "answer": "LOW VÀ HIGH"
+    },
+    "371160": {
+        "question": "Giá trị nào cho biết LCD đang đọc giá trị?",
+        "answer": "HIGH"
+    },
+    "371161": {
+        "question": "Giá trị nào cho biết LCD đang ghi giá trị?",
+        "answer": "LOW"
+    },
+    "371162": {
+        "question": "Chức năng chân Backlight của LCD dùng để làm gì?",
+        "answer": "Tắt và bật đèn màn hình"
+    },
+    "371163": {
+        "question": "Phát biểu sau đây đúng hay sai: \"Module LCD có thể được điều khiển ở chế độ: 4-bit điều khiển và 8-bit điều khiển\"",
+        "answer": "Đúng"
+    },
+    "371164": {
+        "question": "Ở chế độ 4-bit của module LCD, khi sử dụng cần mấy chân ở Arduino?",
+        "answer": "10"
+    },
+    "371165": {
+        "question": "Khi lập trình tương tác với LCD điều đầu tiên chúng ta nên làm gì?",
+        "answer": "Thêm thư viện"
+    },
+    "371166": {
+        "question": "Để in ra text hiển thị trên LCD sử dụng hàm nào?",
+        "answer": "lcd.print()"
+    },
+    "371167": {
+        "question": "Nhiệm vụ của ngõ vào Analog dùng để làm gì?",
+        "answer": "Đọc giá trị"
+    },
+    "371168": {
+        "question": "&nbsp;Ngõ vào Analog nhận giá trị từ chân analog A0 nhỏ nhất&nbsp; là bao nhiêu?",
+        "answer": "0"
+    },
+    "371169": {
+        "question": "&nbsp;Ngõ vào Analog nhận giá trị từ chân analog A0 lớn nhất&nbsp; là bao nhiêu?",
+        "answer": "1023"
+    },
+    "371170": {
+        "question": "&nbsp;Ngõ vào Analog nhận giá trị từ khoảng nào từ chân analog A0?",
+        "answer": "0-1023"
+    },
+    "371171": {
+        "question": "Để hiển thị giá trị điện áp từ chân analog A0 lên Serial Monitor, chúng ta cần sử dụng hàm nào sau đây?",
+        "answer": "analogRead() "
+    },
+    "371172": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ chân analog A0, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "Int"
+    },
+    "371173": {
+        "question": "Dùng thiết bị nào để có thể thay đổi giá trị đọc điện áp từ chân analog A0?",
+        "answer": "Biến trở"
+    },
+    "371174": {
+        "question": "Điểm khác biệt giữa điện trở và biến trở là gì?",
+        "answer": "Biến trở một tiếp điểm ở giữa gọi là tranh trượt (slider). "
+    },
+    "371175": {
+        "question": "Điểm giống nhau giữa điện trở và biến trở là gì?",
+        "answer": "Biến trở có một đường vòng tròn đóng vai trò như một điện trở"
+    },
+    "371176": {
+        "question": "Tiếp điểm của biến trở dùng để làm gì?",
+        "answer": "Tiếp điểm này sẽ xoay khi xoay nút điện trở"
+    },
+    "371177": {
+        "question": "Điểm khác biệt giữa ngõ vào Analog và Digital là gì?",
+        "answer": "Sử dụng nút nhấn với ngõ vào digital để bật và tắt LED"
+    },
+    "371178": {
+        "question": "Để điều khiển đèn LED từ ngõ vào digital, chúng ta sử dụng cái gì?",
+        "answer": "Button"
+    },
+    "371179": {
+        "question": "Khi sử dụng 2 nút nhấn, chúng ta cần sử dụng bao nhiêu biến tương ứng?",
+        "answer": "2"
+    },
+    "371180": {
+        "question": "Để cấu hình một pin đầu ra, chúng ta sử dụng hàm nào?",
+        "answer": "pinmode()"
+    },
+    "371181": {
+        "question": "Thông thường hàm pinmode() nằm trong phương thức nào sau đây?",
+        "answer": "Void setup()"
+    },
+    "371182": {
+        "question": "Chế độ INPUT_PULLUP có nghĩa là gì()",
+        "answer": "Chân được đặt làm ngõ vào tín hiệu"
+    },
+    "371183": {
+        "question": "Giá trị mặc định của ngõ vào tín hiệu là gì?",
+        "answer": "HIGH"
+    },
+    "371184": {
+        "question": "Giá trị ngõ vào tín hiệu là LOW khi nào?",
+        "answer": "Nhấn nút"
+    },
+    "371185": {
+        "question": "Giá trị ngõ vào tín hiệu là HIGH khi nào?",
+        "answer": "không nhấn nút"
+    },
+    "371186": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau?",
+        "answer": "Tấ cả đáp án trên là đúng"
+    },
+    "371187": {
+        "question": "Quang trở thường được sử dụng trong mạch cảm biến nào?",
+        "answer": "Cảm biến ánh sáng"
+    },
+    "371188": {
+        "question": "Loại thiết bị điện tử nào có điện trở sáng phụ thuộc vào ánh sáng?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371189": {
+        "question": "Khi đặt quang trở ở nơi ít ánh sáng, bóng râm thì có điện trở của quang trở thay đổi như thế nào?",
+        "answer": "Tăng cao"
+    },
+    "371190": {
+        "question": "Khi đặt quang trở ở nơi nhiều ánh sáng, bóng râm thì có điện trở của quang trở thay đổi như thế nào?",
+        "answer": "Giảm mạnh"
+    },
+    "371191": {
+        "question": "Để khai báo một biến lưu giá trị đọc từ quang trở, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "Double"
+    },
+    "371192": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của quang trở?",
+        "answer": "analogRead()"
+    },
+    "371193": {
+        "question": "Tại sao chúng ta phải đặt hàm đọc giá trị quang trở trong phương thức void loop()?",
+        "answer": "Vì phương thức void loop() sẽ lặp lại giá trị quang trở khi có sự thay đổi cường độ ánh sáng một cách liên tục."
+    },
+    "371194": {
+        "question": "Khi xây dựng một ứng dụng đèn sẽ sáng nếu giá trị quang trở bé hơn một ngưỡng nào đó (ta có thể thay đổi được), thường chúng ta sẽ sử dụng thiết bị nào kèm theo?",
+        "answer": "Biến trở"
+    },
+    "371195": {
+        "question": "Ứng dụng của cảm biến ánh sáng là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371196": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến ánh sáng, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "Int"
+    },
+    "371197": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của cảm biến ánh sáng?",
+        "answer": "DigitalRead()"
+    },
+    "371198": {
+        "question": "Hàm nào được sử dụng xuất giá trị từ cảm biến ánh sáng tới đèn LED?",
+        "answer": "digitalWrite()"
+    },
+    "371199": {
+        "question": "Ứng dụng của cảm biến âm thanh là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371200": {
+        "question": "Cảm biến âm thanh sử dụng thiết bị gì để phát hiện âm thanh?",
+        "answer": "microphone&nbsp;và&nbsp;opamp"
+    },
+    "371201": {
+        "question": "Nguồn để cấp cho cảm biến âm thanh là bao nhiêu?",
+        "answer": "Từ 4V đến 6V"
+    },
+    "371202": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến âm thanh tới mạch Arduino?",
+        "answer": "VCC -&gt; + 5V; GND -&gt; GND ; A0 -&gt; A1; D0 - &gt; D4"
+    },
+    "371203": {
+        "question": "Kích thước của cảm biến âm thanh thường là bao nhiêu?",
+        "answer": "38mm&nbsp;*&nbsp;16mm&nbsp;*&nbsp;9mm"
+    },
+    "371204": {
+        "question": "Chọn cụm từ thích hợp điền vào chổ trống sau:\n \"Nếu cường&nbsp;độ&nbsp;âm&nbsp;thanh&nbsp;vượt&nbsp;qua&nbsp;1&nbsp;ngưỡng&nbsp;xác&nbsp;định ngõ&nbsp;ra&nbsp;sẽ&nbsp;được____________&nbsp;\"",
+        "answer": "kéo&nbsp;xuống&nbsp;mức&nbsp;thấp và có led báo hiệu"
+    },
+    "371205": {
+        "question": "Thiết bị được dùng khi cường độ âm thanh vượt ngưỡng?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371206": {
+        "question": "Giá cảm biến âm thanh ngoài thị trường hiện tại là bao nhiêu?",
+        "answer": "\"&lt; 200 VND"
+    },
+    "371207": {
+        "question": "Để đo nhiệt độ thời gian thực, chúng ta sử dụng loại cảm biến nào?",
+        "answer": "Cảm biến nhiệt độ LM35"
+    },
+    "371208": {
+        "question": "Ưu điểm của cảm biến nhiệt độ LM35 là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371209": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau?",
+        "answer": "Cảm&nbsp;biến&nbsp;nhiệt&nbsp;độ&nbsp;LM35&nbsp;là&nbsp;một&nbsp;loại cảm&nbsp;biến tương tự rất&nbsp;hay&nbsp;được&nbsp;ứng&nbsp;dụng."
+    },
+    "371210": {
+        "question": "Nhiệt độ của cảm biến nhiệt LM35 được đo như thế nào?",
+        "answer": "Đo hiệu điện thế ngõ ra LM35"
+    },
+    "371211": {
+        "question": "Để khai báo một biến lưu giá trị đọc ngõ ra cảm biến LM35, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "float"
+    },
+    "371212": {
+        "question": "Hàm nào được sử dụng để đọc giá trị ngõ ra cảm biến LM35?",
+        "answer": "analogRead()"
+    },
+    "371213": {
+        "question": "Công thức nào cho phép đo hiệu điện thế ở ngõ ra cảm biến nhiệt LM35?",
+        "answer": "float&nbsp;temperature&nbsp;=&nbsp;(5.0*analogRead(A0)*100.0/1024.0);"
+    },
+    "371214": {
+        "question": "Cấu tạo của cảm biến nhiệt độ LM35 bao gồm?",
+        "answer": "2 chân nguồn và 1 chân tín hiệu ra dạng Analog"
+    },
+    "371215": {
+        "question": "Mạch cảm biến nhiệt độ sử dụng LM35 có chức năng gì?",
+        "answer": "Tự động ngắt điện khi nhiệt độ vượt ngưỡng tối đa."
+    },
+    "371216": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến độ ẩm đất, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "float"
+    },
+    "371217": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của cảm biến ánh sáng?",
+        "answer": "analogRead()"
+    },
+    "371218": {
+        "question": "Mức ra mặc định của cảm biến độ ẩm đất?",
+        "answer": "Thấp"
+    },
+    "371219": {
+        "question": "Ứng dụng của cảm biến độ ẩm đất là gì?",
+        "answer": "Tưới nước tự động"
+    },
+    "371220": {
+        "question": "Chúng ta có thể điều chỉnh độ nhạy của độ ẩm đất được hay không?",
+        "answer": "được"
+    },
+    "371221": {
+        "question": "Nguồn để cấp cho cảm biến âm thanh là bao nhiêu?",
+        "answer": "Từ 3.3V đến 5V"
+    },
+    "371222": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến độ ẩm đất tới mạch Arduino?",
+        "answer": "VCC -&gt; + 5V; GND -&gt; GND ; A0 -&gt; A1"
+    },
+    "371223": {
+        "question": "Kích thước của cảm biến độ ẩm đất PCB thường là bao nhiêu?",
+        "answer": "3.2 x 1.4cm"
+    },
+    "371224": {
+        "question": "Khi nào đầu ra của độ ẩm đất sẽ chuyển từ mức thấp sang mức cao?",
+        "answer": "Khi độ ẩm đất nhỏ ngưỡng thiết lập"
+    },
+    "371225": {
+        "question": "Thiết bị nào được dùng để&nbsp; ngắt điện khi nhiệt độ&nbsp; vượt ngưỡng tối đa?",
+        "answer": "Rơle"
+    },
+    "371226": {
+        "question": "Chức năng của phần đầu dò trong cảm biến độ ẩm đất được dùng để làm gì?",
+        "answer": "Dò độ ẩm đất"
+    },
+    "371227": {
+        "question": "Ứng dụng của cảm biến rung là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371228": {
+        "question": "Đặc điểm của cảm biến rung là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371229": {
+        "question": "Đầu rung của cảm biến rung thường có màu gì để nhận dạng?",
+        "answer": "Vàng"
+    },
+    "371230": {
+        "question": "Bên trong đầu rung của cảm biến rung có một thiết bị, thiết bị này có hình dạng gì?",
+        "answer": "Như 1 viên bi"
+    },
+    "371231": {
+        "question": "Cảm biến nghiêng bao nhiêu độ thì sẽ cho ra tín hiệu?",
+        "answer": "15"
+    },
+    "371232": {
+        "question": "Loại tín hiệu đầu ra của cảm biến rung là loại tín hiệu gì?",
+        "answer": "Tương tự"
+    },
+    "371233": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau đây?",
+        "answer": "Khi cảm biến nghiêng 1 góc khoảng 15 độ thì viên bi lăn và nối điện, đồng thời cho tín hiệu ra."
+    },
+    "371234": {
+        "question": "Để sử dụng cảm biến rung, cần cung cấp nguồn là bao nhiêu?",
+        "answer": "5V"
+    },
+    "371235": {
+        "question": "Cấu tạo chân tín hiệu của cảm biến rung bao gồm?",
+        "answer": "1 chân tín hiệu số và1 chân tín hiệu Analog"
+    },
+    "371236": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến rung, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "float"
+    },
+    "371237": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của cảm biến rung?",
+        "answer": "analogRead()"
+    },
+    "371238": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến rung tới mạch Arduino?",
+        "answer": "VCC -&gt; 5V; GND -&gt; GND ; A0 -&gt; A0"
+    },
+    "371239": {
+        "question": "Ứng dụng của cảm biến mưa là gì?",
+        "answer": "Phát hiện trời mưa"
+    },
+    "371240": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến mưa tới mạch Arduino?",
+        "answer": "VCC -&gt; 5V; GND -&gt; GND ; D0 -&gt; Digital 6"
+    },
+    "371241": {
+        "question": "Mạch của cảm biến mưa gồm có 2 phần đó là?",
+        "answer": "Bộ phận điều chỉnh độ nhạy cần được che và Cảm biến mưa được gắn ngoài trời"
+    },
+    "371242": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến mưa, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "Int"
+    },
+    "371243": {
+        "question": "Giá trị tín hiệu đầu ra&nbsp; nào của cảm biến mưa cho ta biết trời đang mưa?",
+        "answer": "HIGH"
+    },
+    "371244": {
+        "question": "Giá trị tín hiệu đầu ra&nbsp; nào của cảm biến mưa cho ta biết trời đang không mưa?",
+        "answer": "LOW"
+    },
+    "371245": {
+        "question": "Tín hiệu đầu ra của cảm biến mưa thuộc loại tín hiệu gì?",
+        "answer": "Digital"
+    },
+    "371246": {
+        "question": "Khi có nước ở bề mặt cảm biến mưa thì chân D0 có điện áp là bao nhiêu?",
+        "answer": "0V"
+    },
+    "371247": {
+        "question": "Ứng dụng của cảm biến khí ga?",
+        "answer": "Phát hiện rò rỉ khí ga"
+    },
+    "371248": {
+        "question": "Để đo độ cảm biến khí ga, chúng ta sử dụng chân nào của cảm biến?",
+        "answer": "Chân Analog"
+    },
+    "371249": {
+        "question": "Dạng tín hiệu đầu ra từ đầu ra của cảm biến khí ga là?",
+        "answer": "Analog"
+    },
+    "371250": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến khí ga tới mạch Arduino?",
+        "answer": "VCC -&gt; 5V; GND -&gt; GND ; A0 -&gt; Aout"
+    },
+    "371251": {
+        "question": "Dụng cụ nào dùng để test cảm biến khí ga?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "371252": {
+        "question": "Số chân của cảm biến khí ga là mấy?",
+        "answer": "5"
+    },
+    "371253": {
+        "question": "Đâu là phần cứng cần thiết khi lập trình với cảm biến khí ga?",
+        "answer": "\"Arduino UNO; Breadboard;Dây cắm breadboard ; Cảm biến&nbsp;MQ2 \""
+    },
+    "371254": {
+        "question": "Để sử dụng cảm biến khí ga, cần cung cấp nguồn là bao nhiêu?",
+        "answer": "5V"
+    },
+    "371255": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến khí ga, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "int"
+    },
+    "371256": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của cảm biến khí ga?",
+        "answer": "analogRead()"
+    },
+    "371257": {
+        "question": "PIR được viết tắt bởi cụm từ nào sau đây?",
+        "answer": "Passive InfraRed "
+    },
+    "371258": {
+        "question": "Cảm biến chuyển động được kích hoạt bởi?",
+        "answer": "Tin hồng ngoại"
+    },
+    "371259": {
+        "question": "Tia hồng ngoại tồn tại trong?",
+        "answer": "Cơ thể con người"
+    },
+    "371260": {
+        "question": "Cảm biến chuyển động được gọi cảm biến thụ động là bởi?",
+        "answer": "Không dùng nguồn nhiệt tự phát"
+    },
+    "371261": {
+        "question": "Số chân của cảm biến khí chuyển động là mấy?",
+        "answer": "3"
+    },
+    "371262": {
+        "question": "Để khai báo một biến lưu giá trị đọc được từ cảm biến chuyển động, biến này thuộc kiểu dữ liệu nào?",
+        "answer": "Int"
+    },
+    "371263": {
+        "question": "Hàm nào được sử dụng để đọc giá trị của cảm biến khí chuyển động?",
+        "answer": "digitalRead()"
+    },
+    "371264": {
+        "question": "Hãy chỉ ra đâu là sơ đồ nối dây đúng từ cảm biến chuyển động tới mạch Arduino?",
+        "answer": "VCC -&gt; +5V; GND -&gt; GND ; A2 -&gt; OUT"
+    },
+    "371265": {
+        "question": "Tín hiệu đầu ra của cảm biến chuyển động thuộc loại tín hiệu gì?",
+        "answer": "Digital"
+    },
+    "371266": {
+        "question": "Điện áp được cấp cho cảm biến chuyển động cao nhất là bao nhiêu?",
+        "answer": "15V"
+    }
+}

@@ -1,0 +1,3270 @@
+{
+    "440132": {
+        "question": "Một công nghệ truyền thông tầm ngắn phổ biến&nbsp; hiện nay ?",
+        "answer": "Bluetooth"
+    },
+    "440133": {
+        "question": "Giao thức quan trọng cho các ứng dụng IoT hiện nay là?",
+        "answer": "Bluetooth Low-Energy"
+    },
+    "440134": {
+        "question": "Theo Bluetooth SIG có bao nhiêu phần trăm smart phone có hỗ trợ Bluetooth?",
+        "answer": "90%"
+    },
+    "440135": {
+        "question": "Kết nối IoT với Bluetooth có tần số hoạt động là?",
+        "answer": "2.4GHz"
+    },
+    "440136": {
+        "question": "Công nghệ ZigBee được xây dựng dựa trên tiêu chuẩn nào?",
+        "answer": "802.15.4"
+    },
+    "440137": {
+        "question": "Ưu điểm của việc sử dụng ZigBee là?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "440138": {
+        "question": "Kết nối IoT với Z-WAVE có tần số hoạt động là?",
+        "answer": "900MHz"
+    },
+    "440139": {
+        "question": "Tầm số hoạt động của kết nối Z-WAVE?",
+        "answer": "9m"
+    },
+    "440140": {
+        "question": "Tốc độ truyền dữ liệu của kết nối Z-WAVE?",
+        "answer": "9.6/40/100kbit/s"
+    },
+    "440141": {
+        "question": "6LoWPAN là tên viết tắt ?",
+        "answer": "IPv6 over Low Power Wireless Personal Area Networks"
+    },
+    "440142": {
+        "question": "IPv6 sự kế thừa cho?",
+        "answer": "IPv4"
+    },
+    "440143": {
+        "question": "Kết nối nào là sự lựa chọn hiển nhiên đối với nhiều nhà phát triển?",
+        "answer": "wifi"
+    },
+    "440144": {
+        "question": "Tầm hoạt động của kết nối wifi?",
+        "answer": "50m"
+    },
+    "440145": {
+        "question": "Thuật ngữ NFC được viết tắt bởi?",
+        "answer": "Near Field Communication"
+    },
+    "440146": {
+        "question": "Tầm hoạt động giao tiếp nào có khoảng cách khoảng 10cm?",
+        "answer": "NFC"
+    },
+    "440147": {
+        "question": "Tốc độ truyền dữ liệu: 100–420kbps là của công nghệ nào?",
+        "answer": "NFC"
+    },
+    "440148": {
+        "question": "Công nghệ nào có tầm hoạt động khoảng 2-5km?",
+        "answer": "LoRaWAN "
+    },
+    "440149": {
+        "question": "Modun nào cho phép lưu trữ dữ liệu từ các cảm biến trong IoT?",
+        "answer": "SD card"
+    },
+    "440150": {
+        "question": "Nối chân VCC của DHT22 với 5V output của Arduino Uno đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440151": {
+        "question": "Nối chân GND của DHT22 với chân GND của Arduino Uno đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440152": {
+        "question": "Công nghệ NFC sử dụng sóng gì để nhận dạng các đối tượng vật lý từ vật thể sống?",
+        "answer": "vô tuyến"
+    },
+    "440153": {
+        "question": "Ứng dụng của công nghệ NFC?",
+        "answer": "Tất cả các ứng dụng trên là đúng"
+    },
+    "440154": {
+        "question": "Hầu hết các thiết bị điện thoại thông minh hiện nay đều hỗ trợ công nghệ NFC đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440155": {
+        "question": "Thuật ngữ I2C được viết tắt bởi?",
+        "answer": "Inter-Integrated Circuit"
+    },
+    "440156": {
+        "question": "Để I2C bus có thể hoạt động, chúng ta cần mấy điện trở pull-up?",
+        "answer": "2"
+    },
+    "440157": {
+        "question": "Đế sử dụng I2C bus trên Arduino, chúng ta sẽ cần sử dụng thư viện nào?",
+        "answer": "Wire.h"
+    },
+    "440158": {
+        "question": "Hàm nào cho phép khởi tạo thư viện Wire.h và tham gia vào I2C bus?",
+        "answer": "Wire.begin(address (optional))"
+    },
+    "440159": {
+        "question": "Hàm nào cho phép bắt đầu truyền dữ liệu đến thiết bị \"Slave\" với address đã có?",
+        "answer": "Wire.beginTransmission(address)"
+    },
+    "440160": {
+        "question": "Hàm nào cho phép kết thúc truyền dữ liệu đến thiết bị \"Slave\" đã được bắt đầu bởi&nbsp;Wire.beginTransmission(address)?",
+        "answer": "Wire.endTransmission()"
+    },
+    "440161": {
+        "question": "Hàm nào cho phép ghi dữ liệu lên thiết bị \"Slave\", được gọi giữa&nbsp;beginTransmission() và&nbsp;endTransmission()?",
+        "answer": "Wire.write(value)"
+    },
+    "440162": {
+        "question": "Hàm nào cho phép đọc dữ liệu được truyền từ thiết bị \"Slave\" đến Arduino, được gọi sau requestFrom()?",
+        "answer": "Wire.read()"
+    },
+    "440163": {
+        "question": "Hàm nào&nbsp; cho phép yêu cầu dữ liệu từ thiết bị \"Slave\"?",
+        "answer": "Wire.requestFrom(address, quantity)"
+    },
+    "440164": {
+        "question": "Công nghệ nào sử dụng sóng vô tuyến để nhận dạng một cách tự động những đối tượng vật lý?",
+        "answer": "NFC"
+    },
+    "440165": {
+        "question": "Giao tiếp I2C được phát minh bởi?",
+        "answer": "Philips"
+    },
+    "440166": {
+        "question": "Các thiết bị sử dụng giao tiếp I2C?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440167": {
+        "question": "Trên I2C bus, sẽ có một thiết bị được coi là&nbsp;",
+        "answer": "Master"
+    },
+    "440168": {
+        "question": "Mỗi IC được gắn trên I2C bus là?",
+        "answer": "Slave"
+    },
+    "440169": {
+        "question": "Mỗi \"slave\" có một địa chỉ riêng ở dạng gì?",
+        "answer": "Thập lục phân"
+    },
+    "440170": {
+        "question": "Mục đích của Slave có địa chỉ riêng là để?",
+        "answer": "Master giao tiếp đến Slave "
+    },
+    "440171": {
+        "question": "Nếu chỉ có một thiết bị I2C, chúng ta có thể bỏ qua điện trở pull-up đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440172": {
+        "question": "Ứng dụng của điều khiển bằng Bluetooth?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440173": {
+        "question": "Để lập trình điều khiển thiết bị bằng Bluetooth ta cần điện trở khoảng bao nhiêu Ohm?",
+        "answer": "560"
+    },
+    "440174": {
+        "question": "Điện thoại cần có hệ điều hành gì? Khi chúng điều khiển sự kết nối giữa Arduino với module Bluetooth.",
+        "answer": "Android"
+    },
+    "440175": {
+        "question": "Module BLUETOOTH HC06 có bao nhiêu chân?",
+        "answer": "4"
+    },
+    "440176": {
+        "question": "Khi sử dụng module BLUETOOTH HC06 chúng ta cần mấy chân để nối với Arduino?",
+        "answer": "4"
+    },
+    "440177": {
+        "question": "Để lập trình gửi và nhận dữ liệu giữa Arduino và BLUETOOTH HC06 cách nối chân như thế nào?",
+        "answer": "TX nối chân 0 và chân RX nối với chân 1 trên Arduino"
+    },
+    "440178": {
+        "question": "BLUETOOTH HC06 có bao nhiêu loại?",
+        "answer": "5"
+    },
+    "440179": {
+        "question": "Có một loại BlueTooth HC06 chạy được cả 2 chế độ Master và Slave đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440180": {
+        "question": "Chúng ta có thể tìm phần mềm điện thoại android ở đâu? Để kết nối với Arduino.",
+        "answer": "2 đáp án trên đều đúng"
+    },
+    "440181": {
+        "question": "Giao diện và cách sử dụng phần mềm điện thoại android như thế nào?",
+        "answer": "Dễ "
+    },
+    "440182": {
+        "question": "Thuật ngữ SPI được viết tắt bởi?",
+        "answer": "Serial Peripheral Bus"
+    },
+    "440183": {
+        "question": "Giao tiếp SPI do hãng nào đề xuất?",
+        "answer": "Motorola"
+    },
+    "440184": {
+        "question": "Giao tiếp SPI là truyền thông dạng?",
+        "answer": "Master -Slave"
+    },
+    "440185": {
+        "question": "SPI là một dạng truyền?",
+        "answer": "Song công"
+    },
+    "440186": {
+        "question": "Giao tiếp SPI&nbsp; có tên khác là gì?",
+        "answer": "Chuẩn truyền thông 4 dây"
+    },
+    "440187": {
+        "question": "Thuật ngữ SCK&nbsp; được viết tắt bởi?",
+        "answer": "Serial Clock"
+    },
+    "440188": {
+        "question": "Thuật ngữ MISO được viết tắt bởi?",
+        "answer": "Master Input Slave Output"
+    },
+    "440189": {
+        "question": "Thuật ngữ MOSI được viết tắt bởi ?",
+        "answer": "Master Ouput Slave Input"
+    },
+    "440190": {
+        "question": "Thuật ngữ SS&nbsp; được viết tắt bởi?",
+        "answer": "Slave Select"
+    },
+    "440191": {
+        "question": "Xung giữ nhịp cho giao tiếp SPI là?",
+        "answer": "SCK"
+    },
+    "440192": {
+        "question": "Mạch nào giúp mở rộng Arduino kết nối với internet rộng lớn?",
+        "answer": "Ethernet shield "
+    },
+    "440193": {
+        "question": "Công dụng của mạch mở rộng kết nối Internet của Arduino là?",
+        "answer": "Truyền và nhận thông tin giữa Arduino và thiết bị bên ngoài"
+    },
+    "440194": {
+        "question": "Mạch nào giúp kiểm soát và quản lý hệ thống IoT liên tục và dữ liệu truyền nhanh?",
+        "answer": "Ethernet shield "
+    },
+    "440195": {
+        "question": "Để lập trình&nbsp; kết nối giữa Arduino và Ethernet shield bao gồm mấy bước ?",
+        "answer": "5"
+    },
+    "440196": {
+        "question": "Bước 1 trong lập trình&nbsp; kết nối giữa Arduino và Ethernet shield làm nhiệm vụ gì?",
+        "answer": "Tạo code web để hiển thị nội dung khi truy cập vào website"
+    },
+    "440197": {
+        "question": "Bước 2&nbsp; trong lập trình&nbsp; kết nối giữa Arduino và Ethernet shield làm nhiệm vụ gì?",
+        "answer": "Tạo một&nbsp;Domain và gán ip modem vào đó"
+    },
+    "440198": {
+        "question": "Trong các bước lập trình kết nối giữa Arduino và Ethernet bước nào quan trọng nhất?",
+        "answer": "Bước 3"
+    },
+    "440199": {
+        "question": "Khi lập trình với module sim900A chúng ta phải thêm thư viện đúng hay sai",
+        "answer": "Đúng"
+    },
+    "440200": {
+        "question": "Thư viện nào cho phép gửi, nhận SMS, đọc nội dung SMS, xóa SMS.",
+        "answer": "Thư viện sim900"
+    },
+    "440201": {
+        "question": "Điều kiện để sim điện thoại nhận và gửi khi lập trình tương tác với module sim900?",
+        "answer": "Sim còn tiền"
+    },
+    "440202": {
+        "question": "Khi&nbsp; lập trình kết nối giữa Arduino và Ethernet chân TX của module sim900A cần nối vào chân nào của Arduino?",
+        "answer": "2"
+    },
+    "440203": {
+        "question": "Khi&nbsp; lập trình kết nối giữa Arduino và Ethernet chân RX của module sim900A cần nối vào chân nào của Arduino?",
+        "answer": "3"
+    },
+    "440204": {
+        "question": "Khi&nbsp; lập trình kết nối giữa Arduino và Ethernet chân POWER của module sim900A cần nối vào chân nào của Arduino?",
+        "answer": "4"
+    },
+    "440205": {
+        "question": "Khi&nbsp; lập trình kết nối giữa Arduino và Ethernet chân VCC của module sim900A cần nối vào chân nào của Arduino?",
+        "answer": "VCC"
+    },
+    "440206": {
+        "question": "Khi&nbsp; lập trình kết nối giữa Arduino và Ethernet chân GND của module sim900A cần nối vào chân nào của Arduino?",
+        "answer": "GND"
+    },
+    "440207": {
+        "question": "Hàm nào cho biết tin nhắn chưa được đọc trong thư viện SIM900?",
+        "answer": "IsSMSPresent(SMS_UNREAD)"
+    },
+    "440208": {
+        "question": "Hàm nào cho biết tin nhắn&nbsp; được đọc trong thư viện SIM900?",
+        "answer": "SendSMS(number, \"Da doc tin\"); "
+    },
+    "440209": {
+        "question": "Hàm nào qui định số ký tự tin nhắn?",
+        "answer": "smstext[160]"
+    },
+    "440210": {
+        "question": "Tên lớp nào có sẵn trong thư viện sim900 để tạo đối tượng SMS?",
+        "answer": "SMSGSM"
+    },
+    "440211": {
+        "question": "Chip ESP8266 được phát triển bởi?",
+        "answer": "Espressif"
+    },
+    "440212": {
+        "question": "Kích thước của Chip ESP8266?",
+        "answer": "5x5mm"
+    },
+    "440213": {
+        "question": "Thiết bị linh kiện nào tiện lợi hơn khi cung cấp chế độ wifi cho Arduino?",
+        "answer": "Chip ESP8266"
+    },
+    "440214": {
+        "question": "Các nhà phát triển sản phẩm IoT chọn chip ESP8266 để phát triển bởi lý do nào?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440215": {
+        "question": "Chip ESP8266 sử dụng 32-bit MCU core đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440216": {
+        "question": "Tốc độ của Chip ESP8266 bao nhiêu?",
+        "answer": "80MHz hoặc 160MHz"
+    },
+    "440217": {
+        "question": "Nhược điểm của Chip ESP8266 là gì?",
+        "answer": "Không tích hợp bộ nhớ Flash để lưu chương trình"
+    },
+    "440218": {
+        "question": "Ưu điểm của chip ESP8266 là gì?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440219": {
+        "question": "Các chuẩn giao tiếp mà chip ESP8266 hỗ trợ?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440220": {
+        "question": "Khi sử dụng chip ESP8266 chúng ta cần phải thay đổi board phù hợp trong Arduino?",
+        "answer": "Có"
+    },
+    "440221": {
+        "question": "Tên thư viện cần thêm vào khi lập trình với Chip ESP8266 ?",
+        "answer": "ESP8266WiFi.h"
+    },
+    "440222": {
+        "question": "Khi sử dụng chip ESP8266 chúng ta cần phải thay đổi tên và mật khẩu wifi phù hợp với wifi đang sử dụng?",
+        "answer": "Đúng"
+    },
+    "440223": {
+        "question": "Hàm nào cho phép kết nối wifi khi sử dụng chip ESP8266?",
+        "answer": "WiFi.begin(ssid, password)"
+    },
+    "440224": {
+        "question": "Thông tin nào cho biết Arduino kết nối nối thành công với chip ESP8266?",
+        "answer": "Ip"
+    },
+    "440225": {
+        "question": "Hàm nào cho phép in ra thông tin địa chỉ IP của wifi khi sử dụng chip ESP8266?",
+        "answer": "WiFi.localIP()"
+    },
+    "440226": {
+        "question": "Hàm nào cho trạng thái&nbsp; của wifi khi sử dụng chip ESP8266?",
+        "answer": "WiFi.status() "
+    },
+    "440227": {
+        "question": "Khi ứng dụng chip ESP8266 có thể lưu trữ dữ liệu lên bao nhiêu?",
+        "answer": "50KB RAM"
+    },
+    "440228": {
+        "question": "Số lượng tối đa của giao tiếp SPI mà chip ESP8266 hỗ trợ là bao nhiêu?",
+        "answer": "3"
+    },
+    "440229": {
+        "question": "Số lượng tối đa của giao tiếp GPIO mà chip ESP8266 hỗ trợ là bao nhiêu?",
+        "answer": "17"
+    },
+    "440230": {
+        "question": "Số lượng tối đa của giao tiếp I2S mà chip ESP8266 hỗ trợ là bao nhiêu?",
+        "answer": "1"
+    },
+    "440231": {
+        "question": "Blynk là gì?",
+        "answer": "Là một app trên điện thoại"
+    },
+    "440232": {
+        "question": "Chức năng của phần mềm Blynk?",
+        "answer": "Điều khiển thiết bị theo ý thích cá nhân"
+    },
+    "440233": {
+        "question": "Lý do dễ sử dụng phần mềm Blynk là gì?",
+        "answer": "Cài đặt không quá 5 phút"
+    },
+    "440234": {
+        "question": "Khi sử dụng phần mềm Blynk chúng ta cần phải thêm thư viện blynk đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440235": {
+        "question": "Đâu là hướng dẫn đúng khi thực hiện thêm một thư viện thông qua Arduino IDE?",
+        "answer": "Chọn Sketch -&gt; Include Library -&gt; Manage Libraries, tìm kiếm tên thư việnvà install"
+    },
+    "440236": {
+        "question": "Để có thể kết nối tới ESP8266 khi sử dụng phần mềm Blynk, cần giá trị của?",
+        "answer": "Auth token "
+    },
+    "440237": {
+        "question": "Bước đầu tiên để sử dụng được giao diện của phần mềm Blynk?",
+        "answer": "Tạo tài khoản trên Blynk"
+    },
+    "440238": {
+        "question": "Giao diện đẹp và đầy đủ của phần mềm Blynk được tạo ra như thế nào?",
+        "answer": "Chỉ cần kéo thả nút nhấn "
+    },
+    "440239": {
+        "question": "Ưu điểm của việc sử dụng phần mềm Blynk?",
+        "answer": "Không cần phải lập trình android"
+    },
+    "440240": {
+        "question": "Ưu điểm thử nghiệm nhanh chóng là của phần mềm nào?",
+        "answer": "Blynk"
+    },
+    "440241": {
+        "question": "Khi lập trình tương tác giữa phần mềm&nbsp; Blynk và ESP8266, tên thư viện cần thêm vào?",
+        "answer": "BlynkSimpleEsp8266.h"
+    },
+    "440242": {
+        "question": "Hàm cho phép kết nối giữa Blynk và ESP8266?",
+        "answer": "Blynk.begin(auth, ssid, pass)"
+    },
+    "440243": {
+        "question": "Hàm cho phép đọc giá trị độ ẩm?",
+        "answer": "readHumidity(); "
+    },
+    "440244": {
+        "question": "Hàm cho phép đọc giá trị nhiệt độ?",
+        "answer": "readTemperature();"
+    },
+    "440245": {
+        "question": "Số biến cần gán dữ liệu để hiển thị lên màn hình Blynk tối đâu là bao nhiêu?",
+        "answer": "10"
+    },
+    "440246": {
+        "question": "Hàm cho phép gán dữ liệu để hiển thị lên màn hình Blynk?",
+        "answer": "virtualWrite()"
+    },
+    "440247": {
+        "question": "Hàm cho phép khởi tạo cảm biến DHT?",
+        "answer": "dht.begin()"
+    },
+    "440248": {
+        "question": "Hàm nào cho phép chạy phần mềm Blynk()?",
+        "answer": "Blynk.run()"
+    },
+    "440249": {
+        "question": "Hàm nào cho phép chạy SimpleTimer?",
+        "answer": "timer.run(); "
+    },
+    "440250": {
+        "question": "Hàm nào cho phép qui định thời gian để hiển thị dữ liệu?",
+        "answer": "timer.setInterval(1000L, sendSensor); "
+    },
+    "440251": {
+        "question": "Thuật ngữ MQTT&nbsp; được viết tắt bởi?",
+        "answer": "Message Queuing Telemetry Transport"
+    },
+    "440252": {
+        "question": "MQTT là hình thức gửi dạng?",
+        "answer": "publish/subscribe"
+    },
+    "440253": {
+        "question": "Ưu điểm của việc sử dụng giao thức MQTT?",
+        "answer": "Tất cả các đáp án trên đều đúng"
+    },
+    "440254": {
+        "question": "Sử dụng giao thức MQTT phù với các các ứng dụng dạng?",
+        "answer": "M2M"
+    },
+    "440255": {
+        "question": "Giao thức được sử dụng trong facebook là?",
+        "answer": "MQTT"
+    },
+    "440256": {
+        "question": "Phát biểu sau đây đúng hay sai \"MQTT Broker là một trạm trung chuyển, một trung tâm thông tin, có nhiệm vụ nhận thông tin từ rất nhiều các thiết bị khác nhau và chuyển các thông tin này tới từng thiết bị riêng biệt\" ?",
+        "answer": "Đúng"
+    },
+    "440257": {
+        "question": "Để lập trình với giao thức MQTT chúng ta cần thêm thư viện gì?",
+        "answer": "Pubsubclient"
+    },
+    "440258": {
+        "question": "Điểm giống nhau của lập trình giao tiếp MQTT và ESP8266?",
+        "answer": "Cách kết nối với Arduino"
+    },
+    "440259": {
+        "question": "Bước đầu tiên để làm việc với CloudMQTT là?",
+        "answer": "Tạo tài khoản"
+    },
+    "440260": {
+        "question": "Phát biểu sau đây đúng hay sai \"Để ESP8266 có thể publish và subcribe dữ liệu lên MQTT broker thì cần phải có thư viện MQTT\" ?",
+        "answer": "Đúng"
+    },
+    "440261": {
+        "question": "&nbsp;Thư viện cần thêm với khi lập trình ESP8266?",
+        "answer": "ESP8266wifi.h và Pubsubclient.h"
+    },
+    "440262": {
+        "question": "Giả sử tên topic trong CloudMQTT là tam, khi lập trình với ESP8266 chúng ta khai báo tên topic có giá trị là?",
+        "answer": "tam"
+    },
+    "440263": {
+        "question": "Giả sử tên user trong CloudMQTT là user01, khi lập trình với ESP8266, chúng ta khai báo tên user có giá trị là?",
+        "answer": "user01"
+    },
+    "440264": {
+        "question": "Giả sử Port trong CloudMQTT là 10000, khi lập trình với ESP8266 khai báo biến port có giá trị?",
+        "answer": "10000"
+    },
+    "440265": {
+        "question": "Hàm kiểm tra trạng thái kết nối wifi với ESP8266 trong lập trình giao tiếp MQTT là?",
+        "answer": "WiFi.status()"
+    },
+    "440266": {
+        "question": "Hàm kiểm tra kết nối wifi với ESP8266 trong lập trình giao tiếp MQTT là?",
+        "answer": "Wifi.begin()"
+    },
+    "440267": {
+        "question": "Hàm cho phép in ra thông tin IP khi kết nối wifi thành công?",
+        "answer": "WiFi.localIP()"
+    },
+    "440268": {
+        "question": "Hàm nào qui định thời gian thực hiện publish thông tin tới MQTT broker?",
+        "answer": "millis()"
+    },
+    "440269": {
+        "question": "Chức năng của MQTT Broker làm gì?",
+        "answer": "Nhận và truyền dữ liệu"
+    },
+    "440270": {
+        "question": "Phát biểu sau đây đúng hay sai : \"Trong lập trình giao tiếp với MQTT chúng ta có thể thay board Arduino bằng board NodeMCU\"?",
+        "answer": "Đúng"
+    },
+    "440271": {
+        "question": "Firebase là của tập đoàn nào?",
+        "answer": "Google"
+    },
+    "440272": {
+        "question": "Lợi ích của việc sử dụng Firebase?",
+        "answer": "Giúp cho người lập trình đơn giản hóa cơ sở dữ liệu"
+    },
+    "440273": {
+        "question": "Firebase giúp ích cho phần nào của một website",
+        "answer": "Backend"
+    },
+    "440274": {
+        "question": "Firebase lưu database dưới dạng ?",
+        "answer": "JSON"
+    },
+    "440275": {
+        "question": "Tất cả các dữ liệu ở phía client được đồng bộ bởi?",
+        "answer": "Firebase"
+    },
+    "440276": {
+        "question": "Chức năng phân quyền của Firebase được thao tác?",
+        "answer": "Đơn giản"
+    },
+    "440277": {
+        "question": "Giao thức bảo mật được Firebase sử dụng?",
+        "answer": "SSL"
+    },
+    "440278": {
+        "question": "Khi có bất kỳ sự cố về Internet, ứng dụng Firebase sẽ?",
+        "answer": "Duy trì tương tác"
+    },
+    "440279": {
+        "question": "Các chức năng xác thực người dùng được Firebase áp dụng trên các ứng dụng?",
+        "answer": "Tất cả đáp án trên đều đúng"
+    },
+    "440280": {
+        "question": "Các ứng dụng chạy trên nền web được Firebase hosting triển khai mất thời gian?",
+        "answer": "Vài giây"
+    },
+    "440281": {
+        "question": "Định dạng tên miền của Firebase có dạng?",
+        "answer": "*.firebaseio.com"
+    },
+    "440282": {
+        "question": "Để có tên mình riêng theo người dùng cân phải làm gì?",
+        "answer": "Trả tiền cho Firebase"
+    },
+    "440283": {
+        "question": "Các yếu tố giúp Firebase triển khai nhanh ứng dụng?",
+        "answer": "Tất cả đáp án trên là đúng"
+    },
+    "440284": {
+        "question": "Firebase hoạt động dựa nền tảng của?",
+        "answer": "Cloud của Google"
+    },
+    "440285": {
+        "question": "Việc đầu tiên để sử dụng Firebase",
+        "answer": "Tạo tài khoản"
+    },
+    "440286": {
+        "question": "Sử dụng board nào có thể đưa dữ liệu lên Firebase?",
+        "answer": "ESP8266"
+    },
+    "440287": {
+        "question": "Firebase chính là?",
+        "answer": "Cluod"
+    },
+    "440288": {
+        "question": "Phát biểu sau đây đúng hay sai: \"Firebase là cloud, nghĩa là mọi thứ có kết nối internet thì đều có thể “tương tác” với Firebase\"",
+        "answer": "đúng "
+    },
+    "440289": {
+        "question": "Khi lập trình với Firebase chúng ta có thêm thư viện của Firebase?",
+        "answer": "Có"
+    },
+    "440290": {
+        "question": "Phát biểu sau đây đúng hay sai: \"Google Firebase có rất nhiều gói dịch vụ với các mức dung lượng lưu trữ cũng như băng thông khác nhau với mức giá dao động từ Free đến $1500 đủ để đáp ứng được nhu cầu của tất cả các đối tượng\"",
+        "answer": "đúng "
+    },
+    "440291": {
+        "question": "Phát biểu: \"Ánh sáng có thể hoạt động như một yếu tố thiết kế quan trọng trong bức ảnh\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440292": {
+        "question": "Khi chụp ảnh cần chú ý …",
+        "answer": "Cả ba đều đúng"
+    },
+    "440293": {
+        "question": "Ánh sáng vùng tối được tạo ra bằng cách nào?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440294": {
+        "question": "Khi chụp ảnh ngoài trời, để giảm độ đậm của vùng tối, chúng ta dùng có thể dùng tấm sáng ? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440295": {
+        "question": "Tỷ lệ chiếu sáng là gì?",
+        "answer": "Sự khác biệt giữa hiệu ứng đầy đủ của ánh sáng và hiệu ứng trong vùng tối"
+    },
+    "440296": {
+        "question": "Phát biểu: \"Tỷ lệ chiếu sáng càng cao thì độ tương phản càng cao\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440297": {
+        "question": "Yếu tố nào ảnh hưởng đên màu của ánh sáng?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440298": {
+        "question": "ISO là gì?",
+        "answer": "Là độ nhạy sáng"
+    },
+    "440299": {
+        "question": "…. là một lỗ mở có tính biến thiên, nằm gần hoặc nằm trong ống kính, được sử dụng để điều khiển lượng sáng chiếu tới cảm biến!",
+        "answer": "Khẩu độ"
+    },
+    "440300": {
+        "question": "Khẩu độ được gọi là …?",
+        "answer": "f-stop"
+    },
+    "440301": {
+        "question": "DOF viết tắt từ gì?",
+        "answer": "Depth of field"
+    },
+    "440302": {
+        "question": "DOF được định nghĩa là khoảng nét chấp nhận được trên tấm hình hoàn chỉnh? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440303": {
+        "question": "…. Càng lớn thì phong cảnh càng nhòe?",
+        "answer": "Khẩu độ"
+    },
+    "440304": {
+        "question": "…. Liên quan đến độ nhờ của chủ thể chuyển động?",
+        "answer": "Tốc độ màng trập"
+    },
+    "440305": {
+        "question": "… liên quan chất lượng hình ảnh (độ nhiễu - noise)?",
+        "answer": "ISO"
+    },
+    "440306": {
+        "question": "Khẩu độ lớn (F nhỏ) thì …. Cạn (nông)/mỏng.",
+        "answer": "DOF"
+    },
+    "440307": {
+        "question": "Khẩu độ nhỏ (F lớn) thì …. Sâu/dày.",
+        "answer": "DOF"
+    },
+    "440308": {
+        "question": "\"Đóng băng chuyển động hay bắt đứng chuyển động thì ta cần tốc độ màn trập đủ nhanh\" Phát biểu này đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440309": {
+        "question": "Ống kính có tiêu cự ngắn hơn bình thường được gọi là …",
+        "answer": "ống kính rộng (wide-angle lens)"
+    },
+    "440310": {
+        "question": "Đa phần ống kính này sẽ có có tiêu cự trải từ góc rộng vừa phải đến dài vừa phải …",
+        "answer": "ống kính zoom"
+    },
+    "440311": {
+        "question": "Ống kính không thể zoom được.",
+        "answer": "ống kính cố định (fix)"
+    },
+    "440312": {
+        "question": "Được mệnh danh là \"Viên ngọc đường phố\" của Nikon?",
+        "answer": "AF-S 35mm f/1.8 G "
+    },
+    "440313": {
+        "question": "Thiết bị không thể thiếu khi chụp chân dung, nhằm bổ sung thêm sáng cho vùng tối?",
+        "answer": "tấm hắt sáng"
+    },
+    "440314": {
+        "question": "Để giảm độ chói của ánh sáng ảnh hưởng đến hình ảnh thì …",
+        "answer": "Dùng thiết bị Filter gắn vào đầu ngoài ống kính."
+    },
+    "440315": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, vô tình bạn chụp một tấm hình dư sáng, thao tác nào để chụp lại tấm khác cho đúng sáng mà không bị nhiễu?",
+        "answer": "Tăng tốc"
+    },
+    "440316": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, chụp hình với điều kiện thiếu sáng trầm trọng, chấp nhận noise nhẹ. Sự chọn lựa nào sau đây là đúng?",
+        "answer": "Tăng ISO"
+    },
+    "440317": {
+        "question": "Bạn đang chụp một vận động viên chạy bộ, chế độ chọn lựa nào đẻ hình ảnh đúng sáng không nhòe?",
+        "answer": "Tăng tốc - Tăng ISO - Mở khẩu"
+    },
+    "440318": {
+        "question": "Đa số các máy ảnh DSLR thường có nút điều chỉnh lấy nét trên thân máy? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440319": {
+        "question": "Máy ảnh điện thoại chụp chân dung được không?",
+        "answer": "Được"
+    },
+    "440320": {
+        "question": "Máy ảnh trên các dòng điện thoại đời mới có hỗ trợ chụp xóa phông ?",
+        "answer": "Có"
+    },
+    "440321": {
+        "question": "Chế độ ưu tiên khẩu là gì? (Av/A)",
+        "answer": "ISO, Khẩu được điều chỉnh."
+    },
+    "440322": {
+        "question": "Chế độ ưu tiên tốc độ màn trập là gì? (Tv/S)",
+        "answer": "Khẩu độ được chỉnh"
+    },
+    "440323": {
+        "question": "Chế độ M là gì?",
+        "answer": "Cả 3 điều đúng"
+    },
+    "440324": {
+        "question": "Trong các quy luật chụp ảnh, có áp dụng quy luật …",
+        "answer": "1/3"
+    },
+    "440325": {
+        "question": "Sử dụng Lens có tiêu cự &lt;35mm hiện tượng gì xãy ra khi chụp ảnh chân dung?",
+        "answer": "mũi to, trán lồi, mắt trợn"
+    },
+    "440326": {
+        "question": "Khi chụp chân dung cận mặt, ở chế độ lấy nét điểm thì khuyến khích nên lấy nét vào vị trí nào trên gương mặt?",
+        "answer": "mắt"
+    },
+    "440327": {
+        "question": "Khi chụp ảnh chân dung xóa phông, chúng ta chụp với lens gì tốt nhất?",
+        "answer": "50 f1.8"
+    },
+    "440328": {
+        "question": "Khi chụp ảnh chân dung 2 người 1 người trước 1 người sau. Muốn lấy nét người trước và mờ người sau thì chúng ta chụp với chế độ lấy nét gì là tối ưu nhất? (giả sử bạn đang dùng lens chuyên dụng chụp chân dung)",
+        "answer": "Chế độ lấy nét điểm"
+    },
+    "440329": {
+        "question": "Với lens fix, để có phóng to thu nhỏ chủ thể chúng ta phải …",
+        "answer": "di chuyển chủ thể hoặc di chuyển máy chụp"
+    },
+    "440330": {
+        "question": "Hạn chế chói mắt (nheo mắt) của mẫu khi chụp ảnh dưới nắng gắt. Chúng ta phải …",
+        "answer": "Che chắn mẫu nhằm giảm bớt cường độ ánh sáng"
+    },
+    "440331": {
+        "question": "Khung giờ chụp ảnh chân dung ngoại cảnh tốt nhất? (khung giờ vàng)",
+        "answer": "Buổi sáng sau khi mặt trời mọc 2 giờ"
+    },
+    "440332": {
+        "question": "Một máy ảnh thường chỉ tương ứng với một loại lens mà thôi? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440333": {
+        "question": "Lens ... Là sự chọn lựa tối ưu nhất khi chụp phong cảnh?",
+        "answer": "Ống kính có góc rộng"
+    },
+    "440334": {
+        "question": "Phong cảnh có chủ thể không?",
+        "answer": "Có"
+    },
+    "440335": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440336": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440337": {
+        "question": "Tạo hiệu ứng chuyển động khi chụp phương tiện đang lưu thông trên đường (lia máy) thì ưu tiên …",
+        "answer": "Giảm tốc , Bắt nét chủ thể, Di chuyển máy ảnh"
+    },
+    "440338": {
+        "question": "Thực hiện ảnh phơi sáng thì …",
+        "answer": "Cố định máy, giảm tốc"
+    },
+    "440339": {
+        "question": "Khi chụp ảnh phong cảnh ngược sáng (ngược mặt trời), chủ thể tạo bóng đen thì …",
+        "answer": "tăng tốc, giảm ISO, tăng khẩu"
+    },
+    "440340": {
+        "question": "Trên máy ảnh DSLR, chụp chế độ M, có chọn kiểu ảnh chụp (style picture) được không?",
+        "answer": "Có"
+    },
+    "440341": {
+        "question": "Đâu là điều chú ý khi chụp phong cảnh?",
+        "answer": "Chủ thể và background"
+    },
+    "440342": {
+        "question": "Kỹ thuật chụp ảnh toàn cảnh không gian rộng lớn được gọi là gì?",
+        "answer": "Panorama"
+    },
+    "440343": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440344": {
+        "question": "Thể loại ảnh polar là một kiểu ảnh Panorama? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440345": {
+        "question": "Để chụp mây trời, thì sẽ ưu tiên …",
+        "answer": "F16 trở lên"
+    },
+    "440346": {
+        "question": "F càng cao phong cảnh càng rõ?",
+        "answer": "Đúng"
+    },
+    "440347": {
+        "question": "Tốc độ màn trập bao nhiêu thì bắt đứng chuyển động?",
+        "answer": "1/200s"
+    },
+    "440348": {
+        "question": "Ánh sáng vàng (ánh sáng tốt) để chụp phong cảnh là khi nào?",
+        "answer": "Sau 2 giờ khi mặt trời mọc, và trước 2 giờ khi mặt trời lặn"
+    },
+    "440349": {
+        "question": "Ống Fix có là chọn lựa tốt cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440350": {
+        "question": "Khi chụp mái đình chùa, để mô tả kiến trúc độc đáo nên chọn background gì?",
+        "answer": "Mây trời"
+    },
+    "440351": {
+        "question": "Khi chụp ảnh để tạo ảnh thể loại panorama, để giữ thăng bằng cho máy, sự lựa chọn tốt nhất sẽ là?",
+        "answer": "Chân máy (tripod)"
+    },
+    "440352": {
+        "question": "Các loại máy DSLR hiện nay đều có định dạng lưu file raw?",
+        "answer": "Đúng"
+    },
+    "440353": {
+        "question": "File raw là file có định dạng .raw?",
+        "answer": "Sai"
+    },
+    "440354": {
+        "question": "Định dạng nào sau đây không phải file raw",
+        "answer": ".PNG"
+    },
+    "440355": {
+        "question": "Đâu là đặc điểm không phải là file raw?",
+        "answer": "Nhẹ"
+    },
+    "440356": {
+        "question": "File RAW có thể điều chỉnh lại được cân bằng trắng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440357": {
+        "question": "File Raw tự động phát sinh khi chụp ảnh mà không có một sự can thiệp nào của người chụp?",
+        "answer": "Sai"
+    },
+    "440358": {
+        "question": "Phần mềm nào không đọc được file raw?",
+        "answer": "Window picture"
+    },
+    "440359": {
+        "question": "Có thể cài đặt lưu file raw sau khi chụp thông qua menu nào sau đây trên máy ảnh?",
+        "answer": "Quality"
+    },
+    "440360": {
+        "question": "Phiên bản Camera Raw trong photoshop luôn luôn được cập nhật tự động?",
+        "answer": "Sai"
+    },
+    "440361": {
+        "question": "Photoshop có hỗ trợ chuyển đổi file raw thành file jpg không?",
+        "answer": "Có"
+    },
+    "440362": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440363": {
+        "question": "Đâu không phải là phương thức chỉnh lại tone màu hình ảnh trên Photoshop?",
+        "answer": "Invert"
+    },
+    "440364": {
+        "question": "Thay đổi Level cho phép bạn thay giá trị của các điểm tối nhất – trắng nhất trong hình ảnh?",
+        "answer": "Đúng"
+    },
+    "440365": {
+        "question": "Công cụ Adjustment Brush (Camera Raw) có chứ năng gì?",
+        "answer": "Thêm sáng/màu cho từng vùng của hình ảnh"
+    },
+    "440366": {
+        "question": "Công cụ Red Eye Removal (Camera Raw) có chức năng gì?",
+        "answer": "Khử mắt đỏ"
+    },
+    "440367": {
+        "question": "Công cụ Spot Removal (Camera Raw) có chức năng gì?",
+        "answer": "Xóa và chỉnh sửa lỗi"
+    },
+    "440368": {
+        "question": "Khi xử lý ảnh với phần mềm Camera raw thì hệ thống sẽ tự phát sinh ra file xmp để quản lý thông số chỉnh sửa? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440369": {
+        "question": "Để Blend màu cho hình ảnh phải cần download action từ trên mạng? Đúng hay không?",
+        "answer": "Đúng"
+    },
+    "440370": {
+        "question": "Đâu không phải là công cụ chỉnh sửa ảnh?",
+        "answer": "Eyedropper "
+    },
+    "440371": {
+        "question": "Phát biểu: \"Chiếu sáng tĩnh vật giống như chiếu sáng chân dung\"? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440372": {
+        "question": "Các loại đèn để sử dụng trong việc chụp ảnh sản phẩm (studio)?",
+        "answer": "Cả ba đèn trên"
+    },
+    "440373": {
+        "question": "Khi chiếu sáng tĩnh vật cần chú ý đến … ?",
+        "answer": "Cả 3 yếu tố trên"
+    },
+    "440374": {
+        "question": "Tốt nhất khi chụp ảnh tĩnh vật ánh sáng cần được …",
+        "answer": "Khuếch tán"
+    },
+    "440375": {
+        "question": "Lens macro có thể chụp sản phẩm không?",
+        "answer": "Có"
+    },
+    "440376": {
+        "question": "Có thể dùng điện thoại để chụp sản phẩm được không?",
+        "answer": "Có"
+    },
+    "440377": {
+        "question": "DOF Stactking được viết tắt ?",
+        "answer": "Depth of Field"
+    },
+    "440378": {
+        "question": "… là phương pháp chụp nhiều kiểu ảnh của cùng một chủ đề với nhiều khoảng cách lấy nét khác nhau của chủ đề, sau đó ghép tất cả các ảnh lại để có được một ảnh cuối cùng có độ rõ nét từ trước đến sau của chủ đề.",
+        "answer": "DOF Stacking"
+    },
+    "440379": {
+        "question": "… là phụ kiện không thể thiếu khi thực hiện chụp ảnh thể loại DOF Stacking!",
+        "answer": "Tripod (chân máy)"
+    },
+    "440380": {
+        "question": "Không nên thay đổi căn bằng trắng trong loạt ảnh chụp cho thể loại DPF Stacking? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440381": {
+        "question": "Khi chụp sản phẩm có độ phản chiếu cao thì điều đầu tiên chúng ta quan tâm là …",
+        "answer": "Khuếch tán ánh sáng."
+    },
+    "440382": {
+        "question": "Sử dụng ống kính nào tốt nhất để tạo chụp loạt ảnh thể loại DOF Stacking?",
+        "answer": "Fix"
+    },
+    "440383": {
+        "question": "Photoshop có hỗ trợ hậu kỳ thể loại DOF Stacking không?",
+        "answer": "Có "
+    },
+    "440384": {
+        "question": "Chế độ hòa trộn nào tạo sự tương phản nhẹ?",
+        "answer": "Soft Light"
+    },
+    "440385": {
+        "question": "Có nên lạm dụng chỉnh sửa ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440386": {
+        "question": "Bảng công cụ nào có thể chuyển đổi ảnh nhiều màu thành ảnh một màu?",
+        "answer": "Hue/Saturation"
+    },
+    "440387": {
+        "question": "Bộ lọc nào tạo độ nét cho hình ảnh",
+        "answer": "Blur"
+    },
+    "440388": {
+        "question": "Sản phẩm được nổi bật nhất khi chụp với nền gì?",
+        "answer": "Đơn sắc"
+    },
+    "440389": {
+        "question": "Có nên setup, trang trí, bố cục trước khi chụp ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440390": {
+        "question": "… sử dụng tông màu đen là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Lowkey"
+    },
+    "440391": {
+        "question": "Thể loại Lowkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440392": {
+        "question": "Thể loại Lowkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440393": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền đen, tripod"
+    },
+    "440394": {
+        "question": "Ánh sáng ban ngày có chụp được thể loại lowkey không?",
+        "answer": "Có"
+    },
+    "440395": {
+        "question": "Với thể loại lowkey ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Nền tối, 1 nguồn sáng, ánh sáng nhẹ"
+    },
+    "440396": {
+        "question": "Cài đặt máy chụp thể loại lowkey chân dung, cần chú ý đều gì?",
+        "answer": "tăng tốc, tăng khẩu, iso thấp nhất."
+    },
+    "440397": {
+        "question": "Có thể chụp thể loại lowkey với phông nền màu khác?",
+        "answer": "Có"
+    },
+    "440398": {
+        "question": "Chụp thể loại lowkey có thể sử dụng 2 nguồn sáng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440399": {
+        "question": "Chụp lowkey chân dung trong studio, để tạo ra một máy tóc đẹp và tạo ra vầng hào quang thì ta thực hiện?",
+        "answer": "Dùng một đèn hắt từ phía sau"
+    },
+    "440400": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại lowkey chân dung không?",
+        "answer": "Không"
+    },
+    "440401": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại lowkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440402": {
+        "question": "Trong photoshop, để làm hình ảnh tối đi, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Multiply"
+    },
+    "440403": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440404": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440405": {
+        "question": "Công cụ nào làm tối vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Burn tool"
+    },
+    "440406": {
+        "question": "Công cụ nào làm sáng vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Dodge Tool"
+    },
+    "440407": {
+        "question": "Phím tắt trong Photoshop để biến hình màu thành hình trắng đen?",
+        "answer": "Ctrl+Shift+U"
+    },
+    "440408": {
+        "question": "Thể loại lowkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440409": {
+        "question": "Thể loại lowkey có dành cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440410": {
+        "question": "Nhiếp ảnh là gì?",
+        "answer": "là quá trình tạo ra hình ảnh bằng tác động của ánh sáng với phim hoặc thiết bị nhạy sáng. "
+    },
+    "440411": {
+        "question": "Chụp hình thẻ thuộc loại bố cục gì?",
+        "answer": "Bố cục canh giữa"
+    },
+    "440412": {
+        "question": "Máy ảnh là một hộp kín chứa cảm biến kỹ thuật số và một ống kính thu sáng từ đối tượng, tạo hình ảnh đối tượng trên cảm biến?",
+        "answer": "Có"
+    },
+    "440413": {
+        "question": "Cách hoạt động trên máy ảnh số, máy ảnh trên điện thoại và máy ảnh DSLR có giống nhau không?",
+        "answer": "Có"
+    },
+    "440414": {
+        "question": "Máy ảnh trên điện thoại có thay đổi khẩu được không?",
+        "answer": "Có"
+    },
+    "440415": {
+        "question": "Độ phân giải máy ảnh trên điện thoại cũng cao bằng trên máy ảnh cơ?",
+        "answer": "Không "
+    },
+    "440416": {
+        "question": "SLR là viết tắt của cụm từ nào?",
+        "answer": "Single Lens Reflex"
+    },
+    "440417": {
+        "question": "Máy ảnh được chia thành bao nhiêu loại chính?",
+        "answer": "2"
+    },
+    "440418": {
+        "question": "Máy ảnh du lịch thuộc loại máy ảnh nào?",
+        "answer": "Point - And - Shoot"
+    },
+    "440419": {
+        "question": "Máy ảnh du lịch (Point - and - Shoot) thường không có khung ngắm (view finder) ?",
+        "answer": "Đúng"
+    },
+    "440420": {
+        "question": "Tất cả các loại máy ảnh luôn luôn có LCD?",
+        "answer": "Sai"
+    },
+    "440421": {
+        "question": "Máy ảnh Point-and-shoot luôn luôn có flash gắn sẵn?",
+        "answer": "Đúng"
+    },
+    "440422": {
+        "question": "Máy SLR đều có flash gắn sẵn ?",
+        "answer": "Sai"
+    },
+    "440423": {
+        "question": "Loại máy ảnh nào có thể sử dụng Lens (ống kính) rời?",
+        "answer": "Máy ảnh SLR"
+    },
+    "440424": {
+        "question": "Trên máy SLR, Đâu không phải là kiểu chụp Scene?",
+        "answer": "Av"
+    },
+    "440425": {
+        "question": "Trên ống kính của một số máy SLR, có cài đặt được chế độ lấy nét không?",
+        "answer": "Có"
+    },
+    "440426": {
+        "question": "Trên ống kính của một số máy SLR, có mấy chế độ lấy nét?",
+        "answer": "2"
+    },
+    "440427": {
+        "question": "Chọn nhóm hành động đúng?",
+        "answer": "nhấn nữa - chờ nét - nhất đủ"
+    },
+    "440428": {
+        "question": "…. là một màn cửa nhỏ, nằm trước sensor của máy ảnh",
+        "answer": "Màn trập"
+    },
+    "440429": {
+        "question": "… là thước đo màn trập mở trong vòng bao nhiêu giây",
+        "answer": "Tốc độ màn trập"
+    },
+    "440430": {
+        "question": "Một số máy ảnh SLR có bao nhiêu màn hình LCD?",
+        "answer": "2"
+    },
+    "440431": {
+        "question": "Phát biểu: \"Ánh sáng có thể hoạt động như một yếu tố thiết kế quan trọng trong bức ảnh\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440432": {
+        "question": "Khi chụp ảnh cần chú ý …",
+        "answer": "Cả ba đều đúng"
+    },
+    "440433": {
+        "question": "Ánh sáng vùng tối được tạo ra bằng cách nào?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440434": {
+        "question": "Khi chụp ảnh ngoài trời, để giảm độ đậm của vùng tối, chúng ta dùng có thể dùng tấm sáng ? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440435": {
+        "question": "Tỷ lệ chiếu sáng là gì?",
+        "answer": "Sự khác biệt giữa hiệu ứng đầy đủ của ánh sáng và hiệu ứng trong vùng tối"
+    },
+    "440436": {
+        "question": "Phát biểu: \"Tỷ lệ chiếu sáng càng cao thì độ tương phản càng cao\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440437": {
+        "question": "Yếu tố nào ảnh hưởng đên màu của ánh sáng?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440438": {
+        "question": "ISO là gì?",
+        "answer": "Là độ nhạy sáng"
+    },
+    "440439": {
+        "question": "…. là một lỗ mở có tính biến thiên, nằm gần hoặc nằm trong ống kính, được sử dụng để điều khiển lượng sáng chiếu tới cảm biến!",
+        "answer": "Khẩu độ"
+    },
+    "440440": {
+        "question": "Khẩu độ được gọi là …?",
+        "answer": "f-stop"
+    },
+    "440441": {
+        "question": "DOF viết tắt từ gì?",
+        "answer": "Depth of field"
+    },
+    "440442": {
+        "question": "DOF được định nghĩa là khoảng nét chấp nhận được trên tấm hình hoàn chỉnh? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440443": {
+        "question": "…. Càng lớn thì phong cảnh càng nhòe?",
+        "answer": "Khẩu độ"
+    },
+    "440444": {
+        "question": "…. Liên quan đến độ nhờ của chủ thể chuyển động?",
+        "answer": "Tốc độ màng trập"
+    },
+    "440445": {
+        "question": "… liên quan chất lượng hình ảnh (độ nhiễu - noise)?",
+        "answer": "ISO"
+    },
+    "440446": {
+        "question": "Khẩu độ lớn (F nhỏ) thì …. Cạn (nông)/mỏng.",
+        "answer": "DOF"
+    },
+    "440447": {
+        "question": "Khẩu độ nhỏ (F lớn) thì …. Sâu/dày.",
+        "answer": "DOF"
+    },
+    "440448": {
+        "question": "\"Đóng băng chuyển động hay bắt đứng chuyển động thì ta cần tốc độ màn trập đủ nhanh\" Phát biểu này đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440449": {
+        "question": "Ống kính có tiêu cự ngắn hơn bình thường được gọi là …",
+        "answer": "ống kính rộng (wide-angle lens)"
+    },
+    "440450": {
+        "question": "Đa phần ống kính này sẽ có có tiêu cự trải từ góc rộng vừa phải đến dài vừa phải …",
+        "answer": "ống kính zoom"
+    },
+    "440451": {
+        "question": "Ống kính không thể zoom được.",
+        "answer": "ống kính cố định (fix)"
+    },
+    "440452": {
+        "question": "Được mệnh danh là \"Viên ngọc đường phố\" của Nikon?",
+        "answer": "AF-S 35mm f/1.8 G "
+    },
+    "440453": {
+        "question": "Thiết bị không thể thiếu khi chụp chân dung, nhằm bổ sung thêm sáng cho vùng tối?",
+        "answer": "tấm hắt sáng"
+    },
+    "440454": {
+        "question": "Để giảm độ chói của ánh sáng ảnh hưởng đến hình ảnh thì …",
+        "answer": "Dùng thiết bị Filter gắn vào đầu ngoài ống kính."
+    },
+    "440455": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, vô tình bạn chụp một tấm hình dư sáng, thao tác nào để chụp lại tấm khác cho đúng sáng mà không bị nhiễu?",
+        "answer": "Tăng tốc"
+    },
+    "440456": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, chụp hình với điều kiện thiếu sáng trầm trọng, chấp nhận noise nhẹ. Sự chọn lựa nào sau đây là đúng?",
+        "answer": "Tăng ISO"
+    },
+    "440457": {
+        "question": "Bạn đang chụp một vận động viên chạy bộ, chế độ chọn lựa nào đẻ hình ảnh đúng sáng không nhòe?",
+        "answer": "Tăng tốc - Tăng ISO - Mở khẩu"
+    },
+    "440458": {
+        "question": "Đa số các máy ảnh DSLR thường có nút điều chỉnh lấy nét trên thân máy? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440459": {
+        "question": "Máy ảnh điện thoại chụp chân dung được không?",
+        "answer": "Được"
+    },
+    "440460": {
+        "question": "Máy ảnh trên các dòng điện thoại đời mới có hỗ trợ chụp xóa phông ?",
+        "answer": "Có"
+    },
+    "440461": {
+        "question": "Chế độ ưu tiên khẩu là gì? (Av/A)",
+        "answer": "ISO, Khẩu được điều chỉnh."
+    },
+    "440462": {
+        "question": "Chế độ ưu tiên tốc độ màn trập là gì? (Tv/S)",
+        "answer": "Khẩu độ được chỉnh"
+    },
+    "440463": {
+        "question": "Chế độ M là gì?",
+        "answer": "Cả 3 điều đúng"
+    },
+    "440464": {
+        "question": "Trong các quy luật chụp ảnh, có áp dụng quy luật …",
+        "answer": "1/3"
+    },
+    "440465": {
+        "question": "Sử dụng Lens có tiêu cự &lt;35mm hiện tượng gì xãy ra khi chụp ảnh chân dung?",
+        "answer": "mũi to, trán lồi, mắt trợn"
+    },
+    "440466": {
+        "question": "Khi chụp chân dung cận mặt, ở chế độ lấy nét điểm thì khuyến khích nên lấy nét vào vị trí nào trên gương mặt?",
+        "answer": "mắt"
+    },
+    "440467": {
+        "question": "Khi chụp ảnh chân dung xóa phông, chúng ta chụp với lens gì tốt nhất?",
+        "answer": "50 f1.8"
+    },
+    "440468": {
+        "question": "Khi chụp ảnh chân dung 2 người 1 người trước 1 người sau. Muốn lấy nét người trước và mờ người sau thì chúng ta chụp với chế độ lấy nét gì là tối ưu nhất? (giả sử bạn đang dùng lens chuyên dụng chụp chân dung)",
+        "answer": "Chế độ lấy nét điểm"
+    },
+    "440469": {
+        "question": "Với lens fix, để có phóng to thu nhỏ chủ thể chúng ta phải …",
+        "answer": "di chuyển chủ thể hoặc di chuyển máy chụp"
+    },
+    "440470": {
+        "question": "Hạn chế chói mắt (nheo mắt) của mẫu khi chụp ảnh dưới nắng gắt. Chúng ta phải …",
+        "answer": "Che chắn mẫu nhằm giảm bớt cường độ ánh sáng"
+    },
+    "440471": {
+        "question": "Khung giờ chụp ảnh chân dung ngoại cảnh tốt nhất? (khung giờ vàng)",
+        "answer": "Buổi sáng sau khi mặt trời mọc 2 giờ"
+    },
+    "440472": {
+        "question": "Các loại máy DSLR hiện nay đều có định dạng lưu file raw?",
+        "answer": "Đúng"
+    },
+    "440473": {
+        "question": "File raw là file có định dạng .raw?",
+        "answer": "Sai"
+    },
+    "440474": {
+        "question": "Định dạng nào sau đây không phải file raw",
+        "answer": ".PNG"
+    },
+    "440475": {
+        "question": "Đâu là đặc điểm không phải là file raw?",
+        "answer": "Nhẹ"
+    },
+    "440476": {
+        "question": "File RAW có thể điều chỉnh lại được cân bằng trắng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440477": {
+        "question": "File Raw tự động phát sinh khi chụp ảnh mà không có một sự can thiệp nào của người chụp?",
+        "answer": "Sai"
+    },
+    "440478": {
+        "question": "Phần mềm nào không đọc được file raw?",
+        "answer": "Window picture"
+    },
+    "440479": {
+        "question": "Có thể cài đặt lưu file raw sau khi chụp thông qua menu nào sau đây trên máy ảnh?",
+        "answer": "Quality"
+    },
+    "440480": {
+        "question": "Phiên bản Camera Raw trong photoshop luôn luôn được cập nhật tự động?",
+        "answer": "Sai"
+    },
+    "440481": {
+        "question": "Photoshop có hỗ trợ chuyển đổi file raw thành file jpg không?",
+        "answer": "Có"
+    },
+    "440482": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440483": {
+        "question": "Đâu không phải là phương thức chỉnh lại tone màu hình ảnh trên Photoshop?",
+        "answer": "Invert"
+    },
+    "440484": {
+        "question": "Thay đổi Level cho phép bạn thay giá trị của các điểm tối nhất – trắng nhất trong hình ảnh?",
+        "answer": "Đúng"
+    },
+    "440485": {
+        "question": "Công cụ Adjustment Brush (Camera Raw) có chứ năng gì?",
+        "answer": "Thêm sáng/màu cho từng vùng của hình ảnh"
+    },
+    "440486": {
+        "question": "Công cụ Red Eye Removal (Camera Raw) có chức năng gì?",
+        "answer": "Khử mắt đỏ"
+    },
+    "440487": {
+        "question": "Công cụ Spot Removal (Camera Raw) có chức năng gì?",
+        "answer": "Xóa và chỉnh sửa lỗi"
+    },
+    "440488": {
+        "question": "Khi xử lý ảnh với phần mềm Camera raw thì hệ thống sẽ tự phát sinh ra file xmp để quản lý thông số chỉnh sửa? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440489": {
+        "question": "Để Blend màu cho hình ảnh phải cần download action từ trên mạng? Đúng hay không?",
+        "answer": "Đúng"
+    },
+    "440490": {
+        "question": "Đâu không phải là công cụ chỉnh sửa ảnh?",
+        "answer": "Eyedropper "
+    },
+    "440491": {
+        "question": "Phát biểu: \"Chiếu sáng tĩnh vật giống như chiếu sáng chân dung\"? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440492": {
+        "question": "Các loại đèn để sử dụng trong việc chụp ảnh sản phẩm (studio)?",
+        "answer": "Cả ba đèn trên"
+    },
+    "440493": {
+        "question": "Khi chiếu sáng tĩnh vật cần chú ý đến … ?",
+        "answer": "Cả 3 yếu tố trên"
+    },
+    "440494": {
+        "question": "Tốt nhất khi chụp ảnh tĩnh vật ánh sáng cần được …",
+        "answer": "Khuếch tán"
+    },
+    "440495": {
+        "question": "Lens macro có thể chụp sản phẩm không?",
+        "answer": "Có"
+    },
+    "440496": {
+        "question": "Có thể dùng điện thoại để chụp sản phẩm được không?",
+        "answer": "Có"
+    },
+    "440497": {
+        "question": "DOF Stactking được viết tắt ?",
+        "answer": "Depth of Field"
+    },
+    "440498": {
+        "question": "… là phương pháp chụp nhiều kiểu ảnh của cùng một chủ đề với nhiều khoảng cách lấy nét khác nhau của chủ đề, sau đó ghép tất cả các ảnh lại để có được một ảnh cuối cùng có độ rõ nét từ trước đến sau của chủ đề.",
+        "answer": "DOF Stacking"
+    },
+    "440499": {
+        "question": "… là phụ kiện không thể thiếu khi thực hiện chụp ảnh thể loại DOF Stacking!",
+        "answer": "Tripod (chân máy)"
+    },
+    "440500": {
+        "question": "Không nên thay đổi căn bằng trắng trong loạt ảnh chụp cho thể loại DPF Stacking? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440501": {
+        "question": "Khi chụp sản phẩm có độ phản chiếu cao thì điều đầu tiên chúng ta quan tâm là …",
+        "answer": "Khuếch tán ánh sáng."
+    },
+    "440502": {
+        "question": "Sử dụng ống kính nào tốt nhất để tạo chụp loạt ảnh thể loại DOF Stacking?",
+        "answer": "Fix"
+    },
+    "440503": {
+        "question": "Photoshop có hỗ trợ hậu kỳ thể loại DOF Stacking không?",
+        "answer": "Có "
+    },
+    "440504": {
+        "question": "Chế độ hòa trộn nào tạo sự tương phản nhẹ?",
+        "answer": "Soft Light"
+    },
+    "440505": {
+        "question": "Có nên lạm dụng chỉnh sửa ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440506": {
+        "question": "Bảng công cụ nào có thể chuyển đổi ảnh nhiều màu thành ảnh một màu?",
+        "answer": "Hue/Saturation"
+    },
+    "440507": {
+        "question": "Bộ lọc nào tạo độ nét cho hình ảnh",
+        "answer": "Blur"
+    },
+    "440508": {
+        "question": "Sản phẩm được nổi bật nhất khi chụp với nền gì?",
+        "answer": "Đơn sắc"
+    },
+    "440509": {
+        "question": "Có nên setup, trang trí, bố cục trước khi chụp ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440510": {
+        "question": "… sử dụng tông màu trắng là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Highkey"
+    },
+    "440511": {
+        "question": "Thể loại Heighkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440512": {
+        "question": "Thể loại Highkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440513": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền trắng, tripod"
+    },
+    "440514": {
+        "question": "Ban đêm có chụp được thể loại highkey không?",
+        "answer": "Không"
+    },
+    "440515": {
+        "question": "Với thể loại highkey chụp ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Ánh sáng mạnh, nền sáng, hắt sáng, tripod"
+    },
+    "440516": {
+        "question": "Cài đặt máy chụp thể loại highkey chân dung, cần chú ý đều gì?",
+        "answer": "Giảm tốc, giảm khẩu, iso nhỏ nhất có thể."
+    },
+    "440517": {
+        "question": "Có thể chụp thể loại highkey với phông nền màu tối, đậm?",
+        "answer": "Không"
+    },
+    "440518": {
+        "question": "Chụp thể loại highkey không nên sử dụng nhiều nguồn sáng cùng một lúc?",
+        "answer": "Sai"
+    },
+    "440519": {
+        "question": "Thể loại highkey có dành cho chụp phong cảnh không?",
+        "answer": "Có"
+    },
+    "440520": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại highkey chân dung không?",
+        "answer": "Không"
+    },
+    "440521": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại highkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440522": {
+        "question": "Trong các máy DSLR, thường có hỗ trợ chế độ chụp Double Exposure, với tên …",
+        "answer": "Multi Exposure"
+    },
+    "440523": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440524": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440525": {
+        "question": "Với chế độ multi exposure của máy DSLR thì chúng ta chỉ chụp thể loại này chỉ với 2 shoot hình? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440526": {
+        "question": "…. Để che những vùng cần giấu, để hiển thị những vùng cần thấy?",
+        "answer": "Mask Layer"
+    },
+    "440527": {
+        "question": "Phím tắt để hiển thị bảng Level",
+        "answer": "Ctrl+L"
+    },
+    "440528": {
+        "question": "Thể loại highkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440529": {
+        "question": "Thể loại Multi Exposure có thể hòa trộn mấy shoot hình với nhau?",
+        "answer": "tất cả đều đúng"
+    },
+    "440530": {
+        "question": "Nhiếp ảnh là gì?",
+        "answer": "là quá trình tạo ra hình ảnh bằng tác động của ánh sáng với phim hoặc thiết bị nhạy sáng. "
+    },
+    "440531": {
+        "question": "Chụp hình thẻ thuộc loại bố cục gì?",
+        "answer": "Bố cục canh giữa"
+    },
+    "440532": {
+        "question": "Máy ảnh là một hộp kín chứa cảm biến kỹ thuật số và một ống kính thu sáng từ đối tượng, tạo hình ảnh đối tượng trên cảm biến?",
+        "answer": "Có"
+    },
+    "440533": {
+        "question": "Cách hoạt động trên máy ảnh số, máy ảnh trên điện thoại và máy ảnh DSLR có giống nhau không?",
+        "answer": "Có"
+    },
+    "440534": {
+        "question": "Máy ảnh trên điện thoại có thay đổi khẩu được không?",
+        "answer": "Có"
+    },
+    "440535": {
+        "question": "Độ phân giải máy ảnh trên điện thoại cũng cao bằng trên máy ảnh cơ?",
+        "answer": "Không "
+    },
+    "440536": {
+        "question": "SLR là viết tắt của cụm từ nào?",
+        "answer": "Single Lens Reflex"
+    },
+    "440537": {
+        "question": "Máy ảnh được chia thành bao nhiêu loại chính?",
+        "answer": "2"
+    },
+    "440538": {
+        "question": "Máy ảnh du lịch thuộc loại máy ảnh nào?",
+        "answer": "Point - And - Shoot"
+    },
+    "440539": {
+        "question": "Máy ảnh du lịch (Point - and - Shoot) thường không có khung ngắm (view finder) ?",
+        "answer": "Đúng"
+    },
+    "440540": {
+        "question": "Tất cả các loại máy ảnh luôn luôn có LCD?",
+        "answer": "Sai"
+    },
+    "440541": {
+        "question": "Máy ảnh Point-and-shoot luôn luôn có flash gắn sẵn?",
+        "answer": "Đúng"
+    },
+    "440542": {
+        "question": "Máy SLR đều có flash gắn sẵn ?",
+        "answer": "Sai"
+    },
+    "440543": {
+        "question": "Loại máy ảnh nào có thể sử dụng Lens (ống kính) rời?",
+        "answer": "Máy ảnh SLR"
+    },
+    "440544": {
+        "question": "Trên máy SLR, Đâu không phải là kiểu chụp Scene?",
+        "answer": "Av"
+    },
+    "440545": {
+        "question": "Trên ống kính của một số máy SLR, có cài đặt được chế độ lấy nét không?",
+        "answer": "Có"
+    },
+    "440546": {
+        "question": "Trên ống kính của một số máy SLR, có mấy chế độ lấy nét?",
+        "answer": "2"
+    },
+    "440547": {
+        "question": "Chọn nhóm hành động đúng?",
+        "answer": "nhấn nữa - chờ nét - nhất đủ"
+    },
+    "440548": {
+        "question": "…. là một màn cửa nhỏ, nằm trước sensor của máy ảnh",
+        "answer": "Màn trập"
+    },
+    "440549": {
+        "question": "… là thước đo màn trập mở trong vòng bao nhiêu giây",
+        "answer": "Tốc độ màn trập"
+    },
+    "440550": {
+        "question": "Một số máy ảnh SLR có bao nhiêu màn hình LCD?",
+        "answer": "2"
+    },
+    "440551": {
+        "question": "Phát biểu: \"Ánh sáng có thể hoạt động như một yếu tố thiết kế quan trọng trong bức ảnh\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440552": {
+        "question": "Khi chụp ảnh cần chú ý …",
+        "answer": "Cả ba đều đúng"
+    },
+    "440553": {
+        "question": "Ánh sáng vùng tối được tạo ra bằng cách nào?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440554": {
+        "question": "Khi chụp ảnh ngoài trời, để giảm độ đậm của vùng tối, chúng ta dùng có thể dùng tấm sáng ? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440555": {
+        "question": "Tỷ lệ chiếu sáng là gì?",
+        "answer": "Sự khác biệt giữa hiệu ứng đầy đủ của ánh sáng và hiệu ứng trong vùng tối"
+    },
+    "440556": {
+        "question": "Phát biểu: \"Tỷ lệ chiếu sáng càng cao thì độ tương phản càng cao\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440557": {
+        "question": "Yếu tố nào ảnh hưởng đên màu của ánh sáng?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440558": {
+        "question": "ISO là gì?",
+        "answer": "Là độ nhạy sáng"
+    },
+    "440559": {
+        "question": "…. là một lỗ mở có tính biến thiên, nằm gần hoặc nằm trong ống kính, được sử dụng để điều khiển lượng sáng chiếu tới cảm biến!",
+        "answer": "Khẩu độ"
+    },
+    "440560": {
+        "question": "Khẩu độ được gọi là …?",
+        "answer": "f-stop"
+    },
+    "440561": {
+        "question": "DOF viết tắt từ gì?",
+        "answer": "Depth of field"
+    },
+    "440562": {
+        "question": "DOF được định nghĩa là khoảng nét chấp nhận được trên tấm hình hoàn chỉnh? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440563": {
+        "question": "…. Càng lớn thì phong cảnh càng nhòe?",
+        "answer": "Khẩu độ"
+    },
+    "440564": {
+        "question": "…. Liên quan đến độ nhờ của chủ thể chuyển động?",
+        "answer": "Tốc độ màng trập"
+    },
+    "440565": {
+        "question": "… liên quan chất lượng hình ảnh (độ nhiễu - noise)?",
+        "answer": "ISO"
+    },
+    "440566": {
+        "question": "Khẩu độ lớn (F nhỏ) thì …. Cạn (nông)/mỏng.",
+        "answer": "DOF"
+    },
+    "440567": {
+        "question": "Khẩu độ nhỏ (F lớn) thì …. Sâu/dày.",
+        "answer": "DOF"
+    },
+    "440568": {
+        "question": "\"Đóng băng chuyển động hay bắt đứng chuyển động thì ta cần tốc độ màn trập đủ nhanh\" Phát biểu này đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440569": {
+        "question": "Ống kính có tiêu cự ngắn hơn bình thường được gọi là …",
+        "answer": "ống kính rộng (wide-angle lens)"
+    },
+    "440570": {
+        "question": "Đa phần ống kính này sẽ có có tiêu cự trải từ góc rộng vừa phải đến dài vừa phải …",
+        "answer": "ống kính zoom"
+    },
+    "440571": {
+        "question": "Ống kính không thể zoom được.",
+        "answer": "ống kính cố định (fix)"
+    },
+    "440572": {
+        "question": "Được mệnh danh là \"Viên ngọc đường phố\" của Nikon?",
+        "answer": "AF-S 35mm f/1.8 G "
+    },
+    "440573": {
+        "question": "Thiết bị không thể thiếu khi chụp chân dung, nhằm bổ sung thêm sáng cho vùng tối?",
+        "answer": "tấm hắt sáng"
+    },
+    "440574": {
+        "question": "Để giảm độ chói của ánh sáng ảnh hưởng đến hình ảnh thì …",
+        "answer": "Dùng thiết bị Filter gắn vào đầu ngoài ống kính."
+    },
+    "440575": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, vô tình bạn chụp một tấm hình dư sáng, thao tác nào để chụp lại tấm khác cho đúng sáng mà không bị nhiễu?",
+        "answer": "Tăng tốc"
+    },
+    "440576": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, chụp hình với điều kiện thiếu sáng trầm trọng, chấp nhận noise nhẹ. Sự chọn lựa nào sau đây là đúng?",
+        "answer": "Tăng ISO"
+    },
+    "440577": {
+        "question": "Bạn đang chụp một vận động viên chạy bộ, chế độ chọn lựa nào đẻ hình ảnh đúng sáng không nhòe?",
+        "answer": "Tăng tốc - Tăng ISO - Mở khẩu"
+    },
+    "440578": {
+        "question": "Đa số các máy ảnh DSLR thường có nút điều chỉnh lấy nét trên thân máy? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440579": {
+        "question": "Máy ảnh điện thoại chụp chân dung được không?",
+        "answer": "Được"
+    },
+    "440580": {
+        "question": "Máy ảnh trên các dòng điện thoại đời mới có hỗ trợ chụp xóa phông ?",
+        "answer": "Có"
+    },
+    "440581": {
+        "question": "Chế độ ưu tiên khẩu là gì? (Av/A)",
+        "answer": "ISO, Khẩu được điều chỉnh."
+    },
+    "440582": {
+        "question": "Chế độ ưu tiên tốc độ màn trập là gì? (Tv/S)",
+        "answer": "Khẩu độ được chỉnh"
+    },
+    "440583": {
+        "question": "Chế độ M là gì?",
+        "answer": "Cả 3 điều đúng"
+    },
+    "440584": {
+        "question": "Trong các quy luật chụp ảnh, có áp dụng quy luật …",
+        "answer": "1/3"
+    },
+    "440585": {
+        "question": "Sử dụng Lens có tiêu cự &lt;35mm hiện tượng gì xãy ra khi chụp ảnh chân dung?",
+        "answer": "mũi to, trán lồi, mắt trợn"
+    },
+    "440586": {
+        "question": "Khi chụp chân dung cận mặt, ở chế độ lấy nét điểm thì khuyến khích nên lấy nét vào vị trí nào trên gương mặt?",
+        "answer": "mắt"
+    },
+    "440587": {
+        "question": "Khi chụp ảnh chân dung xóa phông, chúng ta chụp với lens gì tốt nhất?",
+        "answer": "50 f1.8"
+    },
+    "440588": {
+        "question": "Khi chụp ảnh chân dung 2 người 1 người trước 1 người sau. Muốn lấy nét người trước và mờ người sau thì chúng ta chụp với chế độ lấy nét gì là tối ưu nhất? (giả sử bạn đang dùng lens chuyên dụng chụp chân dung)",
+        "answer": "Chế độ lấy nét điểm"
+    },
+    "440589": {
+        "question": "Với lens fix, để có phóng to thu nhỏ chủ thể chúng ta phải …",
+        "answer": "di chuyển chủ thể hoặc di chuyển máy chụp"
+    },
+    "440590": {
+        "question": "Hạn chế chói mắt (nheo mắt) của mẫu khi chụp ảnh dưới nắng gắt. Chúng ta phải …",
+        "answer": "Che chắn mẫu nhằm giảm bớt cường độ ánh sáng"
+    },
+    "440591": {
+        "question": "Khung giờ chụp ảnh chân dung ngoại cảnh tốt nhất? (khung giờ vàng)",
+        "answer": "Buổi sáng sau khi mặt trời mọc 2 giờ"
+    },
+    "440592": {
+        "question": "Một máy ảnh thường chỉ tương ứng với một loại lens mà thôi? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440593": {
+        "question": "Lens ... Là sự chọn lựa tối ưu nhất khi chụp phong cảnh?",
+        "answer": "Ống kính có góc rộng"
+    },
+    "440594": {
+        "question": "Phong cảnh có chủ thể không?",
+        "answer": "Có"
+    },
+    "440595": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440596": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440597": {
+        "question": "Tạo hiệu ứng chuyển động khi chụp phương tiện đang lưu thông trên đường (lia máy) thì ưu tiên …",
+        "answer": "Giảm tốc , Bắt nét chủ thể, Di chuyển máy ảnh"
+    },
+    "440598": {
+        "question": "Thực hiện ảnh phơi sáng thì …",
+        "answer": "Cố định máy, giảm tốc"
+    },
+    "440599": {
+        "question": "Khi chụp ảnh phong cảnh ngược sáng (ngược mặt trời), chủ thể tạo bóng đen thì …",
+        "answer": "tăng tốc, giảm ISO, tăng khẩu"
+    },
+    "440600": {
+        "question": "Trên máy ảnh DSLR, chụp chế độ M, có chọn kiểu ảnh chụp (style picture) được không?",
+        "answer": "Có"
+    },
+    "440601": {
+        "question": "Đâu là điều chú ý khi chụp phong cảnh?",
+        "answer": "Chủ thể và background"
+    },
+    "440602": {
+        "question": "Kỹ thuật chụp ảnh toàn cảnh không gian rộng lớn được gọi là gì?",
+        "answer": "Panorama"
+    },
+    "440603": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440604": {
+        "question": "Thể loại ảnh polar là một kiểu ảnh Panorama? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440605": {
+        "question": "Để chụp mây trời, thì sẽ ưu tiên …",
+        "answer": "F16 trở lên"
+    },
+    "440606": {
+        "question": "F càng cao phong cảnh càng rõ?",
+        "answer": "Đúng"
+    },
+    "440607": {
+        "question": "Tốc độ màn trập bao nhiêu thì bắt đứng chuyển động?",
+        "answer": "1/200s"
+    },
+    "440608": {
+        "question": "Ánh sáng vàng (ánh sáng tốt) để chụp phong cảnh là khi nào?",
+        "answer": "Sau 2 giờ khi mặt trời mọc, và trước 2 giờ khi mặt trời lặn"
+    },
+    "440609": {
+        "question": "Ống Fix có là chọn lựa tốt cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440610": {
+        "question": "Khi chụp mái đình chùa, để mô tả kiến trúc độc đáo nên chọn background gì?",
+        "answer": "Mây trời"
+    },
+    "440611": {
+        "question": "Khi chụp ảnh để tạo ảnh thể loại panorama, để giữ thăng bằng cho máy, sự lựa chọn tốt nhất sẽ là?",
+        "answer": "Chân máy (tripod)"
+    },
+    "440612": {
+        "question": "Các loại máy DSLR hiện nay đều có định dạng lưu file raw?",
+        "answer": "Đúng"
+    },
+    "440613": {
+        "question": "File raw là file có định dạng .raw?",
+        "answer": "Sai"
+    },
+    "440614": {
+        "question": "Định dạng nào sau đây không phải file raw",
+        "answer": ".PNG"
+    },
+    "440615": {
+        "question": "Đâu là đặc điểm không phải là file raw?",
+        "answer": "Nhẹ"
+    },
+    "440616": {
+        "question": "File RAW có thể điều chỉnh lại được cân bằng trắng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440617": {
+        "question": "File Raw tự động phát sinh khi chụp ảnh mà không có một sự can thiệp nào của người chụp?",
+        "answer": "Sai"
+    },
+    "440618": {
+        "question": "Phần mềm nào không đọc được file raw?",
+        "answer": "Window picture"
+    },
+    "440619": {
+        "question": "Có thể cài đặt lưu file raw sau khi chụp thông qua menu nào sau đây trên máy ảnh?",
+        "answer": "Quality"
+    },
+    "440620": {
+        "question": "Phiên bản Camera Raw trong photoshop luôn luôn được cập nhật tự động?",
+        "answer": "Sai"
+    },
+    "440621": {
+        "question": "Photoshop có hỗ trợ chuyển đổi file raw thành file jpg không?",
+        "answer": "Có"
+    },
+    "440622": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440623": {
+        "question": "Đâu không phải là phương thức chỉnh lại tone màu hình ảnh trên Photoshop?",
+        "answer": "Invert"
+    },
+    "440624": {
+        "question": "Thay đổi Level cho phép bạn thay giá trị của các điểm tối nhất – trắng nhất trong hình ảnh?",
+        "answer": "Đúng"
+    },
+    "440625": {
+        "question": "Công cụ Adjustment Brush (Camera Raw) có chứ năng gì?",
+        "answer": "Thêm sáng/màu cho từng vùng của hình ảnh"
+    },
+    "440626": {
+        "question": "Công cụ Red Eye Removal (Camera Raw) có chức năng gì?",
+        "answer": "Khử mắt đỏ"
+    },
+    "440627": {
+        "question": "Công cụ Spot Removal (Camera Raw) có chức năng gì?",
+        "answer": "Xóa và chỉnh sửa lỗi"
+    },
+    "440628": {
+        "question": "Khi xử lý ảnh với phần mềm Camera raw thì hệ thống sẽ tự phát sinh ra file xmp để quản lý thông số chỉnh sửa? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440629": {
+        "question": "Để Blend màu cho hình ảnh phải cần download action từ trên mạng? Đúng hay không?",
+        "answer": "Đúng"
+    },
+    "440630": {
+        "question": "Đâu không phải là công cụ chỉnh sửa ảnh?",
+        "answer": "Eyedropper "
+    },
+    "440631": {
+        "question": "… sử dụng tông màu đen là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Lowkey"
+    },
+    "440632": {
+        "question": "Thể loại Lowkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440633": {
+        "question": "Thể loại Lowkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440634": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền đen, tripod"
+    },
+    "440635": {
+        "question": "Ánh sáng ban ngày có chụp được thể loại lowkey không?",
+        "answer": "Có"
+    },
+    "440636": {
+        "question": "Với thể loại lowkey ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Nền tối, 1 nguồn sáng, ánh sáng nhẹ"
+    },
+    "440637": {
+        "question": "Cài đặt máy chụp thể loại lowkey chân dung, cần chú ý đều gì?",
+        "answer": "tăng tốc, tăng khẩu, iso thấp nhất."
+    },
+    "440638": {
+        "question": "Có thể chụp thể loại lowkey với phông nền màu khác?",
+        "answer": "Có"
+    },
+    "440639": {
+        "question": "Chụp thể loại lowkey có thể sử dụng 2 nguồn sáng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440640": {
+        "question": "Chụp lowkey chân dung trong studio, để tạo ra một máy tóc đẹp và tạo ra vầng hào quang thì ta thực hiện?",
+        "answer": "Dùng một đèn hắt từ phía sau"
+    },
+    "440641": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại lowkey chân dung không?",
+        "answer": "Không"
+    },
+    "440642": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại lowkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440643": {
+        "question": "Trong photoshop, để làm hình ảnh tối đi, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Multiply"
+    },
+    "440644": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440645": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440646": {
+        "question": "Công cụ nào làm tối vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Burn tool"
+    },
+    "440647": {
+        "question": "Công cụ nào làm sáng vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Dodge Tool"
+    },
+    "440648": {
+        "question": "Phím tắt trong Photoshop để biến hình màu thành hình trắng đen?",
+        "answer": "Ctrl+Shift+U"
+    },
+    "440649": {
+        "question": "Thể loại lowkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440650": {
+        "question": "Thể loại lowkey có dành cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440651": {
+        "question": "… sử dụng tông màu trắng là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Highkey"
+    },
+    "440652": {
+        "question": "Thể loại Heighkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440653": {
+        "question": "Thể loại Highkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440654": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền trắng, tripod"
+    },
+    "440655": {
+        "question": "Ban đêm có chụp được thể loại highkey không?",
+        "answer": "Không"
+    },
+    "440656": {
+        "question": "Với thể loại highkey chụp ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Ánh sáng mạnh, nền sáng, hắt sáng, tripod"
+    },
+    "440657": {
+        "question": "Cài đặt máy chụp thể loại highkey chân dung, cần chú ý đều gì?",
+        "answer": "Giảm tốc, giảm khẩu, iso nhỏ nhất có thể."
+    },
+    "440658": {
+        "question": "Có thể chụp thể loại highkey với phông nền màu tối, đậm?",
+        "answer": "Không"
+    },
+    "440659": {
+        "question": "Chụp thể loại highkey không nên sử dụng nhiều nguồn sáng cùng một lúc?",
+        "answer": "Sai"
+    },
+    "440660": {
+        "question": "Thể loại highkey có dành cho chụp phong cảnh không?",
+        "answer": "Có"
+    },
+    "440661": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại highkey chân dung không?",
+        "answer": "Không"
+    },
+    "440662": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại highkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440663": {
+        "question": "Trong các máy DSLR, thường có hỗ trợ chế độ chụp Double Exposure, với tên …",
+        "answer": "Multi Exposure"
+    },
+    "440664": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440665": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440666": {
+        "question": "Với chế độ multi exposure của máy DSLR thì chúng ta chỉ chụp thể loại này chỉ với 2 shoot hình? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440667": {
+        "question": "…. Để che những vùng cần giấu, để hiển thị những vùng cần thấy?",
+        "answer": "Mask Layer"
+    },
+    "440668": {
+        "question": "Phím tắt để hiển thị bảng Level",
+        "answer": "Ctrl+L"
+    },
+    "440669": {
+        "question": "Thể loại highkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440670": {
+        "question": "Thể loại Multi Exposure có thể hòa trộn mấy shoot hình với nhau?",
+        "answer": "tất cả đều đúng"
+    },
+    "440671": {
+        "question": "Nhiếp ảnh là gì?",
+        "answer": "là quá trình tạo ra hình ảnh bằng tác động của ánh sáng với phim hoặc thiết bị nhạy sáng. "
+    },
+    "440672": {
+        "question": "Chụp hình thẻ thuộc loại bố cục gì?",
+        "answer": "Bố cục canh giữa"
+    },
+    "440673": {
+        "question": "Máy ảnh là một hộp kín chứa cảm biến kỹ thuật số và một ống kính thu sáng từ đối tượng, tạo hình ảnh đối tượng trên cảm biến?",
+        "answer": "Có"
+    },
+    "440674": {
+        "question": "Cách hoạt động trên máy ảnh số, máy ảnh trên điện thoại và máy ảnh DSLR có giống nhau không?",
+        "answer": "Có"
+    },
+    "440675": {
+        "question": "Máy ảnh trên điện thoại có thay đổi khẩu được không?",
+        "answer": "Có"
+    },
+    "440676": {
+        "question": "Độ phân giải máy ảnh trên điện thoại cũng cao bằng trên máy ảnh cơ?",
+        "answer": "Không "
+    },
+    "440677": {
+        "question": "SLR là viết tắt của cụm từ nào?",
+        "answer": "Single Lens Reflex"
+    },
+    "440678": {
+        "question": "Máy ảnh được chia thành bao nhiêu loại chính?",
+        "answer": "2"
+    },
+    "440679": {
+        "question": "Máy ảnh du lịch thuộc loại máy ảnh nào?",
+        "answer": "Point - And - Shoot"
+    },
+    "440680": {
+        "question": "Máy ảnh du lịch (Point - and - Shoot) thường không có khung ngắm (view finder) ?",
+        "answer": "Đúng"
+    },
+    "440681": {
+        "question": "Tất cả các loại máy ảnh luôn luôn có LCD?",
+        "answer": "Sai"
+    },
+    "440682": {
+        "question": "Máy ảnh Point-and-shoot luôn luôn có flash gắn sẵn?",
+        "answer": "Đúng"
+    },
+    "440683": {
+        "question": "Máy SLR đều có flash gắn sẵn ?",
+        "answer": "Sai"
+    },
+    "440684": {
+        "question": "Loại máy ảnh nào có thể sử dụng Lens (ống kính) rời?",
+        "answer": "Máy ảnh SLR"
+    },
+    "440685": {
+        "question": "Trên máy SLR, Đâu không phải là kiểu chụp Scene?",
+        "answer": "Av"
+    },
+    "440686": {
+        "question": "Trên ống kính của một số máy SLR, có cài đặt được chế độ lấy nét không?",
+        "answer": "Có"
+    },
+    "440687": {
+        "question": "Trên ống kính của một số máy SLR, có mấy chế độ lấy nét?",
+        "answer": "2"
+    },
+    "440688": {
+        "question": "Chọn nhóm hành động đúng?",
+        "answer": "nhấn nữa - chờ nét - nhất đủ"
+    },
+    "440689": {
+        "question": "…. là một màn cửa nhỏ, nằm trước sensor của máy ảnh",
+        "answer": "Màn trập"
+    },
+    "440690": {
+        "question": "… là thước đo màn trập mở trong vòng bao nhiêu giây",
+        "answer": "Tốc độ màn trập"
+    },
+    "440691": {
+        "question": "Một số máy ảnh SLR có bao nhiêu màn hình LCD?",
+        "answer": "2"
+    },
+    "440692": {
+        "question": "Phát biểu: \"Ánh sáng có thể hoạt động như một yếu tố thiết kế quan trọng trong bức ảnh\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440693": {
+        "question": "Khi chụp ảnh cần chú ý …",
+        "answer": "Cả ba đều đúng"
+    },
+    "440694": {
+        "question": "Ánh sáng vùng tối được tạo ra bằng cách nào?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440695": {
+        "question": "Khi chụp ảnh ngoài trời, để giảm độ đậm của vùng tối, chúng ta dùng có thể dùng tấm sáng ? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440696": {
+        "question": "Tỷ lệ chiếu sáng là gì?",
+        "answer": "Sự khác biệt giữa hiệu ứng đầy đủ của ánh sáng và hiệu ứng trong vùng tối"
+    },
+    "440697": {
+        "question": "Phát biểu: \"Tỷ lệ chiếu sáng càng cao thì độ tương phản càng cao\"? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440698": {
+        "question": "Yếu tố nào ảnh hưởng đên màu của ánh sáng?",
+        "answer": "Cả ba đều đúng"
+    },
+    "440699": {
+        "question": "ISO là gì?",
+        "answer": "Là độ nhạy sáng"
+    },
+    "440700": {
+        "question": "…. là một lỗ mở có tính biến thiên, nằm gần hoặc nằm trong ống kính, được sử dụng để điều khiển lượng sáng chiếu tới cảm biến!",
+        "answer": "Khẩu độ"
+    },
+    "440701": {
+        "question": "Khẩu độ được gọi là …?",
+        "answer": "f-stop"
+    },
+    "440702": {
+        "question": "DOF viết tắt từ gì?",
+        "answer": "Depth of field"
+    },
+    "440703": {
+        "question": "DOF được định nghĩa là khoảng nét chấp nhận được trên tấm hình hoàn chỉnh? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440704": {
+        "question": "…. Càng lớn thì phong cảnh càng nhòe?",
+        "answer": "Khẩu độ"
+    },
+    "440705": {
+        "question": "…. Liên quan đến độ nhờ của chủ thể chuyển động?",
+        "answer": "Tốc độ màng trập"
+    },
+    "440706": {
+        "question": "… liên quan chất lượng hình ảnh (độ nhiễu - noise)?",
+        "answer": "ISO"
+    },
+    "440707": {
+        "question": "Khẩu độ lớn (F nhỏ) thì …. Cạn (nông)/mỏng.",
+        "answer": "DOF"
+    },
+    "440708": {
+        "question": "Khẩu độ nhỏ (F lớn) thì …. Sâu/dày.",
+        "answer": "DOF"
+    },
+    "440709": {
+        "question": "\"Đóng băng chuyển động hay bắt đứng chuyển động thì ta cần tốc độ màn trập đủ nhanh\" Phát biểu này đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440710": {
+        "question": "Ống kính có tiêu cự ngắn hơn bình thường được gọi là …",
+        "answer": "ống kính rộng (wide-angle lens)"
+    },
+    "440711": {
+        "question": "Đa phần ống kính này sẽ có có tiêu cự trải từ góc rộng vừa phải đến dài vừa phải …",
+        "answer": "ống kính zoom"
+    },
+    "440712": {
+        "question": "Ống kính không thể zoom được.",
+        "answer": "ống kính cố định (fix)"
+    },
+    "440713": {
+        "question": "Được mệnh danh là \"Viên ngọc đường phố\" của Nikon?",
+        "answer": "AF-S 35mm f/1.8 G "
+    },
+    "440714": {
+        "question": "Thiết bị không thể thiếu khi chụp chân dung, nhằm bổ sung thêm sáng cho vùng tối?",
+        "answer": "tấm hắt sáng"
+    },
+    "440715": {
+        "question": "Để giảm độ chói của ánh sáng ảnh hưởng đến hình ảnh thì …",
+        "answer": "Dùng thiết bị Filter gắn vào đầu ngoài ống kính."
+    },
+    "440716": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, vô tình bạn chụp một tấm hình dư sáng, thao tác nào để chụp lại tấm khác cho đúng sáng mà không bị nhiễu?",
+        "answer": "Tăng tốc"
+    },
+    "440717": {
+        "question": "Giả sử bạn đang chụp với ống kính 50 F1.8, chụp hình với điều kiện thiếu sáng trầm trọng, chấp nhận noise nhẹ. Sự chọn lựa nào sau đây là đúng?",
+        "answer": "Tăng ISO"
+    },
+    "440718": {
+        "question": "Bạn đang chụp một vận động viên chạy bộ, chế độ chọn lựa nào đẻ hình ảnh đúng sáng không nhòe?",
+        "answer": "Tăng tốc - Tăng ISO - Mở khẩu"
+    },
+    "440719": {
+        "question": "Đa số các máy ảnh DSLR thường có nút điều chỉnh lấy nét trên thân máy? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440720": {
+        "question": "Máy ảnh điện thoại chụp chân dung được không?",
+        "answer": "Được"
+    },
+    "440721": {
+        "question": "Máy ảnh trên các dòng điện thoại đời mới có hỗ trợ chụp xóa phông ?",
+        "answer": "Có"
+    },
+    "440722": {
+        "question": "Chế độ ưu tiên khẩu là gì? (Av/A)",
+        "answer": "ISO, Khẩu được điều chỉnh."
+    },
+    "440723": {
+        "question": "Chế độ ưu tiên tốc độ màn trập là gì? (Tv/S)",
+        "answer": "Khẩu độ được chỉnh"
+    },
+    "440724": {
+        "question": "Chế độ M là gì?",
+        "answer": "Cả 3 điều đúng"
+    },
+    "440725": {
+        "question": "Trong các quy luật chụp ảnh, có áp dụng quy luật …",
+        "answer": "1/3"
+    },
+    "440726": {
+        "question": "Sử dụng Lens có tiêu cự &lt;35mm hiện tượng gì xãy ra khi chụp ảnh chân dung?",
+        "answer": "mũi to, trán lồi, mắt trợn"
+    },
+    "440727": {
+        "question": "Khi chụp chân dung cận mặt, ở chế độ lấy nét điểm thì khuyến khích nên lấy nét vào vị trí nào trên gương mặt?",
+        "answer": "mắt"
+    },
+    "440728": {
+        "question": "Khi chụp ảnh chân dung xóa phông, chúng ta chụp với lens gì tốt nhất?",
+        "answer": "50 f1.8"
+    },
+    "440729": {
+        "question": "Khi chụp ảnh chân dung 2 người 1 người trước 1 người sau. Muốn lấy nét người trước và mờ người sau thì chúng ta chụp với chế độ lấy nét gì là tối ưu nhất? (giả sử bạn đang dùng lens chuyên dụng chụp chân dung)",
+        "answer": "Chế độ lấy nét điểm"
+    },
+    "440730": {
+        "question": "Với lens fix, để có phóng to thu nhỏ chủ thể chúng ta phải …",
+        "answer": "di chuyển chủ thể hoặc di chuyển máy chụp"
+    },
+    "440731": {
+        "question": "Hạn chế chói mắt (nheo mắt) của mẫu khi chụp ảnh dưới nắng gắt. Chúng ta phải …",
+        "answer": "Che chắn mẫu nhằm giảm bớt cường độ ánh sáng"
+    },
+    "440732": {
+        "question": "Khung giờ chụp ảnh chân dung ngoại cảnh tốt nhất? (khung giờ vàng)",
+        "answer": "Buổi sáng sau khi mặt trời mọc 2 giờ"
+    },
+    "440733": {
+        "question": "Một máy ảnh thường chỉ tương ứng với một loại lens mà thôi? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440734": {
+        "question": "Lens ... Là sự chọn lựa tối ưu nhất khi chụp phong cảnh?",
+        "answer": "Ống kính có góc rộng"
+    },
+    "440735": {
+        "question": "Phong cảnh có chủ thể không?",
+        "answer": "Có"
+    },
+    "440736": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440737": {
+        "question": "Để tạo hiệu ứng dòng sữa khi chụp thác/suối chảy thì ưu tiên ….",
+        "answer": "Giảm tốc"
+    },
+    "440738": {
+        "question": "Tạo hiệu ứng chuyển động khi chụp phương tiện đang lưu thông trên đường (lia máy) thì ưu tiên …",
+        "answer": "Giảm tốc , Bắt nét chủ thể, Di chuyển máy ảnh"
+    },
+    "440739": {
+        "question": "Thực hiện ảnh phơi sáng thì …",
+        "answer": "Cố định máy, giảm tốc"
+    },
+    "440740": {
+        "question": "Khi chụp ảnh phong cảnh ngược sáng (ngược mặt trời), chủ thể tạo bóng đen thì …",
+        "answer": "tăng tốc, giảm ISO, tăng khẩu"
+    },
+    "440741": {
+        "question": "Trên máy ảnh DSLR, chụp chế độ M, có chọn kiểu ảnh chụp (style picture) được không?",
+        "answer": "Có"
+    },
+    "440742": {
+        "question": "Đâu là điều chú ý khi chụp phong cảnh?",
+        "answer": "Chủ thể và background"
+    },
+    "440743": {
+        "question": "Kỹ thuật chụp ảnh toàn cảnh không gian rộng lớn được gọi là gì?",
+        "answer": "Panorama"
+    },
+    "440744": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440745": {
+        "question": "Thể loại ảnh polar là một kiểu ảnh Panorama? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440746": {
+        "question": "Để chụp mây trời, thì sẽ ưu tiên …",
+        "answer": "F16 trở lên"
+    },
+    "440747": {
+        "question": "F càng cao phong cảnh càng rõ?",
+        "answer": "Đúng"
+    },
+    "440748": {
+        "question": "Tốc độ màn trập bao nhiêu thì bắt đứng chuyển động?",
+        "answer": "1/200s"
+    },
+    "440749": {
+        "question": "Ánh sáng vàng (ánh sáng tốt) để chụp phong cảnh là khi nào?",
+        "answer": "Sau 2 giờ khi mặt trời mọc, và trước 2 giờ khi mặt trời lặn"
+    },
+    "440750": {
+        "question": "Ống Fix có là chọn lựa tốt cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440751": {
+        "question": "Khi chụp mái đình chùa, để mô tả kiến trúc độc đáo nên chọn background gì?",
+        "answer": "Mây trời"
+    },
+    "440752": {
+        "question": "Khi chụp ảnh để tạo ảnh thể loại panorama, để giữ thăng bằng cho máy, sự lựa chọn tốt nhất sẽ là?",
+        "answer": "Chân máy (tripod)"
+    },
+    "440753": {
+        "question": "Các loại máy DSLR hiện nay đều có định dạng lưu file raw?",
+        "answer": "Đúng"
+    },
+    "440754": {
+        "question": "File raw là file có định dạng .raw?",
+        "answer": "Sai"
+    },
+    "440755": {
+        "question": "Định dạng nào sau đây không phải file raw",
+        "answer": ".PNG"
+    },
+    "440756": {
+        "question": "Đâu là đặc điểm không phải là file raw?",
+        "answer": "Nhẹ"
+    },
+    "440757": {
+        "question": "File RAW có thể điều chỉnh lại được cân bằng trắng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440758": {
+        "question": "File Raw tự động phát sinh khi chụp ảnh mà không có một sự can thiệp nào của người chụp?",
+        "answer": "Sai"
+    },
+    "440759": {
+        "question": "Phần mềm nào không đọc được file raw?",
+        "answer": "Window picture"
+    },
+    "440760": {
+        "question": "Có thể cài đặt lưu file raw sau khi chụp thông qua menu nào sau đây trên máy ảnh?",
+        "answer": "Quality"
+    },
+    "440761": {
+        "question": "Phiên bản Camera Raw trong photoshop luôn luôn được cập nhật tự động?",
+        "answer": "Sai"
+    },
+    "440762": {
+        "question": "Photoshop có hỗ trợ chuyển đổi file raw thành file jpg không?",
+        "answer": "Có"
+    },
+    "440763": {
+        "question": "Kỹ thuật chụp ảnh nhiều lần phơi sáng và pha trộn chúng?",
+        "answer": "HDR"
+    },
+    "440764": {
+        "question": "Đâu không phải là phương thức chỉnh lại tone màu hình ảnh trên Photoshop?",
+        "answer": "Invert"
+    },
+    "440765": {
+        "question": "Thay đổi Level cho phép bạn thay giá trị của các điểm tối nhất – trắng nhất trong hình ảnh?",
+        "answer": "Đúng"
+    },
+    "440766": {
+        "question": "Công cụ Adjustment Brush (Camera Raw) có chứ năng gì?",
+        "answer": "Thêm sáng/màu cho từng vùng của hình ảnh"
+    },
+    "440767": {
+        "question": "Công cụ Red Eye Removal (Camera Raw) có chức năng gì?",
+        "answer": "Khử mắt đỏ"
+    },
+    "440768": {
+        "question": "Công cụ Spot Removal (Camera Raw) có chức năng gì?",
+        "answer": "Xóa và chỉnh sửa lỗi"
+    },
+    "440769": {
+        "question": "Khi xử lý ảnh với phần mềm Camera raw thì hệ thống sẽ tự phát sinh ra file xmp để quản lý thông số chỉnh sửa? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440770": {
+        "question": "Để Blend màu cho hình ảnh phải cần download action từ trên mạng? Đúng hay không?",
+        "answer": "Đúng"
+    },
+    "440771": {
+        "question": "Đâu không phải là công cụ chỉnh sửa ảnh?",
+        "answer": "Eyedropper "
+    },
+    "440772": {
+        "question": "Phát biểu: \"Chiếu sáng tĩnh vật giống như chiếu sáng chân dung\"? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440773": {
+        "question": "Các loại đèn để sử dụng trong việc chụp ảnh sản phẩm (studio)?",
+        "answer": "Cả ba đèn trên"
+    },
+    "440774": {
+        "question": "Khi chiếu sáng tĩnh vật cần chú ý đến … ?",
+        "answer": "Cả 3 yếu tố trên"
+    },
+    "440775": {
+        "question": "Tốt nhất khi chụp ảnh tĩnh vật ánh sáng cần được …",
+        "answer": "Khuếch tán"
+    },
+    "440776": {
+        "question": "Lens macro có thể chụp sản phẩm không?",
+        "answer": "Có"
+    },
+    "440777": {
+        "question": "Có thể dùng điện thoại để chụp sản phẩm được không?",
+        "answer": "Có"
+    },
+    "440778": {
+        "question": "DOF Stactking được viết tắt ?",
+        "answer": "Depth of Field"
+    },
+    "440779": {
+        "question": "… là phương pháp chụp nhiều kiểu ảnh của cùng một chủ đề với nhiều khoảng cách lấy nét khác nhau của chủ đề, sau đó ghép tất cả các ảnh lại để có được một ảnh cuối cùng có độ rõ nét từ trước đến sau của chủ đề.",
+        "answer": "DOF Stacking"
+    },
+    "440780": {
+        "question": "… là phụ kiện không thể thiếu khi thực hiện chụp ảnh thể loại DOF Stacking!",
+        "answer": "Tripod (chân máy)"
+    },
+    "440781": {
+        "question": "Không nên thay đổi căn bằng trắng trong loạt ảnh chụp cho thể loại DPF Stacking? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440782": {
+        "question": "Khi chụp sản phẩm có độ phản chiếu cao thì điều đầu tiên chúng ta quan tâm là …",
+        "answer": "Khuếch tán ánh sáng."
+    },
+    "440783": {
+        "question": "Sử dụng ống kính nào tốt nhất để tạo chụp loạt ảnh thể loại DOF Stacking?",
+        "answer": "Fix"
+    },
+    "440784": {
+        "question": "Photoshop có hỗ trợ hậu kỳ thể loại DOF Stacking không?",
+        "answer": "Có "
+    },
+    "440785": {
+        "question": "Chế độ hòa trộn nào tạo sự tương phản nhẹ?",
+        "answer": "Soft Light"
+    },
+    "440786": {
+        "question": "Có nên lạm dụng chỉnh sửa ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440787": {
+        "question": "Bảng công cụ nào có thể chuyển đổi ảnh nhiều màu thành ảnh một màu?",
+        "answer": "Hue/Saturation"
+    },
+    "440788": {
+        "question": "Bộ lọc nào tạo độ nét cho hình ảnh",
+        "answer": "Blur"
+    },
+    "440789": {
+        "question": "Sản phẩm được nổi bật nhất khi chụp với nền gì?",
+        "answer": "Đơn sắc"
+    },
+    "440790": {
+        "question": "Có nên setup, trang trí, bố cục trước khi chụp ảnh sản phẩm?",
+        "answer": "Có"
+    },
+    "440791": {
+        "question": "… sử dụng tông màu đen là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Lowkey"
+    },
+    "440792": {
+        "question": "Thể loại Lowkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440793": {
+        "question": "Thể loại Lowkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440794": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền đen, tripod"
+    },
+    "440795": {
+        "question": "Ánh sáng ban ngày có chụp được thể loại lowkey không?",
+        "answer": "Có"
+    },
+    "440796": {
+        "question": "Với thể loại lowkey ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Nền tối, 1 nguồn sáng, ánh sáng nhẹ"
+    },
+    "440797": {
+        "question": "Cài đặt máy chụp thể loại lowkey chân dung, cần chú ý đều gì?",
+        "answer": "tăng tốc, tăng khẩu, iso thấp nhất."
+    },
+    "440798": {
+        "question": "Có thể chụp thể loại lowkey với phông nền màu khác?",
+        "answer": "Có"
+    },
+    "440799": {
+        "question": "Chụp thể loại lowkey có thể sử dụng 2 nguồn sáng? Đúng hay Sai?",
+        "answer": "Đúng"
+    },
+    "440800": {
+        "question": "Chụp lowkey chân dung trong studio, để tạo ra một máy tóc đẹp và tạo ra vầng hào quang thì ta thực hiện?",
+        "answer": "Dùng một đèn hắt từ phía sau"
+    },
+    "440801": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại lowkey chân dung không?",
+        "answer": "Không"
+    },
+    "440802": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại lowkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440803": {
+        "question": "Trong photoshop, để làm hình ảnh tối đi, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Multiply"
+    },
+    "440804": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440805": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440806": {
+        "question": "Công cụ nào làm tối vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Burn tool"
+    },
+    "440807": {
+        "question": "Công cụ nào làm sáng vùng hình khi quét công cụ qua vùng hình đó?",
+        "answer": "Dodge Tool"
+    },
+    "440808": {
+        "question": "Phím tắt trong Photoshop để biến hình màu thành hình trắng đen?",
+        "answer": "Ctrl+Shift+U"
+    },
+    "440809": {
+        "question": "Thể loại lowkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440810": {
+        "question": "Thể loại lowkey có dành cho chụp phong cảnh không?",
+        "answer": "Không"
+    },
+    "440811": {
+        "question": "… sử dụng tông màu trắng là chủ đạo để tạo ra một hình ảnh ấn tượng.",
+        "answer": "Highkey"
+    },
+    "440812": {
+        "question": "Thể loại Heighkey không dùng cho chụp chân dung?",
+        "answer": "Sai"
+    },
+    "440813": {
+        "question": "Thể loại Highkey chỉ có thể chụp trong stuido?",
+        "answer": "Sai"
+    },
+    "440814": {
+        "question": "Trong Studio để chụp thể loại lowkey chúng ta có thể trang bị",
+        "answer": "1 đèn chính, 1 đèn phụ, dù hắt sáng, nền trắng, tripod"
+    },
+    "440815": {
+        "question": "Ban đêm có chụp được thể loại highkey không?",
+        "answer": "Không"
+    },
+    "440816": {
+        "question": "Với thể loại highkey chụp ngoài trời, khi chụp cần quan tâm đều gì?",
+        "answer": "Ánh sáng mạnh, nền sáng, hắt sáng, tripod"
+    },
+    "440817": {
+        "question": "Cài đặt máy chụp thể loại highkey chân dung, cần chú ý đều gì?",
+        "answer": "Giảm tốc, giảm khẩu, iso nhỏ nhất có thể."
+    },
+    "440818": {
+        "question": "Có thể chụp thể loại highkey với phông nền màu tối, đậm?",
+        "answer": "Không"
+    },
+    "440819": {
+        "question": "Chụp thể loại highkey không nên sử dụng nhiều nguồn sáng cùng một lúc?",
+        "answer": "Sai"
+    },
+    "440820": {
+        "question": "Thể loại highkey có dành cho chụp phong cảnh không?",
+        "answer": "Có"
+    },
+    "440821": {
+        "question": "Angle wide Lens&nbsp; (góc rộng) cho chụp thể loại highkey chân dung không?",
+        "answer": "Không"
+    },
+    "440822": {
+        "question": "Với photoshop, hoàn toàn có thể biến 1 ảnh bình thường thành ảnh thể loại highkey? Đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "440823": {
+        "question": "Trong các máy DSLR, thường có hỗ trợ chế độ chụp Double Exposure, với tên …",
+        "answer": "Multi Exposure"
+    },
+    "440824": {
+        "question": "Trong photoshop, để làm hình ảnh sáng lên, chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Screen"
+    },
+    "440825": {
+        "question": "Trong photoshop, để tạo tương phản mạnh (gắt), chúng ta chọn chế độ hòa trộn nào?",
+        "answer": "Overplay"
+    },
+    "440826": {
+        "question": "Với chế độ multi exposure của máy DSLR thì chúng ta chỉ chụp thể loại này chỉ với 2 shoot hình? Đúng hay sai?",
+        "answer": "Sai"
+    },
+    "440827": {
+        "question": "…. Để che những vùng cần giấu, để hiển thị những vùng cần thấy?",
+        "answer": "Mask Layer"
+    },
+    "440828": {
+        "question": "Phím tắt để hiển thị bảng Level",
+        "answer": "Ctrl+L"
+    },
+    "440829": {
+        "question": "Thể loại highkey có chụp được nhiều người không?",
+        "answer": "Có"
+    },
+    "440830": {
+        "question": "Thể loại Multi Exposure có thể hòa trộn mấy shoot hình với nhau?",
+        "answer": "tất cả đều đúng"
+    },
+    "440831": {
+        "question": "Để kết nối Raspberry Pi với Ti vi ta cần dùng?\n ",
+        "answer": " Cổng HDMI đực và Adapter"
+    },
+    "440832": {
+        "question": "Ta có thể dùng nguồn nào để cấp cho Raspberry Pi?",
+        "answer": " Kết nối qua USB"
+    },
+    "440833": {
+        "question": "Cáp Ethernet / LAN được sử dụng trong Raspberry Pi là?",
+        "answer": " RJ45"
+    },
+    "440834": {
+        "question": "Kiến trúc tập lệnh được dùng trong Raspberry Pi là gì?",
+        "answer": " ARM"
+    },
+    "440835": {
+        "question": "Người dùng mặc định trên Raspberry Pi là gì?",
+        "answer": " Pi"
+    },
+    "440836": {
+        "question": "Hệ điều hành nào được hỗ trợ cho Raspberry Pi 3?",
+        "answer": " Arch Linux, Debain, và Fedora Remix"
+    },
+    "440837": {
+        "question": "Vi xử lý được dùng trong Raspberry Pi 3 là gì?",
+        "answer": " 64-bit"
+    },
+    "440838": {
+        "question": "Tốc độ xử lý của Raspberry Pi 3 là bao nhiêu?",
+        "answer": " 1.2GHz"
+    },
+    "440839": {
+        "question": "Wi-Fi không được hỗ trợ trên Raspberry Pi ở phiên bản nào?",
+        "answer": " Raspberry Pi Zero"
+    },
+    "440840": {
+        "question": "Có bao nhiêu cổng USB được hỗ trợ trên Raspberry Pi 3?",
+        "answer": "4"
+    },
+    "440841": {
+        "question": "Dung lượng RAM của Pi 3 là bao nhiêu?",
+        "answer": " 1GB"
+    },
+    "440842": {
+        "question": "Nguồn ổn định nhất cho Raspberry Pi 3 là:",
+        "answer": "Nguồn 5V, 2.5A"
+    },
+    "440843": {
+        "question": "Hệ điều hành nào phổ biến nhất cho Raspberry Pi 3?",
+        "answer": " Raspbian"
+    },
+    "440844": {
+        "question": "Khi Raspberry Pi được khởi động nó sẽ tiến hành các bước: Bộ nạp khởi động phần cứng trong Raspberry Pi và tải nhân Linux gồm bộ nạp khởi động giai đoạn đầu tiên và thứ hai. Giai đoạn đầu: được lập trình vào ROM của Raspberry Pi. Giai đoạn thứ hai và thứ ba __________________ và được tự động chạy bởi bộ nạp khởi động các giai đoạn trước",
+        "answer": " được lưu trữ trên thẻ SD"
+    },
+    "440845": {
+        "question": "Một số thành phần chính của Raspbian: Bộ nạp khởi động Raspberry Pi, Nhân Linux, Daemon, Shell, Các shell tiện ích, Đồ họa máy chủ X.Org và __________________",
+        "answer": " Môi trường Desktop"
+    },
+    "440846": {
+        "question": "Môi trường Desktop của Raspbery Pi 3 có chức năng gi?",
+        "answer": " Tất cả các chức năng trên"
+    },
+    "440847": {
+        "question": "Hệ thống tập tin Raspbian cũng giống như Unix và Berkeley và Mac OS X tổ chức hệ thống tiệp phân cấp bắt đầu từ ___________",
+        "answer": " thư mục gốc: /"
+    },
+    "440848": {
+        "question": "Khi cắm ổ USB vào Raspberry Pi, Raspbian sẽ tự động tạo một thư mục bên trong ________",
+        "answer": " /media"
+    },
+    "440849": {
+        "question": "Menu chính của Desktop trong Raspbian __________________. Menu này chứa nhiều chương trình khác nhau được cài đặt sẵn trong Raspbian",
+        "answer": " rất giống với menu Start trong Microsoft Windows"
+    },
+    "440850": {
+        "question": "&nbsp;____________ có quyền truy cập không giới hạn vào mọi phần của hệ điều hành",
+        "answer": " root hoặc superuser"
+    },
+    "440851": {
+        "question": "Để liệt kê danh sách các tập tin và thư mục trong Raspbian Terminal ta dùng lệnh:",
+        "answer": " ls"
+    },
+    "440852": {
+        "question": "Để tạo tạo thư mục trong Raspbian Terminal ta dùng lệnh:",
+        "answer": " mkdir"
+    },
+    "440853": {
+        "question": "Để thiết lập quyền truy cập cho tập tin hay thư mục trong Raspbian Terminal ta dùng lệnh:",
+        "answer": " chmod"
+    },
+    "440854": {
+        "question": "Lệnh apt-get hỗ trợ các tùy chọn có sẵn nào sau đây?",
+        "answer": " tất cả các đáp án trên đều đúng"
+    },
+    "440855": {
+        "question": "Mọi tệp trong Linux đều thuộc quyền sở hữu của người dùng. Điều này giúp giữ mọi thứ an toàn hơn. Theo mặc định, mọi thứ trong thư mục /home/pi được sở hữu bởi người dùng ___________.",
+        "answer": " Pi"
+    },
+    "440856": {
+        "question": "Raspberry Pi kết nối Internet bằng cách sử dụng cáp Ethernet hoặc Wi-Fi. Có thể cấu hình các giao diện mạng bằng cách:&nbsp;",
+        "answer": " Thủ công qua trình soạn thảo văn bản hoặc Cài đặt trên giao diện đồ họa"
+    },
+    "440857": {
+        "question": "IOT platform là gì?",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440858": {
+        "question": "Các thành phần của IOT platform bao gồm những thành phần nào?",
+        "answer": " Phần cứng, Các dịch vụ đám mây, Lưu trữ và dự đoán dữ liệu, Bên thứ ba và Mã nguồn mở"
+    },
+    "440859": {
+        "question": "Các IOT platform: Blynk, OpenHAB2, Kaa Platform, Macchina Platform, SiteWhere Platform, ThingSpeak thuộc loại nào sau đây?",
+        "answer": " Mã nguồn mở"
+    },
+    "440860": {
+        "question": "Các yếu tố chính trong IoT platform bao gồm:",
+        "answer": " Ứng dụngTất cả các thành phần trên"
+    },
+    "440861": {
+        "question": "Yếu tố Dữ liệu trong IoT platform cần được đảm bảo các yếu tố sau:",
+        "answer": " Bảo mật, Khả năng tương tác, Không có thiết bị Lock-in, Hỗ trợ Quản lý dữ liệu và Tích hợp"
+    },
+    "440862": {
+        "question": "Yếu tố Ứng dụng trong IoT platform cần được đảm bảo yếu tố nào sau đây:",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440863": {
+        "question": "Để kết nối các thiết bị IoT ta có thể sử dụng các phương pháp kết nối nào sau đây?",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440864": {
+        "question": "Một vài tiêu chí để chọn IoT platform phù hợp là: Khả năng mở rộng, Băng thông, Các giao thức hỗ trợ, Hiệu suất hệ thống, Tính an toàn, an ninh, Khả năng dự phòng và khôi phục sau thảm họa, Phù hợp với hạ tầng CNTT hiện tại, Giải pháp có vòng đời lớn, Khả năng tương tác và ____________________",
+        "answer": " Khả năng tạo ra hệ thống thông minh hơn"
+    },
+    "440865": {
+        "question": "Blynk Cloud là một phần mềm mã nguồn mở được viết trên Java sử dụng đồng bộ TCP/IP và bảo mật và chạy trên máy chủ. Ứng dụng hỗ trợ trên thiết bị:",
+        "answer": " iOS và Android "
+    },
+    "440866": {
+        "question": "Các thành phần chính của Blynk platform là:",
+        "answer": " Blynk App, Blynk Server và Thư viện Blynk"
+    },
+    "440867": {
+        "question": "Đặc điểm của Blynk platform:",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440868": {
+        "question": "Hoạt động nào sau đây không có trong chức năng của Blynk platform:",
+        "answer": " Quản lý dịch vụ gửi tin nhắn QoS"
+    },
+    "440869": {
+        "question": "Để lưu trữ giá trị value vào chân ảo V0, Blynk platform sử dụng hàm nào sau đây?",
+        "answer": " Blynk.virtualWrite(V0, value)"
+    },
+    "440870": {
+        "question": "Để cập nhật tất cả các giá trị của Widget dựa trên các giá trị lưu cuối cùng trên máy chủ, Blynk platform thực hiện lệnh nào sau đây?",
+        "answer": " Blynk.syncAll()"
+    },
+    "440871": {
+        "question": "Một số loại Widgets thông dụng của Blynk bao gồm?",
+        "answer": " Bộ điều khiển, Hiển thị, Thông báo, Giao diện và Một số chức năng khác"
+    },
+    "440872": {
+        "question": "Trong bộ chọn chân của Blynk platform hỗ trợ các loại:",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440873": {
+        "question": "Với giá trị của cảm biến là 12.6789, bạn muốn hiển thị lên màn hình Blynk giá trị là 12.7, ta sử dụng chức năng hiện thị nào dưới đây?&nbsp;&nbsp;",
+        "answer": " /pin.#/"
+    },
+    "440874": {
+        "question": "Chức năng hiển thị dữ liệu biểu đồ của Blynk là Widget nào sau đây?&nbsp;",
+        "answer": " SuperChart"
+    },
+    "440875": {
+        "question": "Để hiển thị thông báo trên thiết bị di động khi có sự kiện, Blynk sử dụng lệnh nào sau đây?",
+        "answer": " Blynk.notify(“…”);"
+    },
+    "440876": {
+        "question": "IFTTT viết tắt của từ:",
+        "answer": " If This Then That"
+    },
+    "440877": {
+        "question": "Một số tính năng của IoT manager bao gồm:",
+        "answer": " Tất cả các tính năng trên đều đúng"
+    },
+    "440878": {
+        "question": "Tính năng nào sau đây khổng phải của Node-red&nbsp;",
+        "answer": " Bộ quản lý chân ảo "
+    },
+    "440879": {
+        "question": "Trong OpenHAB2 platform gồm thành phần nào? \n +Thành phần 1: ‘Thế giới thực’ (Phần vật lý) gồm các thiết bị trong hệ thống, kết nối giữa các thiết bị (ví dụ: dây điện, Z-Wave, phần cứng WiFi,…) và một số yếu tố vật lý khác\n +Thành phần 2: ‘Thế giới ảo’ (Phần chức năng) cách thông tin về các thiết bị, các kết nối,… được thể hiện trong các giao diện người dùng, các quy tắc để biểu diễn các thiết bị vật lý trong phần mềm. Các hành động trên giao diện người dùng tác động tới thiết bị vật lý tương ứng.",
+        "answer": "Cả 2 thành phần"
+    },
+    "440880": {
+        "question": "Loại Addons nào sau đây không được hỗ trợ trong OpenHAB2",
+        "answer": " Các chức năng thông minh (Artificial Intelligence)"
+    },
+    "440881": {
+        "question": "Đối tượng nào sau đây không được hỗ trợ trong OpenHAB2",
+        "answer": " Hành động (Action)"
+    },
+    "440882": {
+        "question": "Đặt tên nhãn cho Item là Temperature, câu lệnh nào sau đây là đúng:",
+        "answer": " Number Livingroom_Temperature \"Temperature [%.1f °C]\""
+    },
+    "440883": {
+        "question": "Biểu tượng switch trong câu lệnh nào sau đây khai báo là đúng?",
+        "answer": " Switch Livingroom_Light \"Livingroom Ceiling Light\" "
+    },
+    "440884": {
+        "question": "Tính chấn nào sau đây về icon trong OpenHAB2 là sai?",
+        "answer": " icon có kích thước nhỏ hơn hoặc bằng 20×20 điểm ảnh"
+    },
+    "440885": {
+        "question": "Loại kiểu dữ liệu nào sau đây không có trong OpenHAB2?",
+        "answer": " String và Power"
+    },
+    "440886": {
+        "question": "Liên kết NTP được sử dụng để hiển thị bản cập nhật dựa ____________ địa phương từ một máy chủ NTP.",
+        "answer": " ngày và giờ"
+    },
+    "440887": {
+        "question": "Để khai báo Weather binding trong OpenHAB2 ta cần những thành phần nào?",
+        "answer": " Apikey, name, latitude, longitude, provider, language, updateInterval"
+    },
+    "440888": {
+        "question": "Định dạng trong tập tin thiết lập hệ thống khe thời gian đọc dữ liệu rrd4j gồm có hai thành phần chính là:",
+        "answer": " Strategies và Items"
+    },
+    "440889": {
+        "question": "Kết nối đám mây OpenHAB2 được thực hiện trên trang web nào?",
+        "answer": " myopenHAB.org"
+    },
+    "440890": {
+        "question": "Các thành phần chính trong HABPanel bao gồm:",
+        "answer": "Bảng đăng kí (Panel Registry), Bảng cấu hình (Panel Configuration) và Bảng điều khiển (Dashboards)"
+    },
+    "440891": {
+        "question": "Giao diện _______________ là một giao diện web dựa trên Material Design Lite từ Google. Giao diện này được sử dụng để trình bày các sơ đồ trang web khác nhau.",
+        "answer": " Basic UI"
+    },
+    "440892": {
+        "question": "Thành phần trong Basic UI gồm những thành phần nào:",
+        "answer": " Sitemap, Frame, Group, Text, Switch và Colorpicker"
+    },
+    "440893": {
+        "question": "Smarthome là hệ thống nhà được lắp đặt các thiết bị điện, điện tử có tác dụng _____________________, thay thế con người trong thực hiện một hoặc một số thao tác quản lý, điều khiển.",
+        "answer": " tự động hoá hoàn toàn hoặc bán tự động"
+    },
+    "440894": {
+        "question": "Trong căn nhà thông minh, các thiết bị đều gắn các bộ điều khiển điện tử __________________________, cho phép chủ nhân điều khiển vật dụng từ xa hoặc lập trình cho thiết bị ở nhà hoạt động theo lịch, nhằm mục đích tập trung vào lợi ích của người sử dụng, tối đa hiệu xuất của người sử dụng và cho phép tối đa hóa hiệu quả quản lý ngôi nhà với chi phí tối thiểu.",
+        "answer": " có thể kết nối với internet và điện thoại di động"
+    },
+    "440895": {
+        "question": "Liên kết NTP ( ______________)được sử dụng để hiển thị cập nhật thông tin dựa trên ngày và thời gian cục bộ từ máy chủ của NTP.",
+        "answer": " Network Time Protocol"
+    },
+    "440896": {
+        "question": "Chỉ ra câu lệnh sai trong lệnh điều khiển bật tắt bóng đèn của OpenHAB qua giao thức mqtt sau:",
+        "answer": " Switch mySwitch01 \"switch 01\"{ mqtt=\"&gt;[localbroker:myVegPro/switch1:command:OFF:0]\" }"
+    },
+    "440897": {
+        "question": "Chỉ ra câu lệnh sai trong lệnh hiển thị thông số từ cảm biến của OpenHAB qua giao thức mqtt sau:",
+        "answer": " Number my_sensorTemp “Nhiệt độ phòng \"{ mqtt=\""
+    },
+    "440898": {
+        "question": "Chỉ ra câu lệnh đúng trong thiết lập luật điều khiển phát hiện chuyển động của OpenHAB sau:",
+        "answer": "\"rule “Phát hiện chuyển động\"\" when Item myMotion1 changed from OFF to ON Then sendBroadcastNotification(\"\"CÓ CHUYỂN ĐỘNG\"\") var int seconds = 10 MyTimer=createTimer(now.plusSeconds(seconds))[| myMoti"
+    },
+    "440899": {
+        "question": "Hãy chọn các bước đúng để thiết lập hệ thống dự báo thời tiết trong OpenHAB:",
+        "answer": " Cài đặt Weather binding add-on -&gt; Thiết lập tài khoản Weather Config -&gt; Tạo items, sitemaps cho Weather -&gt; Thiết lập thời gian cập nhật thông tin dự báo trong rrd4j"
+    },
+    "440900": {
+        "question": "Các bước để thiết lập điều khiển nhà thông minh qua đám mây OpenHAB Cloud Connector nào sau đây là đúng",
+        "answer": " Cài đặt OpenHAB Cloud Connector addon -&gt; Thiết lập thông số hệ thống trong openhabcloud.cfg -&gt; Kết nối từ điện thoại (UUID và mã bí mật)"
+    },
+    "440901": {
+        "question": "Thàn phần chính trong thiết kế giao diện HABPanel gồm:",
+        "answer": " Giao diện chính, Bảng điều khiển và Tiện ích"
+    },
+    "440902": {
+        "question": "Các thông số cần cung cấp khi thiết lập điều khiển đối tượng trong HABPanel là:\n (1) Name, Background URL và Backdrop Icon\n (2) Name, Icon, Size (icon) và Title Text Color",
+        "answer": " Cả (1) và (2) đều đúng"
+    },
+    "440903": {
+        "question": "Đặt tên nhãn cho Item là Temperature, câu lệnh nào sau đây là đúng:",
+        "answer": " Number Livingroom_Temperature \"Temperature [%.1f °C]\""
+    },
+    "440904": {
+        "question": "Biểu tượng switch trong câu lệnh nào sau đây khai báo là đúng?",
+        "answer": " Switch Livingroom_Light \"Livingroom Ceiling Light\" "
+    },
+    "440905": {
+        "question": "Tính chấn nào sau đây về icon trong OpenHAB2 là sai?",
+        "answer": " icon có kích thước nhỏ hơn hoặc bằng 20×20 điểm ảnh"
+    },
+    "440906": {
+        "question": "Loại kiểu dữ liệu nào sau đây không có trong OpenHAB2?",
+        "answer": " String và Power"
+    },
+    "440907": {
+        "question": "Liên kết NTP được sử dụng để hiển thị bản cập nhật dựa ____________ địa phương từ một máy chủ NTP.",
+        "answer": " ngày và giờ"
+    },
+    "440908": {
+        "question": "Để khai báo Weather binding trong OpenHAB2 ta cần những thành phần nào?",
+        "answer": " Apikey, name, latitude, longitude, provider, language, updateInterval"
+    },
+    "440909": {
+        "question": "Định dạng trong tập tin thiết lập hệ thống khe thời gian đọc dữ liệu rrd4j gồm có hai thành phần chính là:",
+        "answer": " Strategies và Items"
+    },
+    "440910": {
+        "question": "Kết nối đám mây OpenHAB2 được thực hiện trên trang web nào?",
+        "answer": " myopenHAB.org"
+    },
+    "440911": {
+        "question": "Các thành phần chính trong HABPanel bao gồm:",
+        "answer": " Bảng đăng kí (Panel Registry), Bảng cấu hình (Panel Configuration) và Bảng điều khiển (Dashboards)"
+    },
+    "440912": {
+        "question": "Giao diện _______________ là một giao diện web dựa trên Material Design Lite từ Google. Giao diện này được sử dụng để trình bày các sơ đồ trang web khác nhau.",
+        "answer": " Basic UI"
+    },
+    "440913": {
+        "question": "Thành phần trong Basic UI gồm những thành phần nào:",
+        "answer": " Sitemap, Frame, Group, Text, Switch và Colorpicker"
+    },
+    "440914": {
+        "question": "Chỉ ra thành phần nào không cần thiết trong các thiết bị của một hệ thống dàn rau tự động:",
+        "answer": " Cảm ứng thân nhiệt chuyển động"
+    },
+    "440915": {
+        "question": "Chỉ ra cảm biến nào sau đây không phải cảm biến thông dụng để đo nhiệt độ và độ ẩm không khí:",
+        "answer": " DHT55"
+    },
+    "440916": {
+        "question": "Để đưa thông số dàn rau lên ThinkSpeak.com, ta thực hiện các bước sau:&nbsp;",
+        "answer": " Kết nối bo mạch với internet -&gt; Thiết lập các trường trên ThingSpeak -&gt; Cập nhật dữ liệu lên ThinkSpeak.com -&gt;Đọc dữ liệu xuống trạm cục bộ"
+    },
+    "440917": {
+        "question": "Chức năng nào sau đây không cần thiết trong hệ thống điều khiển dàn rau tự động thông qua internet",
+        "answer": " Điều khiển bật/tắt máy bơm và đèn điện qua tin nhắn SMS "
+    },
+    "440918": {
+        "question": "Mạng cảm biến toàn cầu (Global Sensor Network) được xây dựng với chức năng _________",
+        "answer": " Giúp giảm chi phí và thời gian trong phát triển các hệ thống"
+    },
+    "440919": {
+        "question": "Một số lượng lớn các thiết bị kết nối trong Internet of Things có để giao tiếp một cách tự động không có sự tác động của con người được gọi là gì?",
+        "answer": " Máy tới Máy (Machine 2 Machine)"
+    },
+    "440920": {
+        "question": "Internet of Things cần rất nhiều kết nối mạng trong đó có tiêu chuẩn vô tuyến “white Space” còn được gọi là gì?",
+        "answer": " Trọng Lượng (Weightless)"
+    },
+    "440921": {
+        "question": "___________ là một cộng đồng làm việc cùng nhau để xây dựng một kiến trúc IOT.",
+        "answer": " Eclipse IOT"
+    },
+    "440922": {
+        "question": "_________ cung cấp middleware và ứng dụng container cho IOT gateway.",
+        "answer": " Eclipse Kura"
+    },
+    "440923": {
+        "question": "_________ là một nền tảng dựa trên mô-đun và đám mây.",
+        "answer": " Eclipse Kapua"
+    },
+    "440924": {
+        "question": "Giao thức nào được sử dụng để liên kết tất cả các thiết bị trong IOT?",
+        "answer": " TCP / IP"
+    },
+    "440925": {
+        "question": "________ hỗ trợ hoạt động mức năng lượng thấp.",
+        "answer": " Bluetooth"
+    },
+    "440926": {
+        "question": "MQTT là từ viết tắt của _____________",
+        "answer": " MQ Telemetry Transport"
+    },
+    "440927": {
+        "question": "MQTT là _________ giao thức.",
+        "answer": " Máy tới máy và Internet of Things (Machine to Machine and Internet of Things)"
+    },
+    "440928": {
+        "question": "Giao thức nào sau đây là là nhẹ nhất?",
+        "answer": " MQTT"
+    },
+    "440929": {
+        "question": "UART tương tự như _________&nbsp;",
+        "answer": " Giao thức I2C "
+    },
+    "440930": {
+        "question": "UART chứa gì?&nbsp;",
+        "answer": " Thanh ghi dịch chuyển "
+    },
+    "440931": {
+        "question": "Giao tiếp trong UART là ___________&nbsp;",
+        "answer": " Đơn giản, bán song công, song công hoàn toàn "
+    },
+    "440932": {
+        "question": "WiFi là từ viết tắt của _______________ hay mạng 802.11 là hệ thống mạng không dây sử dụng sóng vô tuyến",
+        "answer": " Wireless Fidelity"
+    },
+    "440933": {
+        "question": "Để có thể sử dụng mạng WiFi kết nối vào Internet, chúng ta cần _______________",
+        "answer": " một bộ thu và phát tín hiệu WiFi"
+    },
+    "440934": {
+        "question": "Khi tìm thấy dữ liệu yêu cầu của thiết bị, các Router mã hóa chúng thành____________________.",
+        "answer": " sóng vô tuyến và gửi lại cho thiết bị gửi"
+    },
+    "440935": {
+        "question": "Một số chuẩn kết nối WiFi phổ biến:",
+        "answer": " Tất cả các đáp án trên đều đúng"
+    },
+    "440936": {
+        "question": "Một số thông số của ESP8266 NodeMCU:",
+        "answer": " 16 chân digital, 4 chân có hỗ trợ băm xung (PWM), 1 chân Analog, 3 nguồn ra 3.3VDC và 1 nguồn ra 5VDC"
+    },
+    "440937": {
+        "question": "Tính năng nào sau đây của ESP8266 NodeMCU LUA CP2102 là không đúng",
+        "answer": " Kit RF thu phát Wifi ESP8266 NodeMCU Lua không hỗ trợ chức năng giao tiếp UART "
+    },
+    "440938": {
+        "question": "Sóng vô tuyến hay còn gọi là sóng RF (Radio Frequency) là một kiểu bức xạ điền từ có tần số từ _____________",
+        "answer": " 3 kHz tới 300 GHz."
+    },
+    "440939": {
+        "question": "Chọn đáp án sai trong số các thông số kỹ thuật của mạch thu phát RF 315MHZ MX-05V sau:",
+        "answer": " Điện áp hoạt động: 12VDC"
+    },
+    "440940": {
+        "question": "Các thành phần trong kết nối zigbee bao gồm:",
+        "answer": " Zigbee Coordinator, Zigbee Router và Zigbee End device"
+    },
+    "440941": {
+        "question": "Một số mô hình mạng chính của zigbee:",
+        "answer": " Mạng hình sao, Mạng hình lưới và Mạng hình cây"
+    },
+    "440942": {
+        "question": "Một số chức năng nào sau đây của mạch thu phát RF Zigbee UART DRF1605H là không đúng",
+        "answer": " Mạch thu phát RF Zigbee UART DRF1605H được sử dụng rất phổ biến hiện nay vì có cách sử dụng rất đơn giản, khoảng cách truyền nhận xa, độ bền, độ ổn định cao."
+    },
+    "440943": {
+        "question": "Thông số kỹ thuật nào sau đây của mạch thu phát RF Zigbee UART DRF1605H là không đúng",
+        "answer": " RF Zigbee UART DRF1605H có thể truyền, nhận tín hiệu Bluetooth từ thiết bị di động chạy hệ điều hành iOS hoặc android"
+    },
+    "440944": {
+        "question": "GSM là hệ thống thông tin di động toàn cầu dùng trong mạng thông tin di động được viết tắt từ cụm từ:",
+        "answer": " Global System for Mobile Communication"
+    },
+    "440945": {
+        "question": "Nội dung nào sau đây không đún khi xác định vị trí và thực hiện kết nối giữa 2 thiết bị thoại:",
+        "answer": " Sau khoảng 60 phút thiết bị lại phát tín hiệu đi 1 lần và lặp lại liên tục."
+    },
+    "440946": {
+        "question": "Thông số kỹ thuật của thiết bị mô-đung GSM GPRS SIM800L nào sau đây không đúng",
+        "answer": " Chỉ hỗ trợ băng tần 900MHz"
+    },
+    "440947": {
+        "question": "Bluetooth năng lượng thấp (BLE - _________________) là một công nghệ mạng không dây cá nhân được thiết kế và tiếp thị bởi Bluetooth Special Interest Group (Bluetooth SIG) nhằm mục đích ứng dụng mới trong chăm sóc sức khoẻ, an ninh và giải trí gia đình.",
+        "answer": " Bluetooth Low Energy"
+    },
+    "440948": {
+        "question": "Thông số kỹ thuật nào của mạch thu phát blutooth 4.0 UART CC2541 AT-09 là không đúng",
+        "answer": " Baudrate mặc định: 115200"
+    }
+}

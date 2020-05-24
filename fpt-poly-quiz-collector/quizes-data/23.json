@@ -1,0 +1,454 @@
+{
+    "118179": {
+        "question": "Câu nào sau đây đúng khi nói về dữ liệu?",
+        "answer": "là các thông tin của các đối tượng"
+    },
+    "118180": {
+        "question": "Chức năng của một hệ quản trị cơ sở dữ liệu là gì?",
+        "answer": "Tất cả các câu trên"
+    },
+    "118181": {
+        "question": "Thế nào là cơ sở dữ liệu quan hệ?",
+        "answer": "Cơ sở dữ liệu dùng để tạo lập, cập nhật và khai thác CSDL quan hệ dựa trên mô hình dữ liệu quan hệ"
+    },
+    "118182": {
+        "question": "Một hệ quản trị CSDL không có chức năng nào trong các chức năng dưới đây?",
+        "answer": "Cung cấp chức năng quản lý bộ nhớ"
+    },
+    "118183": {
+        "question": "Người dùng nào liên quan đến Hệ Quản trị CSDL?",
+        "answer": "Tất cả các câu trên"
+    },
+    "118184": {
+        "question": "RDBMS là viết tắt của từ gì?",
+        "answer": "Relational DataBase Management System"
+    },
+    "118185": {
+        "question": "Vai trò nào chịu trách nhiệm phân quyền truy cập trong hệ quản trị CSDL?",
+        "answer": "Người quản trị CSDL "
+    },
+    "118186": {
+        "question": "Ngôn ngữ CSDL được sử dụng phổ biến hiện nay là?",
+        "answer": "SQL"
+    },
+    "118187": {
+        "question": "Phát biểu nào sau đây là sai khi nói về Quản lý dữ liệu bằng File?",
+        "answer": "Hiệu quả trong truy xuất ngẫu nhiên hoặc xử lý đồng thời"
+    },
+    "118188": {
+        "question": "Phát biểu nào sau đây là sai khi nói về Quản lý dữ liệu bằng CSDL?",
+        "answer": "Các dữ liệu lưu trữ không thể được chia sẻ"
+    },
+    "118189": {
+        "question": "Đáp án nào không phải là tên mô hình dữ liệu?",
+        "answer": "Mô hình dữ liệu cây B-tree"
+    },
+    "118190": {
+        "question": "Phát biểu nào dưới đây không đúng khi nói về Mô hình dữ liệu phân cấp?",
+        "answer": "Mỗi nút cha có thể có một hoặc nhiều nút con, và mỗi nút concó thể có nhiều nút cha"
+    },
+    "118191": {
+        "question": "Mô hình dữ liệu phân cấp thể hiện mối quan hệ gì?",
+        "answer": "1-1, 1-N"
+    },
+    "118192": {
+        "question": "Phát biểu nào dưới đây không đúng khi nói về Mô hình dữ liệu Mạng?",
+        "answer": "Mỗi nút cha có thể có một hoặc nhiều nút con, nhưng mỗi nút con chỉ có thể có một nút cha"
+    },
+    "118341": {
+        "question": "Phát biểu nào dưới đây không đúng khi nói về Mô hình quan hệ?",
+        "answer": "Các file riêng biệt trong hệ thống file phẳng được gọi là các bản ghi "
+    },
+    "118342": {
+        "question": "Đáp án nào sau đây không phải tên của hệ Quản trị CSDL?",
+        "answer": "Android"
+    },
+    "118343": {
+        "question": "Phát biểu nào sau đây&nbsp; đúng khi nói về CSDL quan hệ?",
+        "answer": "Tất cả các câu trên"
+    },
+    "118344": {
+        "question": "Một cơ sở dữ liệu được chia thành _______________",
+        "answer": "bảng"
+    },
+    "118345": {
+        "question": "Trong quá trình cập nhật dữ liệu, hệ quản trị CSDL kiểm soát tính chất nào ?",
+        "answer": "Tính nhất quán dữ liệu"
+    },
+    "118346": {
+        "question": "Đặc trưng của mô hình mạng là?",
+        "answer": "Chứa các liên kết một - một, một - nhiều và nhiều - nhiều"
+    },
+    "118791": {
+        "question": "Một hàng trong một bảng được gọi là gì?",
+        "answer": "Bản ghi"
+    },
+    "118792": {
+        "question": "Thực thể là gì?",
+        "answer": "Là một đối tượng, một địa điểm, con người… trong thế giới thực được lưu trữ thông tin trong CSDL"
+    },
+    "118793": {
+        "question": "Thuộc tính là gì?",
+        "answer": "Tất cả các câu trên đều đúng"
+    },
+    "118794": {
+        "question": "Các cái nào sau đây không phải là thuộc tính của đối tượng Sinh viên?",
+        "answer": "giảng viên"
+    },
+    "118795": {
+        "question": "Câu nào sau đây là sai khi nói về mối quan hệ giữa 2 thực thể?",
+        "answer": "Quan hệ không được phép liên kết nhiều hơn 2 tập thực thể"
+    },
+    "118796": {
+        "question": "Quan hệ 1-1 là?",
+        "answer": "Là quan hệ giữa hai tập thực thể trong đó mỗi thực thể của tập này chỉ có thể liên kết với nhiều nhất một thực thể của tập kia, và ngược lại"
+    },
+    "118797": {
+        "question": "Quan hệ 1-N là?",
+        "answer": "Là quan hệ giữa hai tập thực thể trong đó mỗi thực thể của tập này có thể liên kết với nhiều thực thể của tập còn lại"
+    },
+    "118798": {
+        "question": "Quan hệ N-N là?",
+        "answer": "Là quan hệ giữa hai tập thực thể trong đó một thực thể của tập này có thể liên kết với 0, 1 hoặc nhiều thực thể của tập kia, và ngược lại"
+    },
+    "118939": {
+        "question": "Hai thực thể Nhân viên và Dự án mối quan hệ gì khi mỗi nhân viên có thể tham gia vào 1 hoặc nhiều dự án, và một dự án cũng có thể có 1 hoặc nhiều nhân viên",
+        "answer": "N-N"
+    },
+    "118940": {
+        "question": "Thực thể Nhân viên và thực thể Phòng ban là mối quan hệ gì khi một nhân viên chỉ&nbsp; thuộc 1 phòng ban nhưng một phong ban có thể có nhiều nhân viên",
+        "answer": "1-N"
+    },
+    "118941": {
+        "question": "Hai thực thể Công Dân và Thẻ chứng minh Nhân dân mối quan hệ gì khi mỗi Công Dân chỉ có thể có 1 và chỉ một Thẻ CMND, và một thẻ CMND cũng chỉ thuộc về một Công Dân",
+        "answer": "1-1"
+    },
+    "118942": {
+        "question": "Phát biểu nào sau đây&nbsp; là qui tắc nghiệp vụ?",
+        "answer": "Tất cả các câu trên đều đúng"
+    },
+    "118943": {
+        "question": "Qui tắc nghiệp vụ là gì?",
+        "answer": "Là các thủ tục, nguyên tắc hay các chuẩn phải tuân theo"
+    },
+    "118944": {
+        "question": "Phát biểu nào sau đây là sai khi nói về Khoá chính ?",
+        "answer": "Một bảng có thể có nhiều khoá chính"
+    },
+    "119094": {
+        "question": "Thuộc tính nào của Thực thể SinhVien có thể trở thành khoá chính?",
+        "answer": "mã sinh viên"
+    },
+    "119095": {
+        "question": "Cái nào sau đây không phải là ràng buộc toàn vẹn dữ liệu?",
+        "answer": "ERROR"
+    },
+    "119096": {
+        "question": "Thuộc tính của Thực thể khi chuyển qua lược đồ quan hệ sẽ trở thành gi?",
+        "answer": "Cột trong bảng"
+    },
+    "119097": {
+        "question": "Phát biểu nào sau đây là đúng khi nói về khoá ngoại?",
+        "answer": "Là cột mà nó là khoá chính của một bảng khác"
+    },
+    "119118": {
+        "question": "Mỗi một thực thể được biểu diễn là?",
+        "answer": "Bộ - tuple"
+    },
+    "119239": {
+        "question": "Ràng buộc nào được sử dụng để chỉ định các ô trong cột chứa một giá trị số nguyên &lt;100",
+        "answer": "CHECK"
+    },
+    "119540": {
+        "question": "Câu nào sau đây là đúng khi nói về Khoá Ngoại",
+        "answer": "Tất cả các câu đều đúng"
+    },
+    "119541": {
+        "question": "Các bước thiết kế cơ sở dữ liệu",
+        "answer": "Ý tưởng-&gt; thiết kế ERD-&gt;Lược đồ quan hệ-&gt; HQT CSDL quan hệ"
+    },
+    "119542": {
+        "question": "Có các cách tiệp cận CSDL nào?",
+        "answer": "Cả 2 cách trên"
+    },
+    "119543": {
+        "question": "Một sinh viên có thể có nhiều hơn 1 số điện thoại. Vậy thuộc tính điện thoại thuộc loại nào?",
+        "answer": "Thuộc tính đa trị"
+    },
+    "119544": {
+        "question": "Một sinh viên chỉ có một mã sinh viên duy nhất. Vậy thuộc tính mã sinh viên thuộc loại nào?",
+        "answer": "Thuộc tính đơn trị"
+    },
+    "119545": {
+        "question": "Thuộc tính Tuổi của sinh viên có thể tính dựa vào thuộc tính năm sinh. Vậy, thuộc tính Tuổi thuộc loại nào?",
+        "answer": "Thuộc tính suy diễn"
+    },
+    "119546": {
+        "question": "Trong sơ đồ ERD, kí hiệu hình chữ nhật biểu diễn cái gì?",
+        "answer": "Thực thể"
+    },
+    "119547": {
+        "question": "Trong sơ đồ ERD, kí hiệu hình thoi biểu diễn cái gì?",
+        "answer": "Mối quan hệ"
+    },
+    "119548": {
+        "question": "Trong sơ đồ ERD, kí hiệu hình oval biểu diễn cái gì?",
+        "answer": "Thuộc tính"
+    },
+    "119549": {
+        "question": "Phát biểu nào đúng khi nói về Mô hình hoá dữ liệu?",
+        "answer": "Tất cả các câu đều đúng"
+    },
+    "119550": {
+        "question": "Một bảng đạt dạng chuẩn 1NF khi?",
+        "answer": "Miền giá trị của các thuộc tính chỉ chứa giá trị nguyên tố đơn"
+    },
+    "119551": {
+        "question": "Một bảng đạt dạng chuẩn 2NF khi?",
+        "answer": "Thỏa mãn 1NF và Phụ thuộc hàm đầy đủ vào khóa chính "
+    },
+    "119552": {
+        "question": "Một bảng đạt dạng chuẩn 3NF khi?",
+        "answer": "\"Thỏa mãn 2NF và Không có thuộc tính không khoá nào của R là phụ thuộc bắc cầu vào khoá chính \""
+    },
+    "119553": {
+        "question": "Mục đích của chuẩn hoá là?",
+        "answer": "\"Loại bỏ các bất thường của 1 quan hệ để có được các quan hệ có cấu trúc tốt hơn, nhỏ hơn \""
+    },
+    "119554": {
+        "question": "Phát biểu nào sau đây là đúng?",
+        "answer": "Thứ tự của cột là không quan trọng"
+    },
+    "119555": {
+        "question": "Phụ thuộc nào sau đây là phụ thuộc đầy đủ?",
+        "answer": "(số thứ tự, mã lớp)-&gt; họ tên sinh viên"
+    },
+    "119556": {
+        "question": "Quan hệ gồm các thuộc tính: mã số, họ tên và địa chỉ đạt được dạng chuẩn nào?",
+        "answer": "3NF"
+    },
+    "119557": {
+        "question": "Quan hệ gồm các thuộc tính: mã sinh viên, họ, tên, mã môn, số tiết, điểm, tên giảng viên, email đạt được dạng chuẩn nào?",
+        "answer": "1NF"
+    },
+    "119558": {
+        "question": "Mối quan hệ đệ qui là mối quan hệ giữa 1 thực thể và __________________",
+        "answer": "Chính nó"
+    },
+    "119559": {
+        "question": "Thành phần nào sau không được thể hiện trong mô hình ERD",
+        "answer": "Ràng buộc kiểm tra"
+    },
+    "119560": {
+        "question": "Câu lệnh ALTER TABLE được dùng để làm gì?",
+        "answer": "Thay đổi bảng"
+    },
+    "119561": {
+        "question": "Câu lệnh CREATE TABLE thuộc loại nào?",
+        "answer": "DDL"
+    },
+    "119562": {
+        "question": "Ràng buộc UNIQUE là gì?",
+        "answer": "Được sử dụng khi muốn 1 cột chỉ chứa các giá trị duy nhất nhưng không phải là khoá chính"
+    },
+    "119563": {
+        "question": "Câu lệnh nào dùng để thêm một cột có tên \"Start_date\" vào bảng có tên \"Project\"?",
+        "answer": "\"ALTER TABLE Project ADD COLUMN start_date datetime \""
+    },
+    "119564": {
+        "question": "Câu lệnh nào dùng để xoá 1 bảng trong một cơ sở dữ liệu?",
+        "answer": "DROP"
+    },
+    "119565": {
+        "question": "Câu lệnh CREATE TABLE được sử dụng để làm gì?",
+        "answer": "Tạo một bảng mới trong cơ sở dữ liệu"
+    },
+    "119566": {
+        "question": "DML là viết tắt của cụm từ gì?",
+        "answer": "Data Manipulation language"
+    },
+    "119567": {
+        "question": "Câu lệnh DROP TABLE dùng để làm gì?",
+        "answer": "Xoá bảng"
+    },
+    "119568": {
+        "question": "Ràng buộc NOT NULL dùng để làm gì?",
+        "answer": "Không cho phép chứa giá trị rỗng"
+    },
+    "119569": {
+        "question": "Câu lệnh dùng để tạo cơ sở dữ liệu?",
+        "answer": "CREATE DATABASE"
+    },
+    "119570": {
+        "question": "Tại sao khi tạo bảng, bạn phải khai báo kích thước dữ liệu cho các cột",
+        "answer": "Tất cả đều đúng"
+    },
+    "119571": {
+        "question": "Trong My SQL, kiểu dữ liệu nào sau đây không thuộc loại NUMBER?",
+        "answer": "char"
+    },
+    "119572": {
+        "question": "Để định nghĩa kiểu dữ liệu cho cột mã sinh viên có dạng 'PTxxxxx', với x là các chữ số, thì kiểu dữ liệu nào là phù hợp?",
+        "answer": "char"
+    },
+    "119573": {
+        "question": "Để định nghĩa kiểu dữ liệu cho cột ngày sinh , thì kiểu dữ liệu nào là phù hợp?",
+        "answer": "datetime"
+    },
+    "119574": {
+        "question": "Tên cột nào sau đây là không hợp lệ?",
+        "answer": "Nhan-Vien"
+    },
+    "119575": {
+        "question": "Để thêm ràng buộc kiểm tra cho cột điểm &gt;=0 của bảng DIEM_THI, câu lệnh nào sau đây là đúng",
+        "answer": "\"ALTER TABLE DIEM_THI ADDCONSTRAINT CHK_DIEM_MINCHECK (DIEM &gt;= 0); \""
+    },
+    "119576": {
+        "question": "Để thêm khoá ngoại cho bảng NHAN_VIEN trên cột maPB tham chiếu đến bảng PHONG_BAN, câu lệnh nào sau đây là đúng?&nbsp;",
+        "answer": "\"ALTER TABLE NHAN_VIEN ADD CONSTRAINT EMP_DEPT_FK FOREIGN KEY (MA_PB ) REFERENCES PHONG_BAN (MA_PB)\""
+    },
+    "119577": {
+        "question": "Để thêm UNIQUE cho bảng NHAN_VIEN trên cột PHONE_NUMER, câu lệnh nào sau đây là đúng?&nbsp;",
+        "answer": "\"ALTER TABLE NHAN_VIENADD CONSTRAINT NHANVIEN_UNQ_EMAILUNIQUE (EMAIL);\""
+    },
+    "119578": {
+        "question": "Để thêm một cột EMAIL vào bảng SINH_VIEN, câu lệnh nào sau đây là đúng?",
+        "answer": "\"ALTER TABLE SINH_VIEN ADD COLUMN EMAIL VARCHAR(50) ;\""
+    },
+    "119579": {
+        "question": "Để xoá một cột EMAIL vào bảng SINH_VIEN, câu lệnh nào sau đây là đúng?",
+        "answer": "\"ALTER TABLE SINH_VIEN DROP COLUMN EMAIL; \""
+    },
+    "119580": {
+        "question": "Mệnh đề nào được sử dụng để trả về các kết quả không trùng nhau?",
+        "answer": "SELECT DISTINCT"
+    },
+    "119581": {
+        "question": "Câu lệnh nào sau đây được sử dụng để hiển thị giá trị lương thấp nhất và cao nhất từ bảng NhanVien",
+        "answer": "Select min(LUONG),max(LUONG) from NHANVIEN"
+    },
+    "119582": {
+        "question": "Câu lệnh SQL nào trả về tất cả các item có item_desc&nbsp; chứa chuỗi 'CHOCO' ở đầu chuỗi, các kí tự sau chứa gì cũng được?",
+        "answer": "SELECT * FROM eatables WHERE item_desc LIKE “CHOCO%\""
+    },
+    "119583": {
+        "question": "Câu lệnh nào sau đây để lấy giá trị tổng của cột Price?",
+        "answer": "SELECT SUM(Price) FROM Sales"
+    },
+    "119584": {
+        "question": "Câu lệnh truy vấn SQL nào là đúng cú pháp?",
+        "answer": "SELECT * FROM Sales WHERE Date BETWEEN '10/12/2005' AND '01/01/2006'"
+    },
+    "119585": {
+        "question": "Mệnh đề nào dùng để lọc các hàng không thoả mãn điều kiện trong tập kết quả?&nbsp;",
+        "answer": "WHERE"
+    },
+    "119586": {
+        "question": "Mệnh đề HAVING dùng để làm gì?",
+        "answer": "Dùng đi kềm với mệnh đề GROUP BY đểloại bỏ các nhóm không thoã mãn điều kiện"
+    },
+    "119587": {
+        "question": "Câu lệnh nào sau đây để lấy các hàng từ bảng Contest, chỉ lấy hàng thoả mãn điều kiện giá trị ở cột ContestDate lớn hơn hặc bằng '05/25/2006'",
+        "answer": "SELECT * FROM Contest WHERE ContestDate &gt;= '05/25/2006'"
+    },
+    "119588": {
+        "question": "Câu lệnh nào dùng để truy vấn dữ liệu?",
+        "answer": "SELECT"
+    },
+    "119589": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của cột FirstName trong bảng Persons?",
+        "answer": "SELECT FirstName FROM Persons"
+    },
+    "119590": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của tất cả các cột&nbsp; trong bảng Persons?",
+        "answer": "SELECT * FROM Persons"
+    },
+    "119591": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của tất cả các cột&nbsp; trong bảng Persons mà có giá trị ở cột FirstName là Peter",
+        "answer": "SELECT * FROM Persons WHERE FirstName'Peter'"
+    },
+    "119592": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của tất cả các cột&nbsp; trong bảng Persons mà có giá trị ở cột FirstName bắt đầu là kí tự 'a'",
+        "answer": "SELECT * FROM Persons WHERE FirstName LIKE 'a%'"
+    },
+    "119593": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của tất cả các cột&nbsp; trong bảng Persons mà có giá trị ở cột FirstName là Peter và LastName là JackSon",
+        "answer": "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'"
+    },
+    "119594": {
+        "question": "Mệnh đề nào dùng để sắp xếp dữ liệu theo thứ tự?",
+        "answer": "ORDER BY"
+    },
+    "119595": {
+        "question": "Câu lệnh nào dùng để lấy dữ liệu của tất cả các cột&nbsp; trong bảng Persons và sắp xếp theo thứ tự giảm dần của cột FirstName",
+        "answer": "SELECT * FROM Persons ORDER BY FirstName DESC"
+    },
+    "119596": {
+        "question": "Câu lệnh nào sau đây đếm số lượng hàng trong bảng Persons?",
+        "answer": "SELECT COUNT(*) FROM Persons"
+    },
+    "119597": {
+        "question": "Toán tử nào dùng để lấy giá trị trong một phạm vi?",
+        "answer": "BETWEEN"
+    },
+    "119598": {
+        "question": "Toán tử nào dùng để thực hiện phép so sánh dành cho kiểu chuỗi kí tự?",
+        "answer": "LIKE"
+    },
+    "119599": {
+        "question": "Thứ tự các mệnh đề trong câu lệnh truy vấn nào là đúng?",
+        "answer": "SELECT -&gt; FROM-&gt;WHERE-&gt;GROUP BY-&gt;HAVING-&gt;ORDER BY"
+    },
+    "119600": {
+        "question": "Mệnh đề nào dùng để truy vấn dữ liệu từ 2 hay nhiều bảng?",
+        "answer": "JOIN"
+    },
+    "119601": {
+        "question": "Loại JOIN nào sau đây là đúng?",
+        "answer": "JOINED"
+    },
+    "119602": {
+        "question": "Có 2 bảng tên là Passenger_detail (pass_name, pass_Id, aircraft_code, date_of_jou) và Flight_detail (flight_code, flight_name, dep_time, source , destination). Câu lệnh truy vấn nào sau đây liệt kê các thông tin của các hành khách trong bảng Passenger_detail đi trên chuyến bay có số hiệu&nbsp; flight_code ‘IA01’",
+        "answer": "SELECT pass_name, pas_id, aircraft_code, date_of_jou, destination, source FROM Passenger_detailjoin Flight_detailON Flight_detail.air_code = Passenger_detail.aircraft_id WHERE Flight_detail.air_"
+    },
+    "119603": {
+        "question": "Phát biểu nào sau đây đúng khi nói về phép tích 2 bảng?",
+        "answer": "\"Phép tích sẽ nhân số lượng bản ghi 2 bảng, sau đó loại bỏ các bản ghi không thoã mãn điều kiện \""
+    },
+    "119604": {
+        "question": "Đáp án nào sau đây không đúng khi nói về JOIN?",
+        "answer": "INNER JOIN&nbsp;chậm hơn rất nhiều so với sử dụng phép tích"
+    },
+    "119605": {
+        "question": "Đáp án nào sau đây đúng khi nói về INNER JOIN?",
+        "answer": "Trả về kết quả là các bản ghi mà trường được JOIN ở hai bảng khớp nhau, các bản ghi chỉ xuất hiện ở một trong hai bảng sẽ bị loại"
+    },
+    "119606": {
+        "question": "Đáp án nào sau đây đúng khi nói về FULL OUTTER JOIN?",
+        "answer": "Kết quả gồm tất cả các bản ghi của cả hai bảng. Với các bản ghi chỉ xuất hiện trong một bảng thì các cột dữ liệu từ bảng kia được điền giá trị NULL "
+    },
+    "119608": {
+        "question": "Đáp án nào sau đây đúng khi nói về LEFT OUTTER JOIN?",
+        "answer": "\"Kết quả gồm các bản ghi có trong bảng A, với các bản ghi không có mặt trong bảng B thì các cột từ B được điền NULL. Các bản ghi chỉ có trong B mà không có trong A sẽ không được trả về\""
+    },
+    "119609": {
+        "question": "Câu truy vấn con là gì?",
+        "answer": "\"Là câu truy vấn SELECT nằm lồng bên trong một câu truy vấn khác \""
+    },
+    "119767": {
+        "question": "Phát biếu nào sau đây sai khi nói về câu truy vấn con?",
+        "answer": "Kết quả có thể bao gồm các cột của cả 2 bảng"
+    },
+    "119772": {
+        "question": "Phát biểu nào sau đây đúng khi nói về SELF JOIN?",
+        "answer": "Là một bảng kết nối với chính nó"
+    },
+    "119889": {
+        "question": "Cho 2 bảng NHAN_VIEN(maNV, hoTen, email, maPB) và PHONG_BAN(maPB, tenPhong). Câu lệnh truy vấn nào sau đây hiển thị thông tin các nhân viên thuộc phòng có tên 'kế toán'?&nbsp;",
+        "answer": "Select maNV, hoTen, email from NHAN_VIEN, PHONG_BAN where tenPhong like 'Kế toán' AND NHAN_VIEN.maPB=PHONG_BAN.maPB"
+    },
+    "119935": {
+        "question": "Cho 2 bảng NHAN_VIEN(maNV, hoTen, email, maPB) và PHONG_BAN(maPB, tenPhong). Câu lệnh truy vấn nào sau đây hiển thị thông tin các nhân viên thuộc phòng có tên 'Sản xuất'?&nbsp;",
+        "answer": "Tất cả đều đúng"
+    }
+}

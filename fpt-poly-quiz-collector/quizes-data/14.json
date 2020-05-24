@@ -1,0 +1,646 @@
+{
+    "70591": {
+        "question": "Thread là gì?",
+        "answer": "Là một đơn vị thực thi song song"
+    },
+    "70593": {
+        "question": "Thread là gì?",
+        "answer": "Là một đơn vị thực thi song song"
+    },
+    "70594": {
+        "question": "Cùng lúc có thể chạy bao nhiêu Thread?",
+        "answer": "Tất cả các đáp án đều sai"
+    },
+    "70595": {
+        "question": "Số Thread tối đa là bao nhiêu?",
+        "answer": "Không giới hạn"
+    },
+    "70596": {
+        "question": "Multi_threaded là gì?",
+        "answer": "Mỗi ứng dụng có thể thực hiện nhiều công việc đồng thời"
+    },
+    "70597": {
+        "question": "Main Thread chạy khi nào?",
+        "answer": "Khi một chương trình được chạy "
+    },
+    "70598": {
+        "question": "Sử dụng Thread có lợi ích gì?",
+        "answer": "Giải quyết cùng lúc nhiều task độc lập và giúp ứng dụng chạy nhanh"
+    },
+    "70599": {
+        "question": "Có bao nhiêu cách sử dụng Thread",
+        "answer": "2"
+    },
+    "70600": {
+        "question": "Để sử dụng Thread thì Class phải kế thừa từ Class nào?",
+        "answer": "Thread"
+    },
+    "70601": {
+        "question": "Để sử dụng Thread thì Class phải thực thi từ Interface nào?",
+        "answer": "Runnable"
+    },
+    "70602": {
+        "question": "Phát biểu nào sau đây chính xác về Multi_Thread?",
+        "answer": "Multi_Thread là giải pháp hiệu quả giúp cho ứng dụng chạy nhanh hơn"
+    },
+    "70603": {
+        "question": "Khi tạo Thread kế thừa từ Class Thread ta cần ghi đè phương thức nào để chạy thread?",
+        "answer": "run"
+    },
+    "70604": {
+        "question": "Để gọi thread chạy ta dùng phương thức nào?",
+        "answer": "start"
+    },
+    "70605": {
+        "question": "Khi tạo Thread thực thi từ giao diện Runnable ta cần ghi đè phương thức nào để chạy thread?",
+        "answer": "run"
+    },
+    "70606": {
+        "question": "Làm sao để biết main thread còn chạy không?",
+        "answer": "Sử dụng biến boolean"
+    },
+    "70607": {
+        "question": "Để update giao diện android người ta dùng class nào?",
+        "answer": "AsyncTask"
+    },
+    "70608": {
+        "question": "Trong Android, AsyncTask có thể dùng làm gì?",
+        "answer": "update giao diện"
+    },
+    "70610": {
+        "question": "Để update giao diện android người ta có thể dùng class nào?",
+        "answer": "Handler"
+    },
+    "70611": {
+        "question": "Trong Android, Handler có thể dùng làm gì?",
+        "answer": "update dữ liệu"
+    },
+    "70612": {
+        "question": "Phương thức dùng để cập nhật giao diện khi dùng AsyncTask là?",
+        "answer": "onPostExcute"
+    },
+    "70613": {
+        "question": "Phương thức chứa mã sẽ thực thi trong background thread khi dùng AsyncTask là?",
+        "answer": "doInBackground"
+    },
+    "70614": {
+        "question": "HTTP là gì?",
+        "answer": "Là giao thức quen thuộc trên Internet theo mô hình client-server"
+    },
+    "70615": {
+        "question": "Với HTTP, khi Client gửi gì cho server?",
+        "answer": "HTTP request"
+    },
+    "70616": {
+        "question": "Với HTTP, khi Server gửi trả gì cho Client?",
+        "answer": "HTTP respone"
+    },
+    "70617": {
+        "question": "Đối tượng HTTP request chứa gì?",
+        "answer": "chứa địa chỉ truy cập đến tài nguyên đồng thời gởi thêm tham số để xác định tác vụ cần thực thi và loại dữ liệu cần lấy"
+    },
+    "70618": {
+        "question": "Kết nối HTTP có mấy dạng gửi dữ liệu",
+        "answer": "2"
+    },
+    "70619": {
+        "question": "Gửi theo kiểu gì mà các tham số sẽ kèm theo trên địa chỉ?",
+        "answer": "GET"
+    },
+    "70620": {
+        "question": "Gửi theo kiểu gì sẽ không kèm tham số trên địa chỉ mà thông qua phần thân html?",
+        "answer": "POST"
+    },
+    "70621": {
+        "question": "Java có bao nhiêu đối tượng dùng để xử lý HTTP?",
+        "answer": "2"
+    },
+    "70622": {
+        "question": "Trong Java, đối tượng nào dùng để xử lý HTTP?",
+        "answer": "HttpClient"
+    },
+    "70623": {
+        "question": "Trong Java, đối tượng nào dùng để xử lý HTTP?",
+        "answer": "HttpUrlConnection"
+    },
+    "70624": {
+        "question": "Tạo client mặc định ta dùng?",
+        "answer": "\"HttpClient client = new DefaultHttpClient(); \""
+    },
+    "70625": {
+        "question": "Tạo HTTP GET ta dùng?",
+        "answer": "\"HttpGet httpGet = new HttpGet(address); \""
+    },
+    "70626": {
+        "question": "Tạo HTTP POST ta dùng?",
+        "answer": "HttpPost httpPost = new HttpPost(address);"
+    },
+    "70627": {
+        "question": "Khi dùng HTTP GET, Client dùng phương thức gì để&nbsp; thực thi và lấy kết quả về",
+        "answer": "execute"
+    },
+    "70628": {
+        "question": "Khi dùng HTTP POST, Client dùng phương thức gì để&nbsp; thực thi và lấy kết quả về",
+        "answer": "execute"
+    },
+    "70629": {
+        "question": "HttpUrlConnection thuộc thư viện nào?",
+        "answer": "\"Stands Java SE API \""
+    },
+    "70630": {
+        "question": "HttpClient thuộc thư viện nào?",
+        "answer": "\"Apache Common library \""
+    },
+    "70631": {
+        "question": "Khi dùng HttpURLConnection để tạo kết nối ta dùng phương thức?",
+        "answer": "openConnection();"
+    },
+    "70632": {
+        "question": "Khi dùng HttpURLConnection để đọc dữ liệu ta dùng đối tượng nào?",
+        "answer": "BufferedReader"
+    },
+    "70633": {
+        "question": "Khi dùng HttpURLConnection để đóng kết nối ta dùng phương thức nào?",
+        "answer": "\"disconnect() \""
+    },
+    "70634": {
+        "question": "JSON là gì?",
+        "answer": "là một chuẩn thuần văn bản và có cấu trúc"
+    },
+    "70635": {
+        "question": "Nguồn gốc JSON từ đâu?",
+        "answer": "JavaScript"
+    },
+    "70636": {
+        "question": "Kiểu dữ liệu không có trong JSON",
+        "answer": "number"
+    },
+    "70637": {
+        "question": "Kiểu dữ liệu không có trong JSON",
+        "answer": "float"
+    },
+    "70638": {
+        "question": "Trong JSON, dấu ngoặc nhọn “{ }” dùng để khai báo loại dữ liệu nào?",
+        "answer": "object"
+    },
+    "70639": {
+        "question": "Trong JSON, dấu ngoặc nhọn “[ ]” dùng để khai báo loại dữ liệu nào?",
+        "answer": "array"
+    },
+    "70640": {
+        "question": "Trong JSON, để phân cách item người ta dùng kí tự nào?",
+        "answer": "dấu phẩy \",\""
+    },
+    "70641": {
+        "question": "Trong JSON, để phân cách cặp tên/giá trị người ta dùng kí tự nào?",
+        "answer": "dấu hai chấm \":\""
+    },
+    "70642": {
+        "question": "Java dùng class nào để tạo đối tượng JSON?",
+        "answer": "JSONObject"
+    },
+    "70643": {
+        "question": "Để lấy chuỗi trong đối tượng JSON ta dùng phương thức nào?",
+        "answer": "getString(“TENCHUOI”)"
+    },
+    "70644": {
+        "question": "Để lấy boolean trong đối tượng JSON ta dùng phương thức nào?",
+        "answer": "getBoolean(“TENBOOLEAN”)"
+    },
+    "70645": {
+        "question": "Để lấy mảng trong đối tượng JSON ta dùng phương thức nào?",
+        "answer": "getJSONArray(“ARRAYNAME”)"
+    },
+    "70646": {
+        "question": "Volley là gì?",
+        "answer": "Là một thư viện của Google dùng để send và receive response từ Server sử dụng giao thức HTTP"
+    },
+    "70647": {
+        "question": "Phát biểu nào sau đây chính xác về Volley?",
+        "answer": "\"Volley hỗ trợ nhiều kết quả trả về (String, JSONObject, JSONArray, Bitmap…) \""
+    },
+    "70648": {
+        "question": "Trong Volley, Class nào mà HTTP request có response trả về là JSONObject?",
+        "answer": "JSONObjectRequest"
+    },
+    "70649": {
+        "question": "Trong Volley, Class nào mà HTTP request có response trả về là JSONArray?",
+        "answer": "JSONArrayRequest"
+    },
+    "70650": {
+        "question": "Trong Volley, Class nào là lớp cơ sở của các Request, chứa thông tin về request HTTP?",
+        "answer": "Request"
+    },
+    "70651": {
+        "question": "Trong Volley, Class nào kế thừa từ Request, là class đại diện cho request trả về String?",
+        "answer": "StringRequest"
+    },
+    "70652": {
+        "question": "Trong Volley, Class nào thao tác với hàng đợi giữ các Request?",
+        "answer": "RequestQueue"
+    },
+    "70653": {
+        "question": "Mảng JSON có thể chứa bao nhiêu đối tượng JSON?",
+        "answer": "Vô số"
+    },
+    "70654": {
+        "question": "API là gì?",
+        "answer": "API là các hàm, phương thức để cho các ứng dụng bên ngoài có thể gọi, tương tác để trao đổi thông tin, tính toán."
+    },
+    "70655": {
+        "question": "Web API dùng làm gì?",
+        "answer": "giúp chúng ta xây dựng lên các Service cung cấp dịch vụ cho các ứng dụng web, window…"
+    },
+    "70656": {
+        "question": "Kiểu dữ liệu trao đổi trong Web API là gì?",
+        "answer": "JSON"
+    },
+    "70657": {
+        "question": "Web API dùng giao thức nào?",
+        "answer": "HTTP"
+    },
+    "70658": {
+        "question": "Web API thường kết nối với loại dữ liệu nào ở Back End?",
+        "answer": "SQL"
+    },
+    "70660": {
+        "question": "MySQL gì?",
+        "answer": "Là một RDBMS nhanh và dễ dàng để sử dụng"
+    },
+    "70661": {
+        "question": "MySQL làm việc trên hệ điều hành nào?",
+        "answer": "Nhiều hệ điều hành"
+    },
+    "70662": {
+        "question": "Muốn sử dụng MySQL ta cần cài dịch vụ WEB nào?",
+        "answer": "Apache"
+    },
+    "70663": {
+        "question": "MySQL thân thiện với ngôn ngữ lập trình nào?",
+        "answer": "PHP"
+    },
+    "70664": {
+        "question": "Port của MySQL là bao nhiêu?",
+        "answer": "3306"
+    },
+    "70665": {
+        "question": "Truy vấn CSDL trong MySQL ta dùng lệnh nào?",
+        "answer": "SELECT"
+    },
+    "70666": {
+        "question": "Thêm dữ liệu vào CSDL trong MySQL ta dùng lệnh nào?",
+        "answer": "INSERT"
+    },
+    "70667": {
+        "question": "Sửa dữ liệu&nbsp; trong MySQL ta dùng lệnh nào?",
+        "answer": "UPDATE"
+    },
+    "70668": {
+        "question": "Xóa dữ liệu&nbsp; trong MySQL ta dùng lệnh nào?",
+        "answer": "DELETE"
+    },
+    "70669": {
+        "question": "Trong MySQL, user mặc định là gì?",
+        "answer": "root"
+    },
+    "70670": {
+        "question": "Trong MySQL, password mặc định là gì?",
+        "answer": "null"
+    },
+    "70671": {
+        "question": "Khi viết WEB API với CSDL, người ta thường dùng ngôn ngữ lập trình nào?",
+        "answer": "PHP"
+    },
+    "70672": {
+        "question": "Trong PHP, Class PDO dùng làm gì?",
+        "answer": "Thao tác CSDL"
+    },
+    "70673": {
+        "question": "Phương thức nào để tạo câu lệnh SQL trong Class PDO?",
+        "answer": "prepare"
+    },
+    "70674": {
+        "question": "Phương thức nào để thực thi câu lệnh SQL trong Class PDO?",
+        "answer": "execute"
+    },
+    "70675": {
+        "question": "Câu lệnh kết nối databse dùng mySql là gì?",
+        "answer": "$con = mysql_connect(db_server, db_user, db_pass)"
+    },
+    "70676": {
+        "question": "Ngoài cách kết nối MySQL dùng PDO chúng ta có thể kết nối dùng phương thức nào?",
+        "answer": "mysql_connect"
+    },
+    "70677": {
+        "question": "Phương thức dùng để định nghĩa hằng trong PHP là gì?",
+        "answer": "define"
+    },
+    "70678": {
+        "question": "Cách khai báo hàm tạo (contructor) cho Class trong PHP như thế nào?",
+        "answer": "function __construct() {…}"
+    },
+    "70679": {
+        "question": "Cách khai báo hàm hủy (destructor) cho Class trong PHP như thế nào?",
+        "answer": "function __destruct() {…}"
+    },
+    "70680": {
+        "question": "Phương thức dùng để gọi 1 file php chạy 1 lần trong PHP là gì?",
+        "answer": "require_once"
+    },
+    "70681": {
+        "question": "Phương thức dùng để gán database vào 1 biến trong PHP là gì?",
+        "answer": "mysql_select_db(DB_DATABASE)"
+    },
+    "70682": {
+        "question": "Phương thức dùng để ngắt kết nối database trong PHP là gì?",
+        "answer": "mysql_close()"
+    },
+    "70683": {
+        "question": "Phương thức dùng để thao tác với database trong PHP là gì?",
+        "answer": "mysql_query"
+    },
+    "70684": {
+        "question": "Phương thức dùng để duyệt phần tử mảng trong PHP là gì?",
+        "answer": "mysql_fetch_array($result )"
+    },
+    "70685": {
+        "question": "Phương thức dùng để đếm số phần tử mảng trong PHP là gì?",
+        "answer": "mysql_num_rows($result)"
+    },
+    "70686": {
+        "question": "Trong PHP, khai báo 1 mảng sản phẩm chứa JSON trả về như thế nào?",
+        "answer": "$response[\"products\"] = array();"
+    },
+    "70687": {
+        "question": "Câu lệnh dùng để trả về dữ liệu JSON trong PHP là gì?",
+        "answer": "echo json_encode($response);"
+    },
+    "70688": {
+        "question": "Để thêm dữ liệu vào database ta sử dụng mảng có sẵn nào của PHP?",
+        "answer": "$_POST"
+    },
+    "70689": {
+        "question": "Truy xuất thuộc tính \"name\" của mảng $_POST ta viết cú pháp thế nào?",
+        "answer": "$_POST['name']"
+    },
+    "70690": {
+        "question": "Phương thức dùng để kiểm tra thuộc tính \"price\" có hay không trong mảng $_POST trong PHP là gì?",
+        "answer": "\"isset($_POST['price']) \""
+    },
+    "70691": {
+        "question": "Câu lệnh gán giá trị biến $name vào thuộc tính \"name\" của mảng $_POST là gì?",
+        "answer": "$name = $_POST[name];"
+    },
+    "70692": {
+        "question": "Câu lệnh gán giá trị&nbsp; thuộc tính \"name\" của mảng $_POST vào biến $name là gì?",
+        "answer": "$name = $_POST[name];"
+    },
+    "70693": {
+        "question": "Câu lệnh sau cho kết quả thế nào?\n $result = mysql_query(\"INSERT INTO products(name, price, description) VALUES('$name', '$price')\");",
+        "answer": "Lỗi"
+    },
+    "70694": {
+        "question": "Câu lệnh sau cho kết quả thế nào?\n $result = mysql_query(\"INSERT INTO products(name, price, description) VALUES('$name', '$price', '$description')\");",
+        "answer": "Thêm 1 sản phẩm vào database"
+    },
+    "70695": {
+        "question": "Web Service là gì?",
+        "answer": "Là công nghệ cho phép client truy xuất để thực hiện 1 tác vụ như 1 web application."
+    },
+    "70696": {
+        "question": "Web Service dựa trên cái gì?",
+        "answer": "XML và HTTP"
+    },
+    "70697": {
+        "question": "Web Service cung cấp cái gì cho người dùng?",
+        "answer": "phương thức chuẩn"
+    },
+    "70698": {
+        "question": "Web Service phụ thuộc&nbsp; vào platform nào?",
+        "answer": "Không phụ thuộcvào platform nào"
+    },
+    "70699": {
+        "question": "Với Web Service, XML làm nhiệm vụ gì?",
+        "answer": "mã hóa và giải mã dữ liệu"
+    },
+    "70700": {
+        "question": "ứng dụng khi được triển khai với web Service sẽ hoạt động theo mô hình?",
+        "answer": "Server"
+    },
+    "70701": {
+        "question": "Phần lớn kĩ thuật Web Service được xây dựng dựa trên mã nguồn gì?",
+        "answer": "Mã nguồn mở"
+    },
+    "70702": {
+        "question": "Phát biểu nào sao đây là sai về Web Service?",
+        "answer": "WebService không cung cấp khả năng hoạt động rộng lớn với các ứng dụng"
+    },
+    "70703": {
+        "question": "Có bao nhiêu chuẩn cho WebService",
+        "answer": "Rất nhiều"
+    },
+    "70704": {
+        "question": "SOAP là gì?",
+        "answer": "là giao thức cho phép truy cập WebService"
+    },
+    "70705": {
+        "question": "Thẻ nào định nghĩa tài liệu XML như là một Soap message?",
+        "answer": ""
+    },
+    "70706": {
+        "question": "Thẻ nào chứa đựng thông tin header của SOAP?",
+        "answer": ""
+    },
+    "70707": {
+        "question": "Thẻ nào chứa đựng thông tin gọi và trả về của SOAP?",
+        "answer": ""
+    },
+    "70708": {
+        "question": "Thẻ nào chứa đựng thông tin về lỗi và trạng thái của SOAP?",
+        "answer": ""
+    },
+    "70709": {
+        "question": "SOAP được mã hóa sử dụng định dạng gì?",
+        "answer": "SOAP được mã hóa sử dụng định dạng gì?"
+    },
+    "70710": {
+        "question": "SOAP được thiết kế như thế nào?",
+        "answer": "đơn giản và dễ mở rộng"
+    },
+    "70711": {
+        "question": "SOAP bị ràng buộc bởi ngôn ngữ lập trình nảo?",
+        "answer": "không bị ràng buộc bởi bất kỳ ngôn ngữ lập trình nào hoặc công nghệ nào"
+    },
+    "70712": {
+        "question": "Thẻ &lt;soap:Envelope&gt; dùng để làm gì?",
+        "answer": "Chứa đựng thông tin gọi và trả về của SOAP"
+    },
+    "70713": {
+        "question": "Thẻ &lt;soap:Body&gt; dùng để làm gì?",
+        "answer": "Chứa đựng thông tin về lỗi và trạng thái của SOAP"
+    },
+    "70714": {
+        "question": "Thẻ &lt;soap:Header&gt; dùng để làm gì?",
+        "answer": "Chứa đựng thông tin gọi và trả về của SOAP"
+    },
+    "70715": {
+        "question": "Socket là gì?",
+        "answer": "Là một giao diện lập trình ứng dụng (API-Application Programming Interface). "
+    },
+    "70716": {
+        "question": "Socket giới thiệu lần đầu tiên trong ấn bản nào?",
+        "answer": "UNIX - BSD 4.2"
+    },
+    "70717": {
+        "question": "Ngày nay, Socket được hỗ trợ các hệ điều hành nào?",
+        "answer": "Socket được hỗ trợ trong hầu hết các hệ điều hành "
+    },
+    "70718": {
+        "question": "Socket cho phép thiết lập các kênh giao tiếp mà hai đầu kênh được đánh dấu bởi cái gì?",
+        "answer": "IP và PORT"
+    },
+    "70719": {
+        "question": "Port của Soket là bao nhiêu?",
+        "answer": "Tự định nghĩa bởi lập trình viên"
+    },
+    "70720": {
+        "question": "Port dùng để làm gì?",
+        "answer": "Dùng để phân biệt các quá trình khác nhau trên cùng một máy tính"
+    },
+    "70721": {
+        "question": "Port nào được dành riêng cho các quá trình của hệ thống gì?",
+        "answer": "1-1023"
+    },
+    "70722": {
+        "question": "Lập trình viên được phép định nghĩa các port nào?",
+        "answer": "1024 - 65535"
+    },
+    "70723": {
+        "question": "Port hệ thống nào được dùng cho HTTPs?",
+        "answer": "443"
+    },
+    "70724": {
+        "question": "Socket hỗ trợ giao thức nào?",
+        "answer": "TCP &amp; UDP"
+    },
+    "70725": {
+        "question": "Giao thức nào hỗ trợ giao tiếp có nối kết?",
+        "answer": "TCP"
+    },
+    "70726": {
+        "question": "Giao thức nào hỗ trợ giao tiếp không nối kết?",
+        "answer": "UDP"
+    },
+    "70727": {
+        "question": "Class nào được dùng trong Java khi triển khai Server Socket?",
+        "answer": "ServerSocket"
+    },
+    "70728": {
+        "question": "Class nào được dùng trong Java khi triển khai Client Socket?",
+        "answer": "Socket"
+    },
+    "70729": {
+        "question": "Trong Class ServerSocket, phương thức nào thiết lập thời gian chờ tối đa (time-out) ?",
+        "answer": "setSoTimeout(int timeout)"
+    },
+    "70730": {
+        "question": "Trong Class ServerSocket, phương thức nào nối Server Socket tới một server cụ thể có cổng định sẵn trong đối tượng SocketAddress?",
+        "answer": "bind(SocketAddress host, int backlog)"
+    },
+    "70731": {
+        "question": "Trong Class Socket, phương thức nào kết nối socket này tới host chỉ định, chỉ dung nếu khởi tạo Socket không có tham số kết nối?",
+        "answer": "connect(SocketAddress host, int timeout) "
+    },
+    "70732": {
+        "question": "Trong Class Socket, phương thức nào trả về địa chỉ của máy tính mà socket này kết nối tới?",
+        "answer": "getInetAddress()"
+    },
+    "70733": {
+        "question": "Trong Class Socket, phương thức nào trả về cổng giàng buộc tới máy tính từ xa?",
+        "answer": "getPort()"
+    },
+    "70734": {
+        "question": "Trong Class Socket, phương thức nào trả về cổng socket là ràng buộc để trên máy local?",
+        "answer": "getLocalPort()"
+    },
+    "70735": {
+        "question": "Firebase là gì?",
+        "answer": "Là một dịch vụ cơ sở dữ liệu thời gian thực hoạt động trên nền tảng đám mây được cung cấp bởi Google"
+    },
+    "70736": {
+        "question": "Firebase cung cấp chức năng nào?",
+        "answer": "Tất cả chức năng được liệt kê"
+    },
+    "70737": {
+        "question": "Firebase lưu trữ dữ liệu database theo định dạng nào nào?",
+        "answer": "JSON"
+    },
+    "70738": {
+        "question": "Firebase database có tính năng nào?",
+        "answer": "Tất cả tính năng được liệt kê1"
+    },
+    "70739": {
+        "question": "Firebase sử dụng cho nền tảng nào?",
+        "answer": "Đa nền tảng"
+    },
+    "70740": {
+        "question": "Phát biểu \"Dễ dàng tích hợp các công nghệ xác thực của Google, Facebook, Twitter, … hoặc một hệ thống xác thực mà bạn tự mình tạo ra vào trong ứng dụng của bạn ở bất kì nền tảng nào như Android, iOS hoặc Web\" đúng cho dịch vụ nào?",
+        "answer": "Firebase"
+    },
+    "70741": {
+        "question": "Firebase hosting cung cấp tên miền miễn phí cho các ứng dụng web sẽ được cấp 1 tên miền dạng nào?",
+        "answer": "*.firebaseapp.com"
+    },
+    "70742": {
+        "question": "Firebase được cung vấp bởi hãng nào?",
+        "answer": "Google"
+    },
+    "70743": {
+        "question": "Đạng nhập Firebase dùng tài khoản nào?",
+        "answer": "Google"
+    },
+    "70744": {
+        "question": "Khi tạo project trên Firebase, file google-services.json cần chép vào thư mục nào của project Android?",
+        "answer": "app"
+    },
+    "70745": {
+        "question": "Khi tạo project trên Firebase, bạn phải đăng nhập trang nào?",
+        "answer": "\"console.firebase.google.com \""
+    },
+    "70746": {
+        "question": "Project Android dử dụng Firebase cần thêm \"classpath 'com.google.gms:google-services:3.0.0' \" vào file nào?",
+        "answer": "build.gradle tại level project"
+    },
+    "70747": {
+        "question": "Project Android dử dụng Firebase cần thêm \"apply plugin: 'com.google.gms.google-services' \" vào file nào?",
+        "answer": "build.gradle tại level app"
+    },
+    "70748": {
+        "question": "Firebase Hosting được bảo mất thông qua giao thức nào?",
+        "answer": "SSL"
+    },
+    "70749": {
+        "question": "Khi tạo project trên Firebase, bạn cần cung cấp thông số bảo mật nào cho Firebase?",
+        "answer": "SHA1"
+    },
+    "70750": {
+        "question": "Khi tạo project trên Firebase, để liên kết với ứng dụng Android thì bạn cần cung cấp thông số cho Firebase?",
+        "answer": "SHA1"
+    },
+    "70751": {
+        "question": "Để ứng dụng có thể nhận FireBase – Notification thì cần kế thừa Class nào của Firebase?",
+        "answer": "FirebaseMessagingSevice"
+    },
+    "70752": {
+        "question": "Để ứng dụng có thể nhận FireBase – Notification thì cần Override lên phương thức nào của Class FirebaseMessagingSevice?",
+        "answer": "onMessageReceived"
+    },
+    "70753": {
+        "question": "Class kế thừa Class FirebaseMessagingSevice là gì?",
+        "answer": "Service"
+    },
+    "70754": {
+        "question": "Để ứng dụng có thể nhận FireBase – Notification thì phải thêm thuộc tính gì trong thẻ &lt;activity&gt; của AndroidManifest?",
+        "answer": "launchMode = singleTask "
+    }
+}

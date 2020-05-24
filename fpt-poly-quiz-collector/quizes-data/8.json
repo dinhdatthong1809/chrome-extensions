@@ -1,0 +1,474 @@
+{
+    "40000": {
+        "question": "Bước đầu tiên trong qui trình xử lý yêu cầu là làm gì?",
+        "answer": "Elicit &amp; Analyze requirements"
+    },
+    "40001": {
+        "question": "Bảng Q&amp;A được dùng để làm gì?",
+        "answer": "Để làm rõ yêu cầu của khách hàng"
+    },
+    "40002": {
+        "question": "Develop SRS là bước thứ mấy trong Qui trình xử lý yêu cầu?",
+        "answer": "2"
+    },
+    "40003": {
+        "question": "Khi yêu cầu không rõ ràng thì cần sử dụng biểu mẫu gì?",
+        "answer": "Q&amp;A"
+    },
+    "40004": {
+        "question": "Khi yêu cầu là không rõ ràng thì ta cần làm gì?",
+        "answer": "Tất cả đều đúng"
+    },
+    "40005": {
+        "question": "Nếu câu hỏi của bạn không được trả lời hoặc ảnh hưởng đến công việc của bạn thì cần làm gì?",
+        "answer": "Báo ngay cho PM và Team Leader"
+    },
+    "40006": {
+        "question": "Qui trình Validate Requirements gồm có?",
+        "answer": "Kiểm tra tính hợp lệ\nKiểm tra nhất quán\nKiểm tra tính đầy đủ\nKiểm tra tính thực tế\nKiểm chứng"
+    },
+    "40007": {
+        "question": "Qui trình xử lý yêu cầu có bao nhiêu bước?",
+        "answer": "6"
+    },
+    "40008": {
+        "question": "Requirement là phase thứ mấy trong quy trình phát triển phần mềm",
+        "answer": "3"
+    },
+    "40009": {
+        "question": "Requirement Process nhằm mục đích chính là gì?",
+        "answer": "Tất cả các mục đích đều đúng"
+    },
+    "40010": {
+        "question": "Trong qui trình quản lý yêu cầu thì bước nào là cần thiết để đảm bảo việc quản lý các thay đổi của khách hàng?",
+        "answer": "Manage Traceability"
+    },
+    "40011": {
+        "question": "Trong qui trình quản lý yêu cầu thì bước nào là quan trọng để giảm chi phí phát sinh?",
+        "answer": "Validate Requirements"
+    },
+    "40012": {
+        "question": "Tài liệu nào sau đây là cơ sở tham chiếu chung của các yêu cầu phần mềm cho khách hàng, phát triển, thử nghiệm và quản lý dự án?",
+        "answer": "SRS"
+    },
+    "40013": {
+        "question": "Vì sao giai đoạn Validate Requirements là rất quan trọng?",
+        "answer": "Chi phí cho việc sửa lỗi từ yêu cầu khách hàng là rất cao"
+    },
+    "40014": {
+        "question": "Vì sao phải cần phải Analyze Requirements?",
+        "answer": "Tất cả đều đúng"
+    },
+    "40015": {
+        "question": "Vì sao phải cần phải Elicit Requirements?",
+        "answer": "Yêu cầu thường không được trao cho bạn, bạn cần phải gợi ý cho khách hàng"
+    },
+    "40016": {
+        "question": "Để chắc chắn rằng các yêu cầu hệ thống xác định là khách hàng thực sự muốn ta cần làm gì",
+        "answer": "Validate Requirements"
+    },
+    "40017": {
+        "question": "Các bước phân tích và thiết kế hướng đối tượng là gì?",
+        "answer": "Class Modeling\nDynamic Modeling\nFunctional Modeling\n"
+    },
+    "40018": {
+        "question": "Công việc \"Chuẩn bị dữ liệu cho mỗi kịch bản\" thuộc mô hình nào?",
+        "answer": "Dynamic Modeling"
+    },
+    "40019": {
+        "question": "Công việc \"Tổ chức các lớp đối tượng kế thừa\" thuộc mô hình nào?",
+        "answer": "Class Modeling"
+    },
+    "40020": {
+        "question": "DFD nguyên thủy là gì?",
+        "answer": "DFD của chức năng đơn giản mà không cần mơ rộng thêm"
+    },
+    "40021": {
+        "question": "DFD nên được sử dụng trong mô hình nào",
+        "answer": "Functional Modeling"
+    },
+    "40022": {
+        "question": "Hành vi (Operation) của các các đối tượng là gì?",
+        "answer": "Hành động thực hiện trên một đối tượng\n"
+    },
+    "40023": {
+        "question": "Khi nào ta cần sử dụng DFD riêng?",
+        "answer": "Các chức năng lớn (High Level)"
+    },
+    "40024": {
+        "question": "Khi phân tích sâu vào chức năng ứng dụng ta nên ngừng lại khi nào?",
+        "answer": "Chức năng đơn giản"
+    },
+    "40025": {
+        "question": "Mockup là công cụ để làm gì?",
+        "answer": "Phác thảo giao diện"
+    },
+    "40026": {
+        "question": "Mô hình nào dùng để: Chuẩn bị kịch bản, Xác định sự kiện giữa các đối tượng, Chuẩn bị một dữ liệu cho mỗi kịch bản, Xây dựng một sơ đồ trạng thái",
+        "answer": "Dynamic Modeling"
+    },
+    "40027": {
+        "question": "Mô hình nào dùng để: Xác định đối tượng và các Class, thuộc tính đối tượng và thiết lập ban đầu, xác định mối liên quan giữa các đối tượng, tổ chức các lớp đối tượng kế thừa",
+        "answer": "Class Modeling"
+    },
+    "40028": {
+        "question": "Một thuộc tính (Attribute) của đối tượng có bao nhiêu kiểu dữ liệu?",
+        "answer": "1"
+    },
+    "40029": {
+        "question": "Object-Oriented Analysis là gì?",
+        "answer": "Mô hình phân tích yêu cầu của \"thế giới thực\", không phụ thuộc vào môi trường thực hiện"
+    },
+    "40030": {
+        "question": "Object-Oriented Design là gì?",
+        "answer": "Thiết kế áp dụng các khái niệm hướng đối tượng để phát triển, truyền tải kiến trúc và chi tiết cách làm để đáp ứng yêu cầu"
+    },
+    "40031": {
+        "question": "Screen Flow Diagram (State Machine Diagram) thể hiện gì?",
+        "answer": "Sơ đồ hoạt động và trạng thái hệ thống"
+    },
+    "40032": {
+        "question": "Screen Flow Diagram (Storyboard) thể hiện gì?",
+        "answer": "để mô hình hóa các mối quan hệ cấp cao giữa các thành phần giao diện người dùng, từ đó đặt câu hỏi khả năng sử dụng cơ bản"
+    },
+    "40033": {
+        "question": "Sử dụng Object-Oriented Methodology để làm gì?",
+        "answer": "Hướng tới việc tái sử dụng"
+    },
+    "40034": {
+        "question": "Thiết kế giao diện cần phải?",
+        "answer": "Đẹp, rõ ràng, dễ nhìn, dễ tương tác…"
+    },
+    "40035": {
+        "question": "Trong mô hình chức năng, các chức năng lớn (High Level) nên được làm gì?",
+        "answer": "Phân thành các đơn vị chức năng nhỏ hơn"
+    },
+    "40036": {
+        "question": "User Interface là gì?",
+        "answer": "là một khái niệm để nói tới nơi mà con người và máy móc cùng làm việc với nhau"
+    },
+    "40037": {
+        "question": "Activity Diagram thuộc quan điểm kiến trúc nào",
+        "answer": "Behavioral View"
+    },
+    "40038": {
+        "question": "Class Diagram thuộc quan điểm kiến trúc nào",
+        "answer": "Structural View"
+    },
+    "40039": {
+        "question": "Có bao nhiêu loại quan điểm kiến trúc theo IBM?",
+        "answer": "4+1"
+    },
+    "40040": {
+        "question": "Mục đích của Class Diagram là gì?",
+        "answer": "Tất cả các mục đích đều đúng"
+    },
+    "40041": {
+        "question": "Object Diagram thuộc quan điểm kiến trúc nào",
+        "answer": "Structural View"
+    },
+    "40042": {
+        "question": "Phát biểu nào sao đây là sai đối với UML",
+        "answer": "UML chỉ sử dụng trong công nghệ phần mềm"
+    },
+    "40043": {
+        "question": "Quan điểm kiến trúc Use Case view bao gồm các Diagram nào?",
+        "answer": "Use Case Diagram"
+    },
+    "40044": {
+        "question": "Shape Diamond dùng thể hiện gì trong Activity Diagram?",
+        "answer": "Lựa chọn"
+    },
+    "40045": {
+        "question": "Shape Rounded rectangle dùng thể hiện gì trong Activity Diagram?",
+        "answer": "Hành động"
+    },
+    "40046": {
+        "question": "Sơ đồ gì thể hiện quy trình công việc từng bước của các hành động với sự hỗ trợ cho sự lựa chọn, lặp đi lặp lại và đồng thời",
+        "answer": "Activity Diagram"
+    },
+    "40047": {
+        "question": "Sơ đồ nào mô tả các chức năng được cung cấp bởi hệ thống?",
+        "answer": "Use Case Diagram"
+    },
+    "40048": {
+        "question": "Sơ đồ nào mô tả các Class của hệ thống, thuộc tính của chúng và mối quan hệ giữa các Class",
+        "answer": "Class Diagram"
+    },
+    "40049": {
+        "question": "Thuật toán (Algorithm) là gì?",
+        "answer": "Là phương pháp lập trình"
+    },
+    "40050": {
+        "question": "Trong sơ đồ Use Case, đối tượng nào được tham gia để thể hiện chức năng của hệ thống?",
+        "answer": "Use case"
+    },
+    "40051": {
+        "question": "Trong sơ đồ Use Case, đối tượng nào được tham gia để thể hiện là nhân tố tương tác với hệ thống?",
+        "answer": "Actor"
+    },
+    "40052": {
+        "question": "Trong UML khi cần thiết làm rõ một số điểm quan trọng ta cần làm gì?",
+        "answer": "Ghi chú vào sơ đồ"
+    },
+    "40053": {
+        "question": "UML có thể định nghĩa được bao nhiêu sơ đồ?",
+        "answer": "13"
+    },
+    "40054": {
+        "question": "Unified Modeling Language (UML) là gì?",
+        "answer": "Tất cả các khái niệm trên đều đúng"
+    },
+    "40055": {
+        "question": "Use case diagram bao gồm gì?",
+        "answer": "Actor, use case, relationships"
+    },
+    "40056": {
+        "question": "Use Case Diagram thuộc quan điểm kiến trúc nào",
+        "answer": "Use Case view"
+    },
+    "40057": {
+        "question": "Vì sao trong mỗi Class cần tối thiểu các thuộc tính?",
+        "answer": "Những thuộc tính không cần thiết có thể làm sơ đồ phức tạp hơn."
+    },
+    "40058": {
+        "question": "Bước đầu tiên của Code Planning là làm gì?",
+        "answer": "Nghiên cứu tài liệu thiết kế"
+    },
+    "40059": {
+        "question": "Code Review Process bao gồm Review gì?",
+        "answer": "Tính logic và kỹ thuật của code module "
+    },
+    "40060": {
+        "question": "Cái gì được dùng để cho phép các nhà thiết kế hoặc lập trình có thể thiết kế rất chi tiết và cung cấp cho các lập trình viên một mẫu chi tiết cho các bước tiếp theo của code trong một ngôn ngữ lập trình cụ thể",
+        "answer": "Pseudo Code"
+    },
+    "40061": {
+        "question": "Mỗi bước trong Pseudo Code được viết trên mấy dòng?",
+        "answer": "1"
+    },
+    "40062": {
+        "question": "Mục đích của Code Planning là gì?",
+        "answer": "lập kế hoạch và chuẩn bi Code"
+    },
+    "40063": {
+        "question": "Mục đích của Coding Functional Modules là gì?",
+        "answer": "nhằm build, xây dựng hoặc phát triển module chức năng."
+    },
+    "40064": {
+        "question": "Mục đích của Coding LibraryModules là gì?",
+        "answer": "nhằm build, xây dựng hoặc phát triển module thư viện."
+    },
+    "40065": {
+        "question": "Mục đích của Create System Description là gì?",
+        "answer": "Viết System Description /User Manual cho hệ thống phần mềm"
+    },
+    "40066": {
+        "question": "Mục đích của Integrate Software Modules là gì?",
+        "answer": "đóng gói phần mềm từ các module, đảm bảo phần mềm tích hợp các chức năng đúng yêu cầu"
+    },
+    "40067": {
+        "question": "Pseudo Code mô tả gì?",
+        "answer": "Mô tả chi tiết và có thể đọc được (trong cấu trúc tiếng Anh) của những gì một chương trình máy tính hoặc thuật toán phải làm"
+    },
+    "40068": {
+        "question": "Thuật toán (Algorithm) là gì?",
+        "answer": "Là phương pháp lập trình"
+    },
+    "40069": {
+        "question": "Trong Pseudo Code, Các Keyword IF, THEN, ELSE, ENDIF được dùng để làm gì?",
+        "answer": "Chọn lựa"
+    },
+    "40070": {
+        "question": "Trong Pseudo Code, Keyword nào được dùng để biểu thị bắt đầu chương trình",
+        "answer": "BEGIN MAINPROGRAM"
+    },
+    "40071": {
+        "question": "Trong Pseudo Code, Keyword nào được dùng để biểu thị bắt đầu chương trình con",
+        "answer": "BEGIN SUBPROGRAM"
+    },
+    "40072": {
+        "question": "Trong Pseudo Code, Keyword nào được dùng để biểu thị kết thúc chương trình",
+        "answer": "END MAINPROGRAM"
+    },
+    "40073": {
+        "question": "Trong Pseudo Code, Keyword nào được dùng để biểu thị kết thúc chương trình",
+        "answer": "END SUBPROGRAM"
+    },
+    "40074": {
+        "question": "Trong Pseudo Code, để biểu thị cấu trúc điều khiển đặc biệt người ta sử dụng cái gì?",
+        "answer": "Từ khoá và thụt đầu dòng "
+    },
+    "40075": {
+        "question": "Đâu là thuật toán tính tổng cá số từ 1-10?",
+        "answer": "-Đặt tổng = 0\n-Đặt i = 1\n-Tính tổng = tổng + I\n-Tăng i lên 1, lặp lại bước 3 đến khi i = 10"
+    },
+    "40076": {
+        "question": "Đâu là thuật toán tính tổng cá số từ 1-n?",
+        "answer": "-Nhập vào n\n-Đặt tổng = 0\n-Đặt i = 1\n-Tính tổng = tổng + i\n-Tăng i lên 1, lặp lại bước 4 đến khi i = n"
+    },
+    "40077": {
+        "question": "Đặc điểm của thuật toán (Algorithm) là gì?",
+        "answer": "Tất cả đều đúng"
+    },
+    "40078": {
+        "question": "\"Chạy Code trong chế độ gỡ lỗi\" là sử dụng phương pháp gì của Unit Test",
+        "answer": "White-box testing"
+    },
+    "40079": {
+        "question": "\"Functional testing\" là sử dụng phương pháp gì của Unit Test",
+        "answer": "Black-box testing"
+    },
+    "40080": {
+        "question": "\"Kiểm tra cấu trúc dữ liệu local\" là sử dụng phương pháp gì của Unit Test",
+        "answer": "White-box testing"
+    },
+    "40081": {
+        "question": "Ai (WHO) sẽ là người thực hiện Unit Test?",
+        "answer": "Development Team"
+    },
+    "40082": {
+        "question": "Automated Unit Testing là gì?",
+        "answer": "Sử dụng công cụ để test và viết code test"
+    },
+    "40083": {
+        "question": "Bước thứ 5 của Manual Unit Testing là gì?",
+        "answer": "Kiểm tra Log files, Database, External Services, giá trị các biến, Output trên màn hình"
+    },
+    "40084": {
+        "question": "Cái gì (WHAT) sẽ thực hiện kiểm thử trong Unit Test?",
+        "answer": "Method"
+    },
+    "40085": {
+        "question": "Công cụ Automated Unit Testing cho C# là gì?",
+        "answer": "Nunit,csUnit"
+    },
+    "40086": {
+        "question": "Công cụ Automated Unit Testing cho Java là gì?",
+        "answer": "JUnit, J2MEUnit "
+    },
+    "40087": {
+        "question": "Lập trình viên thực hiện kiểm thử Fuction tính tổng sản phẩm bán trong tuần là loại kiểm thử gì?",
+        "answer": "Unit Test"
+    },
+    "40088": {
+        "question": "Lập trình viên thực hiện kiểm thử phương thức thêm sản phẩm là loại kiểm thử gì?",
+        "answer": "Unit Test"
+    },
+    "40089": {
+        "question": "Manual Unit Testing gồm bao nhiêu bước?",
+        "answer": "6"
+    },
+    "40090": {
+        "question": "Nguyên tắc cơ bản của Unit Test là phải trả lời các câu hỏi nào?",
+        "answer": "WHAT and WHO\nWHY\nWHEN\nHOW"
+    },
+    "40091": {
+        "question": "Nhóm Tester thực hiện kiểm thử chức năng quản lý khách hàng là loại kiểm thử gì?",
+        "answer": "Interagion Test"
+    },
+    "40092": {
+        "question": "Nhóm Tester thực hiện kiểm thử phần mềm bán hàng là loại kiểm thử gì?",
+        "answer": "System Test"
+    },
+    "40093": {
+        "question": "Unit Test được thực hiện khi nào (WHEN)?",
+        "answer": "Sau khi Coding vả trước khi kiểm thử tích hợp (Integration Test)"
+    },
+    "40094": {
+        "question": "Unit Test được thực hiện như thế nào (HOW)?",
+        "answer": "Black-box testing và White-box testing"
+    },
+    "40095": {
+        "question": "Việc kiểm thử chức năng quản lý sinh viên là do ai làm?",
+        "answer": "Tester Team"
+    },
+    "40096": {
+        "question": "Việc kiểm thử phương thức thêm sản phẩm là do ai làm?",
+        "answer": "Development Team"
+    },
+    "40097": {
+        "question": "Vì sao (WHY)phải thực hiện Unit Test?",
+        "answer": "Tất cả đều đúng"
+    },
+    "40098": {
+        "question": "\"Quản lý chất lượng là có liên quan với việc thiết lập một khuôn khổ quy trình và tiêu chuẩn có được phần mềm chất lượng cao\" nằm ở cấp độ nào trong Quality management?",
+        "answer": "Ở cấp độ tổ chức"
+    },
+    "40099": {
+        "question": "Agile là gì?",
+        "answer": "phương pháp quản trị dự án phần mềm linh hoạt"
+    },
+    "40100": {
+        "question": "Các mô tả sau là thuộc về quản trị gì?\nNhất quán đối với mọi người.\nTôn trọng nhau.\nBiết lắng nghe mọi người.\nTrung thực với mọi nhân viên.\nTạo động lực làm việc.\nTổ chức công việc và môi trường làm việc để khuyến khích mọi người làm việc có hiệu quả nhất.",
+        "answer": "Managing people"
+    },
+    "40101": {
+        "question": "Lên kế hoạch đề phòng rủi ro, giải quyết thế nào khi rủi ro xảy ra nằm ở giai đoạn nào của quản lý rủi ro?",
+        "answer": "Risk Planning"
+    },
+    "40102": {
+        "question": "Mỗi một Task cần có những gì?",
+        "answer": "Tất cả "
+    },
+    "40103": {
+        "question": "Phát biểu nào sao đây là sai?",
+        "answer": "Quản lý rủi ro là một trong những công việc quan trọng không cần thiết"
+    },
+    "40104": {
+        "question": "Project (Dự án) là gì?",
+        "answer": "Dự án là tập hợp các công việc được thực hiện bởi một tập thể (có thể có chuyên môn khác nhau, thực hiện công việc khác nhau, thời gian tham gia dự án khác nhau) nhằm đạt được một kết quả như dự kiến, trong thời gian dự kiến, với một kinh phí dự kiến"
+    },
+    "40105": {
+        "question": "Project scheduling sử dụng loại chart nào?",
+        "answer": "Bar Chart"
+    },
+    "40106": {
+        "question": "Quản lý dự án phần mềm cần không đảm bảo cân bằngyếu tố?",
+        "answer": "kinh phí"
+    },
+    "40107": {
+        "question": "Quản lý dự án phần mềm cần đảm bảo cân bằng giữa ba yếu tố nào?",
+        "answer": "thời gian, tài nguyên và chất lượng"
+    },
+    "40108": {
+        "question": "Quản lý rủi ro (Risk management) có bao nhiêu bước",
+        "answer": "4"
+    },
+    "40109": {
+        "question": "Quản lý rủi ro (Risk management) là gì?",
+        "answer": "Quản lý rủi ro liên quan đến việc dự đoán những rủi ro có thể ảnh hưởng đến tiến độ dự án hoặc chất lượng của phần mềm, và sau đó hành động để tránh những rủi ro này"
+    },
+    "40110": {
+        "question": "Thường xuyên đánh giá, quyết định hướng giải quyết cụ thể khi có rủi ro nằm ở giai đoạn nào của quản lý rủi ro?",
+        "answer": "Risk Monitoring"
+    },
+    "40111": {
+        "question": "Trong quản lý dự án phần mềm, ba yếu tố thời gian, tài nguyên và chất lượng được gọi là gì?",
+        "answer": "Tam giác dự án"
+    },
+    "40112": {
+        "question": "Trong quản lý dự án, Bar Chart cũng có thể gọi là gì?",
+        "answer": "Gantt Chart"
+    },
+    "40113": {
+        "question": "Xem xét khả năng và mức độ của từng rủi ro nằm ở giai đoạn nào của quản lý rủi ro?",
+        "answer": "Risk Analysis"
+    },
+    "40114": {
+        "question": "Xác định rủi ro nằm ở giai đoạn nào của quản lý rủi ro?",
+        "answer": "Risk Identification"
+    },
+    "40115": {
+        "question": "Đâu không phải là công việc của Configuration management?",
+        "answer": "System Test"
+    },
+    "40116": {
+        "question": "Đâu không phải là dự án trong các phát biểu sau?",
+        "answer": "Kinh doanh điện thoại"
+    },
+    "40117": {
+        "question": "Đâu là nguyên nhân dẫn đến sự thất bại trong việc quản lý dự án?",
+        "answer": "Tất cả đều đúng"
+    }
+}

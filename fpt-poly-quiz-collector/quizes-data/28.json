@@ -1,0 +1,286 @@
+{
+    "144651": {
+        "question": "Đoạn mã sau đây cho kết quả nào?\n public class Foo {&nbsp; \n &nbsp;&nbsp;&nbsp; public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try { \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; finally{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println( \"Finally\" ); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp; } \n }",
+        "answer": "Finally"
+    },
+    "144652": {
+        "question": "Đoạn mã sau đây cho kết quả nào?\n try { \n &nbsp;&nbsp;&nbsp; int x = 0; \n &nbsp;&nbsp;&nbsp; int y = 5 / x; \n } catch (Exception e) {\n &nbsp;&nbsp;&nbsp; System.out.println(\"Exception\"); \n }catch (ArithmeticException ae) {\n &nbsp;&nbsp;&nbsp; System.out.println(\" Arithmetic Exception\"); \n }\n System.out.println(\"finished\");",
+        "answer": "Có lỗi khi dịch."
+    },
+    "144653": {
+        "question": "Đoạn mã sau đây cho kết quả nào?\n try { \n &nbsp;&nbsp;&nbsp; int x = 0; \n &nbsp;&nbsp;&nbsp; int y = 5 / x; \n } catch (ArithmeticException e) {\n &nbsp;&nbsp;&nbsp; System.out.println(\"Arithmetic\"); \n }catch (Exception ae) {\n &nbsp;&nbsp;&nbsp; System.out.println(\"Exception\"); \n }\n System.out.println(\"finished\");",
+        "answer": "Arithmeticfinished"
+    },
+    "144654": {
+        "question": "public class X {&nbsp; \n &nbsp;&nbsp;&nbsp; public static void main(String [] args)&nbsp;&nbsp;&nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; badMethod();&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"A\"); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }&nbsp; catch (Exception ex)&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"B\");&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } finally {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"C\"); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"D\"); \n &nbsp;&nbsp;&nbsp; }&nbsp; \n &nbsp;&nbsp;&nbsp; public static void badMethod()&nbsp;&nbsp;&nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new Error(); \n &nbsp;&nbsp;&nbsp; } \n }",
+        "answer": "Có lỗi khi dịch."
+    },
+    "144655": {
+        "question": "public class X {&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp; public static void main(String [] args)&nbsp;&nbsp;&nbsp;&nbsp; { \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try { \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; badMethod();&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"A\");&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }catch (RuntimeException ex){&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"B\"); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }catch (Exception ex1){&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"C\"); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }finally{ \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"D\"); \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"E\"); \n &nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp; public static void badMethod(){&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new RuntimeException(); \n &nbsp;&nbsp;&nbsp; } \n }",
+        "answer": " BDE"
+    },
+    "144656": {
+        "question": "Đoạn mã sau đây sẽ cho kết quả nào?\n public class ExceptionExample{\n &nbsp;&nbsp;&nbsp; public static void throw_it (){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"throw_it \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throw new RuntimeException();\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public static void main(String [] args){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"hello \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; throwit();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }catch (Exception re ){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"caught \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; finally{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"finally \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"after \");\n &nbsp;&nbsp;&nbsp; }\n }",
+        "answer": " hello throw_it caught finally after"
+    },
+    "144657": {
+        "question": "Đoạn code sau đây sẽ cho kết quả nào?\n public class MyProgram{\n &nbsp;&nbsp;&nbsp; public static void main(String args[]){\n &nbsp;&nbsp;&nbsp; try{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(\"Hello world \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }finally{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Finally executing \");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "Hello world Finally executing"
+    },
+    "144658": {
+        "question": "Chọn câu trả lời đúng&nbsp;",
+        "answer": "Khối 'try' phải có 'catch' hoặc 'finally'"
+    },
+    "144659": {
+        "question": "Class parent của Error là",
+        "answer": "Throwable"
+    },
+    "144660": {
+        "question": "Ưu điểm của việc xử lý ngoại lệ trong Java là",
+        "answer": "Chương trình không bị dừng đột ngột trong bất kể trường hợp nào."
+    },
+    "144661": {
+        "question": "Ngoại lệ 'ArrayIndexOutOfBound' để xử lý ngoại lệ nào?",
+        "answer": "Ngoại lệ khi chỉ số của phần tử trong mảng vượt quá chỉ số mảng"
+    },
+    "144662": {
+        "question": "Ngoại lệ&nbsp; 'InputMismatchException' xảy ra khi nào?",
+        "answer": "Nhập sai kiểu dữ liệu"
+    },
+    "144663": {
+        "question": "Các ngoại lệ 'uncheck' là những&nbsp; ngoại lệ ?",
+        "answer": "Được checked bởi java virtual machine"
+    },
+    "144664": {
+        "question": "'throws' trong xử lý ngoại lệ là",
+        "answer": "Phải xử lý các ngoại lệ đó"
+    },
+    "144665": {
+        "question": "Có thể có nhiều khối 'try'… 'catch'",
+        "answer": "Có thể sử dụng các khối 'try'… 'catch' tùy ý"
+    },
+    "144666": {
+        "question": "Các ngoại lệ 'check' là những&nbsp; ngoại lệ&nbsp;",
+        "answer": "Được 'checked' bởi Java Compiler"
+    },
+    "144667": {
+        "question": "Tất cả các 'sub' class của class RuntimeException và\n Error là các ngoại lệ:",
+        "answer": "Ngoại lệ 'unchecked'"
+    },
+    "144668": {
+        "question": "Trong Java, các ngoại lệ được chia thành:",
+        "answer": "2 nhóm là 'check' và 'unchecked'"
+    },
+    "144669": {
+        "question": "Class 'Throwable' là class để thực hiện các công việc",
+        "answer": "Xử lý lỗi và ngoại lệ"
+    },
+    "144670": {
+        "question": "Lỗi cú pháp trong một chương trình java là",
+        "answer": "Do dùng sai từ khóa hay cấu trúc lệnh"
+    },
+    "144671": {
+        "question": "Package nào được sử dụng để đọc, ghi dữ liệu trong Java:",
+        "answer": "java.io"
+    },
+    "144672": {
+        "question": "Một luồng character có thể cùng một lúc đọc và ghi?",
+        "answer": "Sai, một luồng chỉ có thể thực hiện 1 công việc: đọc hoặc ghi"
+    },
+    "144673": {
+        "question": "Buffer là gì?",
+        "answer": "Là một phần bộ nhớ được sử dụng trong quá trình đọc hoặc ghi dữ liệu"
+    },
+    "144674": {
+        "question": "Một luồng được sử dụng theo một mục đích thông thường, không dùng dữ liệu character được gọi là",
+        "answer": "Luồng Byte (Byte Stream)"
+    },
+    "144675": {
+        "question": "Tên của class abstract được sử dụng cho việc ghi dữ liệu luồng character là:",
+        "answer": "Writer"
+    },
+    "144676": {
+        "question": "Tên của class abstract được sử dụng cho việc xuất dữ liệu luồng byte là:",
+        "answer": "OuputStream"
+    },
+    "144677": {
+        "question": "Tên của class abstract được sử dụng cho việc nhập dữ liệu luồng byte là:",
+        "answer": "InputStream"
+    },
+    "144678": {
+        "question": "Tên của class abstract được sử dụng cho việc đọc dữ liệu luồng character là:",
+        "answer": "Reader"
+    },
+    "144679": {
+        "question": "Luồng byte được dùng để làm việc với loại dữ liệu nào&nbsp;&nbsp;",
+        "answer": "Dữ liệu kiểu nguyên thủy và kiểu object"
+    },
+    "144680": {
+        "question": "Luồng Character được dùng để làm việc với loại dữ liệu nào",
+        "answer": "Dữ liệu kiểu character"
+    },
+    "144681": {
+        "question": "Đoạn code sau đây sẽ cho kết quả nào?\n public static void main(String ags[]){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String a=\"abc\";\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String b=\"abc\";\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a.equals(b));\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a==b);\n &nbsp;&nbsp;&nbsp; }",
+        "answer": "true true"
+    },
+    "144682": {
+        "question": "Đoạn code sau đây sẽ cho kết quả nào?\n public static void main(String ags[]){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String a=new String(\"abc\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String b=new String(\"abc\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a.equals(b));\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a==b);\n &nbsp;&nbsp;&nbsp; }",
+        "answer": "true false"
+    },
+    "144683": {
+        "question": "Đoạn code sau đây sẽ cho kết quả nào? ?\n &nbsp;&nbsp;&nbsp; public static void main(String ags[]){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String a=\"abc\";\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String b=new String(\"abc\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a.equals(b));\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a==b);\n &nbsp;&nbsp;&nbsp; }",
+        "answer": "true false"
+    },
+    "144684": {
+        "question": "Để truy cập ngẫu nhiên vào một file dữ liệu sử dụng class nào sau đây:",
+        "answer": "RandomAccessFile"
+    },
+    "144685": {
+        "question": "Phát biểu nào sau đây là đúng&nbsp;",
+        "answer": "Có thể ghi thêm dữ liệu vào file đã có dữ liệu"
+    },
+    "144686": {
+        "question": "DataInput là",
+        "answer": "Một interface trong đó định nghĩa các phương thức dùng để đọc dữ liệu nhị phân."
+    },
+    "144687": {
+        "question": "DataOutput là",
+        "answer": "Một interface trong đó định nghĩa các phương thức dùng để xuất dữ liệu nhị phân."
+    },
+    "144688": {
+        "question": "Đoạn code sau đây in ra kết quả thế nào?\n public static void changeNumber(int number) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; number = number + 1;\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public static void main(String ags[]) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int a = 10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"a=\" + a);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; changeNumber(a);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"a=\" + a);\n &nbsp;&nbsp;&nbsp; }",
+        "answer": "10 10"
+    },
+    "144689": {
+        "question": "Xâu nào trong số các xâu sau được sử dụng trong việc tạo đối tượng RandomAccessFile?\n \"r\"\n \"w\"\n \"rw\"\n \"wr\"\n :0\"",
+        "answer": "A &amp; C"
+    },
+    "144690": {
+        "question": "Class abstract nào là class cha của tất cả các class dùng để nhập \n dòng byte?",
+        "answer": "InputStream"
+    },
+    "144691": {
+        "question": "Đoạn code sau đây cho kết quả nào:\n int x=0;\n int y=0;\n while(true){\n &nbsp;&nbsp;&nbsp; if ((++x==10) &amp;&amp; (++y==10))\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return;\n }",
+        "answer": "Thực hiện lặp hơn 10 lần và kết thúc"
+    },
+    "144692": {
+        "question": "Khi ngắt một thead, phương thức nào được gọi",
+        "answer": "Gọi phương thức interrupt() "
+    },
+    "144693": {
+        "question": "Phương thức nào được dùng để bắt đầu một thread?",
+        "answer": "start()"
+    },
+    "144694": {
+        "question": "3 phương thức của class Object là những phương thức nào?\n 1.notify()\n 2.notifyAll()\n 3.isInterrupt()\n 4.synchronized()\n 5.interrupt()\n 6.wait(long millisecond)\n 7.sleep(long millisecond)\n 8.yield()",
+        "answer": "1, 2 và 6"
+    },
+    "144695": {
+        "question": "Đoạn code nào phù hợp với 'Đoạn code cần viết thêm' trong đoạm mã dưới đây: \n class X implements Runnable { \n &nbsp;&nbsp;&nbsp; public static void main(String args[])&nbsp;&nbsp;&nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /* Đoạn code cần viết thêm? */\n &nbsp;&nbsp;&nbsp; } \n &nbsp;&nbsp;&nbsp; public void run() {} \n }",
+        "answer": "X run = new X(); Thread t= new Thread(run); t.start();"
+    },
+    "144696": {
+        "question": "Phương thức nào được dùng để đưa một thread vào trạng thái 'sleeping' ?",
+        "answer": "Phương thức sleep()"
+    },
+    "144697": {
+        "question": "Phương thức nào được dùng để đưa một thread vào trạng thái 'ready' ?",
+        "answer": "Khi khởi tạo một đối tượng thread mới và chưa gọi phương thức start()"
+    },
+    "144698": {
+        "question": "Phương thức nào được dùng để đưa một thread vào trạng thái 'sleeping' tạm thời và sau đó thread đó sẽ được đánh thức bởi phương thức notify()?",
+        "answer": "Phương thức wait()"
+    },
+    "144699": {
+        "question": "Phương thức join() được dùng để",
+        "answer": "Chờ đến khi một thread ngừng hoạt động"
+    },
+    "144700": {
+        "question": "2 phương thức nào trong số các phương thức sau đây là thuộc về class Thread?\n &nbsp;&nbsp;&nbsp; 1. start()\n &nbsp;&nbsp;&nbsp; 2. wait()\n &nbsp;&nbsp;&nbsp; 3. notify()\n &nbsp;&nbsp;&nbsp; 4. run()\n &nbsp;&nbsp;&nbsp; 5. terminate()\n &nbsp;&nbsp;&nbsp; 6. wait()",
+        "answer": "1 và 4"
+    },
+    "144701": {
+        "question": "Những method nào trong số các method sau đây làm cho một thread không còn ở trạng thái 'running'\n 1. yield()\n 2. wait()\n 3. notify()\n 4. notifyAll()\n 5.sleep(100)\n 6.aliveThread.join()\n 7.Thread.killThread()",
+        "answer": "2, 5 và 6"
+    },
+    "144702": {
+        "question": "Phương thức nào trực tiếp dừng một thread đang được thực thi?",
+        "answer": "wait()"
+    },
+    "144703": {
+        "question": "Phương thức nào phải viết lại khi thực thi interface Runnable",
+        "answer": "public void run()"
+    },
+    "144704": {
+        "question": "Phương thức nào được dùng để đăng ký một thread vào 'thread scheduler' ?",
+        "answer": "start()"
+    },
+    "144705": {
+        "question": "Các phương thức wait(), notify() và notifyAll() được định nghĩa trong class hoặc interface nào?",
+        "answer": "Object"
+    },
+    "144706": {
+        "question": "Đoạn code nào dưới đây thích hợp với việc tạo một thread và chạy nó?\n public class MyRunnable implements Runnable {\n &nbsp;&nbsp;&nbsp; public void run() {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // some code here\n &nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "new Thread(new MyRunnable()).start();"
+    },
+    "144707": {
+        "question": "Thứ tự ưu tiên của một thread ở mức độ thông thường là",
+        "answer": "NORM_PRIORITY"
+    },
+    "144708": {
+        "question": "Từ khóa synchronized trong java được dùng để",
+        "answer": "Đồng bộ hóa method và block"
+    },
+    "144709": {
+        "question": "Hiện tượng dead lock xảy ra khi",
+        "answer": "Các thread ở trạng thái 'chờ đợi' lẫn nhau dẫn đến tình trạng 'chờ đợi' mãi mãi"
+    },
+    "144710": {
+        "question": "Thread 'Daemon' là",
+        "answer": "Thread hoạt động ở chế độ 'nền', cung cấp các dịch vụ cho các thread khác"
+    },
+    "144711": {
+        "question": "Chọn câu trả lời đúng: Đoạn code sau đây có lỗi không?\n 1.public class Test{\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public void display(){\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enum Test{ RED, GREEN, BLUE}\n 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n 5.&nbsp;&nbsp; }\n 6. }",
+        "answer": "Có lỗi ở dòng 3"
+    },
+    "144712": {
+        "question": "Đoạn code sau đây có hợp lệ?\n 1. public class enumTest{\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public enumTest{\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RED, GREEN,BLUE\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "Không có lỗi"
+    },
+    "144713": {
+        "question": "Đoạn code sau đây có hợp lệ?\n protected enum Test{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RED, GREEN, BLUE\n }",
+        "answer": "Có lỗi khi dịch"
+    },
+    "144714": {
+        "question": "Đoạn code sau đây có hợp lệ?\n 1. public class Test{\n 2.&nbsp;&nbsp;&nbsp; protected enum Test{\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RED, GREEN, BLUE\n &nbsp;&nbsp; }\n }",
+        "answer": "Không có lỗi"
+    },
+    "144715": {
+        "question": "Chọn câu trả lời đúng\n Các hằng số trong enum phải được viết:",
+        "answer": "Tất cả là chữ hoa"
+    },
+    "144716": {
+        "question": "Trong java, enumeration là tập hợp của",
+        "answer": "Các hằng số"
+    },
+    "144717": {
+        "question": "Chúng ta có thể khai báo một thuộc tính là private bên trong khối enum?",
+        "answer": "Không"
+    },
+    "144718": {
+        "question": "Trong java, enum có thể được kế thừa từ một enum khác?",
+        "answer": "Không"
+    },
+    "144719": {
+        "question": "Trong java, enum có thể thực thi một interface?",
+        "answer": "Có"
+    },
+    "144720": {
+        "question": "Hàm tính căn bậc 2 của một số thực là hàm?",
+        "answer": "Math.sqrt()"
+    },
+    "144721": {
+        "question": "Hàm tính số mũ của một số là hàm nào?",
+        "answer": "Math.pow()"
+    }
+}

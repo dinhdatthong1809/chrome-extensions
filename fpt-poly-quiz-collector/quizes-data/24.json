@@ -1,0 +1,374 @@
+{
+    "120097": {
+        "question": "Cho 2 bảng NHAN_VIEN(maNV, hoTen, email, maPB) và PHONG_BAN(maPB, tenPhong). Câu lệnh truy vấn nào sau đây hiển thị thông tin đầy đủ của các nhân viên và tên phòng ban mà họ đang trực thuộc. Nếu nhân viên nào chưa được phân bổ vào phòng nào, thì cột tên phòng chứa giá trị NULL",
+        "answer": "Select maNV, hoTen, email from NHAN_VIENLEFT JOINPHONG_BANONNHAN_VIEN.maPB=PHONG_BAN.maPB"
+    },
+    "120098": {
+        "question": "Cho 2 bảng NHAN_VIEN(maNV, hoTen, email, maPB) và PHONG_BAN(maPB, tenPhong). Câu lệnh truy vấn nào hiển thị thông tin mã phòng ban, tên phòng ban và tên nhân viên thuộc phòng tương ứng. Nếu phòng nào chưa có nhân viên trực thuộc thì cột tên nhân viên chứa giá trị NULL",
+        "answer": "Select hoTen,maPB, tenPhongfrom NHAN_VIENRIGHT JOINPHONG_BANONNHAN_VIEN.maPB=PHONG_BAN.maPB"
+    },
+    "120260": {
+        "question": "Phương pháp nào cho phép truy vấn dữ liệu từ 2 bảng?",
+        "answer": "Tất cả đều đúng"
+    },
+    "120261": {
+        "question": "Ý nghĩa của câu lệnh \"X&gt; ANY (1,2)\n \" trong câu truy vấn?",
+        "answer": "X phải lớn hơn ít nhất 1 giá trị trả về từ câu truy vấn con"
+    },
+    "120262": {
+        "question": "Cho bảng NHAN_VIEN(maNV, hoTen, email, maPB, luong). Câu lệnh truy vấn nào hiển thị thông tin các nhân viên có lương lớn hơn mức lương trung bình toàn công ty?",
+        "answer": "\"SELECT *FROM NHAN_VIENWHERE LUONG &gt; (SELECT AVG(LUONG) FROM NHAN_VIEN)\""
+    },
+    "120263": {
+        "question": "Phát biểu nào&nbsp; sau đây đúng khi nói về việc dùng bí danh cho tên bảng?",
+        "answer": "Để đơn giản hóa các câu truy vấn khi cần sử dụng tên bảng cho việc truy xuất các cột"
+    },
+    "120264": {
+        "question": "Có bao nhiêu bảng có thể tham gia vào liên kết JOIN?",
+        "answer": "Tất cả đều đúng"
+    },
+    "120399": {
+        "question": "Câu lệnh nào sau đây cập nhật lại cột Book_Price&nbsp; trong bảng BookDetails tăng 10%",
+        "answer": "UPDATE BookDetails SET Book_Price=Book_Price+Book_Price*10/100"
+    },
+    "120427": {
+        "question": "Câu lệnh nào dùng để cập nhật dữ liệu cho các hàng đã có trong bảng?",
+        "answer": "UPDATE"
+    },
+    "120428": {
+        "question": "Câu lệnh nào dùng để xoá các hàng dữ liệu đã có trong bảng?",
+        "answer": "DELETE"
+    },
+    "120429": {
+        "question": "Câu lệnh nào dùng để thêm các hàng dữ liệu vào&nbsp; bảng?",
+        "answer": "INSERT INTO"
+    },
+    "120430": {
+        "question": "Câu lệnh nào dùng để thêm các hàng dữ liệu vào&nbsp; bảng có tên là Persons, bảng này có 2 cột kiểu chuỗi",
+        "answer": "INSERT INTO Persons VALUES ('Jimmy', 'Jackson')"
+    },
+    "120431": {
+        "question": "Câu lệnh dùng để thay đổi giá trị của cột LastName trong bảng Person từ 'Hansen' sang 'Nilsen'",
+        "answer": "UPDATE Persons SET LastName='Nilsen' WHERE LastName='Hansen'"
+    },
+    "120593": {
+        "question": "Câu lệnh dùng để xoá các hàng trong bảng Persons mà có cột FirstName là 'Peter'",
+        "answer": "DELETE FROM Persons WHERE FirstName = 'Peter'"
+    },
+    "120594": {
+        "question": "Câu lệnh nào dùng để thêm một hàng vào bảng có tên \"Project\"?",
+        "answer": "INSERT INTO Projects (ProjectName, ProjectDescription) VALUES ('Content Development', 'Website content development project')"
+    },
+    "120595": {
+        "question": "Ngôn ngữ thao tác dữ liệu gồm các câu lệnh :",
+        "answer": "INSERT, UPDATE, DELETE"
+    },
+    "120596": {
+        "question": "Câu lệnh nào dùng để xoá tất cả dữ liệu của bảng NHAN_VIEN?",
+        "answer": "DELETE FROM NHAN_VIEN"
+    },
+    "120597": {
+        "question": "Câu lệnh cập nhật nào sau đây là đúng?",
+        "answer": "UPDATE Customers SET CustmerName='Aled' Where empNo=10;"
+    },
+    "120598": {
+        "question": "Khi thực hiện câu lệnh:&nbsp; UPDATE Customers SET CustmerName='Rocky' ;&nbsp; điều gì xảy ra?",
+        "answer": "Tất cả giá trị của cột CustmerName đều đổi sang 'Rocky'"
+    },
+    "120599": {
+        "question": "Cho 2 bảng NHAN_VIEN(maNV, hoTen, luong, maPB) và PHONG_BAN(maPB, tenPhong). Câu lệnh truy vấn nào sau đây cập nhật lại lương cho các nhân viên tăng lên 10% nếu nhân viên thuộc phòng ban có tên&nbsp; ‘Thiết kế’&nbsp;",
+        "answer": "\"UPDATE NHAN_VIENSET LUONG = LUONG+ LUONG*0.1 WHERE PHG = (SELECT MA_PB FROM PHONG_BANWHERE TEN_PB LIKE ‘Thiet ke’) \""
+    },
+    "120707": {
+        "question": "Nên tạo chỉ mục khi nào?",
+        "answer": "Bảng mà thường xuyên có các hoạt động update, insert"
+    },
+    "120708": {
+        "question": "Phát biểu nào sau đây đúng khi nói về chỉ mục Index?",
+        "answer": "\"Index giúp đẩy nhanh đẩy nhanh tốc độ truy vấn đối với các bảng có lượng dữ liệu lớn \""
+    },
+    "120709": {
+        "question": "Phát biểu nào sau đây sai khi nói về chỉ mục Index?",
+        "answer": "Index giúp CSDL được bảo mật hơn"
+    },
+    "120710": {
+        "question": "Đáp án nào sau đây không thuộc loại của Index?",
+        "answer": "SQL Index"
+    },
+    "120711": {
+        "question": "Để tạo chỉ mục có tên index_1 trên bảng SAN_PHAM, dùng cột MA_SP, câu lệnh nào sau đây là đúng?",
+        "answer": "CREATE INDEX index_1 ON SAN_PHAM(ma_sp)"
+    },
+    "120712": {
+        "question": "UNIQUE INDEX là ______________________?",
+        "answer": "Unique Index không cho phép chứa các giá trị trùng lặp"
+    },
+    "120713": {
+        "question": "Implicit Index (Index ngầm định) là gì?",
+        "answer": "Được tạo tự động cho các ràng buộc Primary key và các ràng buộc Unique "
+    },
+    "120714": {
+        "question": "Để xoá chỉ mục có tên index_1 trên bảng SAN_PHAM, câu lệnh nào sau đây là đúng?",
+        "answer": "DROP INDEX index_1 ON SAN_PHAM"
+    },
+    "120715": {
+        "question": "Phát biểu nào sau đâu là sai khi nói về bảo mật CSDL?",
+        "answer": "Cho phép người dùng bất kì truy cập "
+    },
+    "120716": {
+        "question": "Microsoft Access dùng phương pháp nào để phân quyền ngừoi dùng?",
+        "answer": "Cho phép đặt Password ở chế độ mở file và modify file"
+    },
+    "120717": {
+        "question": "Phát biểu nào sau đây sai khi nói về sao lưu dữ phòng dữ liệu?",
+        "answer": "\"Không cần thiết phải sao lưu dữ liệu thường xuyên \""
+    },
+    "120718": {
+        "question": "Import cơ sở dữ liệu là gì?",
+        "answer": "Là quá trình đưa một tập các câu lệnh SQL, hoặc các định dạng file khác từ bên ngoài vào trong một hệ quản trị csdl"
+    },
+    "120719": {
+        "question": "Export cơ sở dữ liệu là gì?",
+        "answer": "Là quá trình xuất một csdl trong một hệ quản trị csdl ra dạng các câu lệnh T-SQL, hoặc các dạng file khác"
+    },
+    "120720": {
+        "question": "\"An toàn\" dữ liệu nghĩa là cơ sở dữ liệu cần phải _________________?",
+        "answer": "Bảo vệ chống truy nhập trái phép "
+    },
+    "120721": {
+        "question": "Người sử dụng có thể truy nhập _______________________",
+        "answer": "Phụ thuộc vào quyền truy nhập"
+    },
+    "121040": {
+        "question": "Ngôn ngữ lập trình Java có đặc điểm:",
+        "answer": "Tất cả các đáp án trên điều đúng"
+    },
+    "121042": {
+        "question": "Ngôn ngữ lập trình Java chính thức có tên gọi vào năm:",
+        "answer": "1995"
+    },
+    "121202": {
+        "question": "Chương trình viết bằng ngôn ngữ Java có thể chạy trên hệ điều hành:",
+        "answer": "Tất cả mọi hệ điều hành"
+    },
+    "121203": {
+        "question": "Chương trình Java bắt đầu chạy từ phương thức:",
+        "answer": "main()"
+    },
+    "121204": {
+        "question": "Khi chạy đoạn chương trình dưới đây, trên màn hình xuất hiện những gì?\n \n public class MyClass{\n &nbsp;public static void main(String[] args){\n &nbsp; System.out.print(“A”);\n &nbsp;}\n &nbsp;public static void main(){\n &nbsp; System.out.print(“B”);\n &nbsp;}\n &nbsp;public static void start(String[] args){\n &nbsp; System.out.print(“C”);\n &nbsp;}\n }",
+        "answer": "A"
+    },
+    "121205": {
+        "question": "Công cụ trong JDK cho phép dịch file mã nguồn java ra mã bytecode là:",
+        "answer": "JavaC"
+    },
+    "121358": {
+        "question": "Trong hệ điều hành Windows, để dịch và chạy ứng dụng Java bạn cần thực hiện:",
+        "answer": "Tất cả các đáp trên điều đúng"
+    },
+    "121359": {
+        "question": "Công cụ lập trình không hỗ trợ phát triển, dịch và chạy chương trình Java là:",
+        "answer": "Visual Studio"
+    },
+    "121360": {
+        "question": "Khi gán biến a = 3.0, ta cần khai báo kiểu dữ liệu cho a là:&nbsp;",
+        "answer": "double"
+    },
+    "121361": {
+        "question": "Biến có kiểu dữ liệu có giá trị \"True\" hay \"False\" là:",
+        "answer": "boolean"
+    },
+    "121433": {
+        "question": "Tên biến hợp lệ được sử dụng trong java là:",
+        "answer": "$int"
+    },
+    "121515": {
+        "question": "Trong java, tên biến nào sau đây <span class=\"font8\">không</span><span class=\"font5\"> hợp lệ?</span>",
+        "answer": "for"
+    },
+    "121516": {
+        "question": "Cho đoạn mã sau, cho biết giá trị của biến c?\nint a = 5;\nint b = 7;\nint c = a + (b + 3) * 2;",
+        "answer": "25"
+    },
+    "121517": {
+        "question": "Cho đoạn mã sau, cho biết giá trị của biến c?\nint a = 5;\nint b = 7;\nint c = (a+1) + (1+b);",
+        "answer": "14"
+    },
+    "121670": {
+        "question": "Hàm xuất dữ liệu ra màn hình theo các ký tự định dạng là:",
+        "answer": "System.out.printf()"
+    },
+    "121671": {
+        "question": "Phương thức nào của lớp java.util.Scanner được sử dụng để đọc một chuỗi từ bàn phím?",
+        "answer": "Scanner.nextLine()"
+    },
+    "121824": {
+        "question": "Cú pháp đúng của phương thức main() là gì?",
+        "answer": "public static void main(String[] args)"
+    },
+    "121825": {
+        "question": "Chọn mã khai báo biến sai",
+        "answer": "int a; b=5;"
+    },
+    "121826": {
+        "question": "Đâu không phải từ khóa trong java",
+        "answer": "package"
+    },
+    "121827": {
+        "question": "Phương thức scanner.nextLine() cho kết quả kiểu gì?",
+        "answer": "string"
+    },
+    "121828": {
+        "question": "Kiểu dữ liệu nào sau đây <span class=\"font8\">không</span><span class=\"font5\"> phải là kiểu nguyên thủy?</span>",
+        "answer": "String"
+    },
+    "121829": {
+        "question": "Kiểu dùng để lưu dữ liệu có kiểu số nguyên có kích thước 8 byte là:",
+        "answer": "long"
+    },
+    "121830": {
+        "question": "Phép gán giá trị phát sinh lỗi khi biên dịch là:",
+        "answer": "float d = 10.5D"
+    },
+    "121831": {
+        "question": "Dòng mã lệnh nào sau sẽ phát sinh lỗi khi biên dịch:\n int a = 5;\n double b = 9.4;\n b = a;\n a = b;",
+        "answer": "a = b"
+    },
+    "121832": {
+        "question": "Chọn dòng mã lệnh đúng",
+        "answer": "int a = Integer.parseInt(\"5\")"
+    },
+    "121833": {
+        "question": "Cho biết giá trị của biến a sau khi thực hiện đoạn mã sau:\n int a = 8;\n a -= 3;\n a %= 4;",
+        "answer": "1"
+    },
+    "121834": {
+        "question": "Dòng mã lệnh cho kết quả \"True\" là:",
+        "answer": "2 &gt; 1 || false"
+    },
+    "121835": {
+        "question": "Dòng mã lệnh phát sinh lỗi khi dịch là:",
+        "answer": "String c = a * 2"
+    },
+    "121836": {
+        "question": "Cho biết giá trị của biến x sau khi thực hiện đoạn mã sau:\n int a = 1, b = 9;\n int x = a &gt; b ? a + 2 : b;",
+        "answer": "9"
+    },
+    "121837": {
+        "question": "Kiểu dữ liệu nào chỉ tốn 1 bit để lưu trữ",
+        "answer": "boolean"
+    },
+    "121838": {
+        "question": "Kiểu dữ liệu nào là số nguyên",
+        "answer": "long"
+    },
+    "121839": {
+        "question": "Chọn dòng mã lệnh đúng",
+        "answer": "int a = in.nextInt()"
+    },
+    "121840": {
+        "question": "Chọn dòng mã lệnh sai",
+        "answer": "long a = (int)in.nextString()"
+    },
+    "121841": {
+        "question": "Giá trị của biểu thức \"3 &gt; 7 &amp;&amp; 2 + 4 == 6\"&nbsp;là gì?",
+        "answer": "false"
+    },
+    "121842": {
+        "question": "Đâu là toán tử số học",
+        "answer": "+"
+    },
+    "121843": {
+        "question": "Đâu là toán tử logic",
+        "answer": "AND"
+    },
+    "121844": {
+        "question": "Cho biết đoạn mã sau xuất ra màn hình những gì sau khi thực hiện:\n public static void main(String[] args){\n System.out.print(\"A\");\n method2();\n }\n public static void method1(){\n System.out.print(\"B\");\n }\n public static void method2(){\n System.out.print(\"C\");\n }",
+        "answer": "AC"
+    },
+    "121845": {
+        "question": "Giá trị của biểu thức \"++4 - 2++\" là gì?",
+        "answer": "3"
+    },
+    "121846": {
+        "question": "Biểu thức nào cho giá trị true",
+        "answer": "5 + 3 * 2 == 11"
+    },
+    "121847": {
+        "question": "Giá trị của biểu thức \"3&gt;4?5:6\" là bao nhiêu?",
+        "answer": "6"
+    },
+    "123607": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã sau đây:\n double x = 45;\n if x &gt;= 50) {\n System.out.println(\"AN\");\n }\n System.out.println(\"BÌNH\");",
+        "answer": "BÌNH"
+    },
+    "123875": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã sau đây:\n double x = 4;\n if (x &lt; 5) {\n System.out.println(\"A\");\n }\n else {\n System.out.println(\"B\");\n }",
+        "answer": "A"
+    },
+    "123876": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã sau đây:\n double x = 16 – 2;\n if(x &lt; 16) {\n System.out.println(\"A\");\n }\n else if(x &lt; 15) {\n System.out.println(\"B\");\n }\n else {\n System.out.println(\"C\");\n }",
+        "answer": "A"
+    },
+    "124036": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã sau đây:\n double x = 16 – 2;\n if(x &lt; 16) {\n System.out.println(\"A\");\n }\n if(x &lt; 15) {\n System.out.println(\"B\");\n }\n else {\n System.out.println(\"C\");\n }",
+        "answer": "AB"
+    },
+    "124161": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã lệnh sau:\n int a = 5 &gt; 7 ? 2 : 1;\n switch(a){\n case 1:\n System.out.print(\"A\");\n case 2:\n System.out.print(\"B\");\n break;\n default:\n System.out.print(\"C\");\n break;\n }",
+        "answer": "AB"
+    },
+    "124162": {
+        "question": "Cho biết kết quả xuất ra màn hình sau khi thực hiện đoạn mã lệnh sau:\n int a = 2 &lt; 3 ? 2:3;\n switch(a){\n case 1:\n System.out.print(\"A\");\n break;\n case 2:\n System.out.print(\"B\");\n default:\n System.out.print(\"C\");",
+        "answer": "BC"
+    },
+    "124163": {
+        "question": "Cho biết đoạn mã sau có thể phát sinh lỗi khi dịch ở dòng thứ mấy:\n (1)public void method(int x){\n (2) int y = 5;\n (3) if(x &gt; y){\n (4) int z = x + y;\n (5) }\n (6) System.out.print(z);\n (7)}",
+        "answer": "6"
+    },
+    "124164": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int so = 6;\n if (so % 2 == 0) {\n &nbsp;&nbsp; System.out.println(“A”);\n }\n if (so % 3 == 0){\n &nbsp;&nbsp; System.out.println(“B”);\n }",
+        "answer": "AB"
+    },
+    "124165": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n double diem = 4;\n if (diem &lt; 5) {\n &nbsp;&nbsp; System.out.println(“A”);\n }\n else {\n &nbsp;&nbsp; System.out.println(“B”);\n }",
+        "answer": "A"
+    },
+    "124166": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int year = 2018;\n if (year % 4 == 0 &amp;&amp; year % 100 != 0) {\n &nbsp;&nbsp; System.out.println(“X”);\n }\n else {\n &nbsp;&nbsp; System.out.println(“Y”);\n }",
+        "answer": "Y"
+    },
+    "124167": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n double delta = 5 * 5 – 4 * 1 * 2;\n if(delta &lt; 0) {\n &nbsp;&nbsp; System.out.println(“X”);\n }\n else if(delta == 0) {\n &nbsp;&nbsp; System.out.println(“Y”);\n }\n else {\n &nbsp;&nbsp; System.out.println(“Z”);\n }",
+        "answer": "Z"
+    },
+    "124168": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int so = 6;\n if (so % 2 == 0) {\n &nbsp;&nbsp; System.out.println(“X”);\n }\n else if (so % 3 == 0) {\n &nbsp;&nbsp; System.out.println(“Y”);\n }\n else {\n &nbsp;&nbsp; System.out.println(“Z”);\n }",
+        "answer": "X"
+    },
+    "124169": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int a=0, b=1;\n if(a == 0){\n &nbsp;&nbsp; if(b==0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“A”);\n &nbsp;&nbsp; }\n &nbsp;&nbsp; else{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“B”);\n &nbsp;&nbsp; }\n }\n else{\n &nbsp;&nbsp; System.out.println(“C”);\n }",
+        "answer": "B"
+    },
+    "124189": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int op = 1;\n switch(op){\n &nbsp;&nbsp; case 1:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“A”);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n &nbsp;&nbsp; case 2:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“B”);\n &nbsp;&nbsp; default:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“C”);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n }",
+        "answer": "A"
+    },
+    "124190": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int op = 2;\n switch(op){\n &nbsp;&nbsp; case 1:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“A”);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n &nbsp;&nbsp; case 2:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“B”);\n &nbsp;&nbsp; default:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“C”);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n }",
+        "answer": "BC"
+    },
+    "124210": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n &nbsp;public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; begin();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"A\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; end();\n &nbsp;}\n &nbsp;static void begin() {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"B\");\n &nbsp;}\n &nbsp;static void end() {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"C\");\n &nbsp;}",
+        "answer": "BAC"
+    },
+    "124211": {
+        "question": "Đoạn mã sau cho xuất ra màn mình những gì\n int op = 1\n switch(op){\n &nbsp;&nbsp; case 1:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“A”);\n &nbsp;&nbsp; case 2:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“B”);\n &nbsp;&nbsp; default:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(“C”);\n }",
+        "answer": "ABC"
+    },
+    "124232": {
+        "question": "Chọn lệnh có cú pháp sai",
+        "answer": "if(điều kiện 1){…} …else(điều kiện i){…}…else{…}"
+    }
+}

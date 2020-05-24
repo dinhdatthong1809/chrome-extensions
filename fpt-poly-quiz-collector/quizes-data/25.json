@@ -1,0 +1,658 @@
+{
+    "128172": {
+        "question": "Lệnh nào <span class=\"font8\">không</span><span class=\"font5\"> phải là lệnh lặp là:</span>",
+        "answer": "switch"
+    },
+    "128173": {
+        "question": "Phát biểu nào sau đây là <span class=\"font8\">sai </span><span class=\"font5\">về lệnh while(đk){công việc}?</span>",
+        "answer": "Công việc được thực hiện trong khi điều kiện sai"
+    },
+    "128174": {
+        "question": "Chọn phát biểu đúng về các lệnh lặp:",
+        "answer": "do..while(đk) được thực hiện ít nhất một lần"
+    },
+    "128175": {
+        "question": "for(:) được thực hiện ít nhất một lần",
+        "answer": "Continue được sử dụng để thực hiện lần lặp tiếp theo ngay lặp tức"
+    },
+    "128176": {
+        "question": "Đoạn mã sau đây xuất ra màn hình bao nhiêu chữ Fpoly?\n int i = 1;\n while (i &lt; 5) {\n &nbsp;&nbsp; System.out.println(\"FPoly\");\n &nbsp;&nbsp; i++;\n }",
+        "answer": "4"
+    },
+    "128177": {
+        "question": "Đoạn mã sau đây xuất ra màn hình bao nhiêu chữ Fpoly?\n int i = 5;\n while (i &lt; 5) {\n &nbsp;&nbsp; System.out.println(\"FPoly\");\n &nbsp;&nbsp; i++;\n }&nbsp;",
+        "answer": "0"
+    },
+    "128178": {
+        "question": "Đoạn mã sau sẽ xuất ra màn hình bao nhiêu chữ Fpoly?\n int so = 5;\n do {\n &nbsp;&nbsp; System.out.print(\"FPoly\");\n }\n while (so &lt; 5);",
+        "answer": "1"
+    },
+    "128179": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Fpoly?\n for(int i=7; i&lt;10; i+=2){\n &nbsp;&nbsp; System.out.print(\"FPoly\");\n }",
+        "answer": "2"
+    },
+    "128180": {
+        "question": "Đoạn mã sau xuất ra màn hình những gì?\n int tong = 1, i = 5;\n while(i &lt; 7){\n &nbsp;&nbsp; tong += i;\n &nbsp;&nbsp; i++;\n }\n System.out.println(tong);",
+        "answer": "12"
+    },
+    "128181": {
+        "question": "Đoạn mã sau xuất ra màn hình những gì?\n int tong = 1, i = 5;\n while(i &lt; 7){\n &nbsp;&nbsp; if(i % 3 == 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tong += i;\n &nbsp;&nbsp; }\n &nbsp;&nbsp; i++;\n }\n System.out.println(tong);",
+        "answer": "7"
+    },
+    "128182": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n &nbsp; while(3 &lt; 5){\n &nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp; break;\n &nbsp; }",
+        "answer": "1"
+    },
+    "128183": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n &nbsp; for(int i=0;i&lt;4;i++){\n &nbsp;&nbsp;&nbsp;&nbsp; while(3 &lt; 5){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n &nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp; }",
+        "answer": "4"
+    },
+    "128184": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n &nbsp; A: for(int i=0;i&lt;4;i++){\n &nbsp;&nbsp;&nbsp;&nbsp; while(3 &lt; 5){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break A;\n &nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp; }",
+        "answer": "1"
+    },
+    "128185": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n &nbsp; int i = 1;\n &nbsp; while(i &lt; 5){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(i % 3 != 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i++;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; continue;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i++;\n &nbsp; }",
+        "answer": "1"
+    },
+    "128186": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n A:while(true){\n &nbsp; while(true){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break A;\n &nbsp; }\n }",
+        "answer": "1"
+    },
+    "128187": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n for(int i=1;i &lt;= 5;i++){\n &nbsp;&nbsp; System.out.println(\"Hello\");\n }",
+        "answer": "5"
+    },
+    "128188": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n int i=2;\n for(;i &lt;= 5;i++){\n &nbsp;&nbsp; System.out.println(\"Hello\");\n }",
+        "answer": "4"
+    },
+    "128189": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n for(int i=3;i &lt;= 5;){\n &nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp; i++;\n }",
+        "answer": "3"
+    },
+    "128190": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n int i=5;\n for(;i &lt;= 5;){\n &nbsp;&nbsp; System.out.println(\"Hello\");\n &nbsp;&nbsp; i++;\n }",
+        "answer": "1"
+    },
+    "128191": {
+        "question": "Đoạn mã sau xuất ra màn hình bao nhiêu chữ Hello?\n for(int i=1;i &lt;= 5;i++){\n &nbsp;&nbsp; if(i==1) break;\n &nbsp;&nbsp; System.out.println(\"Hello\");\n }",
+        "answer": "0"
+    },
+    "128192": {
+        "question": "Đoạn mã sau xuất ra kết quả trên màn hình là gì?\n int[] x = {5,6,7};\n for(int a : x){\n &nbsp;&nbsp; System.out.print(a)\n }",
+        "answer": "567"
+    },
+    "128193": {
+        "question": "Đoạn mã sau xuất ra kết quả trên màn hình là gì?\n for(int i=0;i&lt;7;i++){\n &nbsp;&nbsp; if(i % 2 == 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(i);\n &nbsp;&nbsp; }\n }",
+        "answer": "0246"
+    },
+    "128194": {
+        "question": "Đoạn mã sau xuất ra kết quả trên màn hình là gì?\n int[] x = {5, 6, 7, 8};\n for(int a : x){\n &nbsp;&nbsp; if(a % 2 == 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; break;\n &nbsp;&nbsp; }\n &nbsp;&nbsp; System.out.print(a);\n }",
+        "answer": "5"
+    },
+    "128195": {
+        "question": "Đoạn mã sau xuất ra kết quả trên màn hình là gì?\n int[] x = {5, 6, 7, 8};\n for(int i=0;i&lt;x.length;i++){\n &nbsp;&nbsp; if(x[i] % 2 == 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; continue;\n &nbsp;&nbsp; }\n &nbsp;&nbsp; System.out.print(i);\n }",
+        "answer": "02"
+    },
+    "128196": {
+        "question": "Cho mảng int[] a = {4,7,2,6}. Biểu thức nào có giá trị <span class=\"font8\">không</span><span class=\"font5\"> phải là 4?</span>",
+        "answer": "a[1]"
+    },
+    "128197": {
+        "question": "Khai báo mảng nào sau đây là <span class=\"font8\">không</span><span class=\"font5\"> đúng?</span>",
+        "answer": "int a[4] = new int[4]"
+    },
+    "128198": {
+        "question": "Sau khi đoạn mã sau được thực hiện thì giá trị các phần tử của mảng a là:\n int a[] = {4, 3, 5};\n a[2] = a[1] * 4;\n a[1] *= a.length;",
+        "answer": "{4 9, 12}"
+    },
+    "128199": {
+        "question": "Cho biết giá trị của các biến a và b sau khi thực hiện đoạn mã sau?\n int[] x = {3,5,6,9};\n int a = 0, b = 0;\n for(int y : x){\n &nbsp;&nbsp; if(y % 2 != 0){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a+=y;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b++;\n &nbsp;&nbsp; }\n }",
+        "answer": "a=17, b=3"
+    },
+    "128200": {
+        "question": "Chọn phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng về các phương thức của lớp Arrays</span>",
+        "answer": "Arrays.binarySearch(a, x) tìm kiếm x trong mảng a bất kỳ"
+    },
+    "128201": {
+        "question": "Cho biết phần tử cuối cùng của mảng a là gì sau khi thực hiện đoạn mã sau?\n String[] a = {\"Tuấn\", \"Huyền\", \"Phương\", \"Cường\"};\n Arrays.sort(a);",
+        "answer": "Tuấn"
+    },
+    "128202": {
+        "question": "Sau khi thực hiện đoạn mã sau thì mảng a sẽ có giá trị là:\n int[] a = {1,9,3,2};\n for(int i=0;i&lt;a.length-1;i++){\n &nbsp;&nbsp; for(int j=i+1;j&lt;a.length;j++){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(a[i]<span class=\"font8\"> &gt;</span><span class=\"font5\"> a[j]){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int x = a[i];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a[i] = a[j];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a[j] = x;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp; }\n }</span>",
+        "answer": "{1,2,3,9}"
+    },
+    "128203": {
+        "question": "Sau khi thực hiện đoạn mã sau thì mảng a sẽ có giá trị là:\n int[] a = {1,9,3,2};\n for(int i=0;i&lt;a.length-1;i++){\n &nbsp;&nbsp; for(int j=i+1;j&lt;a.length;j++){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(a[i] &lt; a[j]){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int x = a[i];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a[i] = a[j];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a[j] = x;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp; }\n }",
+        "answer": "{9,3,2,1}"
+    },
+    "128204": {
+        "question": "Khai báo mảng nào sau đây là không đúng?",
+        "answer": "int [a];"
+    },
+    "128205": {
+        "question": "Khai báo mảng nào sau đây là không đúng?",
+        "answer": "int[] a = new int[];"
+    },
+    "128206": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int[] a = {10,20,30};\n System.out.printf(\"%d, %d\", a[1], a.length);",
+        "answer": "20, 3"
+    },
+    "128207": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int[] a = {10, 11, 12};\n for(int i=1; i&lt;a.length; i++){\n &nbsp;&nbsp;&nbsp;&nbsp; System.out.print(a[i]);\n }",
+        "answer": "1112"
+    },
+    "128208": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int x = -1, a[] = {1,2,3,4};\n for(int i=0;i&lt;a.length;i++){\n &nbsp;&nbsp; if(a[i] &lt; x){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; x = a[i];\n &nbsp;&nbsp; }\n }\n System.out.println(x);",
+        "answer": "-1"
+    },
+    "128209": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int x = -1, a[] = {1,2,3,4};\n for(int i=0;i&lt;a.length;i++){\n &nbsp;&nbsp; if(a[i] &gt; x){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; x = a[i];\n &nbsp;&nbsp; }\n }\n System.out.println(x);",
+        "answer": "4"
+    },
+    "128210": {
+        "question": "Mảng b có kết quả là gì sau khi đoạn mã sau đây được thực hiện\n int[] a = {1,2,3,4,5,6,7,8,9}, b = new int[3];\n System.arraycopy(a, 2, b, 0, 3);",
+        "answer": "{3,4,5}"
+    },
+    "128211": {
+        "question": "Phương thức nào thực hiện tìm kiếm một phần tử trong mảng đã được sắp xếp",
+        "answer": "Arrays.binarySearch()"
+    },
+    "128212": {
+        "question": "Khai báo mảng nào sau đây là không đúng?",
+        "answer": "int[2][3]a;"
+    },
+    "128213": {
+        "question": "Khai báo mảng nào sau đây là không đúng?",
+        "answer": "int[][] a = new int[][3];"
+    },
+    "128214": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int[][] a = {{5,6,7}, {8,9}};\n System.out.printf(\"%d, %d\", a.length, a[1].length);",
+        "answer": "3,2"
+    },
+    "128215": {
+        "question": "Đoạn mã sau xuất ra những gì?\n int[][] a = {{2, 3, 4}, {5,6,7}};\n for(int i=0;i&lt;a.length;i++){\n &nbsp;&nbsp; for(int j=0;j&lt;a[i].length;j++){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(i==j){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.print(a[i][j]);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp; }\n }",
+        "answer": "26"
+    },
+    "128216": {
+        "question": "Phương thức tính nào sau đây cho kết quả <span class=\"font8\">không</span><span class=\"font5\"> phải là 4?</span>",
+        "answer": "Math.random()"
+    },
+    "128217": {
+        "question": "Phương thức nào khi chạy phát sinh ra lỗi?",
+        "answer": "Math.sqrt(-2)"
+    },
+    "128218": {
+        "question": "Biến a trong đoạn mã sau đây có giá trị là bao nhiêu?\n int a = (int)Math.round(12 * Math.random()) + 5;",
+        "answer": "Từ 5 đến 17"
+    },
+    "128219": {
+        "question": "Chọn khai báo hàm đúng",
+        "answer": "public static void f() {}"
+    },
+    "128220": {
+        "question": "Chọn khai báo hàm sai",
+        "answer": "public void static f() {}"
+    },
+    "128221": {
+        "question": "Chọn phát biểu không đúng về hàm",
+        "answer": "Hàm bắt buộc phải trả về một giá trị"
+    },
+    "128222": {
+        "question": "Chọn phát biểu đúng về hàm",
+        "answer": "Hàm có thể có hoặc không có tham số"
+    },
+    "128223": {
+        "question": "Chọn phát biểu không đúng về hàm",
+        "answer": "Hàm có thể trả về nhiều hơn một giá trị"
+    },
+    "128224": {
+        "question": "Hàm nào không trả về giá trị",
+        "answer": "Arrays.sort()"
+    },
+    "128225": {
+        "question": "Phát biểu nào không nói về lợi ích của hàm",
+        "answer": "Dễ gây lỗi"
+    },
+    "128226": {
+        "question": "Phát biểu nào liên quan đến nạp chồng hàm",
+        "answer": "Khác nhau về tên tham số"
+    },
+    "128227": {
+        "question": "Giả sử có khai báo lớp sau\n public class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; static void method(){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void method(int x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void method(float x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void method(int x, double y){…}\n }\n Với lời gọi hàm là MyClass.method(5) thì hàm nào sẽ được thực hiện",
+        "answer": "static void method(int x){…}"
+    },
+    "128228": {
+        "question": "Giả sử có khai báo lớp sau\n public class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; static void ham(int a){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void ham(float a){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void ham(int c){…}\n &nbsp;&nbsp;&nbsp;&nbsp; static void ham(double d){…}\n }\n Khai báo hàm trên lỗi ở đâu",
+        "answer": "static void ham(int c){…} do cùng kiểu tham số với hàm thứ nhất"
+    },
+    "128229": {
+        "question": "Java qui định kiểu tham số nào là tham trị",
+        "answer": "Nguyên thủy"
+    },
+    "128230": {
+        "question": "Khi chạy chương trình có đoạn mã sau sẽ xuất kết quả là bao nhiêu\n &nbsp;public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp; int a = 100;\n &nbsp;&nbsp;&nbsp;&nbsp; m(a);\n &nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a);\n &nbsp;}\n &nbsp;static void m(int x) {\n &nbsp;&nbsp;&nbsp;&nbsp; x = 200;\n &nbsp;}",
+        "answer": "100"
+    },
+    "128231": {
+        "question": "Khi chạy chương trình có đoạn mã sau sẽ xuất kết quả là bao nhiêu\n &nbsp; public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp; int[] a = {50, 100};\n &nbsp;&nbsp;&nbsp;&nbsp; m(a);\n &nbsp;&nbsp;&nbsp;&nbsp; System.out.println(a[0]);\n &nbsp;}\n &nbsp;static void m(int[] x) {\n &nbsp;&nbsp;&nbsp;&nbsp; x[0] = 200;\n &nbsp;}",
+        "answer": "200"
+    },
+    "128232": {
+        "question": "Giả sử có khai báo hàm như sau\n static void m(int…x){…}\n Lời gọi hàm nào là không hợp lệ",
+        "answer": "m(\"1\")"
+    },
+    "128233": {
+        "question": "Khai báo hàm nào sau đây là hợp lệ",
+        "answer": "static void m(int a, int…x){…}"
+    },
+    "128234": {
+        "question": "Giả sử có khai báo hàm m() như sau\n &nbsp;static int m(int...x) {\n &nbsp; int b = 0;\n &nbsp; for(int a:x){\n &nbsp;&nbsp; b+=a;\n &nbsp; }\n &nbsp; return b;\n &nbsp;}\n Lời gọi hàm m(1,2,3) cho kết quả là bao nhiêu",
+        "answer": "6"
+    },
+    "128235": {
+        "question": "Giả sử có khai báo hàm m() như sau\n &nbsp;static int m(int...x) {\n &nbsp; int b = 0;\n &nbsp; for(int a:x){\n &nbsp;&nbsp; b+=a;\n &nbsp; }\n &nbsp; return b;\n &nbsp;}\n Tham số nào không được chấp nhận bởi hàm này?",
+        "answer": "Danh sách các số thực cách nhau dấu phẩy"
+    },
+    "128236": {
+        "question": "Phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng về chuỗi trong Java là:</span>",
+        "answer": "String là xâu các ký tự được đặt giữa 2 dấu nháy đơn"
+    },
+    "128237": {
+        "question": "Ký tự đặc biệc thực hiện xuống dòng mới là:",
+        "answer": "\\n"
+    },
+    "128238": {
+        "question": "Cho biết giá trị của biến y sau khi thực hiện đoạn mã sau?\n String x = \"Nguyễn_Xuân_Phúc\";\n int i = x.lastIndexOf(\"_\") + 1;\n String y = x.substring(i); ",
+        "answer": "Phúc"
+    },
+    "128239": {
+        "question": "Phương thức của lớp String cho phép cắt bỏ khoảng trắng 2 đầu chuỗi là:",
+        "answer": "trim()"
+    },
+    "128240": {
+        "question": "Phương thức của lớp String cho phép lấy một ký tự tại vị trí trong chuỗi là:",
+        "answer": "charAt (index)"
+    },
+    "128241": {
+        "question": "Phương thức so sánh chuỗi được thực hiện <span class=\"font8\">không</span><span class=\"font5\"> phân biệt hoa/thường là:</span>",
+        "answer": "equalsIgnoreCase()"
+    },
+    "128242": {
+        "question": "Phương thức của lớp String được sử dụng để biết được chuỗi có chứa một chuỗi khác hay không là:",
+        "answer": "contains()"
+    },
+    "128243": {
+        "question": "Phương thức của lớp String được sử dụng để biết được vị trí xuất hiện đầu tiên của một chuỗi con là:",
+        "answer": "indexOf()"
+    },
+    "128244": {
+        "question": "Cho biết giá trị của biến y sau khi thực hiện đoạn mã sau?\n String x = \"&nbsp;&nbsp; Lý_Thường_Kiệt&nbsp;&nbsp;&nbsp; \";\n x = x.trim();\n int index = x.indexOf(\"_\");\n String y = x.substring(0, index);",
+        "answer": "Lý"
+    },
+    "128245": {
+        "question": "Cho biết giá trị của biến count sau khi thực hiện đoạn mã sau?\n String x = \"Lý Thường Kiệt\";\n int count = 0;\n for(int i=0;i&lt;x.length();i++){\n char c = x.charAt(i);\n switch(c){\n case 'ý':\n case 'ư':\n case 'ờ':\n case 'i':\n case 'ệ':\n count++;\n }\n }",
+        "answer": "5"
+    },
+    "128246": {
+        "question": "Cho biết giá trị của biến tong sau khi thực hiện đoạn mã sau?\n String x = \"1,2,3,4,5,6\";\n String[] y = x.split(\",\")\n int tong = 0;\n for(String z : y){\n int so = Integer.parseInt(z);\n if(so % 2 == 0){\n &nbsp;tong+=so;\n }\n }",
+        "answer": "12"
+    },
+    "128247": {
+        "question": "Chuỗi nào <span class=\"font8\">không</span><span class=\"font5\"> so khớp (đối sánh) với biểu thức chính qui \"[A-Z][0-9]{3,7}\" ?</span>",
+        "answer": "123456"
+    },
+    "128248": {
+        "question": "Kết quả trả về của phương thức matches(pattern) của chuỗi có ý nghĩa là gì?",
+        "answer": "true có nghĩa là chuỗi so khớp với biểu thức chính qui pattern"
+    },
+    "128249": {
+        "question": "Đoạn mã sau xuất ra màn hình những gì?\n String x = \"user@fpt.edu.vn\";\n String y = \"\\\\w+@\\\\w+(\\\\.\\\\w+){1,2}\";\n if(x.matches(y)){\n System.out.print(\"A\");\n }\n else{\n System.out.print(\"B\");\n }",
+        "answer": "A"
+    },
+    "128250": {
+        "question": "Ký hiệu đại diện&nbsp; nào đại diện cho một ký tự bất kỳ?",
+        "answer": "."
+    },
+    "128251": {
+        "question": "\\w+ là đại diện cho một ký tự thuộc nhóm:",
+        "answer": "Bao gồm tất cả các ký tự của các đáp án khác"
+    },
+    "128252": {
+        "question": "Chọn phát biểu đúng về biểu thức chính qui:",
+        "answer": "A?: ký tự A không xuất hiện hoặc xuất hiện 1 lần"
+    },
+    "128253": {
+        "question": "Chọn phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về biểu thức chính qui:</span>",
+        "answer": "[ab-f]: đại diện cho một ký tự là a, b hoặc f"
+    },
+    "128254": {
+        "question": "Biểu thức chính qui nào sau đây sẽ so khớp với chuỗi \"51-X2-123.04\" ?",
+        "answer": "5\\d-[A-Z]\\d-((\\d{4})|(\\d{3}\\.\\d{2}))"
+    },
+    "128255": {
+        "question": "Phương thức của lớp String <span class=\"font8\">không</span><span class=\"font5\"> làm việc với biểu thức chính qui là:</span>",
+        "answer": "substring()"
+    },
+    "128256": {
+        "question": "Chọn phát biểu đúng nhất về đối tượng:",
+        "answer": "Tất cả các đáp án trên điều đúng"
+    },
+    "128257": {
+        "question": "Lớp là gì?",
+        "answer": "Lớp là khuôn mẫu được sử dụng để mô tả một nhóm các thực thể cùng loại"
+    },
+    "128258": {
+        "question": "Chọn phát biểu đúng nhất khi xây dựng lớp:",
+        "answer": "Cả 2 đáp án A và C đúng"
+    },
+    "128259": {
+        "question": "Chọn phát biểu đúng về đối tượng:",
+        "answer": "Đối tượng là một trường hợp cụ thể của lớp"
+    },
+    "128260": {
+        "question": "Tìm lổi <span class=\"font8\">sai </span><span class=\"font5\">về định nghĩa trường của lớp sau:\n class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; String field1;\n &nbsp;&nbsp;&nbsp;&nbsp; void field2;\n &nbsp;&nbsp;&nbsp;&nbsp; double field3\n &nbsp;&nbsp;&nbsp;&nbsp; int field4;\n }&nbsp;</span>",
+        "answer": "void field2;"
+    },
+    "128261": {
+        "question": "Tìm lổi sai về định nghĩa phương thức trong lớp sau:\n class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; String method1(){return \"A\";}\n &nbsp;&nbsp;&nbsp;&nbsp; void method(){}\n &nbsp;&nbsp;&nbsp;&nbsp; double method(){return 1.5;}\n &nbsp;&nbsp;&nbsp;&nbsp; method(){}\n }",
+        "answer": "method(){}"
+    },
+    "128262": {
+        "question": "Chọn khai báo đúng về phương thức:",
+        "answer": "public String method(int a){...}"
+    },
+    "128263": {
+        "question": "Chọn phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng về phương thức:</span>",
+        "answer": "Phương thức có tối đa 5 tham số"
+    },
+    "128264": {
+        "question": "Chọn phát biểu đúng nhất về hàm tạo:",
+        "answer": "Tất cả các đáp án trên điều đúng"
+    },
+    "128265": {
+        "question": "Cho đoạn mã định nghĩa lớp MyClass như sau. Hãy chọn mã tạo đối tượng đúng\n class MyClass{}",
+        "answer": "MyClass o = new MyClass()"
+    },
+    "128266": {
+        "question": "Chọn phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng sau:</span>",
+        "answer": "Truy xuất trường phải có đóng mở ngoặt tròn"
+    },
+    "128267": {
+        "question": "Nếu khai báo một phương thức có xác định kiểu trả về thì:",
+        "answer": "Trong phương thức có lệnh return một giá trị kiểu đúng kiểu đã xác định trong khai báo"
+    },
+    "128268": {
+        "question": "Chỉ ra nguyên nhân <span class=\"font8\">sai</span><span class=\"font5\"> trong phương thức sau:\n double method(int x){\n &nbsp;&nbsp;&nbsp;&nbsp; if(x &gt; 5){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return 3;\n &nbsp;&nbsp;&nbsp;&nbsp; }\n }</span>",
+        "answer": "Do phương thức này chưa trả về giá trị khi x nhỏ hơn hoặc bằng 5"
+    },
+    "128269": {
+        "question": "Thế nào là nạp chồng phương thức?",
+        "answer": "Trong một lớp có nhiều phương thức cùng tên nhưng khác nhau về tham số"
+    },
+    "128270": {
+        "question": "Cho biết khai báo lớp sau đây đúng hay sai?\n class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; void method(){…}\n &nbsp;&nbsp;&nbsp;&nbsp; void method(int x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; void method(float x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; void method(int x, double y){…}\n }",
+        "answer": "Lớp trên hoàn toàn đúng"
+    },
+    "128271": {
+        "question": "Chỉ ra các dòng mã lệnh <span class=\"font8\">sai</span><span class=\"font5\"> trong đoạn mã khai báo lớp sau đây:\n public class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; MyClass(){…}\n &nbsp;&nbsp;&nbsp;&nbsp; void MyClass(int x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; MyClass(float x){…}\n &nbsp;&nbsp;&nbsp;&nbsp; MyClass1(int x, double y){…}\n }\n </span>",
+        "answer": "MyClass1(int x, double y){…}"
+    },
+    "128272": {
+        "question": "Chọn phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về từ khóa this:</span>",
+        "answer": "Trong một hàm tạo không cho phép sử dụng this để gọi hàm tạo khác"
+    },
+    "128273": {
+        "question": "Chọn phát biểu <span class=\"font8\">sai </span><span class=\"font5\">về đặc tả truy xuất:</span>",
+        "answer": "Thành viên không khai báo đặc tả truy xuất chỉ được phép sử dụng nội bộ trong class."
+    },
+    "128274": {
+        "question": "Giả sử 2 lớp MyClass1 và MyClass2 sau đây được khai báo trong cùng một package là com.poly. Hãy chọn câu lệnh phát sinh lỗi lúc dịch:\n package com.poly\n class MyClass1{\n &nbsp;&nbsp;&nbsp;&nbsp; public void method1(){…}\n &nbsp;&nbsp;&nbsp;&nbsp; private void method2(){…}\n &nbsp;&nbsp;&nbsp;&nbsp; void method3(){…}\n }\n \n class MyClass2{\n &nbsp;&nbsp;&nbsp;&nbsp; void method(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyClass1 o1 = new MyClass1();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o1.method1();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o1.method2();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o1.method3();\n &nbsp;&nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "o1.method2();"
+    },
+    "128275": {
+        "question": "Giả sử 2 lớp A và B được khai báo trong 2 package khác nhau. Hay chỉ ra dòng mã lệnh đúng khi truy xuất các thành viên của lớp A trong phương thức method() của lớp B:\n package com.poly.hcm\n public class A{\n &nbsp;&nbsp;&nbsp;&nbsp; int a = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; private int b = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; public int c = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; protected d = 5;\n }\n \n package com.poly.hanoi\n &nbsp;&nbsp;&nbsp;&nbsp; public class B{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void method(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A o = new A();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o.a = 10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o.b = 10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o.c = 10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o.d = 10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "o.c = 10"
+    },
+    "128276": {
+        "question": "Các phát biểu đúng nhất về sự phân cấp thừa kế trong Java là:",
+        "answer": "Tất cả các phát biểu trên đều đúng"
+    },
+    "128277": {
+        "question": "Cho khai báo lớp class Bicycle{}. Mã kế thừa đúng trong java là:",
+        "answer": "class MountainBike extends Bicycle{}"
+    },
+    "128278": {
+        "question": "Lớp con <span class=\"font8\">không</span><span class=\"font5\"> được phép sở hữu các tài sản (trường và phương thức) của lớp cha là:</span>",
+        "answer": "Tài sản của lớp cha được khai báo đặc tả truy xuất là private"
+    },
+    "128279": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về từ khóa super là:</span>",
+        "answer": "Từ khóa super có thể được sử dụng để gọi hàm tạo khác của lớp đó"
+    },
+    "128280": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về lớp Object là:</span>",
+        "answer": "Lớp Object cũng có lớp cha"
+    },
+    "128281": {
+        "question": "Giả sử có 2 lớp NhanVien và TruongPhong được khai báo như sau. Hãy chọn dòng mã lệnh phát sinh lỗi lúc dịch?\n package poly.hn\n public class NhanVien{\n &nbsp;&nbsp;&nbsp;&nbsp; public String hoTen;\n &nbsp;&nbsp;&nbsp;&nbsp; protected double luong;\n &nbsp;&nbsp;&nbsp;&nbsp; public NhanVien(String hoTen, double luong){}\n &nbsp;&nbsp;&nbsp;&nbsp; void xuat(){}\n &nbsp;&nbsp;&nbsp;&nbsp; private double getThuNhap(){return 0;}\n }\n package poly.hcm\n public class TruongPhong extends NhanVien{\n &nbsp;&nbsp;&nbsp;&nbsp; public double trachNhiem;\n &nbsp;&nbsp;&nbsp;&nbsp; public TruongPhong (String hoTen, double luong, double trachNhiem){}\n &nbsp;&nbsp;&nbsp;&nbsp; public void xuat(){\n super.hoTen = \"Tuấn\";\n super.luong = 500;\n super.xuat();\n double thuNhap = super.getThuNhap();\n &nbsp;&nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "double thuNhap = super.getThuNhap()"
+    },
+    "128282": {
+        "question": "Phát biểu sai về ghi đè phương thức là:",
+        "answer": "Mục đích ghi đè phương thức là để tái sử dụng"
+    },
+    "128283": {
+        "question": "Điền phương thức phù hợp vào vị trí &lt;&lt;?&gt;&gt; để ghi đè lên phương thức của lớp cha?\n public class Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; public void method(int x){…}\n }\n public class Child extends Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; &lt;&lt;?&gt;&gt;\n }",
+        "answer": "public void method(int y){…}"
+    },
+    "128284": {
+        "question": "Khai báo lớp đúng là:",
+        "answer": "abstract class Parent{abstract void method();}"
+    },
+    "128285": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về từ khóa abstract là:</span>",
+        "answer": "Từ khóa abstract cũng được sử dụng để định nghĩa cho trường"
+    },
+    "128286": {
+        "question": "Cho đoạn mã sau. 3 đối tượng nv1, nv2 và nv3 được tạo từ lớp NhanVien và lớp TruongPhong. Hãy cho biết khi gọi phương thức getThuNhap() thì phương thức của lớp nào được thực hiện?\n public class NhanVien{\n &nbsp;&nbsp;&nbsp;&nbsp; public double getThuNhap(){…}\n }\n public class TruongPhong extends NhanVien{\n &nbsp;&nbsp;&nbsp;&nbsp; public double getThuNhap(){…}\n }\n NhanVien nv1 = new NhanVien();\n NhanVien nv2 = new TruongPhong();\n TruongPhong nv3 = new TruongPhong();",
+        "answer": "nv2.getThuNhap(): phương thức của lớp TruongPhong sẽ thực hiện"
+    },
+    "128287": {
+        "question": "Chọn dòng mã lệnh <span class=\"font8\">sai</span><span class=\"font5\"> sau?\n abstract class Hinh{}\n class TamGiac extends Hinh{}\n &nbsp;&nbsp;&nbsp;&nbsp;</span>",
+        "answer": "Hinh h1 = new Hinh()"
+    },
+    "128288": {
+        "question": "Chọn dòng mã lệnh <span class=\"font8\">sai</span><span class=\"font5\"> sau:\n abstract class Hinh{}\n class Tron extends Hinh{}\n abstract class DaGiac extends Hinh{}\n class TamGiac extends DaGiac{}\n class ChuNhat extends DaGiac{}\n </span>",
+        "answer": "Hinh h2 = new DaGiac()"
+    },
+    "128289": {
+        "question": "Chọn dòng mã lệnh sau sẽ phát sinh lỗi khi dịch:\n abstract class Hinh{}\n class Tron extends Hinh{}\n abstract class DaGiac extends Hinh{}\n class TamGiac extends DaGiac{}\n class ChuNhat extends DaGiac{}\n Hinh h1 = new Tron()\n Hinh h2 = new TamGia()\n Hinh h3 = new ChuNhat()",
+        "answer": "h2 = h3;"
+    },
+    "128290": {
+        "question": "Điền phương thức phù hợp vào &lt;&lt;?&gt;&gt; để không&nbsp; phát sinh lỗi khi dịch ?\n public class Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; public void method(){…}\n }\n public class Child extends Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; &lt;&lt;?&gt;&gt;\n }",
+        "answer": "public void method(){…}"
+    },
+    "128291": {
+        "question": "Phát biểu đúng về lớp và phương thức trừu tượng là:",
+        "answer": "Từ khóa private và abstract không thể khai báo cùng nhau"
+    },
+    "128292": {
+        "question": "Các lớp trong Java sử dụng loại thừa kế là:",
+        "answer": "Đơn thừa kế"
+    },
+    "128293": {
+        "question": "Có bao nhiêu đối tượng được tạo ra từ một lớp trong một chương trình?&nbsp;&nbsp;",
+        "answer": "Nhiều đối tượng tùy thích"
+    },
+    "128294": {
+        "question": "Hạn chế của từ khóa super sử dụng trong hàm tạo là:&nbsp;",
+        "answer": "Phải được sử dụng ở lệnh đầu tiên của hàm tạo"
+    },
+    "128295": {
+        "question": "Lớp DongVat có lớp con là Meo. Phát biểu nào sau đây là đúng?",
+        "answer": "Vì đơn thừa kế nên Meo không có lớp cha khác ngoài lớp DongVat"
+    },
+    "128296": {
+        "question": "Phát biểu đúng nhất về hàm tạo là:",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "128297": {
+        "question": "Phát biểu đúng nhất về hàm tạo là:",
+        "answer": "Có thể gọi nhiều hàm tạo khác trong một hàm tạo"
+    },
+    "128298": {
+        "question": "Điền hàm tạo vào lớp Child để 2 lớp sau không phát sinh lỗi dịch?\n public class Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; public Parent(int x){}\n }\n public class Child extends Parent{\n &nbsp;&nbsp;&nbsp;&nbsp; &lt;&lt;?&gt;&gt;\n }",
+        "answer": "public Child(){super(5);}"
+    },
+    "128299": {
+        "question": "Thực hiện đoạn mã sau sẽ xuất ra những gì trên màn hình?\n class MyClass{\n void method(int x, int y){\n &nbsp;&nbsp;&nbsp;&nbsp; x = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; y = 5;\n }\n public static void main(String[] args){\n MyClass o = new MyClass();\n int x = 1, y = 1;\n o.method(x, y);\n System.out.printf(\"x=%d, y=%d\", x, y);\n }\n }",
+        "answer": "x=1, y=1"
+    },
+    "128300": {
+        "question": "Thực hiện đoạn mã sau sẽ xuất ra những gì trên màn hình?\n class MyClass{\n void method(int[] x){\n &nbsp;&nbsp;&nbsp;&nbsp; x[0] = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; x[1] = 5;\n }\n public static void main(String[] args){\n MyClass o = new MyClass();\n int[] x = {1, 1};\n o.method(x);\n System.out.printf(\"x=%d, y=%d\", x[0], x[1]);\n }\n }",
+        "answer": "x=5, y=5"
+    },
+    "128301": {
+        "question": "Thực hiện đoạn mã sau sẽ xuất ra những gì trên màn hình?\n class NhuNhat{\n public int rong, dai;\n public ChuNhat(int rong, int dai){\n this.rong = rong;\n this.dai = dai;\n }\n }\n class MyClass{\n void method(ChuNhat x){\n &nbsp;&nbsp;&nbsp;&nbsp; x.rong = 5;\n &nbsp;&nbsp;&nbsp;&nbsp; x.dai = 5;\n }\n public static void main(String[] args){\n MyClass o = new MyClass();\n ChuNhat cn = new ChuNhat(1, 1);\n o.method(cn);\n System.out.printf(\"x=%d, y=%d\", cn.rong, cn.dai);\n }\n }",
+        "answer": "x=5, y=5"
+    },
+    "128302": {
+        "question": "Phát biểu đúng nhất về tham số biến đổi trong Java là:",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "128303": {
+        "question": "Khai báo đúng của phương thức có tham số biến đổi là:",
+        "answer": "void method(int x, int y...)"
+    },
+    "128304": {
+        "question": "Chọn phát biểu đúng nhất về truyền tham số biến đổi trong Java?\n class MyClass{\n public static double sum(double...x){\n double t = 0;\n for(double a : x){\n t+=a;\n }\n return t;\n }\n }",
+        "answer": "Tất cả các đáp án điều đúng"
+    },
+    "128305": {
+        "question": "Từ khóa static <span class=\"font8\">không</span><span class=\"font5\"> được sử dụng để định nghĩa thành phần nào?</span>",
+        "answer": "Biến cục bộ hoặc tham số"
+    },
+    "128306": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về từ khóa static là:</span>",
+        "answer": "Chỉ được phép truy xuất đến thành viên tĩnh thông qua đối tượng được tạo ra từ lớp đó"
+    },
+    "128307": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về từ khóa static là:</span>",
+        "answer": "Trong phương thức tĩnh được phép truy xuất đến các thành viên thông thường của lớp"
+    },
+    "128308": {
+        "question": "Sau khi thực hiện đoạn mã sau, màn hình xuất hiện những gì?\n public class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; static public int X = 2;\n &nbsp;&nbsp;&nbsp;&nbsp; static{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X=1;\n &nbsp;&nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp;&nbsp; static public void method(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X=5;\n &nbsp;&nbsp;&nbsp;&nbsp; }\n public static void main(String[] args){\n MyClass o = new MyClass();\n MyClass.method();\n MyClass.X = 10;\n System.out.printf(\"x=%d, y=%d\", o.X, MyClass.X);\n }\n }",
+        "answer": "x=10, y=10"
+    },
+    "128309": {
+        "question": "Sau khi thực hiện đoạn mã sau, màn hình xuất hiện những gì?\n public class MyClass{\n &nbsp;&nbsp;&nbsp;&nbsp; static public int X = 2;\n public static void main(String[] args){\n MyClass o1 = new MyClass();\n MyClass o2 = new MyClass();\n o2.X = 5;\n System.out.printf(\"x=%d, y=%d, z=%d\", o1.X, o2.X, MyClass.X);\n }\n }",
+        "answer": "x=5, y=5, z=5"
+    },
+    "128310": {
+        "question": "Phát biểu đúng nhất về từ khóa final trong java là:",
+        "answer": "Tất cả các phát biểu đều đúng "
+    },
+    "128311": {
+        "question": "Cách định nghĩa các lớp đúng là:",
+        "answer": "class Parent{void method(){}} và class Child extends Parent{ void method(){}} "
+    },
+    "128312": {
+        "question": "Lệnh gán phát sinh lỗi dịch là:",
+        "answer": "Integer I = new Object()"
+    },
+    "128313": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về lớp nội là:</span>",
+        "answer": "Lớp nội không thể khái báo với đặc tả truy xuất là private"
+    },
+    "128314": {
+        "question": "Cho định nghĩa 2 lớp nội B và C trong lớp A như sau. Cho biết cách sử dụng <span class=\"font8\">sai </span><span class=\"font5\">?\n public class A{\n &nbsp;&nbsp;&nbsp;&nbsp; static public class B{}\n &nbsp;&nbsp;&nbsp;&nbsp; public class C{}\n }</span>",
+        "answer": "A.C o = new A.C();"
+    },
+    "128315": {
+        "question": "Phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về đệ qui là:</span>",
+        "answer": "Đệ qui là thuật toán chạy nhanh nhất"
+    },
+    "128316": {
+        "question": "Chọn phát biểu đúng về mảng:",
+        "answer": "Mảng có số phần tử cố định"
+    },
+    "128317": {
+        "question": "Chọn phát biểu <span class=\"font8\">sai</span><span class=\"font5\"> về ArrayList:</span>",
+        "answer": "ArrayList có số phần tử cố định "
+    },
+    "128318": {
+        "question": "Cho biết đoạn mã sau phát sinh lỗi dịch ở đâu?\n ArrayList a = new ArrayList();\n a.add(\"Cường\");\n a.add(true);\n a.add(1);\n a.add(2.5)\n Integer x = a.get(2);",
+        "answer": "Integer x = a.get(2);"
+    },
+    "128319": {
+        "question": "Đâu là phát biểu đúng nhất về ArrayList không định kiểu?",
+        "answer": "Tất cả các đáp án trên điều đúng"
+    },
+    "128320": {
+        "question": "Đâu là phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng về ArrayList&lt;Type&gt; có định kiểu?</span>",
+        "answer": "Khi truy xuất các phần tử bắt buộc phải ép về kiểu gốc như lúc thêm vào "
+    },
+    "128321": {
+        "question": "Cho đoạn mã sau. Chọn lệnh đúng:\n ArrayList&lt;String&gt; a = new ArrayList&lt;String&gt;();\n a.add(“Cường”);\n a.add(5);\n a.add(true);\n Boolean b = (Boolean)a.get(2);",
+        "answer": "a.add(“Cường”);"
+    },
+    "128322": {
+        "question": "Phương thức nào sau đây cho phép chèn thêm một phần tử vào một vị trí của ArrayList?",
+        "answer": "void add(int index, Object elem)"
+    },
+    "128323": {
+        "question": "Phương thức nào sau đây cho phép thay đổi một phần tử vào một vị trí của ArrayList?",
+        "answer": "Object set(int index, Object elem)"
+    },
+    "128324": {
+        "question": "Phương thức nào sau đây được sử dụng để kiểm tra một phần tử có tồn tại trong ArrayList hay không?",
+        "answer": "boolean contains(Object)"
+    },
+    "128325": {
+        "question": "Cho đoạn mã sau. Hãy cho biết giá trị của x và y?\n ArrayList&lt;Integer&gt; a = new ArrayList&lt;Integer&gt;();\n a.add(9);\n a.add(30);\n a.add(5);\n a.add(30)\n int x = a.indexOf(30);\n int y = a.lastIndexOf(30);",
+        "answer": "x=1,y=3"
+    },
+    "128326": {
+        "question": "Sau khi đoạn mã sau được thực hiện. Hãy cho biết kết quả của ArrayList a?\n ArrayList&lt;String&gt; a = new ArrayList&lt;String&gt;();\n a.add(\"Cường\");\n a.add(\"Tuấn\");\n a.add(\"Phương\");\n a.add(1, \"Hạnh\");\n a.set(0, \"Tân\");\n a.remove(3)",
+        "answer": "[Tân, Hạnh,Tuấn]"
+    },
+    "128327": {
+        "question": "Sau khi thực hiện đoạn mã sau thì ArrayList chứa những phần tử nào?\n int x = 1;\n Integer y = 3;\n ArrayList&lt;Integer&gt; a = new ArrayList&lt;Integer&gt;();\n a.add(3);\n a.add(9);\n a.add(5);\n a.remove(x);\n a.remove(y);",
+        "answer": "[5]"
+    },
+    "128328": {
+        "question": "Khai báo ArrayList&lt;Integer&gt; a = new ArrayList&lt;Integer&gt;(). Hãy cho biết cách duyệt ArrayList nào sau đây là <span class=\"font8\">không</span><span class=\"font5\"> đúng?</span>",
+        "answer": "for(String x : a){}"
+    },
+    "128329": {
+        "question": "Phương thức cho phép thực hiện phép hợp 2 tập hợp là:",
+        "answer": "addAll()"
+    },
+    "128330": {
+        "question": "Cho biết kết quả của ArrayList a1 sau khi thực hiện đoạn mã ?\n ArrayList a1 = new ArrayList();\n a1.add(3);\n a1.add(4);\n ArrayList a2 = new ArrayList();\n a2.add(4);\n a2.add(5);\n a1.retainAll(a2);",
+        "answer": "[4]"
+    },
+    "128331": {
+        "question": "Phương thức nào của lớp Collections sau đây cho phép hoán đổi ngẫu nhiên các phần tử trong ArrayList?",
+        "answer": "void shuffle (List list)"
+    },
+    "128332": {
+        "question": "Phương thức nào sau đây cho phép xoay vòng các phần tử trong ArrayList?",
+        "answer": "void rotate (List list, int distance)"
+    },
+    "128333": {
+        "question": "Sau khi thực hiện đoạn mã sau, kết quả ArrayList a là:\n ArrayList&lt;Integer&gt; a = new ArrayList&lt;Integer&gt;();\n a.add(4);\n a.add(1);\n a.add(3);\n a.add(2);\n Collections.sort(a);\n Collections.reverse(a);",
+        "answer": "[4,3,2,1]"
+    },
+    "128334": {
+        "question": "Sau khi thực hiện đoạn mã sau, kết quả ArrayList a là:\n ArrayList&lt;Integer&gt; a = new ArrayList&lt;Integer&gt;();\n a.add(4);\n a.add(1);\n a.add(3);\n a.add(2);\n Collections.sort(a);\n Collections.swap(a, 0, 2);",
+        "answer": "[3,2,1,4]"
+    },
+    "128335": {
+        "question": "Chọn phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng về cách áp dụng phương thức Collections.sort():</span>",
+        "answer": "Collections.sort(list, comparator)không thể áp dụng cho các phần tử đã biết tiêu chí sắp xếp"
+    }
+}

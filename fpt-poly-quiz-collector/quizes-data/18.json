@@ -1,0 +1,710 @@
+{
+    "93759": {
+        "question": "Tên biến nào sai qui định của ngôn ngữ C++?",
+        "answer": "3bien"
+    },
+    "93760": {
+        "question": "Cách thêm chú thích vào trong một chương trình C++ nào là đúng?\n ",
+        "answer": "//chú thích"
+    },
+    "93761": {
+        "question": "Cho m=8 và n =5, giá trị của m và n sau khi thực hiện câu lệnh : \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=\"font8\">m *= n++;</span><span class=\"font7\">\n nào là đúng?</span>",
+        "answer": "m=40;n=6"
+    },
+    "93762": {
+        "question": "Trình biên dịch sẽ báo lỗi ở dòng nào khi thực hiện chạy đoạn chương trình sau?. #include &lt;iostream&gt;\n &nbsp;using namespace std;\n &nbsp;int main(){&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //&nbsp; in ra \"Hello, World!\":\n cout &lt;&lt; \"Hello, World!\\n\"\n }",
+        "answer": "5"
+    },
+    "93763": {
+        "question": "\n Lỗi nào dưới đây thuộc lỗi biên dịch?",
+        "answer": "Lỗi cú pháp"
+    },
+    "93764": {
+        "question": "Kiểu dữ liệu int (kiểu số nguyên) có thể xử lý số nguyên nằm trong khoảng nào?",
+        "answer": "-32768…32767"
+    },
+    "93765": {
+        "question": "Cho biết giá trị biến a bằng bao nhiêu khi ta có lệnh a= 5+7%2 ?",
+        "answer": "6"
+    },
+    "93766": {
+        "question": "Khi thực thi đoạn chương trình sau kết quả sẽ là?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n &nbsp;{\n &nbsp;int m = 50, n = 6\n cout &lt;&lt; \"Kết quả là \" &lt;&lt; (m % n) &lt;&lt; endl;\n }",
+        "answer": "Lỗi biên dịch"
+    },
+    "93767": {
+        "question": "Kiểu dữ liệu nào dưới đây không được coi là kiểu dữ liệu cơ bản trong ngôn ngữ lập trình C++?",
+        "answer": "Kiểu mảng"
+    },
+    "93768": {
+        "question": "Kết quả hiển thị ra màn hình của chương trình sau là gì ?\n 1. #include &lt;iostream&gt;\n 2. using namespace std;\n 3. void main()\n 4.{\n 5.&nbsp;&nbsp; int a,b ;\n 6.&nbsp;&nbsp; a=100; \n 7.&nbsp;&nbsp; b=56 ;\n 8.&nbsp; count &lt;&lt; ((a&lt;b) ? a:b) &lt;&lt;endl;\n }",
+        "answer": "56"
+    },
+    "93769": {
+        "question": "Lỗi nào dưới đây thuộc lỗi chạy chương trình?",
+        "answer": "Tràn số"
+    },
+    "93770": {
+        "question": "Kết quả hiển thị ra màn hình của chương trình sau là gì ?\n #include &lt;iostream&gt;\n using namespace std;\n void main()\n {\n &nbsp;cout &lt;&lt; \"int('A') = \" &lt;&lt; int('A') &lt;&lt; endl;\n }",
+        "answer": "65"
+    },
+    "93771": {
+        "question": "Phát biểu nào sau đúng nhất cho biến toàn cục?",
+        "answer": "Biến có thể được sử dụng bất kỳ đâu trong chương trình"
+    },
+    "93772": {
+        "question": "Phát biểu nào sau đúng nhất cho biến cục bộ (địa phương)?",
+        "answer": "Biến được đặt trong hàm hoặc trong khối lệnh. "
+    },
+    "93773": {
+        "question": "Phương án nào đúng khi đề cập đến dữ liệu ký tự?",
+        "answer": "Tất cả phương án đều đúng"
+    },
+    "93774": {
+        "question": "Kiểu dữ liệu float có thể xử lý dữ liệu trong phạm vi nào ?",
+        "answer": "3.4*10-38 . . 3.4*10+38"
+    },
+    "93775": {
+        "question": "Khai báo các biến như sau:\n int m,n; float x,y;\n Lệnh nào sau đây không đúng?",
+        "answer": "m =2.5 ;"
+    },
+    "93776": {
+        "question": "Để định nghĩa một hằng nguyên ABC =10 câu lệnh nào dưới đây là đúng?",
+        "answer": "#define ABC 10"
+    },
+    "93777": {
+        "question": "Phép toán % có ý nghĩa gì?",
+        "answer": "Lấy phần dư của phép chia hai số nguyên"
+    },
+    "93778": {
+        "question": "Toán tử “++n” được hiểu như thế nào?",
+        "answer": "Giá trị của n được tăng lên trước khi giá trị của nó được sử dụng"
+    },
+    "93779": {
+        "question": "Toán tử “n--“ được hiểu như thế nào?",
+        "answer": "Giá trị n giảm đi sau khi giá trị của nó được sử dụng"
+    },
+    "93780": {
+        "question": "Trong các câu sau, câu nào đúng?",
+        "answer": "Giá trị của một biến có thể thay đổi được"
+    },
+    "93781": {
+        "question": "&nbsp;Trong C++, toán tử xuất là gì?",
+        "answer": "cout"
+    },
+    "93782": {
+        "question": "&nbsp;Trong C++, “\\n” có tác dụng gì?",
+        "answer": " Xuống dòng"
+    },
+    "93783": {
+        "question": "&nbsp;Cú pháp nào sau đây là đúng?",
+        "answer": "\"void main(){ Phần thân chương trình } \""
+    },
+    "93784": {
+        "question": "Cho b bằng 5 và c bằng 8. Hãy cho biết giá trị của a sau khi thi hành dòng lệnh sau ? \n a =b++ + c++;",
+        "answer": "13"
+    },
+    "93785": {
+        "question": "Cho biết giá trị của biểu thức&nbsp;&nbsp; 2+4 &gt;2 &amp;&amp; 4 &lt;2&nbsp; ?",
+        "answer": "false"
+    },
+    "93786": {
+        "question": "Lệnh nào trong các lệnh sau cho phép chuyển tới một nơi nào đó đã được gán nhãn.?",
+        "answer": "goto"
+    },
+    "93787": {
+        "question": "Lệnh nào trong các lệnh sau cho phép dừng câu lệnh điều khiển?",
+        "answer": "Cả 3 phương án trên."
+    },
+    "93788": {
+        "question": "Khai báo nào dưới đây cho thấy cú pháp đúng của câu lệnh if ?",
+        "answer": "if (condition) statement;"
+    },
+    "93789": {
+        "question": "Số lần lặp nhỏ nhất của một vòng lặp while?",
+        "answer": "0"
+    },
+    "93790": {
+        "question": "Vòng lặp \n &nbsp;&nbsp; for(i=0;i&lt;=10;i--) \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {khối lệnh} \n sẽ thực hiện bao nhiêu lần ? ",
+        "answer": "Vô số lần - vòng lặp vô hạn"
+    },
+    "93791": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp;cout &lt;&lt;&nbsp; \"abc\\txyz\"; \n &nbsp;system(\"pause\");\n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "abcxyz"
+    },
+    "93792": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp;cout &lt;&lt; \"C:\\BaiTap\\test.txt\" &lt;&lt; endl; \n &nbsp;return 0&nbsp; ;\n }",
+        "answer": " Cả 1, 2 và 3 đều sai "
+    },
+    "93793": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp; int i = 1;\n &nbsp; while ( i &lt;= 10) \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (i &lt; 5 &amp;&amp; i++ != 2)\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout &lt;&lt; ‘A’;\n &nbsp;&nbsp;&nbsp; return 0&nbsp; ;\n }",
+        "answer": "AAA"
+    },
+    "93794": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n cout&lt;&lt; \"abc\\t\\nxyz\" &lt;&lt; endl; \n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "\"abc xyz\""
+    },
+    "93795": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp;int extra=2; \n &nbsp;if( extra&lt;0 ) \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt; \"small\"; \n &nbsp;else \n &nbsp;if(extra == 0) \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt; \"medium\"; \n &nbsp;else \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt; \"large\";\n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "large"
+    },
+    "93796": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n int i=1, s=0; \n for( ; i&lt;=10; i++);&nbsp;&nbsp; s=s+i; cout&lt;&lt;\"s = \"&lt;&lt;s; \n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "s = 11 "
+    },
+    "93797": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n int s=0; for(int i=1; i&lt;10; i+2)&nbsp; s=s+i; cout &lt;&lt; \"s = \" &lt;&lt; s ;\n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "Không xác định kết quả"
+    },
+    "93798": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n int i; float m=0; \n for(i=1; i&lt;=5; i++)&nbsp; m=m+1/i;&nbsp;&nbsp;&nbsp; cout&lt;&lt; \"m = \" &lt;&lt; m &lt;&lt; endl; \n return 0&nbsp; ;\n }",
+        "answer": "m = 1"
+    },
+    "93799": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n int i; float s=0; \n &nbsp;for(i=1; i&lt;=5; i++)\n &nbsp;{\n &nbsp;&nbsp; s=s+1/i;&nbsp;&nbsp; cout &lt;&lt; s &lt;&lt; \"\\t\"; \n &nbsp;}&nbsp; \n &nbsp;return 0&nbsp; ;\n }",
+        "answer": "11111 "
+    },
+    "93800": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n int i; float s=0; \n for(i=25; i&gt;=1; i--)\n &nbsp;{\n &nbsp;&nbsp;&nbsp; if(i%10==0) \n &nbsp;&nbsp;&nbsp;&nbsp; {&nbsp;&nbsp; cout&lt;&lt;i&lt;&lt; \"\\t\";&nbsp;&nbsp; break;&nbsp; }\n &nbsp; }&nbsp;&nbsp; \n &nbsp; return 0&nbsp; ;\n }",
+        "answer": "20"
+    },
+    "93801": {
+        "question": "Cho đoạn chương trình sau:\n &nbsp;int i=1, n=0; \n &nbsp;do {&nbsp; \n &nbsp; cout &lt;&lt; i &lt;&lt; \"\\t\";\n &nbsp; i++; \n &nbsp;} while(i&lt;=n); \n \n &nbsp;Kết quả in ra màn hình là ?",
+        "answer": "1"
+    },
+    "93802": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n void main()\n {\n int i=0, s=0; \n &nbsp;while(i&lt;=5)\n &nbsp;{&nbsp; i++; \n &nbsp;&nbsp;&nbsp; if(i%2==0)\n &nbsp;&nbsp; {continue;&nbsp;&nbsp; s+=2*i;}\n &nbsp;&nbsp;&nbsp; s+=i; \n &nbsp;}\n &nbsp;cout &lt;&lt; s;\n }",
+        "answer": "9"
+    },
+    "93803": {
+        "question": "Giá trị ctr sẽ bằng bao nhiêu sau khi thực hiện vòng lặp sau ? \n int ctr;\n for(ctr=3;ctr&lt;10;ctr+=3);&nbsp; \n cout &lt;&lt;ctr;",
+        "answer": "12"
+    },
+    "93804": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp; int k= 20; \n &nbsp; if(k%3==0);\n &nbsp; k+=5;\n &nbsp; cout&lt;&lt;\"k = \" &lt;&lt; k &lt;&lt; endl;&nbsp;&nbsp; \n &nbsp; return 0&nbsp; ;\n }",
+        "answer": "k=25"
+    },
+    "93805": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n int main()\n {\n &nbsp; int n= 5; \n &nbsp; for(int i=1; i&lt;n; i=i+2)&nbsp; \n &nbsp; if(i%3==0)&nbsp; cout &lt;&lt; i &lt;&lt;\" \";\n &nbsp; system(\"pause\");\n &nbsp; return 0&nbsp; ;\n }",
+        "answer": "3"
+    },
+    "93806": {
+        "question": "Kết quả của chương trình dưới đây là gì?\n #include &lt;iostream&gt;\n using namespace std;\n void main()\n {\n &nbsp; int a=4,b=3;&nbsp; \n &nbsp; int t=a &lt;= b ? a:b;\n &nbsp; cout &lt;&lt; t &lt;&lt; endl;&nbsp; \n }",
+        "answer": "3"
+    },
+    "93807": {
+        "question": "Khai báo nào dưới đây cho thấy cú pháp đúng của câu lệnh while?",
+        "answer": "while (condition) statement"
+    },
+    "93808": {
+        "question": "Hàm nào cho phép kết thúc vòng lặp?",
+        "answer": "exit()"
+    },
+    "93809": {
+        "question": "Phím tắt nào cho phép thoát khỏi vòng lặp vô hạn?",
+        "answer": "Ctrl + c"
+    },
+    "93810": {
+        "question": "Số lần nhỏ nhất của một vòng lặp do..while ?",
+        "answer": "1"
+    },
+    "93811": {
+        "question": "Cho biết kết quả của chương trình sau?\n #include &lt;iostream&gt;\n using namespace std;\n void main() \n { \n clrscr(); \n int a=3,b=5; \n if (a&lt;b) \n &nbsp;&nbsp; a=a+1; \n else \n &nbsp;&nbsp; b=b+1;\n &nbsp;&nbsp; a=a+b; \n cout&lt;&lt;a; \n } ",
+        "answer": "9"
+    },
+    "93812": {
+        "question": "Hàm nào cho phép sinh số ngẫu nhiên?",
+        "answer": "rand() "
+    },
+    "93813": {
+        "question": "Sử dụng cách truyền nào trong hàm sẽ không làm thay đổi giá trị của biến trong chương trình chính ?",
+        "answer": "Truyền bằng trị."
+    },
+    "93814": {
+        "question": "Nếu hàm được gọi trước khi nó định nghĩa thì điều kiện là gì?",
+        "answer": "Kiểu đầu vào của hàm phải là kiểu void."
+    },
+    "93815": {
+        "question": "Phát biểu nào đúng cho HÀM void ?",
+        "answer": "Là hàm không có giá trị trả về"
+    },
+    "93816": {
+        "question": "Các khai báo về hàm nguyên mẫu nào không hợp lệ?",
+        "answer": "double funct(char x)"
+    },
+    "93817": {
+        "question": "Kiểu giá trị của hàm dưới đây \n \"int func(char x, float v, double t);\" trả về là?",
+        "answer": "int"
+    },
+    "93818": {
+        "question": "Những khai báo nào về gọi hàm nào sau là hợp lệ?",
+        "answer": "funct();"
+    },
+    "93819": {
+        "question": "Những câu nào sau đây viết về một hàm hoàn chỉnh?",
+        "answer": "int funct(int x) {return x=x+1;}"
+    },
+    "93820": {
+        "question": "Khai báo nguyên mẫu (prototype\n ) nào sau đây là sai?",
+        "answer": "void TT(int x; float a) ;"
+    },
+    "93821": {
+        "question": "Cho biết chương trình có các hàm và biến như sau:\n float x, S;\n int n;\n float F( float y, int m );\n Lời gọi hàm nào dưới đây là đúng?&nbsp;",
+        "answer": "S=F(x,n);"
+    },
+    "93822": {
+        "question": "Phát biểu nào sau đây không phài là lợi ích của việc dùng hàm?",
+        "answer": "Tất cả đều sai."
+    },
+    "93823": {
+        "question": "Kết quả của chương trình sau là gì?\n &nbsp;int change(int a)\n {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a=10;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return a;\n };\n &nbsp;void main()\n {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int a=5;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; change(i);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout &lt;&lt;i;\n };",
+        "answer": "5"
+    },
+    "93824": {
+        "question": "Cho biết chương trình có các hàm và biến như sau:\n int x ; char c;\n void TT(int y, char kytu);\n Lời gọi hàm nào dưới đây là đúng?&nbsp;",
+        "answer": "TT( x, c) ; "
+    },
+    "93825": {
+        "question": "Khi chạy chương trình :\n void TINHS( )\n {\n long S =1;\n for ( int i = 1; i &lt; 5; i++ )\n &nbsp;&nbsp;&nbsp; {S = S *i;}\n &nbsp;&nbsp; cout&nbsp; &lt;&lt; S;\n }\n void main( )\n {\n TINHS;\n }\n Kết quả in ra?&nbsp;",
+        "answer": "Chương trình không in ra gì cả?"
+    },
+    "93826": {
+        "question": "Khi chạy chương trình :\n void In(int x)\n {\n for ( int i =0; i &lt; x; i++ )\n &nbsp;&nbsp;&nbsp; cout &lt;&lt;“*”;\n }\n void main( ) \n {In(4);}\n kết quả in ra?",
+        "answer": "*"
+    },
+    "93827": {
+        "question": "Khi chạy chương trình :\n int BP(int x)\n {\n int Kq = x*x;\n return x;\n }\n void main( )\n {\n &nbsp; int a = BP(4);&nbsp; cout &lt;&lt; a;\n }\n Chương trình sẽ in gì ra màn hình?&nbsp;",
+        "answer": "4"
+    },
+    "93828": {
+        "question": "Đâu là phát biểu sai?",
+        "answer": "Không thể truyền tham số là phần tử của struct cho hàm."
+    },
+    "93829": {
+        "question": "Cho 2 dòng lệnh sau:\n [1]&nbsp; cout&lt;&lt;”\\n”;\n [2] cout&lt;&lt;endl;\n Câu nào sau đây giải thích đúng nhất ý nghĩa 2 câu lệnh trên ?",
+        "answer": "Cùng chức năng"
+    },
+    "93830": {
+        "question": "Cho chương trình sau:\n #include&lt;iostream.h&gt;\n void&nbsp; F()\n {\n &nbsp;int a=7,b=8,s=0;\n &nbsp;s=++a + b++;\n &nbsp;cout&lt;&lt;”s=”&lt;&lt;s&lt;&lt;” a=”&lt;&lt;a&lt;&lt;” b=”&lt;&lt;b;\n &nbsp;}\n void main()\n &nbsp;{\n F();\n }\n Kết quả xuất ra màn hình sau khi thi hành chương trình trên?",
+        "answer": "s=16 a=8 b=9"
+    },
+    "93831": {
+        "question": "Khi sử dụng hàm sqrt() thì phải khai báo prototype nào: ?",
+        "answer": "#include"
+    },
+    "93832": {
+        "question": "Cho biết giá trị của a,b,c sau khi đọan chương trình được thực thi.\n \n int bla(int x, int &amp;y)\n {\n x = x+y;\n y = 7;\n return y;\n }\n void main()\n }\n int a=1,b=2,c;\n c = bla(a,b);\n cout &lt;&lt; a &lt;&lt;b&lt;&lt;c;\n }",
+        "answer": "a = 1b = 7 c= 7 "
+    },
+    "93833": {
+        "question": "Cho biết giá trị của a,b,c sau khi đọan chương trình được thực thi.\n \n void f(int x, int&amp; y, const int&amp; z)\n { x += z;\n y += z;\n cout &lt;&lt; \"a = \" &lt;&lt; x &lt;&lt; \", b = \" &lt;&lt; y &lt;&lt; \", c = \" &lt;&lt; z &lt;&lt; endl;\n }\n void main()\n {\n int a = 10, b = 50, c=11;\n fun(a, b,c);\n \n }",
+        "answer": "a=21, b= 61,c=11"
+    },
+    "93835": {
+        "question": "Phát biểu nào đúng nhất về khai báo “int array[2][3]” ?",
+        "answer": "Là một mảng hai chiều tối đa là 6 phần tử và mỗi phần tử là một số nguyên."
+    },
+    "93836": {
+        "question": "Giả sử trong chương trình sử dụng khai báo “double a[10]”, phần tử a[5] là phần tử thứ bao nhiêu trong mảng a?",
+        "answer": "thứ 6"
+    },
+    "93837": {
+        "question": "Nếu có các khai báo sau:\n char abc[10];\n char value;\n Câu nào sau đây sẽ là đúng?",
+        "answer": " abc[2]=value;"
+    },
+    "93838": {
+        "question": "Có các khai báo sau:\n char tb, mang[25];\n Trong các câu lệnh sau, câu nào đúng?",
+        "answer": "gets(mang);"
+    },
+    "93839": {
+        "question": "Khi khai báo mảng, ta khởi tạo luôn giá trị của mảng như sau:\n int x[3]={4,2,6}; Câu nào sau đây sẽ là đúng?",
+        "answer": "x[0]=4, x[1]=2, x[2]=6;"
+    },
+    "93840": {
+        "question": "Câu lệnh nào dưới đây khai báo mảng 1 chiều tối đa 10 phần tử số nguyên ?",
+        "answer": "int a[10] "
+    },
+    "93841": {
+        "question": "Cho đoạn chương trình sau:\n &nbsp;int i, a[6] = {1, 2, 3, 1, 2, 3};\n &nbsp;for (i = 0; i &lt; 6; i++)\n &nbsp; if (a[i] == 2)\n &nbsp;&nbsp; a[i] = 4;\n Kết quả sau khi thi hành đoạn chương trình trên?",
+        "answer": "Có đúng hai phần tử trong mảng a bị thay đổi"
+    },
+    "93842": {
+        "question": "Cho chương trình:\n #include &lt;iostream.h&gt;\n #define ARRAY_SIZE 5\n void main(void)\n {\n &nbsp;int values[ARRAY_SIZE] = {80, 70, 90,60,50 };\n &nbsp;int i;\n &nbsp;for (i = 0; i &lt; ARRAY_SIZE; i++)\n &nbsp;cout&lt;&lt;values[i]&lt;&lt;\" \";\n }\n Cho biết kết quả sau khi thi hành chương&nbsp; trình trên ?",
+        "answer": "80 70 90 60 50"
+    },
+    "93843": {
+        "question": "Xét đoạn mã sau: \n char name[15]=\"Trung Tam Tin Hoc Poly\"; \n cout&lt;&lt;name[9];\n Cho biết kết quả sau khi thi hành đoạn mã trên ?",
+        "answer": "Chương trình bị lỗi"
+    },
+    "93844": {
+        "question": "Chọn một phát biểu sai?",
+        "answer": " Chuỗi là mảng các trị 2 byte"
+    },
+    "93845": {
+        "question": "Chọn một phát biểu đúng về mảng ?",
+        "answer": "Mảng làmột nhóm phần tử có cùng kiểu và chung tên gọi."
+    },
+    "93846": {
+        "question": "Những lớp nào sau xử lý tệp tin đầu vào?",
+        "answer": "ifstream"
+    },
+    "93847": {
+        "question": "Các phần tử của mảng có thể có bao nhiêu kiểu dữ liệu khác nhau?",
+        "answer": "1"
+    },
+    "93848": {
+        "question": "Phát biểu nào đúng về typedef?",
+        "answer": "\"typedef định nghĩa tên mới cho kiểu dữ liệu đã có. \""
+    },
+    "93849": {
+        "question": "Phải include thư viện nào để sử dụng hàm getline(cin,string s);",
+        "answer": "#include"
+    },
+    "93850": {
+        "question": "Cho một mảng với khai báo như sau: \n int art[5]={1,5,4,2,10}; \n Cho biết giá trị của : art[art[art[0]]<span class=\"font8\">- </span><span class=\"font7\">art[2]] là bao nhiêu?\n </span>",
+        "answer": "5"
+    },
+    "93851": {
+        "question": "Tiêu đề tệp nào trong C++ chứa hướng dẫn tệp I/O?",
+        "answer": "fstream.h"
+    },
+    "93852": {
+        "question": "\n Ký tự nào kết thúc tất cả các chuỗi?",
+        "answer": " '\\0'"
+    },
+    "93853": {
+        "question": "Khai báo nào sau đây đúng về 1 chuỗi tĩnh?",
+        "answer": "\"Static String\""
+    },
+    "93854": {
+        "question": "Cú pháp nào đúng cho việc cho phép nhập toàn bộ xâu ký tự kể cả khoảng trắng?",
+        "answer": "cin.getline(cin, str);"
+    },
+    "93855": {
+        "question": "Biến con trỏ có thể chứa?",
+        "answer": "Địa chỉ vùng nhớ của một biến khác."
+    },
+    "93856": {
+        "question": "Có các khai báo sau: int x=15; int *p; Muốn p là con trỏ trỏ tới x phải thực hiện lệnh nào?",
+        "answer": "p=&amp;x;"
+    },
+    "93857": {
+        "question": "Nếu có các khai báo sau:\n char msg[10];\n char *ptr;\n char value;\n Câu nào sau đây là đúng?",
+        "answer": "ptr=msg;"
+    },
+    "93858": {
+        "question": "Kí hiệu nào là con trỏ của phẩn tử thứ 3 của màng a có 4 kí tự?",
+        "answer": "*(a+2);"
+    },
+    "93859": {
+        "question": "Cho các khai báo sau:\n void *tong;\n int *songuyen;\n char *kytu;\n Phép gán nào là không hợp lệ?",
+        "answer": " *songuyen=*tong;"
+    },
+    "93860": {
+        "question": "Phép cộng 1 con trỏ với một số nguyên sẽ là?",
+        "answer": "Một con trỏ có cùng kiểu."
+    },
+    "93861": {
+        "question": "Phép trừ 2 con trỏ có cùng kiểu sẽ là?",
+        "answer": "Một số nguyên."
+    },
+    "93862": {
+        "question": "Phép toán 1 ngôi nào dùng để xác định địa chỉ của đối tượng mà con trỏ chỉ tới?",
+        "answer": "&amp;"
+    },
+    "93863": {
+        "question": "Khi biến con trỏ không chứa bất kì một địa chỉ nào thì giá trị của nó sẽ là?",
+        "answer": "Null"
+    },
+    "93864": {
+        "question": "Cái gì quyết định kích thước của vùng nhớ được cấp phát cho các biến?",
+        "answer": "Kiểu dữ liệu"
+    },
+    "93865": {
+        "question": "Phép toán 1 ngôi nào dùng để xác định giá trị ở địa chỉ con trỏ trỏ tới?",
+        "answer": "*"
+    },
+    "93866": {
+        "question": "Cho các khai báo sau:\n char S[20]=”bbbbbcb”;\n char* p=strstr(S,”c”);\n Nếu địa chỉ của S là 100, thì giá trị của p là bao nhiêu?",
+        "answer": "105"
+    },
+    "93867": {
+        "question": "Khai báo hàm tìm giá trị lớn nhất trong một màng các số long dưới đây, khai báo nào đúng?",
+        "answer": "long Max(long *a, int n);"
+    },
+    "93868": {
+        "question": "Khai báo hàm tính tổng các phần tử trong một mảng các số nguyên dưới đây, khai báo nào đúng?",
+        "answer": "cả 3 phương án trên đều sai."
+    },
+    "93869": {
+        "question": "Để khai báo 1 hàm kiểm tra một mảng là giảm hay không ta dùng khai báo nào dưới đây?",
+        "answer": "int CheckDes(int *a, int n);"
+    },
+    "93870": {
+        "question": "Kích thước của biến con trỏ là?",
+        "answer": "2 byte"
+    },
+    "93871": {
+        "question": "Phát biểu nào dưới đây là khai báo đúng của một con trỏ?",
+        "answer": "ptr x;"
+    },
+    "93872": {
+        "question": "Từ khóa nào dưới đây là thích hợp để cấp phát bộ nhớ?",
+        "answer": "new"
+    },
+    "93873": {
+        "question": "Từ khóa nào dưới đây là thích hợp để thu hồi bộ nhớ?",
+        "answer": "delete"
+    },
+    "93874": {
+        "question": "Cho biết kết quả xuất ra của chương trình sau đây trên màn hình là gì? \n void main() \n { \n int x = 10; \n int &amp;t = x; \n x = 30; \n cout &lt;&lt; x &lt;&lt; \" \" &lt;&lt; t; \n } ",
+        "answer": "30 30"
+    },
+    "93875": {
+        "question": "Cho biết kết quả xuất ra của đoạn chương trình sau đây trên màn hình là gì? \n int a = 0; \n int *p = &amp;a; \n *p = 50; \n cout &lt;&lt; a &lt;&lt; \" \" &lt;&lt;*p; \n ",
+        "answer": "50 50"
+    },
+    "93876": {
+        "question": "Cho biết kết quả của đoạn chương trình sau?\n char *s=\"ABCDEFGH\"; \n &nbsp;int l=strlen(s); \n &nbsp;cout&lt;&lt;s[l];&nbsp;",
+        "answer": "ký tự trống"
+    },
+    "93877": {
+        "question": "Lệnh nào sau đây dùng để khai báo con trỏ quản lý kiểu dữ liệu int?&nbsp;",
+        "answer": "int *x;"
+    },
+    "93918": {
+        "question": "Có 3 lớp khai báo như sau: \n class Lop1{\n private: int a,b;\n public: float x,y;\n friend class Lop2;}\n class Lop2{Lop1 objA;};\n class Lop3{Lop1 objB;};\n Các đối tượng objA, objB truy cập được các biến nào của Lop1?",
+        "answer": "objA truy cập được tất cả; objB truy cập được x,y;"
+    },
+    "93919": {
+        "question": "Giả sử có Đoạn mã code Được viết như sau:\n class&nbsp; Lop1 { \n public:int a,b; \n void nhap( ){\n &nbsp;cout&lt;&lt;”\\n\\t a = “;cin&gt;&gt;a; \n &nbsp;cout&lt;&lt;”\\n\\t b =”;cin&gt;&gt;b;} }; \n \n class Lop2: public Lop1{};\n Khi khai báo Đối tượng objLop2 cho Lop2 thì nó có thể truy xuất thủ tục nhập của lớp 1 bằng cú pháp nào sau là đúng nhất?",
+        "answer": "Tất cả đều sai"
+    },
+    "93920": {
+        "question": "Từ khoá protected trong một lớp có ý nghĩa?",
+        "answer": "Khai báo các thành viên Được bảo vệ "
+    },
+    "93921": {
+        "question": "Giả sử một lớp với các hàm dựng Được khai báo như sau:\n class&nbsp; Lop{private : int&nbsp; a,b; \n public: \n lop ( ) // Hàm dựng 1 \n {a = b = 5;} \n lop (int m, int n) // Hàm dựng 2 \n {a = m; b =n;}}; \n Khi tạo một Đối tượng bằng cú pháp LopobjLop(4,5); Thì hàm dựng nào sẽ được gọi?",
+        "answer": "Hàm dựng 2"
+    },
+    "93922": {
+        "question": "Khai báo về class nào đúng trong các khai báo sau?",
+        "answer": "class A { int x; };"
+    },
+    "93923": {
+        "question": "Phát biểu nào sau đúng về một hàm dựng?",
+        "answer": "Một hàm dựng phải có cùng tên với lớp của nó, và được khai báo không có kiểu trả về"
+    },
+    "93966": {
+        "question": "Khai báo về struct nào đúng trong các khai báo sau?",
+        "answer": "\"struct Ratio { private: int num, den; }; \""
+    },
+    "93967": {
+        "question": "Một lớp có thể có bao nhiêu hàm dựng?",
+        "answer": "Không giới hạn"
+    },
+    "93968": {
+        "question": "Một lớp có thể có bao nhiêu hàm hủy?",
+        "answer": "1"
+    },
+    "93969": {
+        "question": "Tên bắt buộc của một hàm dựng?",
+        "answer": "trùng tên với lớp đó"
+    },
+    "93970": {
+        "question": "Tên bắt buộc của một hàm hủy?",
+        "answer": "trùng tên với lớp đó và có tiền tố là dấu ngã (~)"
+    },
+    "93971": {
+        "question": "Trong đoạn mã sau hàm dựng sao chép được gọi bao nhiêu lần?\n Widget f(Widget u)\n { Widget v(u); Widget w = v;\n return w;\n }\n \n main()\n { Widget x;\n Widget y = f(f(x));\n }",
+        "answer": "7"
+    },
+    "93972": {
+        "question": "Kết quả hiện ra màn hình của đoạn chương trình sau là?\n &nbsp;class Box\n &nbsp;&nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public :\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; double length;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; double breadth;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; double height;\n &nbsp;&nbsp;&nbsp; };\n &nbsp;int main( ) {\n &nbsp;Box Box1; double volume;\n Box1.height = 5; Box1.length = 6; Box1.breadth = 7.1;\n &nbsp;volume = Box1.height * Box1.length * Box1.breadth;\n cout &lt;&lt;&nbsp; volume &lt;&lt;endl;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return 0;\n &nbsp;&nbsp;&nbsp; }",
+        "answer": "213"
+    },
+    "93973": {
+        "question": "Kết quả hiện ra màn hình của đoạn chương trình sau là?\n class X\n { public:\n int data;\n };\n int main()\n { X* a = new X;\n &nbsp;&nbsp; (*a).data = 20;&nbsp; \n &nbsp;&nbsp; cout &lt;&lt;&nbsp; p-&gt;data ;\n &nbsp;&nbsp; return 0\n }",
+        "answer": "20"
+    },
+    "93974": {
+        "question": "Kết quả hiện ra màn hình của đoạn chương trình sau là ?\n class X\n { \n &nbsp; public:int data;\n };\n int main()\n { \n &nbsp;X* p = new X;\n &nbsp;p-&gt;data = 30;\n &nbsp;&nbsp; cout &lt;&lt; (*p).data ;&nbsp; \n &nbsp;&nbsp; return 0;\n }",
+        "answer": "30"
+    },
+    "93975": {
+        "question": "Những hàm nào sẽ được chứa trong 1 lớp?",
+        "answer": "Cả khởi tạo và hủy"
+    },
+    "93976": {
+        "question": "Trong 3 thành viên cho 1 thành phần của class, thành viên không giới hạn quyền truy cập từ bên ngoài lớp?",
+        "answer": "public"
+    },
+    "93977": {
+        "question": "Cho khai báo sau về struct:\n struct <span class=\"font7\">Hocsinh</span><span class=\"font8\">{\n double diemtoan;\n double diemtin;};\n \n Truy cập thành viên của struct nào là đúng?</span>",
+        "answer": "Hocsinh.diemtoan"
+    },
+    "93978": {
+        "question": "Kết quả đoạn chương trình sau là gì?\n class <span class=\"font7\">VT</span><span class=\"font8\">{\n &nbsp;public:\n &nbsp;VT() { ++count; }\n &nbsp;~VT() { --count; }\n &nbsp;static int num() { return count; }\n &nbsp;private:\n &nbsp;static int count;\n };\n int VT::count = 0;\n int </span><span class=\"font7\">main</span><span class=\"font8\">(){ \n &nbsp;&nbsp;&nbsp; VT w, x;\n &nbsp;&nbsp;&nbsp; cout &lt;&lt; VT::num();\n &nbsp;&nbsp;&nbsp; return 0;\n }\n </span>",
+        "answer": "2"
+    },
+    "93979": {
+        "question": "Để định nghĩa một cấu trúc sinh viên có tên là Sinhvien, gồm có tên và tuổi sinh viên. Định nghĩa nào sau đây đúng?",
+        "answer": "\"struct Sinhvien{ char name[30]; int age; };\""
+    },
+    "93980": {
+        "question": "Toán tử nào sau có thể nạp chồng?",
+        "answer": "new"
+    },
+    "93981": {
+        "question": "Toán tử nào sau không thể nạp chồng?",
+        "answer": "?:"
+    },
+    "93982": {
+        "question": "Hãy cho biết định nghĩa nào sau đây sai?",
+        "answer": "Chồng toán tử định nghĩa như là một hàm thành phần."
+    },
+    "93983": {
+        "question": "Chọn câu phát biểu đúng?",
+        "answer": "Trong nội bộ 1 lớp có 1 con trỏ this"
+    },
+    "93984": {
+        "question": "Pháp biểu nào đúng về xây dựng toán tử gán?&nbsp;",
+        "answer": "void operator=(const ten_lop&amp;tham_so); "
+    },
+    "93985": {
+        "question": "Pháp biểu nào đúng về xây dựng toán tử nhập?&nbsp;",
+        "answer": "friend istream&amp;operator&gt;&gt;(istream&amp;istr,sp &amp;a);"
+    },
+    "93986": {
+        "question": "Chọn phát biểu đúng?",
+        "answer": "Hàm bạn có 1 điểm khác duy nhất so với các hàm thông thường là trong thân hàm có thể truy xuất đến các thành phần riêng của lớp."
+    },
+    "93987": {
+        "question": "Pháp biểu nào đúng về xây dựng toán tử xuất?&nbsp;",
+        "answer": "friend ostream&amp;operator"
+    },
+    "93988": {
+        "question": "Chọn đúng trong các cách khai báo nạp chồng sau?",
+        "answer": "\"void inra(char*s); void inra(char s[]);\""
+    },
+    "93989": {
+        "question": "Chọn sai trong các cách khai báo nạp chồng sau?",
+        "answer": "\"void hienthi(char s[]); void hienthi(char s[][6]);\""
+    },
+    "93990": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1):num(n), den(d) { };\n </span><span class=\"font9\">private:</span><span class=\"font8\"> int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const pheptoan&amp; r){ \n &nbsp;return ostr &lt;&lt; r.num + r.den;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(22,8), y(-3,8);\n &nbsp;&nbsp;&nbsp; cout &lt;&lt;&nbsp; x &lt;&lt; \", \" &lt;&lt; y ;</span>",
+        "answer": "30,5"
+    },
+    "93991": {
+        "question": "Khai báo nạp chồng so sánh nào đúng?",
+        "answer": "\"bool operator ==( const Money&amp; amount1, const Money&amp; amount2);\""
+    },
+    "93992": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1): num(n), den(d) { };\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\"> operator++();\n </span><span class=\"font9\">private:</span><span class=\"font8\"> int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const pheptoan&amp; r){ \n &nbsp;&nbsp;&nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n PT PT::operator++(){\n &nbsp;&nbsp; num += den;&nbsp; return *this;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(2,4), y=++x;&nbsp;&nbsp;&nbsp; cout &lt;&lt;&nbsp; x ;</span>",
+        "answer": "6/4"
+    },
+    "93993": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1) : num(n), den(d) { };\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\"> operator++(int);\n </span><span class=\"font9\">private:</span><span class=\"font8\"> int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const pheptoan&amp; r){ \n return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n </span><span class=\"font7\">PT</span><span class=\"font8\"> </span><span class=\"font7\">PT</span><span class=\"font8\">::operator++(int){\n &nbsp;pheptoan temp = *this; num += den;\n &nbsp;return temp;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> y(1,3), x=y++;&nbsp;&nbsp;&nbsp; cout &lt;&lt;&nbsp; y ;</span>",
+        "answer": "4/3"
+    },
+    "93994": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;,&nbsp;&nbsp; const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1):num(n),den(d) { };\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> operator--(int);\n </span><span class=\"font9\">private:</span><span class=\"font8\">&nbsp;&nbsp;&nbsp; int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const pheptoan&amp; r){ \n &nbsp;&nbsp;&nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n </span><span class=\"font7\">PT</span><span class=\"font8\"> </span><span class=\"font7\">PT</span><span class=\"font8\">::operator--(int){ \n &nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> temp = *this; num -= den;\n &nbsp; return temp;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> y(5,3), x=y--;&nbsp; cout &lt;&lt;&nbsp; y ;</span>",
+        "answer": "2/3"
+    },
+    "93995": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1) : num(n), den(d) { }\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\"> operator--();\n </span><span class=\"font9\">private:</span><span class=\"font8\"> int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const PT&amp; r){ \n &nbsp;&nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n </span><span class=\"font7\">PT</span><span class=\"font8\"> </span><span class=\"font7\">PT</span><span class=\"font8\">::operator--(){\n &nbsp;&nbsp; num -= den;&nbsp;&nbsp; return *this;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(8,6), y=--x;&nbsp; cout &lt;&lt;&nbsp; x ;</span>",
+        "answer": "2/6"
+    },
+    "93996": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1) : num(n), den(d) { };\n &nbsp;</span><span class=\"font7\">operator</span><span class=\"font8\"> double() const;\n </span><span class=\"font9\">private:</span><span class=\"font8\">&nbsp; int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const PT&amp; r){ \n &nbsp;&nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n PT::operator double() const{\n &nbsp;&nbsp;&nbsp; return double(num)/den;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(7,6);&nbsp; cout &lt;&lt;&nbsp; double(x) ;</span>",
+        "answer": "1,16667"
+    },
+    "93997": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1) : num(n), den(d) { };\n &nbsp;</span><span class=\"font7\">int</span><span class=\"font8\">&amp; operator[](int);\n </span><span class=\"font9\">private:</span><span class=\"font8\"> int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp; r){ \n &nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n int&amp; </span><span class=\"font7\">PT</span><span class=\"font8\">::operator[](int i){\n &nbsp; if (i == 1) return num;\n &nbsp; else return den;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(7,6);&nbsp;&nbsp;&nbsp; cout &lt;&lt;&nbsp; x[1]+x[2];</span>",
+        "answer": "13"
+    },
+    "93998": {
+        "question": "Cho khai báo sau:\n class <span class=\"font7\">PT</span><span class=\"font8\">{&nbsp; \n &nbsp;friend ostream&amp; operator&lt;&lt;(ostream&amp;, const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">public:</span><span class=\"font8\">\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">(int n=0, int d=1) : num(n), den(d) { };\n &nbsp;</span><span class=\"font7\">PT</span><span class=\"font8\">&amp; operator/=(const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp;);\n </span><span class=\"font9\">private:</span><span class=\"font8\">\n &nbsp;int num, den;\n };\n ostream&amp; operator&lt;&lt;(ostream&amp; ostr, const PT&amp; r){ \n &nbsp;&nbsp; return ostr &lt;&lt; r.num &lt;&lt; '/' &lt;&lt; r.den;\n }\n </span><span class=\"font7\">PT</span><span class=\"font8\">&amp; </span><span class=\"font7\">PT</span><span class=\"font8\">::operator/=(const </span><span class=\"font7\">PT</span><span class=\"font8\">&amp; r){\n &nbsp;num = num/r.num;&nbsp; den = den/r.den;\n &nbsp;return *this;\n }\n kết quả chương trình sau khi thực hiện câu lệnh sau?\n &nbsp;&nbsp;&nbsp; </span><span class=\"font7\">PT</span><span class=\"font8\"> x(7,6),y(2,3);x/=y;&nbsp;&nbsp;&nbsp; cout &lt;&lt;&nbsp; x;</span>",
+        "answer": "3/2"
+    },
+    "93999": {
+        "question": "Từ khoá virtual khi Đứng trước một hàm nào Đó thì có ý nghĩa gì?&nbsp;",
+        "answer": "Xác Định là hàm ảo"
+    },
+    "94000": {
+        "question": "Phát biểu nào đúng nhất cho hàm ảo?",
+        "answer": "Các hàm ảo được ghi đè bởi các hàm có cùng chữ ký và được định nghĩa trong các lớp con"
+    },
+    "94001": {
+        "question": "Phát biểu nào đúng nhất cho tính đa hình?",
+        "answer": "cho phép các đối tượng có kiểu khác nhau trả lời cùng một lời gọi hàm nhưng theo các cách khác nhau"
+    },
+    "94002": {
+        "question": "Những từ khóa nào sau không hợp lệ?",
+        "answer": "guarded"
+    },
+    "94003": {
+        "question": "Hãy xét đoạn mã sau:\n class A{\n int a,b;\n public:\n float F1,F2;\n };\n class B:public A{\n &nbsp;&nbsp; ...\n }\n Hỏi: lớp B sử dụng được các biến thành viên nào của lớp A?",
+        "answer": "F1,F2"
+    },
+    "94004": {
+        "question": "Hãy xét đoạn mã sau:\n class A{\n &nbsp;&nbsp;&nbsp; protected:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int a,b;\n &nbsp;&nbsp;&nbsp; public:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; float F1,F2;\n };\n class B:public A{\n &nbsp;&nbsp; ...\n }\n Hỏi: lớp B sử dụng được các biến thành viên nào của lớp A?",
+        "answer": "a,b,F1,F2"
+    },
+    "94005": {
+        "question": "Hãy xem xét đoạn mã sau:\n class A{\n int a,b;\n float F1,F2;\n };\n class B:public A\n {\n ...\n }\n Hỏi: B sử dụng được các biến thành viên nào của A?",
+        "answer": "Không sử dụng được biến nào"
+    },
+    "94006": {
+        "question": "Hãy xem xét định nghĩa hàm dựng nào là đúng nhất sau đây?",
+        "answer": "\"Hàm có trùng tên với tên lớp, được gọi ngay sau khi khai báo đối tượng hoặc con trỏ đối tượng, có thể kế thừa\""
+    },
+    "94007": {
+        "question": "Thế nào thì được gọi là hiện tượng nạp chồng?",
+        "answer": "Hiện tượng lớp con kế thừa định nghĩa môt hàm hoàn toàn giống lớp cha."
+    },
+    "94008": {
+        "question": "Có 3 lớp khai báo như sau:\n class Lop1{\n &nbsp;&nbsp;&nbsp; private:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int a,b;\n &nbsp;&nbsp;&nbsp; public:\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; float x,y;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; friend class Lop2;};\n class Lop2{Lop1 objA;};\n class Lop3{Lop1 objB};\n Các đối tượng objA,objB truy cập được các biến nào của lớp Lop1?",
+        "answer": "objA truy cập được tất cả các biến. objB truy cập được các biến x,y"
+    },
+    "94009": {
+        "question": "class Lop1{\n public: \n &nbsp;&nbsp;&nbsp; int a,b;\n &nbsp;&nbsp;&nbsp; void nhap( ){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;”\\n\\t a = “;cin&gt;&gt;a;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;”\\n\\t b =”;cin&gt;&gt;b;}\n };\n class Lop2:public Lop1{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public: Lop1 *p;\n };\n Khi khai báo đối tượng của lớp Lop2 thì nó có thể truy xuất thủ tục nhap() của Lop1 bằng cú pháp nào?\n ",
+        "answer": "\"objLop2.nhap(); objLop2.p →nhap( )\""
+    },
+    "94010": {
+        "question": "Cho khai báo sau:\n class Lop1{\n public: \n &nbsp;&nbsp;&nbsp; int a,b;\n &nbsp;&nbsp;&nbsp; void nhap( ){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;”\\n\\t a = “;cin&gt;&gt;a;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;”\\n\\t b =”;cin&gt;&gt;b;}\n };\n Nếu 1 đối tượng objLop1 của Lop1 được tạo ra thì việc gán giá trị 9 vào biến a,b được thực hiện bằng cách nào sau?",
+        "answer": "objLop1.a = objLop1.b = 10;"
+    },
+    "94011": {
+        "question": "Từ khóa protected trong một lớp có ý nghĩa gì?",
+        "answer": "Khai báo các thành viên của lớp chỉ được thừa kế "
+    },
+    "94012": {
+        "question": "Hãy xem xét đoạn mã sau đây\n class Lop1{\n public:\n &nbsp;&nbsp;&nbsp; int a,b,c,d;\n &nbsp;&nbsp;&nbsp; void input( ){\n &nbsp;&nbsp; cout&lt;&lt;\"\\n\\t a =\";cin&gt;&gt;a;\n &nbsp;&nbsp; cout&lt;&lt;\"\\n\\t b =\";cin&gt;&gt;b;}\n };\n class Lop2:public Lop1{\n public:\n &nbsp;&nbsp;&nbsp; void input( ){\n &nbsp;&nbsp; cout&lt;&lt;\"\\n\\t c =\";cin&gt;&gt;c;\n &nbsp;&nbsp; cout&lt;&lt;\"\\n\\t d =\";cin&gt;&gt;d;}\n };\n Nếu tạo 1 đối tượng objLop2 cho lớp Lop2, để gọi hàm input() của Lop1 để nhập các giá trị a,b thì dùng cú pháp nào?",
+        "answer": "objLop2.Lop1::input( );"
+    },
+    "94013": {
+        "question": "Từ khoá virtual khi đứng trức một hàm nào đó thì có ý nghĩa gì?",
+        "answer": "Xác định hàm đó sẽ chuyển thành dạng đa hình."
+    },
+    "94014": {
+        "question": "Khai báo lớp Test như sau: \n class Test{\n public:\n &nbsp;&nbsp; float x,y;\n &nbsp;&nbsp; void nhap(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; float f1,f2;\n cout&lt;&lt;”\\nNhap so 1: “;cin&gt;&gt;f1;\n cout&lt;&lt;”\\n\\Nhap so 2: “;cin&gt;&gt;f2;\n &nbsp; x = f1 ; y = f2;}\n };\n Khi tạo ra đối tượng objtest thì dùng lệnh nào để nhập giá trị vào cho biến x,y?",
+        "answer": "objtest.nhap( );"
+    },
+    "94015": {
+        "question": "Cho khai báo sau:\n class Test{\n public:\n &nbsp;&nbsp; float x,y;\n &nbsp;&nbsp; float tong(float f1, float f2){\n &nbsp;&nbsp;&nbsp; float s = f1 + f2;\n &nbsp;&nbsp;&nbsp; return s;}\n };\n Khi tạo ra một đối tựng objTest của lớp, để gọi hàm tong thì dùng cú pháp nào?",
+        "answer": "float KQ = objTest.tong(objTest.x, objTest.y);"
+    },
+    "94016": {
+        "question": "Cho khai báo sau:\n class Test{\n public:\n &nbsp;&nbsp; float x,y;\n &nbsp;&nbsp; void hieu(float f1, float f2){\n &nbsp;&nbsp;&nbsp; float s = f1 - f2; cout &lt;&lt;s;\n &nbsp;&nbsp;&nbsp; }\n };\n Khi tạo ra một đối tựng objTest của lớp, để gọi hàm hieu thì dùng cú pháp nào?",
+        "answer": "objTest.hieu(objTest.x, objTest.y);"
+    },
+    "94017": {
+        "question": "Trong khai báo sau, khai báo nào đúng cú pháp kế thừa lớp?",
+        "answer": "\"class A: public B{…}; \""
+    },
+    "94018": {
+        "question": "Cho khai báo sau:\n &nbsp;class B{ public: void show(); };\n &nbsp;class A: public B{ public: void show(); };\n Khi khởi tạo đối tượng objA cho lớp A, muốn gọi hàm show ở lớp B thì lệnh nào hợp lệ?",
+        "answer": "objA.B::show();"
+    }
+}

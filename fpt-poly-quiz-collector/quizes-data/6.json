@@ -1,0 +1,6 @@
+{
+    "30000": {
+        "question": "Giả sử biến @String được khai báo như sau:\n DECLARE @String varchar.\n Cho biết kết quả trả về của đoạn mã sau?\n SET @String = 'SQL Server 2008'\n SELECT LEN(@String)",
+        "answer": "15"
+    }
+}

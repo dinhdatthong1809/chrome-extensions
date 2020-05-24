@@ -1,0 +1,74 @@
+{
+    "150017": {
+        "question": "Cho hai phát biểu liên quan đến đặc điểm của ánh xạ lazy=false\n Phát biểu 1: Tránh&nbsp; các&nbsp; câu&nbsp; truy&nbsp; vấn&nbsp; cơ&nbsp; sở&nbsp; dữ&nbsp; liệu&nbsp; không cần thiết \n Phát biểu 2: Gia tăng hiệu suất thực thi&nbsp;",
+        "answer": "Cả hai phát biểu cùng đúng"
+    },
+    "150018": {
+        "question": "Làm thế nào để ánh xạ môt-một\n Bước 1: Mapping giống như mapping mối quan hệ nhiều-một:\n Bước 2: Thêm thuộc tính unique=“true”",
+        "answer": "Thực hiện cả 2 bước 1 và 2"
+    },
+    "150020": {
+        "question": "Thuộc tính nào không phải là thuộc tính của thẻ &lt;property&gt;",
+        "answer": "constraint"
+    },
+    "150021": {
+        "question": "Thuộc tính nào là thuộc tính của thẻ &lt;class&gt;",
+        "answer": "table"
+    },
+    "150022": {
+        "question": "Thuộc tính nào không phải là thuộc tính của thẻ &lt;many-to-one&gt;",
+        "answer": "type"
+    },
+    "150023": {
+        "question": "Phương thức nào của Session thực hiện công việc insert một bản ghi vào cơ sở dữ liệu",
+        "answer": "save()"
+    },
+    "150024": {
+        "question": "Cho câu lệnh HQL sau: \"FROM HocSinh\". Từ HocSinh được hiểu như thế nào?\n 1. Tên lớp thực thể\n 2. Tên bảng trong CSDL",
+        "answer": "1 đúng, 2 sai"
+    },
+    "150025": {
+        "question": "Phương thức nào của Query sau đây không phải là phương thức cấp giá trị cho các tham số trong câu lệnh HQL",
+        "answer": "setImage()"
+    },
+    "150026": {
+        "question": "Để lập trình CSDL trong Hibernate thứ tự thực hiện những công việc đầu tiên là",
+        "answer": "Nạp file cấu hỉnh, lấy session factory, mở session"
+    },
+    "150027": {
+        "question": "Cho hai phát biểu về HQL sau\n Phát biểu 1: HQL độc lập hệ quản trị cơ sở dữ liệu và được Hibernate thông dịch sang SQL tương ứng trong quá trình thực thi.\n Phát biểu 2: HQL là ngôn ngữ truy vấn theo hướng đối tượng. Kết quả truy vấn là đối tượng",
+        "answer": "Cả 2 phát biểu đều đúng"
+    },
+    "150028": {
+        "question": "Cho hai câu lệnh truy vấn sau:\n 1. from Sach\n 2. FROM Sach",
+        "answer": "Cả 2 câu đều đúng"
+    },
+    "150029": {
+        "question": "Cho hai câu lệnh truy vấn sau:\n 1. from sach\n 2. FROM Sach",
+        "answer": "Câu 2 đúng, câu 1 sai"
+    },
+    "150030": {
+        "question": "Cho hai câu lệnh truy vấn sau:\n 1. select s from Sach s\n 2. from Sach",
+        "answer": "Cả 2 câu đều đúng"
+    },
+    "150031": {
+        "question": "2 phương thức trong Query được sử dụng để phân trang là gì?",
+        "answer": "setFirstResult() và setMaxResults()"
+    },
+    "150032": {
+        "question": "HQL không hỗ trợ loại join nào",
+        "answer": "full join"
+    },
+    "150033": {
+        "question": "Chỉ thị nào được sử dụng để nhúng thư viện thẻ vào trang JSP",
+        "answer": "&lt; %@taglib%&gt;"
+    },
+    "150034": {
+        "question": "Khi ánh xạ thuộc tính của đối tượng với các cột trong bảng, thẻ nào được sử dụng để chỉ ra cột tự tăng",
+        "answer": "&lt; generator&gt;"
+    },
+    "150035": {
+        "question": "Thẻ nào được sử dụng để ánh xạ lớp thực thể với bảng trong CSDL",
+        "answer": "&lt; class&gt;"
+    }
+}

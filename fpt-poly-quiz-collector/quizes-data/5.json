@@ -1,0 +1,4382 @@
+{
+    "25758": {
+        "question": "Khái niệm nào sau đây không phải là thành phần bắt buộc của một hệ thống thông tin?",
+        "answer": "Internet"
+    },
+    "25759": {
+        "question": "Thiết bị xử lý dữ liệu để tạo thông tin được gọi là?",
+        "answer": "Phần cứng (CPU)"
+    },
+    "25760": {
+        "question": "Phần mềm hệ thống bao gồm các phần sau, ngoại trừ?",
+        "answer": "Trình duyệt&nbsp;"
+    },
+    "25761": {
+        "question": "Bộ phận nào sau đây sẽ không lưu lại dữ liệu sau khi tắt máy tính?",
+        "answer": "RAM"
+    },
+    "25762": {
+        "question": "Mục đích của phần mềm là chuyển dữ liệu thành thông tin, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25763": {
+        "question": "Phát biểu \"Phần mềm hệ thống thường không phải là một chương trình đơn nhất mà là một tập hợp các chương trình\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25764": {
+        "question": "Phát biểu \"Trình duyệt là một ví dụ của phần mềm chuyên dụng\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25765": {
+        "question": "Con người, quy trình, phần mềm, dữ liệu và phần cứng là năm thành phần của một:",
+        "answer": "Hệ thống thông tin"
+    },
+    "25766": {
+        "question": "Lập trình viên là người làm nhiệm vụ quản lý cơ sở dữ liệu và quản lý mạng nội bộ của công ty. Phát biểu này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25767": {
+        "question": "Mạng lớn nhất trên thế giới là mạng nào?",
+        "answer": "Internet"
+    },
+    "25768": {
+        "question": "Ứng dụng cơ bản dùng để duyệt và tìm kiếm thông tin trên Internet được gọi là?",
+        "answer": "Trình duyệt"
+    },
+    "25769": {
+        "question": "Tập hợp các dữ liệu đã qua xử lý, phụ thuộc vào ngữ cảnh, được gọi là:",
+        "answer": "Thông tin"
+    },
+    "25770": {
+        "question": "Các quy tắc cần tuân theo khi sử dụng phần mềm, phần cứng và dữ liệu được gọi là?",
+        "answer": "Thủ tục"
+    },
+    "25771": {
+        "question": "Hệ điều hành có chức năng gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "25772": {
+        "question": "Thiết bị nào không cùng nhóm với thiết bị còn lại?",
+        "answer": "Bàn phím"
+    },
+    "25773": {
+        "question": "USB 3G là ví dụ của nhóm phần cứng nào?",
+        "answer": "Thiết bị kết nối"
+    },
+    "25774": {
+        "question": "Dạng file được tạo bởi các trình xử lý văn bản gọi là?",
+        "answer": "Văn bản"
+    },
+    "25775": {
+        "question": "Thiết bị nào lưu trữ dữ liệu tạm thời?",
+        "answer": "RAM"
+    },
+    "25776": {
+        "question": "Định nghĩa nào sau đây không đúng về bộ nhớ thứ cấp?",
+        "answer": "Bộ nhớ thứ cấp kết nối trực tiếp với bộ vi xử lý"
+    },
+    "25777": {
+        "question": "Máy tính cầm tay thuộc loại máy tính nào?",
+        "answer": "Máy vi tính"
+    },
+    "25778": {
+        "question": "Đâu không phải là một nghề trong ngành công nghệ thông tin?",
+        "answer": "Thiết kế hình ảnh"
+    },
+    "25779": {
+        "question": "Thiết bị vào là thiết bị nào sau đây?",
+        "answer": "Scanner"
+    },
+    "25780": {
+        "question": "Thành phần của một hệ thống thông tin không bao gồm thành phần nào sau đây?",
+        "answer": "Giấy tờ"
+    },
+    "25781": {
+        "question": "Máy tính được phân thành 4 loại máy tính, gồm những loại nào sau đây?",
+        "answer": "Siêu máy tính, Máy tính lớn mainframe, Máy vi tính và Máy tính mini"
+    },
+    "25782": {
+        "question": "Loại máy tính nào sau đây được coi là máy tính điện tử số đầu tiên?",
+        "answer": "Máy tính ENIAC"
+    },
+    "25783": {
+        "question": "CPU (Central Processing Unit) trong máy tính có nhiệm vụ chính là?",
+        "answer": "Không có phương án nào đúng"
+    },
+    "25784": {
+        "question": "Màn hình và chuột là các thiết bị ra của một máy tính đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25785": {
+        "question": "Dữ liệu là",
+        "answer": "Tập hợp các dữ liệu ở mức thô (văn bản, âm thanh, hình ảnh, các ký số,...)"
+    },
+    "25786": {
+        "question": "Hệ thống thông tin bao gồm:",
+        "answer": "Con người, các thủ tục, phần cứng, phần mềm, dữ liệu, các kết nối"
+    },
+    "25787": {
+        "question": "Phần \"sinhvien\" trong sinhvien@polytechnic.edu.vn gọi là gì?",
+        "answer": "Tài người dùng (user name)"
+    },
+    "25788": {
+        "question": "Loại hình thương mại điện tử nào sau đây không phải là loại hình chính thức?",
+        "answer": "C2B"
+    },
+    "25789": {
+        "question": "Phần mềm ứng dụng cơ bản dùng để duyệt và tìm kiếm thông tin trên Internet được gọi là?",
+        "answer": "Trình duyệt"
+    },
+    "25790": {
+        "question": "Hai thành phần của một URL gồm?",
+        "answer": "Tên giao thức, tên miền"
+    },
+    "25791": {
+        "question": "Tên tài khoản và tên miền của một địa chỉ hòm thư được ngăn cách với nhau bởi ký hiệu nào?",
+        "answer": "@"
+    },
+    "25792": {
+        "question": "Web được giới thiệu vào năm 1991 ở đâu?",
+        "answer": "European Organization for Nuclear Research (CERN)"
+    },
+    "25793": {
+        "question": "Phần mềm nào sau đây không phải là một trình duyệt web?",
+        "answer": "Window Explorer"
+    },
+    "25794": {
+        "question": "Twitter là một ví dụ của?",
+        "answer": "Tiểu blog"
+    },
+    "25795": {
+        "question": "Ngân hàng trực tuyến là một ví dụ của loại thương mại điện tử nào ?",
+        "answer": "B2C"
+    },
+    "25796": {
+        "question": "Chương trình tự động chạy và hoạt động như một phần của trình duyệt được gọi là?",
+        "answer": "Plug-ins"
+    },
+    "25797": {
+        "question": "Phát biểu \"Để truy nhập vào một trang web, trình duyệt chỉ cần biết tên miền của trang web\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25798": {
+        "question": "Phần đầu của một email thường bao gồm: tiêu đề, địa chỉ và các file đính kèm đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25799": {
+        "question": "Mạng xã hội chỉ kết nối những cá nhân đã quen biết nhau từ trước",
+        "answer": "Sai"
+    },
+    "25800": {
+        "question": "Acrobat Reader, Flash Player có hỗ trợ tích hợp (plug-in) vào trình duyệt hay không?",
+        "answer": "Có"
+    },
+    "25801": {
+        "question": "Upload là quá trình copy một file từ một trang web về máy tính của bạn đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25802": {
+        "question": "Giao thức nào được sử dụng để truyền tải Web và là giao thức Internet thông dụng nhất?",
+        "answer": "HTTP"
+    },
+    "25803": {
+        "question": "Trong URL \"http://www.simnetonline.com\", \"simnetonline.com\" là?",
+        "answer": "Tên miền"
+    },
+    "25804": {
+        "question": "Copy file từ một trang web về máy tính của bạn được gọi là?",
+        "answer": "Download"
+    },
+    "25805": {
+        "question": "Loại hình thương mại điện tử giữa các doanh nghiệp với nhau là?",
+        "answer": "B2B"
+    },
+    "25806": {
+        "question": "Nhà cung cấp dịch vụ Internet viết tắt là?",
+        "answer": "ISP"
+    },
+    "25807": {
+        "question": "Mozilla Firefox là?",
+        "answer": "Trình duyệt"
+    },
+    "25808": {
+        "question": "Địa chỉ trang nào sau đây không liên quan đến thương mại điện tử?",
+        "answer": "www.flickr.com"
+    },
+    "25809": {
+        "question": "URL là gì?",
+        "answer": "Uniform Resource Locator"
+    },
+    "25810": {
+        "question": "HTTP là gì?",
+        "answer": "HyperText Transfer Protocol"
+    },
+    "25811": {
+        "question": "FTP là gì?",
+        "answer": "File Transfer Protocol"
+    },
+    "25812": {
+        "question": "Lựa chọn nào không phải là loại hình cơ bản của thương mại điện tử?",
+        "answer": "D2D "
+    },
+    "25813": {
+        "question": "Chương trình hoạt động bằng cách thông dịch mã HTML thành trang Web là?",
+        "answer": "Trình duyệt"
+    },
+    "25814": {
+        "question": "Tên nào dưới đây không phải là giao thức?",
+        "answer": "HTML"
+    },
+    "25815": {
+        "question": "Thành phần nào bắt buộc cần có khi gửi một mail?",
+        "answer": "Địa chỉ (to/cc/bcc)"
+    },
+    "25816": {
+        "question": "Trình duyệt nào hiện nay không được phát triển tiếp nữa?",
+        "answer": "Netscape"
+    },
+    "25817": {
+        "question": "\"Để vào một trang web chỉ có 1 cách duy nhất là biết địa chỉ trang web dưới dạng tên miền''. Ví dụ: caodang.fpt.edu.vn, điều này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25818": {
+        "question": "Phát biểu \"cc và bcc là cách thức để gửi mail cho nhiều người và những người đó đều biết địa chỉ mail của nhau\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25819": {
+        "question": "CC là",
+        "answer": "Carbon copy"
+    },
+    "25820": {
+        "question": "BCC là",
+        "answer": "<span class=\"st\">Blind carbon copy</span>"
+    },
+    "25821": {
+        "question": "Mô hình thương mại doanh nghiệp tới người dùng là?",
+        "answer": "B2C"
+    },
+    "25822": {
+        "question": "Mô hình thương mại Khách hàng tới tới khách hàng gọi là?",
+        "answer": "C2C"
+    },
+    "25823": {
+        "question": "Phát biểu nào sau đây đúng với C2C (Consumer To Consumer)?",
+        "answer": "Là mô hình thương mại điện tử hỗ trợ việc mua bán giữa các cá nhân với nhau"
+    },
+    "25824": {
+        "question": "Nếu bạn muốn tạo một tài liệu chứa ký tự là chủ yếu thì bạn cần loại phần mềm nào?",
+        "answer": "Xử lý văn bản"
+    },
+    "25825": {
+        "question": "Google docs là một ví dụ của?",
+        "answer": "Bộ phần mềm văn phòng trực tuyến"
+    },
+    "25826": {
+        "question": "Các ứng dụng cơ bản bao gồm các ứng dụng sau, ngoại trừ?",
+        "answer": "Web authoring"
+    },
+    "25827": {
+        "question": "Ứng dụng nào thích hợp nhất để tạo, phân tích và dự trù kinh phí?",
+        "answer": "Bảng tính"
+    },
+    "25828": {
+        "question": "Phần mềm ứng dụng bao gồm phần mềm cơ bản và phần mềm chuyên dụng đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25829": {
+        "question": "\"Sử dụng wordwrap để tự động chuyển sang dòng tiếp theo nếu dòng hiện tại đã bị đầy khi nhập các ký tự\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25830": {
+        "question": "Phát biểu \"Không thể sử dụng Microsoft Office để tạo một trang web cá nhân\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25831": {
+        "question": "\"Tổ chức, phân tích và tự động tính toán lại khi có thay đổi là các chức năng cơ bản của phần mềm xử lý văn bản\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25832": {
+        "question": "Thành phần đồ họa đại diện cho các chức năng hoặc các chương trình trên hệ điều hành Windows là?",
+        "answer": "Biểu tượng (icon)"
+    },
+    "25833": {
+        "question": "............ là một tập hợp các dữ liệu có liên quan.",
+        "answer": "Cơ sở dữ liệu"
+    },
+    "25834": {
+        "question": "Chương trình nào dùng để điều khiển thiết bị phần cứng?",
+        "answer": "Driver"
+    },
+    "25835": {
+        "question": "Một bài trình chiếu thường là một tập hợp của các thành phần nào sau đây?",
+        "answer": "Slide"
+    },
+    "25836": {
+        "question": "<p style=\"text-align: justify;\">Phần mềm hỗ trợ các nhiệm vụ tương ứng với các chuyên môn cụ thể như: xử lý ảnh, xây dựng mô hình kiến trúc…được gọi là phần mềm?</p>",
+        "answer": "Chuyên dụng"
+    },
+    "25837": {
+        "question": "Để thiết kế một trang Web, bạn chọn phần mềm nào?",
+        "answer": "Dreamweaver"
+    },
+    "25838": {
+        "question": "............ là phần mềm ứng dụng cơ bản.",
+        "answer": "Microsoft Word"
+    },
+    "25839": {
+        "question": "Để thể hiện hình ảnh người ta sử dụng hàng nghìn các điểm ảnh, loại ảnh này được gọi là ảnh?",
+        "answer": "Bitmap"
+    },
+    "25840": {
+        "question": "Thực tại ảo, hệ chuyên gia, robot là các ứng dụng thuộc phần mềm nào?",
+        "answer": "Phần mềm trí tuệ nhân tạo"
+    },
+    "25841": {
+        "question": "Nếu bạn cần các báo cáo có nhiều hình thức khác nhau và được in ra tùy theo đầu vào, chương trình đáp ứng tốt nhất là chương trình nào?",
+        "answer": "Quản trị dữ liệu"
+    },
+    "25842": {
+        "question": "Chọn tính năng khác biệt lớn nhất giữa hệ quản trị cơ sở dữ liệu so với ứng dụng bảng tính?",
+        "answer": "Tổ chức có quan hệ và Truy vấn thông tin"
+    },
+    "25843": {
+        "question": "Đặc điểm khác biệt lớn nhất của ứng dụng trình chiếu so với trình xử lý văn bản là gì?",
+        "answer": "Hiệu ứng chuyển trang"
+    },
+    "25844": {
+        "question": "Ứng dụng nào tích hợp sẵn các công thức hỗ trợ thống kê?",
+        "answer": "Bảng tính"
+    },
+    "25845": {
+        "question": "Hệ quản trị cơ sở dữ liệu là?",
+        "answer": "Một phần mềm thiết kế, xây dựng và hỗ trợ truy vấn cơ sở dữ liệu"
+    },
+    "25846": {
+        "question": "Mục đích chính của loại phần mềm này là tạo ra các tài liệu văn bản, đó là phần mềm nào?",
+        "answer": "Xử lý văn bản"
+    },
+    "25847": {
+        "question": "Một file có chứa các thiết lập có sẵn có thể được sử dụng để tạo mẫu thiết kế nhiều bài trình chiếu được gọi là một _______?",
+        "answer": "Khuôn mẫu"
+    },
+    "25848": {
+        "question": "Một bộ phần mềm là gì?",
+        "answer": "Là một tập hợp các gói ứng dụng riêng rẽ được bán cùng nhau"
+    },
+    "25849": {
+        "question": "Tập hợp gồm hai hoặc nhiều ô trong một bảng tính gọi là gì?",
+        "answer": "Vùng"
+    },
+    "25850": {
+        "question": "Phần mềm nào sao đây không phải là phần mềm quản trị hệ thống cơ sở dữ liệu?",
+        "answer": "Microsoft Expression"
+    },
+    "25851": {
+        "question": "Phần mềm xử lý đồ họa bao gồm các loại phần mềm cơ bản nào?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "25852": {
+        "question": "Để tạo biểu đồ, đồ thị thống kê thì phần mềm ứng dụng cơ bản không đủ công cụ để tạo mà phải dùng phần mềm chuyên dụng, điều này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25853": {
+        "question": "Mỗi một bảng trong cơ sở dữ liệu được quản lý bởi các thông số hàng (bản ghi), cột (thuộc tính)",
+        "answer": "Đúng"
+    },
+    "25854": {
+        "question": "Phát biểu \"Một đồ họa Vector có thể chuyển thành Bitmap, tuy nhiên một đồ họa Bitmap không thể chuyển thành đồ họa Vector\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25855": {
+        "question": "Phần mềm nào có các chức năng cơ bản như hỗ trợ việc tự động tính toán dựa trên các công thức do người dùng nhập vào, soạn thảo cơ bản, tạo biểu đồ, đồ thị thống kê…?",
+        "answer": "Excel"
+    },
+    "25856": {
+        "question": "Norton Internet Security Suite là một ví dụ của bộ",
+        "answer": "Tiện ích"
+    },
+    "25857": {
+        "question": "Chương trình điều phối các tài nguyên của máy tính, cung cấp giao diện giữa người dùng và máy tính và chạy ứng dụng được gọi là?",
+        "answer": "Hệ điều hành"
+    },
+    "25858": {
+        "question": "Hệ thống nào cho phép các thiết bị vào ra liên lạc với các phần còn lại của hệ thống máy tính?",
+        "answer": "Trình điều khiển thiết bị"
+    },
+    "25859": {
+        "question": "Tất cả các phần mềm sau đây đều là ví dụ của phần mềm chuyên dụng, ngoại trừ",
+        "answer": "Microsoft Excel"
+    },
+    "25860": {
+        "question": "Phần mềm đồ họa chuyên dụng dùng để sửa đổi các ảnh số được gọi là",
+        "answer": "Chương trình chỉnh sửa ảnh"
+    },
+    "25861": {
+        "question": "Một ví dụ của chương trình tạo hình động tương tác là",
+        "answer": "Flash"
+    },
+    "25862": {
+        "question": "\"Multimedia (đa phương tiện) không thể áp dụng vào bộ xử lý văn bản\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25863": {
+        "question": "Để tạo một trang web bạn dùng phần mềm Dreamweaver ",
+        "answer": "Đúng"
+    },
+    "25864": {
+        "question": "\"Hệ tri thức chuyên gia dựa trên một tập hợp các luật\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25865": {
+        "question": "Phần mềm chỉnh sửa ảnh là một ví dụ của phần mềm ",
+        "answer": "Chuyên dụng"
+    },
+    "25866": {
+        "question": "Ảnh bitmap khi phóng to lên sẽ không bị răng cưa",
+        "answer": "Sai"
+    },
+    "25867": {
+        "question": "Một trình diễn đa phương tiện có thể bao gồm hình ảnh, âm thanh, video và văn bản",
+        "answer": "Đúng"
+    },
+    "25868": {
+        "question": "Để tạo các chế bản điện tử như sách, báo, … với chất lượng cao, bạn cần sử dụng các ứng dụng ",
+        "answer": "Chế bản văn phòng"
+    },
+    "25869": {
+        "question": "\"Bên cạnh ảnh bitmap, các chương trình xử lý ảnh đều có thể xử lý và tạo ra ảnh vector\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25870": {
+        "question": "\"Adobe Dreamweaver là một chương trình tạo trang web\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25871": {
+        "question": "Hệ tri thức còn được gọi là ",
+        "answer": " Hệ chuyên gia"
+    },
+    "25872": {
+        "question": "Lựa chọn nào sau đây KHÔNG phải là hệ điều hành?",
+        "answer": "X Box"
+    },
+    "25873": {
+        "question": "Trình điều khiển thiết bị gọi là gì?",
+        "answer": "Driver "
+    },
+    "25874": {
+        "question": "CPU được viết tắt từ cụm từ nào?",
+        "answer": "Central Processing Unit"
+    },
+    "25875": {
+        "question": "RAM được viết tắt là gì?",
+        "answer": "Random Access Memory"
+    },
+    "25876": {
+        "question": "ROM được viết tắt là gì?",
+        "answer": "Read-Only Memory"
+    },
+    "25877": {
+        "question": "Phần mềm hệ thống bao gồm",
+        "answer": "Hệ điều hành, Phần mềm tiện ích, Trình điều khiển thiết bị"
+    },
+    "25878": {
+        "question": "Hệ điều hành nào không cung cấp giao diện đồ họa với người dùng?",
+        "answer": "UNIX"
+    },
+    "25879": {
+        "question": "Loại ROM nào chỉ có thể lập trình được một lần?",
+        "answer": "PROM"
+    },
+    "25880": {
+        "question": "\"Một máy tính chỉ có thể cài đặt một hệ điều hành\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25881": {
+        "question": "\"Hệ điều hành đơn nhiệm là hệ điều hành chỉ cho phép thực hiện 1 chương trình duy nhất\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25882": {
+        "question": "\"Hệ nhị phân là hệ cơ số duy nhất được sử dụng trong bộ vi xử lý\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25883": {
+        "question": "Bộ phận thực hiện các phép tính toán và logic trong đơn vị hệ thống là?",
+        "answer": "ALU"
+    },
+    "25884": {
+        "question": "ROM là nơi chứa các thông tin để khởi động máy tính",
+        "answer": " Đúng"
+    },
+    "25885": {
+        "question": "\"Một thư mục không thể chứa một thư mục khác\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25886": {
+        "question": "\"Máy tính của Apple thường sử dụng hệ điều hành Windows\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25887": {
+        "question": "\"Bộ nhớ ảo được chứa trong RAM\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25888": {
+        "question": "\"Card đồ họa kết nối bảng mạch với bàn phím\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25889": {
+        "question": "\"Bộ nhớ Flash là sự kết hợp của RAM và ROM\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25890": {
+        "question": "Hệ điều hành được sử dụng để điều phối các máy tính được kết nối với nhau là",
+        "answer": " Hệ điều hành mạng"
+    },
+    "25891": {
+        "question": "Chương trình ............ giảm kích cỡ của các tệp tin, do vậy sẽ yêu cầu bộ nhớ nhỏ hơn.",
+        "answer": "nén tệp tin"
+    },
+    "25892": {
+        "question": "Phiên bản Windows mới sau Windows Vista có tên là<span> </span>",
+        "answer": " Windows 7"
+    },
+    "25893": {
+        "question": "Số lượng bit CPU có thể truy cập được trong một lần truy cập",
+        "answer": " Word"
+    },
+    "25894": {
+        "question": "Loại Chip cho phép máy tính thực hiện nhiều hơn 1 phép tính cùng lúc là loại Chíp nào?",
+        "answer": "Đa nhân"
+    },
+    "25895": {
+        "question": "\"Bảng mạch hệ thống còn được gọi là Bo mạch chủ\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25896": {
+        "question": "Loại đĩa nào có dung lượng vào khoảng 25 đến 50 gigabytes?",
+        "answer": "Blue Ray"
+    },
+    "25897": {
+        "question": "Chức năng nào sau đây không phải là chức năng của hệ điều hành",
+        "answer": "&nbsp;Cung cấp truy nhập Internet"
+    },
+    "25898": {
+        "question": "Trong hệ thống máy tính, dữ liệu và chương trình được lưu trữ dưới dạng",
+        "answer": " File"
+    },
+    "25899": {
+        "question": "Để xóa bỏ một chương trình một cách an toàn, bạn thường muốn sử dụng chương trình này",
+        "answer": " Chương trình gỡ bỏ "
+    },
+    "25900": {
+        "question": "Một byte là một nhóm gồm",
+        "answer": " 8 bit"
+    },
+    "25901": {
+        "question": "Trong bo mạch chủ, điểm nối các chip được gọi là<span> </span>",
+        "answer": " Socket"
+    },
+    "25902": {
+        "question": "Cổng song song thường được sử dụng để nối máy in với đơn vị hệ thống",
+        "answer": " Đúng"
+    },
+    "25903": {
+        "question": "Chương trình cần thiết để giao tiếp với các thiết bị vào ra",
+        "answer": " Trình điều khiển thiết bị"
+    },
+    "25904": {
+        "question": "Đặc tính quan trọng nhất của một màn hình là gì?",
+        "answer": "Độ phân giải"
+    },
+    "25905": {
+        "question": "Một dạng máy in sử dụng công nghệ tương tự như của máy photocopy?",
+        "answer": "Máy in lazer"
+    },
+    "25906": {
+        "question": "Đơn vị đo lường sử dụng cho độ phân giải của máy in là gì?",
+        "answer": "Dpi "
+    },
+    "25907": {
+        "question": "Thời gian cần thiết để một thiết bị lưu trữ có thể truy cập được đến dữ liệu và chương trình gọi là?",
+        "answer": "Tốc độ truy cập"
+    },
+    "25908": {
+        "question": "Việc tăng khả năng lưu trữ bằng cách giảm không gian lưu trữ cần thiết đối với dữ liệu hoặc chương trình gọi là?",
+        "answer": "Nén file"
+    },
+    "25909": {
+        "question": "Thông số hiển thị số lượng các điểm ảnh có thể có trên màn hình gọi là",
+        "answer": "Độ phân giải"
+    },
+    "25910": {
+        "question": "Bộ nhớ nào của máy tính mà người sử dụng không thể &nbsp;ghi &nbsp;dữ liệu vào được trong quá trình sử dụng máy tính",
+        "answer": "ROM"
+    },
+    "25911": {
+        "question": "Tốc độ làm tươi của màn hình được tính bằng đơn vị",
+        "answer": "Hz"
+    },
+    "25912": {
+        "question": "Loại thiết bị đầu vào nào không cho phép người dùng sử dụng tay để lựa chọn và thực hiện các thao tác trên màn hình (thông qua sự di chuyển của con &nbsp;trỏ tương ứng với thiết bị đó)",
+        "answer": " Bàn phím"
+    },
+    "25913": {
+        "question": "Máy tính có thể nhận trực tiếp các kí hiệu từ bàn phím mà không cần quá trình chyển đổi nào khác",
+        "answer": "Sai"
+    },
+    "25914": {
+        "question": "Máy in laser có tốc độ in nhanh hơn máy in phun",
+        "answer": "Đúng"
+    },
+    "25915": {
+        "question": "Chuẩn IDE có tốc độ cao hơn chuẩn SATA",
+        "answer": "Sai"
+    },
+    "25916": {
+        "question": "CD/DVD cũng được gọi là thiết bị nhớ thứ cấp",
+        "answer": "Đúng"
+    },
+    "25917": {
+        "question": "Thông số hiển thị số lượng các điểm ảnh có thể có trên màn hình gọi là",
+        "answer": "Độ phân giải"
+    },
+    "25918": {
+        "question": "Loại chuột sử dụng ánh sáng để xác định tọa độ di chuyển<span> </span>",
+        "answer": " Chuột quang"
+    },
+    "25919": {
+        "question": "Thiết bị âm thanh đầu vào thông dụng nhất được gọi là",
+        "answer": " Microphone"
+    },
+    "25920": {
+        "question": "Quá trình truy cập thông tin từ bộ nhớ thứ cấp được gọi là",
+        "answer": " Đọc"
+    },
+    "25921": {
+        "question": "Loại công nghệ cho phép bạn sử dụng các ngón tay để điểu khiển màn hình máy tính/máy điện thoại",
+        "answer": " Cảm ứng"
+    },
+    "25922": {
+        "question": "CD - ROM, DVD là các ví dụ cơ bản của thiết bị lưu trữ sử dụng công nghệ quang học",
+        "answer": "Đúng"
+    },
+    "25923": {
+        "question": "Ổ cứng trong sử dụng phương pháp truy nhập trực tiếp để lấy dữ liệu",
+        "answer": " Đúng"
+    },
+    "25924": {
+        "question": "RAID là kỹ thuật dùng để kết nối các ổ cứng lại với nhau, cho phép truy nhập lên nhiều ổ đĩa cứng cùng một lúc, tăng tốc độ truy xuất và đảm bảo an toàn dữ liệu",
+        "answer": "Đúng"
+    },
+    "25925": {
+        "question": "Loại cáp nào có tốc độ truyền tín hiệu chậm nhất?",
+        "answer": "Cáp xoắn đôi"
+    },
+    "25926": {
+        "question": "Phần mềm nào là phần mềm hệ thống?",
+        "answer": "Linux"
+    },
+    "25927": {
+        "question": "Trong hệ điều hành mạng, máy tính điều phối tất cả các kết nối với các máy tính khác được gọi là:<span> </span>",
+        "answer": " Máy chủ"
+    },
+    "25928": {
+        "question": "Skype - phần mềm cho phép gọi điện thoại qua mang Internet sử dụng giao thức VoIP",
+        "answer": "Đúng"
+    },
+    "25929": {
+        "question": "Quá trình giải nén sẽ đưa file nén trở về file ban đầu",
+        "answer": " Đúng"
+    },
+    "25930": {
+        "question": "Các hai loại kênh kết nối:\n A. <span></span>Kênh kết nối có dây\n B. <span></span>Kênh kết nối không dây",
+        "answer": "Cả A và B đều đúng"
+    },
+    "25931": {
+        "question": "Các loại kết nối không dây?",
+        "answer": "Radio và Viba"
+    },
+    "25932": {
+        "question": "Giao thức chuẩn cho Internet là gì?",
+        "answer": "TCP / IP"
+    },
+    "25933": {
+        "question": "DNS là hệ thống ánh xạ giữa tên miền và địa chỉ IP?",
+        "answer": "Đúng"
+    },
+    "25934": {
+        "question": "Mạng kết nối giữa các máy tính với nhau trong cùng 1 tòa nhà gọi là mạng",
+        "answer": "LAN"
+    },
+    "25935": {
+        "question": "Hệ thống ánh xạ giữa tên miền và địa chỉ IP gọi là",
+        "answer": "DNS"
+    },
+    "25936": {
+        "question": "Dịch vụ kết nối nào có thể cung cấp các đường truyền không dây",
+        "answer": "Dịch vụ vệ tinh"
+    },
+    "25937": {
+        "question": "Hệ thống ngân hàng trực tuyến được xếp vào",
+        "answer": "Hệ thống xử lý giao dịch"
+    },
+    "25938": {
+        "question": "Hệ thống nào được sử dụng bởi người quản lý cấp cao",
+        "answer": "Hệ hỗ trợ điều hành"
+    },
+    "25939": {
+        "question": "Mạng máy tính hiện nay là sự kết hợp của nhiều hình trạng mạng",
+        "answer": "Đúng"
+    },
+    "25940": {
+        "question": "Địa chỉ IP bao gồm địa chỉ mạng (netID) và địa chỉ host (hostID)",
+        "answer": "Đúng"
+    },
+    "25941": {
+        "question": "Mỗi gói sẽ gồm 2 phần: phần header và phần data",
+        "answer": "Đúng"
+    },
+    "25942": {
+        "question": "Cụm hệ thống là",
+        "answer": "System Unit"
+    },
+    "25943": {
+        "question": "Gửi thông tin đến và đi theo dạng gói là một chức năng của<span> </span>",
+        "answer": "&nbsp;Thiết bị kết nối"
+    },
+    "25944": {
+        "question": "Thiết bị GPS là thiết bị di động sử dụng kênh thông tin<span> </span>",
+        "answer": " Vệ tinh"
+    },
+    "25945": {
+        "question": "3 vấn đề cơ bản của tính riêng tư trên mạng là: độ chính xác, tính sở hữu và",
+        "answer": " Truy nhập"
+    },
+    "25946": {
+        "question": "_______ hoạt động như một bộ đệm bảo mật giữa mạng cục bộ của công ty và mạng bên ngoài",
+        "answer": " Firewall"
+    },
+    "25947": {
+        "question": "Thông tin về độ thường xuyên truy nhập một trang web sẽ được lưu trữ trong<span> </span>",
+        "answer": " Cookies"
+    },
+    "25948": {
+        "question": "Người làm nghề này sẽ sử dụng hệ quản trị cơ sở dữ liệu để tìm ra những cách hiệu quả nhất để tổ chức và truy nhập dữ liệu",
+        "answer": " Quản trị cơ sở dữ liệu"
+    },
+    "25949": {
+        "question": "__________ tạo và duy trì hệ thống mạng máy tính",
+        "answer": " Quản trị mạng"
+    },
+    "25950": {
+        "question": "Cáp quang sử dụng truyền tải dữ liệu thông qua luồng ánh sáng với tốc độ ánh sáng thay cho các xung điện",
+        "answer": " Đúng"
+    },
+    "25951": {
+        "question": "Trong hệ thống mạng, máy trạm sẽ cung cấp tài nguyên cho máy chủ",
+        "answer": "Sai"
+    },
+    "25952": {
+        "question": "Nếu một file âm nhạc có bản quyền được upload lên một trang web thì việc download nó luôn luôn là hợp pháp",
+        "answer": "Sai"
+    },
+    "25953": {
+        "question": "Một gateway mạng có thể được sử dụng để kết nối hai hệ thống mạng nội bộ",
+        "answer": " Đúng"
+    },
+    "25954": {
+        "question": "Phần mềm gián điệp là một loại phần mềm diệt virus",
+        "answer": "Sai"
+    },
+    "25955": {
+        "question": "Kỹ sư phần mềm là người lập kế hoạch và thiết kế hệ thống thông tin",
+        "answer": "Sai"
+    },
+    "25956": {
+        "question": "Copy và paste tài liệu từ một trang web vào báo cáo/bài báo/bài kiểm tra ... của mình mà không trích dẫn nguồn gốc là việc làm sai trái",
+        "answer": " Đúng"
+    },
+    "25957": {
+        "question": "Trong hệ ________, khả năng tính toán được thực hiện và chia sẻ giữa các máy tính được kết nối với nhau từ nhiều nơi khác nhau",
+        "answer": " Phân tán"
+    },
+    "25958": {
+        "question": "Mạng nội bộ trong các công ty, văn phòng là loại mạng<span> </span>",
+        "answer": " LAN"
+    },
+    "25959": {
+        "question": "Mạng máy tính có phạm vi trong một đất nước hoặc phạm vi toàn cầu",
+        "answer": " WAN"
+    },
+    "25960": {
+        "question": "Hệ thống mạng nào sử dụng một máy tính để điều phối và cung cấp dịch vụ cho các máy tính khác",
+        "answer": " Client - Server"
+    },
+    "25961": {
+        "question": "Người __________ là người lập kế hoạch và thiết kế hệ thống thông tin",
+        "answer": " Phân tích hệ thống"
+    },
+    "25962": {
+        "question": "Các thiết bị vừa vào vừa ra là?",
+        "answer": "Màn hình cảm ứng"
+    },
+    "25963": {
+        "question": "Sự thay đổi trong công nghệ yêu cầu những người",
+        "answer": "không ngại tìm hiểu và quản lý công nghệ mới"
+    },
+    "25964": {
+        "question": "Một trong những lợi ích của thay đổi trong công nghệ thông tin là",
+        "answer": "ra đời những doanh nghiệp mới "
+    },
+    "25965": {
+        "question": "Những người dùng………….tin rằng, tìm hiểu và sử dụng máy tính sẽ làm mất thời gian cho công \nviệc chính của họ",
+        "answer": " hoài nghi"
+    },
+    "25966": {
+        "question": "Thông thường, người nhạy bén…………….",
+        "answer": "nhìn công nghệ với con mắt tích cực và thực tế"
+    },
+    "25967": {
+        "question": "Để duy trì trình độ hiểu biết về máy tính, bạn nên đi đầu trong công nghệ bằng cách",
+        "answer": "đọc sách, tạp chí khoa học, báo, tạp chí phổ thông"
+    },
+    "25968": {
+        "question": "Những người thành công cố gắng",
+        "answer": "duy trì quan hệ với những người trong cùng lĩnh vực"
+    },
+    "25969": {
+        "question": "Những người này thiết kế, kiểm tra và nghiên cứu các thủ tục mã hóa",
+        "answer": "chuyên gia mật mã"
+    },
+    "25970": {
+        "question": "…….giám sát công việc của các lập trình viên, chuyên gia máy tính và các công việc khác liên \nquan",
+        "answer": "nhà quản lý hệ thống thông tin"
+    },
+    "25971": {
+        "question": "Những người này có trách nhiệm phát triển, kiểm tra và xử lý sự cố chương trình máy tính",
+        "answer": "lập trình viên"
+    },
+    "25972": {
+        "question": "………...phát triển và duy trì các trang web và tài nguyên mạng.",
+        "answer": "quản trị web"
+    },
+    "25973": {
+        "question": "Khái niệm nào sau đây không phải là thành phần bắt buộc của một hệ thống thông tin?",
+        "answer": "Internet"
+    },
+    "25974": {
+        "question": "Thiết bị xử lý dữ liệu để tạo thông tin được gọi là?",
+        "answer": "Phần cứng (CPU)"
+    },
+    "25975": {
+        "question": "Phần mềm hệ thống bao gồm các phần sau, ngoại trừ?",
+        "answer": "Trình duyệt&nbsp;"
+    },
+    "25976": {
+        "question": "Bộ phận nào sau đây sẽ không lưu lại dữ liệu sau khi tắt máy tính?",
+        "answer": "RAM"
+    },
+    "25977": {
+        "question": "Mục đích của phần mềm là chuyển dữ liệu thành thông tin, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25978": {
+        "question": "Phát biểu \"Phần mềm hệ thống thường không phải là một chương trình đơn nhất mà là một tập hợp các chương trình\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "25979": {
+        "question": "Phát biểu \"Trình duyệt là một ví dụ của phần mềm chuyên dụng\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25980": {
+        "question": "Con người, quy trình, phần mềm, dữ liệu và phần cứng là năm thành phần của một:",
+        "answer": "Hệ thống thông tin"
+    },
+    "25981": {
+        "question": "Lập trình viên là người làm nhiệm vụ quản lý cơ sở dữ liệu và quản lý mạng nội bộ của công ty. Phát biểu này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "25982": {
+        "question": "Mạng lớn nhất trên thế giới là mạng nào?",
+        "answer": "Internet"
+    },
+    "25983": {
+        "question": "Ứng dụng cơ bản dùng để duyệt và tìm kiếm thông tin trên Internet được gọi là?",
+        "answer": "Trình duyệt"
+    },
+    "25984": {
+        "question": "Tập hợp các dữ liệu đã qua xử lý, phụ thuộc vào ngữ cảnh, được gọi là:",
+        "answer": "Thông tin"
+    },
+    "25985": {
+        "question": "Các quy tắc cần tuân theo khi sử dụng phần mềm, phần cứng và dữ liệu được gọi là?",
+        "answer": "Thủ tục"
+    },
+    "25986": {
+        "question": "Hệ điều hành có chức năng gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "25987": {
+        "question": "Thiết bị nào không cùng nhóm với thiết bị còn lại?",
+        "answer": "Bàn phím"
+    },
+    "25988": {
+        "question": "USB 3G là ví dụ của nhóm phần cứng nào?",
+        "answer": "Thiết bị kết nối"
+    },
+    "25989": {
+        "question": "Dạng file được tạo bởi các trình xử lý văn bản gọi là?",
+        "answer": "Văn bản"
+    },
+    "25990": {
+        "question": "Thiết bị nào lưu trữ dữ liệu tạm thời?",
+        "answer": "RAM"
+    },
+    "25991": {
+        "question": "Định nghĩa nào sau đây không đúng về bộ nhớ thứ cấp?",
+        "answer": "Bộ nhớ thứ cấp kết nối trực tiếp với bộ vi xử lý"
+    },
+    "25992": {
+        "question": "Máy tính cầm tay thuộc loại máy tính nào?",
+        "answer": "Máy vi tính"
+    },
+    "25993": {
+        "question": "Đâu không phải là một nghề trong ngành công nghệ thông tin?",
+        "answer": "Thiết kế hình ảnh"
+    },
+    "25994": {
+        "question": "Thiết bị vào là thiết bị nào sau đây?",
+        "answer": "Scanner"
+    },
+    "25995": {
+        "question": "Thành phần của một hệ thống thông tin không bao gồm thành phần nào sau đây?",
+        "answer": "Giấy tờ"
+    },
+    "25996": {
+        "question": "Máy tính được phân thành 4 loại máy tính, gồm những loại nào sau đây?",
+        "answer": "Siêu máy tính, Máy tính lớn mainframe, Máy vi tính và Máy tính mini"
+    },
+    "25997": {
+        "question": "Loại máy tính nào sau đây được coi là máy tính điện tử số đầu tiên?",
+        "answer": "Máy tính ENIAC"
+    },
+    "25998": {
+        "question": "CPU (Central Processing Unit) trong máy tính có nhiệm vụ chính là?",
+        "answer": "Không có phương án nào đúng"
+    },
+    "25999": {
+        "question": "Màn hình và chuột là các thiết bị ra của một máy tính đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26000": {
+        "question": "Dữ liệu là",
+        "answer": "Tập hợp các dữ liệu ở mức thô (văn bản, âm thanh, hình ảnh, các ký số,...)"
+    },
+    "26001": {
+        "question": "Hệ thống thông tin bao gồm:",
+        "answer": "Con người, các thủ tục, phần cứng, phần mềm, dữ liệu, các kết nối"
+    },
+    "26002": {
+        "question": "Phần \"sinhvien\" trong sinhvien@polytechnic.edu.vn gọi là gì?",
+        "answer": "Tài người dùng (user name)"
+    },
+    "26003": {
+        "question": "Loại hình thương mại điện tử nào sau đây không phải là loại hình chính thức?",
+        "answer": "C2B"
+    },
+    "26004": {
+        "question": "Phần mềm ứng dụng cơ bản dùng để duyệt và tìm kiếm thông tin trên Internet được gọi là?",
+        "answer": "Trình duyệt"
+    },
+    "26005": {
+        "question": "Hai thành phần của một URL gồm?",
+        "answer": "Tên giao thức, tên miền"
+    },
+    "26006": {
+        "question": "Tên tài khoản và tên miền của một địa chỉ hòm thư được ngăn cách với nhau bởi ký hiệu nào?",
+        "answer": "@"
+    },
+    "26007": {
+        "question": "Web được giới thiệu vào năm 1991 ở đâu?",
+        "answer": "European Organization for Nuclear Research (CERN)"
+    },
+    "26008": {
+        "question": "Phần mềm nào sau đây không phải là một trình duyệt web?",
+        "answer": "Window Explorer"
+    },
+    "26009": {
+        "question": "Twitter là một ví dụ của?",
+        "answer": "Tiểu blog"
+    },
+    "26010": {
+        "question": "Ngân hàng trực tuyến là một ví dụ của loại thương mại điện tử nào ?",
+        "answer": "B2C"
+    },
+    "26011": {
+        "question": "Chương trình tự động chạy và hoạt động như một phần của trình duyệt được gọi là?",
+        "answer": "Plug-ins"
+    },
+    "26012": {
+        "question": "Phát biểu \"Để truy nhập vào một trang web, trình duyệt chỉ cần biết tên miền của trang web\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26013": {
+        "question": "Phần đầu của một email thường bao gồm: tiêu đề, địa chỉ và các file đính kèm đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26014": {
+        "question": "Mạng xã hội chỉ kết nối những cá nhân đã quen biết nhau từ trước",
+        "answer": "Sai"
+    },
+    "26015": {
+        "question": "Acrobat Reader, Flash Player có hỗ trợ tích hợp (plug-in) vào trình duyệt hay không?",
+        "answer": "Có"
+    },
+    "26016": {
+        "question": "Upload là quá trình copy một file từ một trang web về máy tính của bạn đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26017": {
+        "question": "Giao thức nào được sử dụng để truyền tải Web và là giao thức Internet thông dụng nhất?",
+        "answer": "HTTP"
+    },
+    "26018": {
+        "question": "Trong URL \"http://www.simnetonline.com\", \"simnetonline.com\" là?",
+        "answer": "Tên miền"
+    },
+    "26019": {
+        "question": "Copy file từ một trang web về máy tính của bạn được gọi là?",
+        "answer": "Download"
+    },
+    "26020": {
+        "question": "Loại hình thương mại điện tử giữa các doanh nghiệp với nhau là?",
+        "answer": "B2B"
+    },
+    "26021": {
+        "question": "Nhà cung cấp dịch vụ Internet viết tắt là?",
+        "answer": "ISP"
+    },
+    "26022": {
+        "question": "Mozilla Firefox là?",
+        "answer": "Trình duyệt"
+    },
+    "26023": {
+        "question": "Địa chỉ trang nào sau đây không liên quan đến thương mại điện tử?",
+        "answer": "www.flickr.com"
+    },
+    "26024": {
+        "question": "URL là gì?",
+        "answer": "Uniform Resource Locator"
+    },
+    "26025": {
+        "question": "HTTP là gì?",
+        "answer": "HyperText Transfer Protocol"
+    },
+    "26026": {
+        "question": "FTP là gì?",
+        "answer": "File Transfer Protocol"
+    },
+    "26027": {
+        "question": "Lựa chọn nào không phải là loại hình cơ bản của thương mại điện tử?",
+        "answer": "D2D "
+    },
+    "26028": {
+        "question": "Chương trình hoạt động bằng cách thông dịch mã HTML thành trang Web là?",
+        "answer": "Trình duyệt"
+    },
+    "26029": {
+        "question": "Tên nào dưới đây không phải là giao thức?",
+        "answer": "HTML"
+    },
+    "26030": {
+        "question": "Thành phần nào bắt buộc cần có khi gửi một mail?",
+        "answer": "Địa chỉ (to/cc/bcc)"
+    },
+    "26031": {
+        "question": "Trình duyệt nào hiện nay không được phát triển tiếp nữa?",
+        "answer": "Netscape"
+    },
+    "26032": {
+        "question": "\"Để vào một trang web chỉ có 1 cách duy nhất là biết địa chỉ trang web dưới dạng tên miền''. Ví dụ: caodang.fpt.edu.vn, điều này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26033": {
+        "question": "Phát biểu \"cc và bcc là cách thức để gửi mail cho nhiều người và những người đó đều biết địa chỉ mail của nhau\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26034": {
+        "question": "CC là",
+        "answer": "Carbon copy"
+    },
+    "26035": {
+        "question": "BCC là",
+        "answer": "<span class=\"st\">Blind carbon copy</span>"
+    },
+    "26036": {
+        "question": "Mô hình thương mại doanh nghiệp tới người dùng là?",
+        "answer": "B2C"
+    },
+    "26037": {
+        "question": "Mô hình thương mại Khách hàng tới tới khách hàng gọi là?",
+        "answer": "C2C"
+    },
+    "26038": {
+        "question": "Phát biểu nào sau đây đúng với C2C (Consumer To Consumer)?",
+        "answer": "Là mô hình thương mại điện tử hỗ trợ việc mua bán giữa các cá nhân với nhau"
+    },
+    "26039": {
+        "question": "Nếu bạn muốn tạo một tài liệu chứa ký tự là chủ yếu thì bạn cần loại phần mềm nào?",
+        "answer": "Xử lý văn bản"
+    },
+    "26040": {
+        "question": "Google docs là một ví dụ của?",
+        "answer": "Bộ phần mềm văn phòng trực tuyến"
+    },
+    "26041": {
+        "question": "Các ứng dụng cơ bản bao gồm các ứng dụng sau, ngoại trừ?",
+        "answer": "Web authoring"
+    },
+    "26042": {
+        "question": "Ứng dụng nào thích hợp nhất để tạo, phân tích và dự trù kinh phí?",
+        "answer": "Bảng tính"
+    },
+    "26043": {
+        "question": "Phần mềm ứng dụng bao gồm phần mềm cơ bản và phần mềm chuyên dụng đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26044": {
+        "question": "\"Sử dụng wordwrap để tự động chuyển sang dòng tiếp theo nếu dòng hiện tại đã bị đầy khi nhập các ký tự\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26045": {
+        "question": "Phát biểu \"Không thể sử dụng Microsoft Office để tạo một trang web cá nhân\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26046": {
+        "question": "\"Tổ chức, phân tích và tự động tính toán lại khi có thay đổi là các chức năng cơ bản của phần mềm xử lý văn bản\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26047": {
+        "question": "Thành phần đồ họa đại diện cho các chức năng hoặc các chương trình trên hệ điều hành Windows là?",
+        "answer": "Biểu tượng (icon)"
+    },
+    "26048": {
+        "question": "............ là một tập hợp các dữ liệu có liên quan.",
+        "answer": "Cơ sở dữ liệu"
+    },
+    "26049": {
+        "question": "Chương trình nào dùng để điều khiển thiết bị phần cứng?",
+        "answer": "Driver"
+    },
+    "26050": {
+        "question": "Một bài trình chiếu thường là một tập hợp của các thành phần nào sau đây?",
+        "answer": "Slide"
+    },
+    "26051": {
+        "question": "<p style=\"text-align: justify;\">Phần mềm hỗ trợ các nhiệm vụ tương ứng với các chuyên môn cụ thể như: xử lý ảnh, xây dựng mô hình kiến trúc…được gọi là phần mềm?</p>",
+        "answer": "Chuyên dụng"
+    },
+    "26052": {
+        "question": "Để thiết kế một trang Web, bạn chọn phần mềm nào?",
+        "answer": "Dreamweaver"
+    },
+    "26053": {
+        "question": "............ là phần mềm ứng dụng cơ bản.",
+        "answer": "Microsoft Word"
+    },
+    "26054": {
+        "question": "Để thể hiện hình ảnh người ta sử dụng hàng nghìn các điểm ảnh, loại ảnh này được gọi là ảnh?",
+        "answer": "Bitmap"
+    },
+    "26055": {
+        "question": "Thực tại ảo, hệ chuyên gia, robot là các ứng dụng thuộc phần mềm nào?",
+        "answer": "Phần mềm trí tuệ nhân tạo"
+    },
+    "26056": {
+        "question": "Nếu bạn cần các báo cáo có nhiều hình thức khác nhau và được in ra tùy theo đầu vào, chương trình đáp ứng tốt nhất là chương trình nào?",
+        "answer": "Quản trị dữ liệu"
+    },
+    "26057": {
+        "question": "Chọn tính năng khác biệt lớn nhất giữa hệ quản trị cơ sở dữ liệu so với ứng dụng bảng tính?",
+        "answer": "Tổ chức có quan hệ và Truy vấn thông tin"
+    },
+    "26058": {
+        "question": "Đặc điểm khác biệt lớn nhất của ứng dụng trình chiếu so với trình xử lý văn bản là gì?",
+        "answer": "Hiệu ứng chuyển trang"
+    },
+    "26059": {
+        "question": "Ứng dụng nào tích hợp sẵn các công thức hỗ trợ thống kê?",
+        "answer": "Bảng tính"
+    },
+    "26060": {
+        "question": "Hệ quản trị cơ sở dữ liệu là?",
+        "answer": "Một phần mềm thiết kế, xây dựng và hỗ trợ truy vấn cơ sở dữ liệu"
+    },
+    "26061": {
+        "question": "Mục đích chính của loại phần mềm này là tạo ra các tài liệu văn bản, đó là phần mềm nào?",
+        "answer": "Xử lý văn bản"
+    },
+    "26062": {
+        "question": "Một file có chứa các thiết lập có sẵn có thể được sử dụng để tạo mẫu thiết kế nhiều bài trình chiếu được gọi là một _______?",
+        "answer": "Khuôn mẫu"
+    },
+    "26063": {
+        "question": "Một bộ phần mềm là gì?",
+        "answer": "Là một tập hợp các gói ứng dụng riêng rẽ được bán cùng nhau"
+    },
+    "26064": {
+        "question": "Tập hợp gồm hai hoặc nhiều ô trong một bảng tính gọi là gì?",
+        "answer": "Vùng"
+    },
+    "26065": {
+        "question": "Phần mềm nào sao đây không phải là phần mềm quản trị hệ thống cơ sở dữ liệu?",
+        "answer": "Microsoft Expression"
+    },
+    "26066": {
+        "question": "Phần mềm xử lý đồ họa bao gồm các loại phần mềm cơ bản nào?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "26067": {
+        "question": "Để tạo biểu đồ, đồ thị thống kê thì phần mềm ứng dụng cơ bản không đủ công cụ để tạo mà phải dùng phần mềm chuyên dụng, điều này đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26068": {
+        "question": "Mỗi một bảng trong cơ sở dữ liệu được quản lý bởi các thông số hàng (bản ghi), cột (thuộc tính)",
+        "answer": "Đúng"
+    },
+    "26069": {
+        "question": "Phát biểu \"Một đồ họa Vector có thể chuyển thành Bitmap, tuy nhiên một đồ họa Bitmap không thể chuyển thành đồ họa Vector\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26070": {
+        "question": "Phần mềm nào có các chức năng cơ bản như hỗ trợ việc tự động tính toán dựa trên các công thức do người dùng nhập vào, soạn thảo cơ bản, tạo biểu đồ, đồ thị thống kê…?",
+        "answer": "Excel"
+    },
+    "26071": {
+        "question": "Norton Internet Security Suite là một ví dụ của bộ",
+        "answer": "Tiện ích"
+    },
+    "26072": {
+        "question": "Chương trình điều phối các tài nguyên của máy tính, cung cấp giao diện giữa người dùng và máy tính và chạy ứng dụng được gọi là?",
+        "answer": "Hệ điều hành"
+    },
+    "26073": {
+        "question": "Hệ thống nào cho phép các thiết bị vào ra liên lạc với các phần còn lại của hệ thống máy tính?",
+        "answer": "Trình điều khiển thiết bị"
+    },
+    "26074": {
+        "question": "Tất cả các phần mềm sau đây đều là ví dụ của phần mềm chuyên dụng, ngoại trừ",
+        "answer": "Microsoft Excel"
+    },
+    "26075": {
+        "question": "Phần mềm đồ họa chuyên dụng dùng để sửa đổi các ảnh số được gọi là",
+        "answer": "Chương trình chỉnh sửa ảnh"
+    },
+    "26076": {
+        "question": "Một ví dụ của chương trình tạo hình động tương tác là",
+        "answer": "Flash"
+    },
+    "26077": {
+        "question": "\"Multimedia (đa phương tiện) không thể áp dụng vào bộ xử lý văn bản\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26078": {
+        "question": "Để tạo một trang web bạn dùng phần mềm Dreamweaver ",
+        "answer": "Đúng"
+    },
+    "26079": {
+        "question": "\"Hệ tri thức chuyên gia dựa trên một tập hợp các luật\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26080": {
+        "question": "Phần mềm chỉnh sửa ảnh là một ví dụ của phần mềm ",
+        "answer": "Chuyên dụng"
+    },
+    "26081": {
+        "question": "Ảnh bitmap khi phóng to lên sẽ không bị răng cưa",
+        "answer": "Sai"
+    },
+    "26082": {
+        "question": "Một trình diễn đa phương tiện có thể bao gồm hình ảnh, âm thanh, video và văn bản",
+        "answer": "Đúng"
+    },
+    "26083": {
+        "question": "Để tạo các chế bản điện tử như sách, báo, … với chất lượng cao, bạn cần sử dụng các ứng dụng ",
+        "answer": "Chế bản văn phòng"
+    },
+    "26084": {
+        "question": "\"Bên cạnh ảnh bitmap, các chương trình xử lý ảnh đều có thể xử lý và tạo ra ảnh vector\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26085": {
+        "question": "\"Adobe Dreamweaver là một chương trình tạo trang web\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26086": {
+        "question": "Hệ tri thức còn được gọi là ",
+        "answer": " Hệ chuyên gia"
+    },
+    "26087": {
+        "question": "Lựa chọn nào sau đây KHÔNG phải là hệ điều hành?",
+        "answer": "X Box"
+    },
+    "26088": {
+        "question": "Trình điều khiển thiết bị gọi là gì?",
+        "answer": "Driver "
+    },
+    "26089": {
+        "question": "CPU được viết tắt từ cụm từ nào?",
+        "answer": "Central Processing Unit"
+    },
+    "26090": {
+        "question": "RAM được viết tắt là gì?",
+        "answer": "Random Access Memory"
+    },
+    "26091": {
+        "question": "ROM được viết tắt là gì?",
+        "answer": "Read-Only Memory"
+    },
+    "26092": {
+        "question": "Phần mềm hệ thống bao gồm",
+        "answer": "Hệ điều hành, Phần mềm tiện ích, Trình điều khiển thiết bị"
+    },
+    "26093": {
+        "question": "Hệ điều hành nào không cung cấp giao diện đồ họa với người dùng?",
+        "answer": "UNIX"
+    },
+    "26094": {
+        "question": "Loại ROM nào chỉ có thể lập trình được một lần?",
+        "answer": "PROM"
+    },
+    "26095": {
+        "question": "\"Một máy tính chỉ có thể cài đặt một hệ điều hành\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26096": {
+        "question": "\"Hệ điều hành đơn nhiệm là hệ điều hành chỉ cho phép thực hiện 1 chương trình duy nhất\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26097": {
+        "question": "\"Hệ nhị phân là hệ cơ số duy nhất được sử dụng trong bộ vi xử lý\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26098": {
+        "question": "Bộ phận thực hiện các phép tính toán và logic trong đơn vị hệ thống là?",
+        "answer": "ALU"
+    },
+    "26099": {
+        "question": "ROM là nơi chứa các thông tin để khởi động máy tính",
+        "answer": " Đúng"
+    },
+    "26100": {
+        "question": "\"Một thư mục không thể chứa một thư mục khác\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26101": {
+        "question": "\"Máy tính của Apple thường sử dụng hệ điều hành Windows\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26102": {
+        "question": "\"Bộ nhớ ảo được chứa trong RAM\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26103": {
+        "question": "\"Card đồ họa kết nối bảng mạch với bàn phím\" đúng hay sai?",
+        "answer": "Sai"
+    },
+    "26104": {
+        "question": "\"Bộ nhớ Flash là sự kết hợp của RAM và ROM\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26105": {
+        "question": "Hệ điều hành được sử dụng để điều phối các máy tính được kết nối với nhau là",
+        "answer": " Hệ điều hành mạng"
+    },
+    "26106": {
+        "question": "Chương trình ............ giảm kích cỡ của các tệp tin, do vậy sẽ yêu cầu bộ nhớ nhỏ hơn.",
+        "answer": "nén tệp tin"
+    },
+    "26107": {
+        "question": "Phiên bản Windows mới sau Windows Vista có tên là<span> </span>",
+        "answer": " Windows 7"
+    },
+    "26108": {
+        "question": "Số lượng bit CPU có thể truy cập được trong một lần truy cập",
+        "answer": " Word"
+    },
+    "26109": {
+        "question": "Loại Chip cho phép máy tính thực hiện nhiều hơn 1 phép tính cùng lúc là loại Chíp nào?",
+        "answer": "Đa nhân"
+    },
+    "26110": {
+        "question": "\"Bảng mạch hệ thống còn được gọi là Bo mạch chủ\" đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "26111": {
+        "question": "Loại đĩa nào có dung lượng vào khoảng 25 đến 50 gigabytes?",
+        "answer": "Blue Ray"
+    },
+    "26112": {
+        "question": "Chức năng nào sau đây không phải là chức năng của hệ điều hành",
+        "answer": "&nbsp;Cung cấp truy nhập Internet"
+    },
+    "26113": {
+        "question": "Trong hệ thống máy tính, dữ liệu và chương trình được lưu trữ dưới dạng",
+        "answer": " File"
+    },
+    "26114": {
+        "question": "Để xóa bỏ một chương trình một cách an toàn, bạn thường muốn sử dụng chương trình này",
+        "answer": " Chương trình gỡ bỏ "
+    },
+    "26115": {
+        "question": "Một byte là một nhóm gồm",
+        "answer": " 8 bit"
+    },
+    "26116": {
+        "question": "Trong bo mạch chủ, điểm nối các chip được gọi là<span> </span>",
+        "answer": " Socket"
+    },
+    "26117": {
+        "question": "Cổng song song thường được sử dụng để nối máy in với đơn vị hệ thống",
+        "answer": " Đúng"
+    },
+    "26118": {
+        "question": "Chương trình cần thiết để giao tiếp với các thiết bị vào ra",
+        "answer": " Trình điều khiển thiết bị"
+    },
+    "26119": {
+        "question": "Đặc tính quan trọng nhất của một màn hình là gì?",
+        "answer": "Độ phân giải"
+    },
+    "26120": {
+        "question": "Một dạng máy in sử dụng công nghệ tương tự như của máy photocopy?",
+        "answer": "Máy in lazer"
+    },
+    "26121": {
+        "question": "Đơn vị đo lường sử dụng cho độ phân giải của máy in là gì?",
+        "answer": "Dpi "
+    },
+    "26122": {
+        "question": "Thời gian cần thiết để một thiết bị lưu trữ có thể truy cập được đến dữ liệu và chương trình gọi là?",
+        "answer": "Tốc độ truy cập"
+    },
+    "26123": {
+        "question": "Việc tăng khả năng lưu trữ bằng cách giảm không gian lưu trữ cần thiết đối với dữ liệu hoặc chương trình gọi là?",
+        "answer": "Nén file"
+    },
+    "26124": {
+        "question": "Thông số hiển thị số lượng các điểm ảnh có thể có trên màn hình gọi là",
+        "answer": "Độ phân giải"
+    },
+    "26125": {
+        "question": "Bộ nhớ nào của máy tính mà người sử dụng không thể &nbsp;ghi &nbsp;dữ liệu vào được trong quá trình sử dụng máy tính",
+        "answer": "ROM"
+    },
+    "26126": {
+        "question": "Tốc độ làm tươi của màn hình được tính bằng đơn vị",
+        "answer": "Hz"
+    },
+    "26127": {
+        "question": "Loại thiết bị đầu vào nào không cho phép người dùng sử dụng tay để lựa chọn và thực hiện các thao tác trên màn hình (thông qua sự di chuyển của con &nbsp;trỏ tương ứng với thiết bị đó)",
+        "answer": " Bàn phím"
+    },
+    "26128": {
+        "question": "Máy tính có thể nhận trực tiếp các kí hiệu từ bàn phím mà không cần quá trình chyển đổi nào khác",
+        "answer": "Sai"
+    },
+    "26129": {
+        "question": "Máy in laser có tốc độ in nhanh hơn máy in phun",
+        "answer": "Đúng"
+    },
+    "26130": {
+        "question": "Chuẩn IDE có tốc độ cao hơn chuẩn SATA",
+        "answer": "Sai"
+    },
+    "26131": {
+        "question": "CD/DVD cũng được gọi là thiết bị nhớ thứ cấp",
+        "answer": "Đúng"
+    },
+    "26132": {
+        "question": "Thông số hiển thị số lượng các điểm ảnh có thể có trên màn hình gọi là",
+        "answer": "Độ phân giải"
+    },
+    "26133": {
+        "question": "Loại chuột sử dụng ánh sáng để xác định tọa độ di chuyển<span> </span>",
+        "answer": " Chuột quang"
+    },
+    "26134": {
+        "question": "Thiết bị âm thanh đầu vào thông dụng nhất được gọi là",
+        "answer": " Microphone"
+    },
+    "26135": {
+        "question": "Quá trình truy cập thông tin từ bộ nhớ thứ cấp được gọi là",
+        "answer": " Đọc"
+    },
+    "26136": {
+        "question": "Loại công nghệ cho phép bạn sử dụng các ngón tay để điểu khiển màn hình máy tính/máy điện thoại",
+        "answer": " Cảm ứng"
+    },
+    "26137": {
+        "question": "CD - ROM, DVD là các ví dụ cơ bản của thiết bị lưu trữ sử dụng công nghệ quang học",
+        "answer": "Đúng"
+    },
+    "26138": {
+        "question": "Ổ cứng trong sử dụng phương pháp truy nhập trực tiếp để lấy dữ liệu",
+        "answer": " Đúng"
+    },
+    "26139": {
+        "question": "RAID là kỹ thuật dùng để kết nối các ổ cứng lại với nhau, cho phép truy nhập lên nhiều ổ đĩa cứng cùng một lúc, tăng tốc độ truy xuất và đảm bảo an toàn dữ liệu",
+        "answer": "Đúng"
+    },
+    "26140": {
+        "question": "Loại cáp nào có tốc độ truyền tín hiệu chậm nhất?",
+        "answer": "Cáp xoắn đôi"
+    },
+    "26141": {
+        "question": "Phần mềm nào là phần mềm hệ thống?",
+        "answer": "Linux"
+    },
+    "26142": {
+        "question": "Trong hệ điều hành mạng, máy tính điều phối tất cả các kết nối với các máy tính khác được gọi là:<span> </span>",
+        "answer": " Máy chủ"
+    },
+    "26143": {
+        "question": "Skype - phần mềm cho phép gọi điện thoại qua mang Internet sử dụng giao thức VoIP",
+        "answer": "Đúng"
+    },
+    "26144": {
+        "question": "Quá trình giải nén sẽ đưa file nén trở về file ban đầu",
+        "answer": " Đúng"
+    },
+    "26145": {
+        "question": "Các hai loại kênh kết nối:\n A. <span></span>Kênh kết nối có dây\n B. <span></span>Kênh kết nối không dây",
+        "answer": "Cả A và B đều đúng"
+    },
+    "26146": {
+        "question": "Các loại kết nối không dây?",
+        "answer": "Radio và Viba"
+    },
+    "26147": {
+        "question": "Giao thức chuẩn cho Internet là gì?",
+        "answer": "TCP / IP"
+    },
+    "26148": {
+        "question": "DNS là hệ thống ánh xạ giữa tên miền và địa chỉ IP?",
+        "answer": "Đúng"
+    },
+    "26149": {
+        "question": "Mạng kết nối giữa các máy tính với nhau trong cùng 1 tòa nhà gọi là mạng",
+        "answer": "LAN"
+    },
+    "26150": {
+        "question": "Hệ thống ánh xạ giữa tên miền và địa chỉ IP gọi là",
+        "answer": "DNS"
+    },
+    "26151": {
+        "question": "Dịch vụ kết nối nào có thể cung cấp các đường truyền không dây",
+        "answer": "Dịch vụ vệ tinh"
+    },
+    "26152": {
+        "question": "Hệ thống ngân hàng trực tuyến được xếp vào",
+        "answer": "Hệ thống xử lý giao dịch"
+    },
+    "26153": {
+        "question": "Hệ thống nào được sử dụng bởi người quản lý cấp cao",
+        "answer": "Hệ hỗ trợ điều hành"
+    },
+    "26154": {
+        "question": "Mạng máy tính hiện nay là sự kết hợp của nhiều hình trạng mạng",
+        "answer": "Đúng"
+    },
+    "26155": {
+        "question": "Địa chỉ IP bao gồm địa chỉ mạng (netID) và địa chỉ host (hostID)",
+        "answer": "Đúng"
+    },
+    "26156": {
+        "question": "Mỗi gói sẽ gồm 2 phần: phần header và phần data",
+        "answer": "Đúng"
+    },
+    "26157": {
+        "question": "Cụm hệ thống là",
+        "answer": "System Unit"
+    },
+    "26158": {
+        "question": "Gửi thông tin đến và đi theo dạng gói là một chức năng của<span> </span>",
+        "answer": "&nbsp;Thiết bị kết nối"
+    },
+    "26159": {
+        "question": "Thiết bị GPS là thiết bị di động sử dụng kênh thông tin<span> </span>",
+        "answer": " Vệ tinh"
+    },
+    "26160": {
+        "question": "3 vấn đề cơ bản của tính riêng tư trên mạng là: độ chính xác, tính sở hữu và",
+        "answer": " Truy nhập"
+    },
+    "26161": {
+        "question": "_______ hoạt động như một bộ đệm bảo mật giữa mạng cục bộ của công ty và mạng bên ngoài",
+        "answer": " Firewall"
+    },
+    "26162": {
+        "question": "Thông tin về độ thường xuyên truy nhập một trang web sẽ được lưu trữ trong<span> </span>",
+        "answer": " Cookies"
+    },
+    "26163": {
+        "question": "Người làm nghề này sẽ sử dụng hệ quản trị cơ sở dữ liệu để tìm ra những cách hiệu quả nhất để tổ chức và truy nhập dữ liệu",
+        "answer": " Quản trị cơ sở dữ liệu"
+    },
+    "26164": {
+        "question": "__________ tạo và duy trì hệ thống mạng máy tính",
+        "answer": " Quản trị mạng"
+    },
+    "26165": {
+        "question": "Cáp quang sử dụng truyền tải dữ liệu thông qua luồng ánh sáng với tốc độ ánh sáng thay cho các xung điện",
+        "answer": " Đúng"
+    },
+    "26166": {
+        "question": "Trong hệ thống mạng, máy trạm sẽ cung cấp tài nguyên cho máy chủ",
+        "answer": "Sai"
+    },
+    "26167": {
+        "question": "Nếu một file âm nhạc có bản quyền được upload lên một trang web thì việc download nó luôn luôn là hợp pháp",
+        "answer": "Sai"
+    },
+    "26168": {
+        "question": "Một gateway mạng có thể được sử dụng để kết nối hai hệ thống mạng nội bộ",
+        "answer": " Đúng"
+    },
+    "26169": {
+        "question": "Phần mềm gián điệp là một loại phần mềm diệt virus",
+        "answer": "Sai"
+    },
+    "26170": {
+        "question": "Kỹ sư phần mềm là người lập kế hoạch và thiết kế hệ thống thông tin",
+        "answer": "Sai"
+    },
+    "26171": {
+        "question": "Copy và paste tài liệu từ một trang web vào báo cáo/bài báo/bài kiểm tra ... của mình mà không trích dẫn nguồn gốc là việc làm sai trái",
+        "answer": " Đúng"
+    },
+    "26172": {
+        "question": "Trong hệ ________, khả năng tính toán được thực hiện và chia sẻ giữa các máy tính được kết nối với nhau từ nhiều nơi khác nhau",
+        "answer": " Phân tán"
+    },
+    "26173": {
+        "question": "Mạng nội bộ trong các công ty, văn phòng là loại mạng<span> </span>",
+        "answer": " LAN"
+    },
+    "26174": {
+        "question": "Mạng máy tính có phạm vi trong một đất nước hoặc phạm vi toàn cầu",
+        "answer": " WAN"
+    },
+    "26175": {
+        "question": "Hệ thống mạng nào sử dụng một máy tính để điều phối và cung cấp dịch vụ cho các máy tính khác",
+        "answer": " Client - Server"
+    },
+    "26176": {
+        "question": "Người __________ là người lập kế hoạch và thiết kế hệ thống thông tin",
+        "answer": " Phân tích hệ thống"
+    },
+    "26177": {
+        "question": "Các thiết bị vừa vào vừa ra là?",
+        "answer": "Màn hình cảm ứng"
+    },
+    "26178": {
+        "question": "Sự thay đổi trong công nghệ yêu cầu những người",
+        "answer": "không ngại tìm hiểu và quản lý công nghệ mới"
+    },
+    "26179": {
+        "question": "Một trong những lợi ích của thay đổi trong công nghệ thông tin là",
+        "answer": "ra đời những doanh nghiệp mới "
+    },
+    "26180": {
+        "question": "Những người dùng………….tin rằng, tìm hiểu và sử dụng máy tính sẽ làm mất thời gian cho công \nviệc chính của họ",
+        "answer": " hoài nghi"
+    },
+    "26181": {
+        "question": "Thông thường, người nhạy bén…………….",
+        "answer": "nhìn công nghệ với con mắt tích cực và thực tế"
+    },
+    "26182": {
+        "question": "Để duy trì trình độ hiểu biết về máy tính, bạn nên đi đầu trong công nghệ bằng cách",
+        "answer": "đọc sách, tạp chí khoa học, báo, tạp chí phổ thông"
+    },
+    "26183": {
+        "question": "Những người thành công cố gắng",
+        "answer": "duy trì quan hệ với những người trong cùng lĩnh vực"
+    },
+    "26184": {
+        "question": "Những người này thiết kế, kiểm tra và nghiên cứu các thủ tục mã hóa",
+        "answer": "chuyên gia mật mã"
+    },
+    "26185": {
+        "question": "…….giám sát công việc của các lập trình viên, chuyên gia máy tính và các công việc khác liên \nquan",
+        "answer": "nhà quản lý hệ thống thông tin"
+    },
+    "26186": {
+        "question": "Những người này có trách nhiệm phát triển, kiểm tra và xử lý sự cố chương trình máy tính",
+        "answer": "lập trình viên"
+    },
+    "26187": {
+        "question": "………...phát triển và duy trì các trang web và tài nguyên mạng.",
+        "answer": "quản trị web"
+    },
+    "26188": {
+        "question": "Thao tác thực hiện trên lược đồ CSDL là:",
+        "answer": "Thêm cột"
+    },
+    "26189": {
+        "question": "SQL Server, để khởi động và dừng cần sử dụng công cụ:",
+        "answer": "SQL Server Configuration Manager"
+    },
+    "26190": {
+        "question": "Để điều hướng qua các đối tượng của CSDL trên SQL Management Studio, cần sử dụng:",
+        "answer": "Cửa sổ Object Explorer"
+    },
+    "26191": {
+        "question": "Trong SQL Management Studio, khi kết nối tới CSDL SQL Server - hộp thoại Connect to Server, chế độ xác thực người dùng phải nhập User Name và Password là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26192": {
+        "question": "Nhập và thực thi câu lệnh SQL bằng cách:",
+        "answer": "Nhập câu lệnh vào cửa sổ Query Editor và bấm F5"
+    },
+    "26193": {
+        "question": "Xảy ra lỗi cú pháp trong quá trình thực thi một câu lệnh SQL, SQL Server sẽ thông báo lỗi đó bằng cách:",
+        "answer": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    },
+    "26194": {
+        "question": "T-SQL là ngôn ngữ SQL mở rộng:",
+        "answer": "dựa trên SQL chuẩn của ISO và ANSI"
+    },
+    "26195": {
+        "question": "T-SQL:",
+        "answer": "&nbsp;là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    },
+    "26196": {
+        "question": "SQL Server 2008, có hỗ trợ các tính năng:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26197": {
+        "question": "SQL sử dụng ngôn ngữ để truy vấn CSDL là:",
+        "answer": "Transact-SQL"
+    },
+    "26198": {
+        "question": "Thanh công cụ của cửa sổ Query Editor xuất hiện khi:",
+        "answer": "nhấp chuột vào nút New Query"
+    },
+    "26199": {
+        "question": "SQL Server là hệ quản trị cơ sở dữ liệu (CSDL):",
+        "answer": "cho phép đồng thời một lúc nhiều users truy xuất đến dữ liệu."
+    },
+    "26200": {
+        "question": "Các lỗi cú pháp thường gặp khi thực thi câu lệnh SQL là:",
+        "answer": "Các đáp án đều đúng"
+    },
+    "26201": {
+        "question": "Các ứng dụng sử dụng hệ quản trị CSDL SQL Server là:",
+        "answer": "Java và .NET"
+    },
+    "26202": {
+        "question": "Câu lệnh định nghĩa dữ liệu - DDL là:",
+        "answer": "CREATE"
+    },
+    "26203": {
+        "question": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL)",
+        "answer": "DENY, GRANT, REVOKE"
+    },
+    "26204": {
+        "question": "Trong cửa sổ Query Editor, câu lệnh SQL được nhập sẽ được định dạng màu với:",
+        "answer": "Màu xanh cho các từ khóa, màu hồng tím cho các hàm, màu đen cho tên bảng hoặc tên cột"
+    },
+    "26205": {
+        "question": "Sử dụng cửa sổ Query Designer để tạo câu lệnh:",
+        "answer": "SELECT, UPDATE, DELETE"
+    },
+    "26206": {
+        "question": "Công cụ SQL Server Configuration Management có thể thực hiện tác vụ:",
+        "answer": "Thay đổi chế độ khởi động cho một dịch vụ"
+    },
+    "26207": {
+        "question": "Hai loại file sử dụng khi Attach một CSDL là:",
+        "answer": "mdf và ldf"
+    },
+    "26208": {
+        "question": "T-SQL, các đối tượng có kiểu dữ liệu:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26209": {
+        "question": "Đoạn mã sau đây cho kết quả gì?\n DECLARE @a int = 1\n SELECT @A",
+        "answer": "1"
+    },
+    "26210": {
+        "question": "T-SQL, chú thích được sử dụng là:",
+        "answer": "--Chú thích đúng"
+    },
+    "26211": {
+        "question": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, nhấn chuột phải vào tên bảng và chọn:",
+        "answer": "Design"
+    },
+    "26212": {
+        "question": "T-SQL hỗ trợ các cấu trúc điều khiển:",
+        "answer": "IF…ELSE"
+    },
+    "26213": {
+        "question": "Câu lệnh khai báo biến là:",
+        "answer": "DECLARE @a int"
+    },
+    "26214": {
+        "question": "Câu lệnh định nghĩa dữ liệu là:",
+        "answer": "CREATE TABLE"
+    },
+    "26215": {
+        "question": "Cho đoạn mã DECLARE @a int, @b nchar(50). Câu lệnh gán giá trị cho @a và @b <span class=\"font8\">không</span><span class=\"font5\"> phát sinh lỗi định dạng dữ liệu là:</span>",
+        "answer": "SELECT @a = 1, @b = N'kí tự Unicode'"
+    },
+    "26216": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n print 'Biến @a lớn hơn 0'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Lỗi cú pháp"
+    },
+    "26217": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Bạn đã khai báoBiến @a nhỏ hơn 0"
+    },
+    "26218": {
+        "question": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ được dùng để lưu trữ chuỗi là:",
+        "answer": "Nchar hoặc Nvarchar"
+    },
+    "26219": {
+        "question": "Kiểu dữ liệu thích hợp để lưu trữ số điện thoại, số chứng minh nhân dân là:",
+        "answer": "char"
+    },
+    "26220": {
+        "question": "Kiểu dữ liệu <span class=\"font8\">không</span><span class=\"font5\"> thuộc SQL Server là:</span>",
+        "answer": "String"
+    },
+    "26221": {
+        "question": "Kiểu dữ liệu để lưu chuỗi với độ dài cố định hỗ trợ UNICODE là:",
+        "answer": "Nchar"
+    },
+    "26222": {
+        "question": "Với biến bảng:",
+        "answer": "Có thể sử dụng câu lệnh UPDATE&nbsp;"
+    },
+    "26223": {
+        "question": "T-SQL:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26224": {
+        "question": "SQL Server, cung cấp số kiểu dữ liệu đơn là:",
+        "answer": "26"
+    },
+    "26225": {
+        "question": "T- SQL hỗ trợ các loại:",
+        "answer": "Biến vô hướng và biến bảng"
+    },
+    "26226": {
+        "question": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh:",
+        "answer": "INSERT"
+    },
+    "26227": {
+        "question": "Để thiết lập khóa ngoại cho một bảng, hiển thị bảng ở chế độ Table Design và nhấn vào nút gì trên thanh công cụ làm việc với bảng?",
+        "answer": "Relationships"
+    },
+    "26228": {
+        "question": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm là:",
+        "answer": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    },
+    "26229": {
+        "question": "Câu lệnh REPLACE(RIGHT('(559) 555-1212', 13), ') ', '-') trả về kết quả là",
+        "answer": "559- 555-1212"
+    },
+    "26230": {
+        "question": "Câu lệnh SELECT CHARINDEX('SQL', 'HELLO SQL Server') trả về kết quả là:",
+        "answer": "7"
+    },
+    "26231": {
+        "question": "Câu lệnh SELECT DATEDIFF(month, '2008-09-30', '2007-12-01') trả về kết quả là:",
+        "answer": "-9"
+    },
+    "26232": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng là:",
+        "answer": "mm/dd/yy"
+    },
+    "26233": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Khi đó a có giá trị là:",
+        "answer": "3"
+    },
+    "26234": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Khi đó a có giá trị là:",
+        "answer": "105"
+    },
+    "26235": {
+        "question": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012?",
+        "answer": "Tất cả đáp án đều đúng StartDate) = 2012"
+    },
+    "26236": {
+        "question": "Giả sử biến @a kiểu int có giá trị bằng 1, biến @Tổng kiểu int có giá trị bằng 0. Cho biết kết quả trả về của đoạn mã sau?\n WHILE (@a &lt;= 5)\n BEGIN\n SELECT @Tổng = @Tổng + @a\n SET @a = @a + 1\n END\n SELECT @Tổng",
+        "answer": "15"
+    },
+    "26237": {
+        "question": "Giả sử biến @String được khai báo như sau:\n DECLARE @String varchar.\n Cho biết kết quả trả về của đoạn mã sau?\n SET @String = 'SQL Server 2008'\n SELECT LEN(@String)",
+        "answer": "15"
+    },
+    "26238": {
+        "question": "Giả sử có hai biến @a, @b kiểu int. Câu lệnh gán giá trị đúng cho cả hai biến này là:",
+        "answer": "SELECT @a = 1, @b = 2SET @a = 1 SELECT @b = 2"
+    },
+    "26239": {
+        "question": "Hàm CAST có cú pháp là:",
+        "answer": "CAST(InvoiceDate AS varchar)"
+    },
+    "26240": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26241": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26242": {
+        "question": "Lệnh gán giá trị cho cột PaymentDate có kiểu SmallDatetime : PaymentDate = '2008-08-05' có thực hiện phép chuyển đổi ngầm và:",
+        "answer": "giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu SmallDatetime"
+    },
+    "26243": {
+        "question": "Đoạn mã thực hiện khai báo một biến và gán giá trị cho biến đó bằng 1 là: mso-height-source:userset;height:45.75pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26244": {
+        "question": "Cho đoạn mã sau:\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n SELECT @a, @b\n SELECT @a = @a + 1\n Kết quả trả về là:",
+        "answer": "Lỗi vòng lặp vô hạn"
+    },
+    "26245": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n BEGIN\n SELECT @a, @b\n SELECT @a = @a + 1\n END",
+        "answer": "Hai tập kết quả: thứ nhất gồm 2 cột có giá trị 0 và 2 và thứ hai gồm 2 cột có giá trị 1 và 2"
+    },
+    "26246": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 1\n IF @a &gt; 0 \n PRINT 'a is greater than 0, a = ' + @a \n ELSE\n PRINT 'a is not greater than 0'",
+        "answer": "Thông báo lỗi"
+    },
+    "26247": {
+        "question": "Cho mã kịch bản sau:\n USE AP\n PRINT N'Đây là một chuỗi'\n Kết quả là:",
+        "answer": "Câu lệnh PRINT được thực thi trên ngữ cảnh CSDL AP và in ra dòng 'Đây là một chuỗi' trong Tab Message"
+    },
+    "26248": {
+        "question": "Phát biểu đúng là:",
+        "answer": "Để khai báo điểm bắt đầu của một giao dịch, sử dụng từ khóa BEGIN TRAN hoặc BEGIN TRANSACTION"
+    },
+    "26249": {
+        "question": "Khi không khai báo điểm bắt đầu cho một giao dịch, SQL Server xem ____?____ và tự động COMMIT câu lệnh lên Server. Nếu câu lệnh phát sinh lỗi sẽ tự động ROLLBACK.",
+        "answer": "từng câu lệnh riêng lẻ là một giao dịch"
+    },
+    "26250": {
+        "question": "&nbsp;@LikeFilter là tham số đầu vào và là điều kiện lọc sử dụng với toán tử LIKE trong câu lệnh SELECT trong thân SP. Kiểu dữ liệu phù hợp để khai báo tham số này là:",
+        "answer": "varchar"
+    },
+    "26251": {
+        "question": "Các trường hợp sử dụng giao dịch là:",
+        "answer": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm tính toàn vẹn dữ liệu"
+    },
+    "26252": {
+        "question": "Thực hiện lời gọi một Stored Procedure từ:",
+        "answer": "Một chương trình ứng dụng, một thủ tục khác hoặc một mã kịch bản"
+    },
+    "26253": {
+        "question": "Tham số của một Stored Procedure là:",
+        "answer": "Các kiểu dữ liệu SQL"
+    },
+    "26254": {
+        "question": "Được lưu trữ như một đối tượng trong CSDL là:",
+        "answer": "Stored Procedure, Trigger và Hàm người dùng định nghĩa&nbsp;"
+    },
+    "26255": {
+        "question": "Mã kịch bản sau sẽ thực hiện gì khi được thực thi?\n IF OBJECT_ID('spCopyInvoices') IS NOT NULL\n DROP PROC spCopyInvoices\n CREATE PROC spCopyInvoices\n AS\n SELECT * INTO InvoiceCopy FROM Invoices",
+        "answer": "Lỗi cú pháp"
+    },
+    "26256": {
+        "question": "Sử dụng giao dịch trong trường hợp:",
+        "answer": "Khi cập nhật tham chiếu khóa ngoại"
+    },
+    "26257": {
+        "question": "Nếu dữ liệu không hợp lệ, sử dụng câu lệnh để sinh lỗi là:",
+        "answer": "RAISERROR"
+    },
+    "26258": {
+        "question": "Phát biểu nào sau đây đúng về Stored Procedure?\n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS",
+        "answer": "@a và @String là tham số đầu vào tùy chọn, @b là tham số đầu ra"
+    },
+    "26259": {
+        "question": "Hàm @@TRANCOUNT, khi thực thi câu lệnh COMMIT TRAN:",
+        "answer": "&nbsp;nếu @@TRANCOUNT &gt; 1, các thay đổi sẽ không được commit. Thay vào đó @@TRANCOUNT giảm đi 1."
+    },
+    "26260": {
+        "question": "Điểm lưu trữ:",
+        "answer": "&nbsp;Được khai báo bằng câu lệnh SAVE TRAN và sử dụng để đánh dấu điểm quay lui giao dịch"
+    },
+    "26261": {
+        "question": "Tham số đầu vào tùy chọn:",
+        "answer": "Là một tham số đầu vào, được gán một giá trị mặc định"
+    },
+    "26262": {
+        "question": "Stored Procedure:",
+        "answer": "Tham số đầu ra của Stored Procedure được khai báo bằng từ khóa OUTPUT"
+    },
+    "26263": {
+        "question": "Trong một Stored Procedure:",
+        "answer": "&nbsp;câu lệnh RETURN chỉ trả về một giá trị kiểu số nguyên"
+    },
+    "26264": {
+        "question": "spCopyInvoices là một Stored Procedure được lưu trữ trong CSDL. Phát biểu nào sau đây đúng về câu lệnh sp_helptext 'spCopyInvoices'?",
+        "answer": "Trả về đoạn mã của Stored Procedure spCopyInvoices"
+    },
+    "26265": {
+        "question": "spParameters là tên một Stored Procedure đã được mã hóa bằng cách sử dụng tham số tùy chọn ENCRYPTION trong câu lệnh tạo SP. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "&nbsp;thông báo 'The text for object 'spParameters' is encrypted.' trong tab Message"
+    },
+    "26266": {
+        "question": "Sử dụng tham số OUTPUT để trả về giá trị có kiểu dữ liệu:",
+        "answer": "bất kì"
+    },
+    "26267": {
+        "question": "Với thủ tục sau \n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS\n Lời gọi thủ tục là:",
+        "answer": "DECLARE @b intEXEC spParameters @b = @b OUTPUT, @String = 'hello'"
+    },
+    "26268": {
+        "question": "Dùng hàm giá trị bảng đơn giản (hàm giá trị bảng nội tuyến):",
+        "answer": "để thay thế cho tên một VIEW, một bảng trong câu lệnh SELECT"
+    },
+    "26269": {
+        "question": "Câu lệnh tạo ra View có thể cập nhật là:",
+        "answer": "CREATE VIEW VendorsDESCASSELECT VendorID, VendorNameFROM vendors"
+    },
+    "26270": {
+        "question": "Câu lệnh thực hiện xóa View Vendors_SW là:",
+        "answer": "DROP VIEW Vendors_SW"
+    },
+    "26271": {
+        "question": "có 3 loại hàm người dùng tự định nghĩa đó là các hàm giá trị:",
+        "answer": "vô hướng, bảng đơn giản và bảng nhiều câu lệnh"
+    },
+    "26272": {
+        "question": "Giả sử fnBalanceDue là một hàm người dùng định nghĩa. Câu lệnh thực hiện xóa hàm fnBalanceDue là:",
+        "answer": "drop function fnBalanceDue"
+    },
+    "26273": {
+        "question": "Hàm fnTonghaiso nhận hai tham số đầu vào @a và @b kiểu int và trả về kết quả tổng hai số. Đoạn mã kịch bản trả về kết quả tổng của hai số 1 và 5 là:",
+        "answer": "select dbo.fnTonghaiso(1,5)"
+    },
+    "26274": {
+        "question": "Hàm trả về một bảng, là kết quả của một câu lệnh SELECT đơn là:",
+        "answer": "Hàm giá trị bảng đơn giản&nbsp;"
+    },
+    "26275": {
+        "question": "Lựa chọn vi phạm điều kiện để tạo một VIEW có thể cập nhật là:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26276": {
+        "question": "Mã kịch bản khai báo thành công một hàm tính tổng hai số là:",
+        "answer": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0)RETURNS intBEGINRETURN (@a+@b)END"
+    },
+    "26277": {
+        "question": "Một hàm người dùng định nghĩa có thể trả về giá trị:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26278": {
+        "question": "Phát biều đúng về tên cột của một VIEW:",
+        "answer": "&nbsp;Cột chứa giá trị được tính toán từ nhiều cột khác phải được đặt tên.&nbsp; Nếu cột không được đặt tên, tên cột sẽ được mặc định giống tên cột của bảng cơ sở."
+    },
+    "26279": {
+        "question": "Với hàm người dùng định nghĩa:",
+        "answer": "Là một đối tượng CSDL chứa các câu lệnh SQL, được biên dịch sẵn, lưu trữ trong CSDL và luôn phải trả về một giá trị"
+    },
+    "26280": {
+        "question": "Với hàm người dùng định nghĩa, phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng là:</span>",
+        "answer": "Trong lời gọi hàm, có thể truyền giá trị cho các tham số theo tên"
+    },
+    "26281": {
+        "question": "Với VIEW:",
+        "answer": "Sử dụng View có thể che dấu và bảo mật dữ liệu"
+    },
+    "26282": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW OutstandingInvoices\n AS\n SELECT InvoiceNumber, InvoiceDate, InvoiceTotal,\n InvoiceTotal - PaymentTotal – CreditTotal AS BalanceDue\n FROM Invoices\n WHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0\n View tạo ra bởi đoạn mã này là:",
+        "answer": "View chỉ đọc"
+    },
+    "26283": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW VendorsDESC\n AS\n SELECT VendorID, VendorName\n FROM vendors\n ORDER BY VendorName DESC\n View tạo ra bởi đoạn mã này là:",
+        "answer": "Xảy ra lỗi khi thực thi đoạn mã này"
+    },
+    "26284": {
+        "question": "Về View:",
+        "answer": "&nbsp;Là một câu lệnh truy vấn được biên dịch sẵn và lưu trữ như là một đối tượng trong CSDL. Có thể lưu một câu lệnh tạo VIEW dưới định dạng .sql"
+    },
+    "26285": {
+        "question": "Đoạn mã thực hiện khai báo thành công một hàm người dùng định nghĩa không chứa tham số là:",
+        "answer": "CREATE FUNCTION fnBalanceDue()RETURNS moneyBEGINRETURN (SELECT SUM(InvoiceTotal - PaymentTotal - CreditTotal)FROM InvoicesWHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0)END"
+    },
+    "26286": {
+        "question": "Để chỉnh sửa một VIEW sử dụng chế độ đồ họa View Designer của Management Studio, nhấn chuột phải vào tên View trong cửa sổ Objects Explorer chọn:",
+        "answer": "Design"
+    },
+    "26287": {
+        "question": "Để trả về giá trị cho một hàm người dùng định nghĩa, có thể sử dụng:",
+        "answer": "câu lệnh RETURN"
+    },
+    "26288": {
+        "question": "Chế độ xác thực phải nhập UserName và Password khi đăng nhập SQL Server là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26289": {
+        "question": "Câu lệnh thực hiện đổi tên thành công database user SunsanRoberts thành SusanStanley là:",
+        "answer": "ALTER USER SusanRoberts WITH NAME = SusanStanley"
+    },
+    "26290": {
+        "question": "Có thể gán vai trò CSDL mặc định cho:",
+        "answer": "Database User và Login ID"
+    },
+    "26291": {
+        "question": "Vai trò Server mặc định là:",
+        "answer": "dbcreator"
+    },
+    "26292": {
+        "question": "Vai trò CSDL mặc định là:",
+        "answer": "Tất cả đáp án đều sai"
+    },
+    "26293": {
+        "question": "SQL Server dựa vào ____?_____để cấp cho người dùng/nhóm người dùng để xác định các đối tượng, câu lệnh SQL,… người đùng được phép tác động trên CSDL.",
+        "answer": "Quyền và vai trò"
+    },
+    "26294": {
+        "question": "Một Login Id được gán vai trò sysadmin thì có thể thực hiện thao tác: ght=38 style='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26295": {
+        "question": "Để kết nối tới SQL Server, người dùng cần:&nbsp; e='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Login ID"
+    },
+    "26296": {
+        "question": "Để toàn quyền đối với CSDL, người dùng được gán vai trò CSDL mặc định là: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Sysadmin"
+    },
+    "26297": {
+        "question": "Để có tính bảo mật cao, Password của một SQL Login ID phải thỏa mãn điều kiện: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26298": {
+        "question": "Phát biểu đúng:",
+        "answer": "Người dùng có thể tạo một vai trò tự định nghĩa qua câu lệnh CREATE ROLE"
+    },
+    "26299": {
+        "question": "Phát biểu đúng:",
+        "answer": "Để tạo database user cho một CSDL cụ thể, câu lệnh CREATE USER phải được thực thi trong ngữ cảnh CSDL đó"
+    },
+    "26300": {
+        "question": "Quyền EXECUTE có thể tác động lên các đối tượng:",
+        "answer": "Stored Procedure"
+    },
+    "26301": {
+        "question": "Quyền REFERENCES có thể tác động lên các đối tượng:",
+        "answer": "Tất cả dáp án đều đúng"
+    },
+    "26302": {
+        "question": "Quyền SELECT có thể tác động lên các đối tượng :",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26303": {
+        "question": "Sau khi tạo một Database User cho một CSDL, người dùng có thể thực hiện các quyền:",
+        "answer": "Chọn CSDL trên combo box chọn ngữ cảnh CSDL"
+    },
+    "26304": {
+        "question": "Khi đăng nhập vào SQL Server, thay đổi chế độ xác thực tại:",
+        "answer": "Server Properties"
+    },
+    "26305": {
+        "question": "Tên của một vai trò tự định nghĩa <span class=\"font8\">không</span><span class=\"font5\"> được các chứa kí tự:</span>",
+        "answer": "&nbsp;; ? : @ &amp; = + , $ / * &lt; &gt; | \"&nbsp; /"
+    },
+    "26306": {
+        "question": "Vai trò dbcreator có thể thực hiện các thao tác:",
+        "answer": "Phục hồi một CSDL"
+    },
+    "26307": {
+        "question": "Đoạn mã kịch bản thực thi thành công là:",
+        "answer": "CREATE LOGIN JohnDoe WITH PASSWORD = 'pt8806FG$B', DEFAULT_DATABASE = APUSE APCREATE USER JohnDoe FOR LOGIN JohnDoe"
+    },
+    "26308": {
+        "question": "Các cấu hình thường phải thực hiện cho một Back Up Database Task trong hộp thoại Back Up Database Task là:",
+        "answer": "&nbsp;Chọn kiểu sao lưu CSDL trong mục Database(s) và đường dẫn lưu bản sao CSDL"
+    },
+    "26309": {
+        "question": "File sử dụng để phục hồi CSDL có phần mở rộng là:",
+        "answer": "&nbsp;Bak"
+    },
+    "26310": {
+        "question": "Invoices là tên một bảng trong CSDL. Câu lệnh sp_Help 'Invoices' trả về:",
+        "answer": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại."
+    },
+    "26311": {
+        "question": "Kiểu sao lưu <span class=\"font8\">không</span><span class=\"font5\"> thực hiện sao lưu dữ liệu được lưu trong CSDL là:</span>",
+        "answer": "Transaction log backup"
+    },
+    "26312": {
+        "question": "Một system stored procedure là:",
+        "answer": "sp_column"
+    },
+    "26313": {
+        "question": "Để tạo lịch sao lưu tự động cho một CSDL, người dùng phải đăng nhập bằng Login ID có vai trò:&nbsp;",
+        "answer": "sysadmin"
+    },
+    "26314": {
+        "question": "Kiểu sao lưu:",
+        "answer": "&nbsp;Differential backup chỉ sao lưu các dữ liệu mới được cập nhật (thay đổi) kể từ lần full backup trước đó"
+    },
+    "26315": {
+        "question": "spParameters là tên một Stored Procedure. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "Đoạn văn bản chứa nội dung của Stored Procedure"
+    },
+    "26316": {
+        "question": "System Stored Procedure dùng để xem danh sách các Stored Procedure, View mà tham chiếu đến bảng Invoices trong CSDL là:",
+        "answer": "sp_depends Invoices"
+    },
+    "26317": {
+        "question": "Tùy chọn chế độ sao lưu có thể tạo ra nhiều bản sao CSDL, được lưu trong cùng một file .bak là:",
+        "answer": "Append to the existing backup set"
+    },
+    "26318": {
+        "question": "Để thực hiện phục hồi CSDL từ một bản sao Full backup và sau đó tiếp tục phục hồi CSDL sử dụng bản sao Differential backup, ở mục recovery state của trang option trong hộp thoại Restore database của lần phục hồi từ bản sao Full backup phải chọn radio button là:",
+        "answer": "radio button thứ 2"
+    },
+    "26319": {
+        "question": "Để tạo lịch sao lưu CSDL tự động trong SQL Server 2008, nhấn chuột phải vào Maintenance Plans trong thư mục Management trên cửa sổ Solution Explorer và chọn:",
+        "answer": "New Maintenance Plan"
+    },
+    "26320": {
+        "question": "<span class=\"font8\">Không</span><span class=\"font5\"> phải kiểu khôi phục CSDL là:</span>",
+        "answer": "Copy-only"
+    },
+    "26321": {
+        "question": "Các kiểu sao lưu <span class=\"font5\">trong CSDL là:</span>",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26322": {
+        "question": "Các kiểu khôi phục trong CSDL là:",
+        "answer": "Full"
+    },
+    "26323": {
+        "question": "Thao tác thực hiện trên lược đồ CSDL là:",
+        "answer": "Thêm cột"
+    },
+    "26324": {
+        "question": "SQL Server, để khởi động và dừng cần sử dụng công cụ:",
+        "answer": "SQL Server Configuration Manager"
+    },
+    "26325": {
+        "question": "Để điều hướng qua các đối tượng của CSDL trên SQL Management Studio, cần sử dụng:",
+        "answer": "Cửa sổ Object Explorer"
+    },
+    "26326": {
+        "question": "Trong SQL Management Studio, khi kết nối tới CSDL SQL Server - hộp thoại Connect to Server, chế độ xác thực người dùng phải nhập User Name và Password là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26327": {
+        "question": "Nhập và thực thi câu lệnh SQL bằng cách:",
+        "answer": "Nhập câu lệnh vào cửa sổ Query Editor và bấm F5"
+    },
+    "26328": {
+        "question": "Xảy ra lỗi cú pháp trong quá trình thực thi một câu lệnh SQL, SQL Server sẽ thông báo lỗi đó bằng cách:",
+        "answer": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    },
+    "26329": {
+        "question": "T-SQL là ngôn ngữ SQL mở rộng:",
+        "answer": "dựa trên SQL chuẩn của ISO và ANSI"
+    },
+    "26330": {
+        "question": "T-SQL:",
+        "answer": "&nbsp;là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    },
+    "26331": {
+        "question": "SQL Server 2008, có hỗ trợ các tính năng:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26332": {
+        "question": "SQL sử dụng ngôn ngữ để truy vấn CSDL là:",
+        "answer": "Transact-SQL"
+    },
+    "26333": {
+        "question": "Thanh công cụ của cửa sổ Query Editor xuất hiện khi:",
+        "answer": "nhấp chuột vào nút New Query"
+    },
+    "26334": {
+        "question": "SQL Server là hệ quản trị cơ sở dữ liệu (CSDL):",
+        "answer": "cho phép đồng thời một lúc nhiều users truy xuất đến dữ liệu."
+    },
+    "26335": {
+        "question": "Các lỗi cú pháp thường gặp khi thực thi câu lệnh SQL là:",
+        "answer": "Các đáp án đều đúng"
+    },
+    "26336": {
+        "question": "Các ứng dụng sử dụng hệ quản trị CSDL SQL Server là:",
+        "answer": "Java và .NET"
+    },
+    "26337": {
+        "question": "Câu lệnh định nghĩa dữ liệu - DDL là:",
+        "answer": "CREATE"
+    },
+    "26338": {
+        "question": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL)",
+        "answer": "DENY, GRANT, REVOKE"
+    },
+    "26339": {
+        "question": "Trong cửa sổ Query Editor, câu lệnh SQL được nhập sẽ được định dạng màu với:",
+        "answer": "Màu xanh cho các từ khóa, màu hồng tím cho các hàm, màu đen cho tên bảng hoặc tên cột"
+    },
+    "26340": {
+        "question": "Sử dụng cửa sổ Query Designer để tạo câu lệnh:",
+        "answer": "SELECT, UPDATE, DELETE"
+    },
+    "26341": {
+        "question": "Công cụ SQL Server Configuration Management có thể thực hiện tác vụ:",
+        "answer": "Thay đổi chế độ khởi động cho một dịch vụ"
+    },
+    "26342": {
+        "question": "Hai loại file sử dụng khi Attach một CSDL là:",
+        "answer": "mdf và ldf"
+    },
+    "26343": {
+        "question": "T-SQL, các đối tượng có kiểu dữ liệu:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26344": {
+        "question": "Đoạn mã sau đây cho kết quả gì?\n DECLARE @a int = 1\n SELECT @A",
+        "answer": "1"
+    },
+    "26345": {
+        "question": "T-SQL, chú thích được sử dụng là:",
+        "answer": "--Chú thích đúng"
+    },
+    "26346": {
+        "question": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, nhấn chuột phải vào tên bảng và chọn:",
+        "answer": "Design"
+    },
+    "26347": {
+        "question": "T-SQL hỗ trợ các cấu trúc điều khiển:",
+        "answer": "IF…ELSE"
+    },
+    "26348": {
+        "question": "Câu lệnh khai báo biến là:",
+        "answer": "DECLARE @a int"
+    },
+    "26349": {
+        "question": "Câu lệnh định nghĩa dữ liệu là:",
+        "answer": "CREATE TABLE"
+    },
+    "26350": {
+        "question": "Cho đoạn mã DECLARE @a int, @b nchar(50). Câu lệnh gán giá trị cho @a và @b <span class=\"font8\">không</span><span class=\"font5\"> phát sinh lỗi định dạng dữ liệu là:</span>",
+        "answer": "SELECT @a = 1, @b = N'kí tự Unicode'"
+    },
+    "26351": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n print 'Biến @a lớn hơn 0'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Lỗi cú pháp"
+    },
+    "26352": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Bạn đã khai báoBiến @a nhỏ hơn 0"
+    },
+    "26353": {
+        "question": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ được dùng để lưu trữ chuỗi là:",
+        "answer": "Nchar hoặc Nvarchar"
+    },
+    "26354": {
+        "question": "Kiểu dữ liệu thích hợp để lưu trữ số điện thoại, số chứng minh nhân dân là:",
+        "answer": "char"
+    },
+    "26355": {
+        "question": "Kiểu dữ liệu <span class=\"font8\">không</span><span class=\"font5\"> thuộc SQL Server là:</span>",
+        "answer": "String"
+    },
+    "26356": {
+        "question": "Kiểu dữ liệu để lưu chuỗi với độ dài cố định hỗ trợ UNICODE là:",
+        "answer": "Nchar"
+    },
+    "26357": {
+        "question": "Với biến bảng:",
+        "answer": "Có thể sử dụng câu lệnh UPDATE&nbsp;"
+    },
+    "26358": {
+        "question": "T-SQL:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26359": {
+        "question": "SQL Server, cung cấp số kiểu dữ liệu đơn là:",
+        "answer": "26"
+    },
+    "26360": {
+        "question": "T- SQL hỗ trợ các loại:",
+        "answer": "Biến vô hướng và biến bảng"
+    },
+    "26361": {
+        "question": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh:",
+        "answer": "INSERT"
+    },
+    "26362": {
+        "question": "Để thiết lập khóa ngoại cho một bảng, hiển thị bảng ở chế độ Table Design và nhấn vào nút gì trên thanh công cụ làm việc với bảng?",
+        "answer": "Relationships"
+    },
+    "26363": {
+        "question": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm là:",
+        "answer": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    },
+    "26364": {
+        "question": "Câu lệnh REPLACE(RIGHT('(559) 555-1212', 13), ') ', '-') trả về kết quả là",
+        "answer": "559- 555-1212"
+    },
+    "26365": {
+        "question": "Câu lệnh SELECT CHARINDEX('SQL', 'HELLO SQL Server') trả về kết quả là:",
+        "answer": "7"
+    },
+    "26366": {
+        "question": "Câu lệnh SELECT DATEDIFF(month, '2008-09-30', '2007-12-01') trả về kết quả là:",
+        "answer": "-9"
+    },
+    "26367": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng là:",
+        "answer": "mm/dd/yy"
+    },
+    "26368": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Khi đó a có giá trị là:",
+        "answer": "3"
+    },
+    "26369": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Khi đó a có giá trị là:",
+        "answer": "105"
+    },
+    "26370": {
+        "question": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012?",
+        "answer": "Tất cả đáp án đều đúng StartDate) = 2012"
+    },
+    "26371": {
+        "question": "Giả sử biến @a kiểu int có giá trị bằng 1, biến @Tổng kiểu int có giá trị bằng 0. Cho biết kết quả trả về của đoạn mã sau?\n WHILE (@a &lt;= 5)\n BEGIN\n SELECT @Tổng = @Tổng + @a\n SET @a = @a + 1\n END\n SELECT @Tổng",
+        "answer": "15"
+    },
+    "26372": {
+        "question": "Giả sử biến @String được khai báo như sau:\n DECLARE @String varchar.\n Cho biết kết quả trả về của đoạn mã sau?\n SET @String = 'SQL Server 2008'\n SELECT LEN(@String)",
+        "answer": "15"
+    },
+    "26373": {
+        "question": "Giả sử có hai biến @a, @b kiểu int. Câu lệnh gán giá trị đúng cho cả hai biến này là:",
+        "answer": "SELECT @a = 1, @b = 2SET @a = 1 SELECT @b = 2"
+    },
+    "26374": {
+        "question": "Hàm CAST có cú pháp là:",
+        "answer": "CAST(InvoiceDate AS varchar)"
+    },
+    "26375": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26376": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26377": {
+        "question": "Lệnh gán giá trị cho cột PaymentDate có kiểu SmallDatetime : PaymentDate = '2008-08-05' có thực hiện phép chuyển đổi ngầm và:",
+        "answer": "giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu SmallDatetime"
+    },
+    "26378": {
+        "question": "Đoạn mã thực hiện khai báo một biến và gán giá trị cho biến đó bằng 1 là: mso-height-source:userset;height:45.75pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26379": {
+        "question": "Cho đoạn mã sau:\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n SELECT @a, @b\n SELECT @a = @a + 1\n Kết quả trả về là:",
+        "answer": "Lỗi vòng lặp vô hạn"
+    },
+    "26380": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n BEGIN\n SELECT @a, @b\n SELECT @a = @a + 1\n END",
+        "answer": "Hai tập kết quả: thứ nhất gồm 2 cột có giá trị 0 và 2 và thứ hai gồm 2 cột có giá trị 1 và 2"
+    },
+    "26381": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 1\n IF @a &gt; 0 \n PRINT 'a is greater than 0, a = ' + @a \n ELSE\n PRINT 'a is not greater than 0'",
+        "answer": "Thông báo lỗi"
+    },
+    "26382": {
+        "question": "Cho mã kịch bản sau:\n USE AP\n PRINT N'Đây là một chuỗi'\n Kết quả là:",
+        "answer": "Câu lệnh PRINT được thực thi trên ngữ cảnh CSDL AP và in ra dòng 'Đây là một chuỗi' trong Tab Message"
+    },
+    "26383": {
+        "question": "Phát biểu đúng là:",
+        "answer": "Để khai báo điểm bắt đầu của một giao dịch, sử dụng từ khóa BEGIN TRAN hoặc BEGIN TRANSACTION"
+    },
+    "26384": {
+        "question": "Khi không khai báo điểm bắt đầu cho một giao dịch, SQL Server xem ____?____ và tự động COMMIT câu lệnh lên Server. Nếu câu lệnh phát sinh lỗi sẽ tự động ROLLBACK.",
+        "answer": "từng câu lệnh riêng lẻ là một giao dịch"
+    },
+    "26385": {
+        "question": "&nbsp;@LikeFilter là tham số đầu vào và là điều kiện lọc sử dụng với toán tử LIKE trong câu lệnh SELECT trong thân SP. Kiểu dữ liệu phù hợp để khai báo tham số này là:",
+        "answer": "varchar"
+    },
+    "26386": {
+        "question": "Các trường hợp sử dụng giao dịch là:",
+        "answer": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm tính toàn vẹn dữ liệu"
+    },
+    "26387": {
+        "question": "Thực hiện lời gọi một Stored Procedure từ:",
+        "answer": "Một chương trình ứng dụng, một thủ tục khác hoặc một mã kịch bản"
+    },
+    "26388": {
+        "question": "Tham số của một Stored Procedure là:",
+        "answer": "Các kiểu dữ liệu SQL"
+    },
+    "26389": {
+        "question": "Được lưu trữ như một đối tượng trong CSDL là:",
+        "answer": "Stored Procedure, Trigger và Hàm người dùng định nghĩa&nbsp;"
+    },
+    "26390": {
+        "question": "Mã kịch bản sau sẽ thực hiện gì khi được thực thi?\n IF OBJECT_ID('spCopyInvoices') IS NOT NULL\n DROP PROC spCopyInvoices\n CREATE PROC spCopyInvoices\n AS\n SELECT * INTO InvoiceCopy FROM Invoices",
+        "answer": "Lỗi cú pháp"
+    },
+    "26391": {
+        "question": "Sử dụng giao dịch trong trường hợp:",
+        "answer": "Khi cập nhật tham chiếu khóa ngoại"
+    },
+    "26392": {
+        "question": "Nếu dữ liệu không hợp lệ, sử dụng câu lệnh để sinh lỗi là:",
+        "answer": "RAISERROR"
+    },
+    "26393": {
+        "question": "Phát biểu nào sau đây đúng về Stored Procedure?\n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS",
+        "answer": "@a và @String là tham số đầu vào tùy chọn, @b là tham số đầu ra"
+    },
+    "26394": {
+        "question": "Hàm @@TRANCOUNT, khi thực thi câu lệnh COMMIT TRAN:",
+        "answer": "&nbsp;nếu @@TRANCOUNT &gt; 1, các thay đổi sẽ không được commit. Thay vào đó @@TRANCOUNT giảm đi 1."
+    },
+    "26395": {
+        "question": "Điểm lưu trữ:",
+        "answer": "&nbsp;Được khai báo bằng câu lệnh SAVE TRAN và sử dụng để đánh dấu điểm quay lui giao dịch"
+    },
+    "26396": {
+        "question": "Tham số đầu vào tùy chọn:",
+        "answer": "Là một tham số đầu vào, được gán một giá trị mặc định"
+    },
+    "26397": {
+        "question": "Stored Procedure:",
+        "answer": "Tham số đầu ra của Stored Procedure được khai báo bằng từ khóa OUTPUT"
+    },
+    "26398": {
+        "question": "Trong một Stored Procedure:",
+        "answer": "&nbsp;câu lệnh RETURN chỉ trả về một giá trị kiểu số nguyên"
+    },
+    "26399": {
+        "question": "spCopyInvoices là một Stored Procedure được lưu trữ trong CSDL. Phát biểu nào sau đây đúng về câu lệnh sp_helptext 'spCopyInvoices'?",
+        "answer": "Trả về đoạn mã của Stored Procedure spCopyInvoices"
+    },
+    "26400": {
+        "question": "spParameters là tên một Stored Procedure đã được mã hóa bằng cách sử dụng tham số tùy chọn ENCRYPTION trong câu lệnh tạo SP. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "&nbsp;thông báo 'The text for object 'spParameters' is encrypted.' trong tab Message"
+    },
+    "26401": {
+        "question": "Sử dụng tham số OUTPUT để trả về giá trị có kiểu dữ liệu:",
+        "answer": "bất kì"
+    },
+    "26402": {
+        "question": "Với thủ tục sau \n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS\n Lời gọi thủ tục là:",
+        "answer": "DECLARE @b intEXEC spParameters @b = @b OUTPUT, @String = 'hello'"
+    },
+    "26403": {
+        "question": "Dùng hàm giá trị bảng đơn giản (hàm giá trị bảng nội tuyến):",
+        "answer": "để thay thế cho tên một VIEW, một bảng trong câu lệnh SELECT"
+    },
+    "26404": {
+        "question": "Câu lệnh tạo ra View có thể cập nhật là:",
+        "answer": "CREATE VIEW VendorsDESCASSELECT VendorID, VendorNameFROM vendors"
+    },
+    "26405": {
+        "question": "Câu lệnh thực hiện xóa View Vendors_SW là:",
+        "answer": "DROP VIEW Vendors_SW"
+    },
+    "26406": {
+        "question": "có 3 loại hàm người dùng tự định nghĩa đó là các hàm giá trị:",
+        "answer": "vô hướng, bảng đơn giản và bảng nhiều câu lệnh"
+    },
+    "26407": {
+        "question": "Giả sử fnBalanceDue là một hàm người dùng định nghĩa. Câu lệnh thực hiện xóa hàm fnBalanceDue là:",
+        "answer": "drop function fnBalanceDue"
+    },
+    "26408": {
+        "question": "Hàm fnTonghaiso nhận hai tham số đầu vào @a và @b kiểu int và trả về kết quả tổng hai số. Đoạn mã kịch bản trả về kết quả tổng của hai số 1 và 5 là:",
+        "answer": "select dbo.fnTonghaiso(1,5)"
+    },
+    "26409": {
+        "question": "Hàm trả về một bảng, là kết quả của một câu lệnh SELECT đơn là:",
+        "answer": "Hàm giá trị bảng đơn giản&nbsp;"
+    },
+    "26410": {
+        "question": "Lựa chọn vi phạm điều kiện để tạo một VIEW có thể cập nhật là:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26411": {
+        "question": "Mã kịch bản khai báo thành công một hàm tính tổng hai số là:",
+        "answer": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0)RETURNS intBEGINRETURN (@a+@b)END"
+    },
+    "26412": {
+        "question": "Một hàm người dùng định nghĩa có thể trả về giá trị:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26413": {
+        "question": "Phát biều đúng về tên cột của một VIEW:",
+        "answer": "&nbsp;Cột chứa giá trị được tính toán từ nhiều cột khác phải được đặt tên.&nbsp; Nếu cột không được đặt tên, tên cột sẽ được mặc định giống tên cột của bảng cơ sở."
+    },
+    "26414": {
+        "question": "Với hàm người dùng định nghĩa:",
+        "answer": "Là một đối tượng CSDL chứa các câu lệnh SQL, được biên dịch sẵn, lưu trữ trong CSDL và luôn phải trả về một giá trị"
+    },
+    "26415": {
+        "question": "Với hàm người dùng định nghĩa, phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng là:</span>",
+        "answer": "Trong lời gọi hàm, có thể truyền giá trị cho các tham số theo tên"
+    },
+    "26416": {
+        "question": "Với VIEW:",
+        "answer": "Sử dụng View có thể che dấu và bảo mật dữ liệu"
+    },
+    "26417": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW OutstandingInvoices\n AS\n SELECT InvoiceNumber, InvoiceDate, InvoiceTotal,\n InvoiceTotal - PaymentTotal – CreditTotal AS BalanceDue\n FROM Invoices\n WHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0\n View tạo ra bởi đoạn mã này là:",
+        "answer": "View chỉ đọc"
+    },
+    "26418": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW VendorsDESC\n AS\n SELECT VendorID, VendorName\n FROM vendors\n ORDER BY VendorName DESC\n View tạo ra bởi đoạn mã này là:",
+        "answer": "Xảy ra lỗi khi thực thi đoạn mã này"
+    },
+    "26419": {
+        "question": "Về View:",
+        "answer": "&nbsp;Là một câu lệnh truy vấn được biên dịch sẵn và lưu trữ như là một đối tượng trong CSDL. Có thể lưu một câu lệnh tạo VIEW dưới định dạng .sql"
+    },
+    "26420": {
+        "question": "Đoạn mã thực hiện khai báo thành công một hàm người dùng định nghĩa không chứa tham số là:",
+        "answer": "CREATE FUNCTION fnBalanceDue()RETURNS moneyBEGINRETURN (SELECT SUM(InvoiceTotal - PaymentTotal - CreditTotal)FROM InvoicesWHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0)END"
+    },
+    "26421": {
+        "question": "Để chỉnh sửa một VIEW sử dụng chế độ đồ họa View Designer của Management Studio, nhấn chuột phải vào tên View trong cửa sổ Objects Explorer chọn:",
+        "answer": "Design"
+    },
+    "26422": {
+        "question": "Để trả về giá trị cho một hàm người dùng định nghĩa, có thể sử dụng:",
+        "answer": "câu lệnh RETURN"
+    },
+    "26423": {
+        "question": "Chế độ xác thực phải nhập UserName và Password khi đăng nhập SQL Server là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26424": {
+        "question": "Câu lệnh thực hiện đổi tên thành công database user SunsanRoberts thành SusanStanley là:",
+        "answer": "ALTER USER SusanRoberts WITH NAME = SusanStanley"
+    },
+    "26425": {
+        "question": "Có thể gán vai trò CSDL mặc định cho:",
+        "answer": "Database User và Login ID"
+    },
+    "26426": {
+        "question": "Vai trò Server mặc định là:",
+        "answer": "dbcreator"
+    },
+    "26427": {
+        "question": "Vai trò CSDL mặc định là:",
+        "answer": "Tất cả đáp án đều sai"
+    },
+    "26428": {
+        "question": "SQL Server dựa vào ____?_____để cấp cho người dùng/nhóm người dùng để xác định các đối tượng, câu lệnh SQL,… người đùng được phép tác động trên CSDL.",
+        "answer": "Quyền và vai trò"
+    },
+    "26429": {
+        "question": "Một Login Id được gán vai trò sysadmin thì có thể thực hiện thao tác: ght=38 style='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26430": {
+        "question": "Để kết nối tới SQL Server, người dùng cần:&nbsp; e='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Login ID"
+    },
+    "26431": {
+        "question": "Để toàn quyền đối với CSDL, người dùng được gán vai trò CSDL mặc định là: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Sysadmin"
+    },
+    "26432": {
+        "question": "Để có tính bảo mật cao, Password của một SQL Login ID phải thỏa mãn điều kiện: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26433": {
+        "question": "Phát biểu đúng:",
+        "answer": "Người dùng có thể tạo một vai trò tự định nghĩa qua câu lệnh CREATE ROLE"
+    },
+    "26434": {
+        "question": "Phát biểu đúng:",
+        "answer": "Để tạo database user cho một CSDL cụ thể, câu lệnh CREATE USER phải được thực thi trong ngữ cảnh CSDL đó"
+    },
+    "26435": {
+        "question": "Quyền EXECUTE có thể tác động lên các đối tượng:",
+        "answer": "Stored Procedure"
+    },
+    "26436": {
+        "question": "Quyền REFERENCES có thể tác động lên các đối tượng:",
+        "answer": "Tất cả dáp án đều đúng"
+    },
+    "26437": {
+        "question": "Quyền SELECT có thể tác động lên các đối tượng :",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26438": {
+        "question": "Sau khi tạo một Database User cho một CSDL, người dùng có thể thực hiện các quyền:",
+        "answer": "Chọn CSDL trên combo box chọn ngữ cảnh CSDL"
+    },
+    "26439": {
+        "question": "Khi đăng nhập vào SQL Server, thay đổi chế độ xác thực tại:",
+        "answer": "Server Properties"
+    },
+    "26440": {
+        "question": "Tên của một vai trò tự định nghĩa <span class=\"font8\">không</span><span class=\"font5\"> được các chứa kí tự:</span>",
+        "answer": "&nbsp;; ? : @ &amp; = + , $ / * &lt; &gt; | \"&nbsp; /"
+    },
+    "26441": {
+        "question": "Vai trò dbcreator có thể thực hiện các thao tác:",
+        "answer": "Phục hồi một CSDL"
+    },
+    "26442": {
+        "question": "Đoạn mã kịch bản thực thi thành công là:",
+        "answer": "CREATE LOGIN JohnDoe WITH PASSWORD = 'pt8806FG$B', DEFAULT_DATABASE = APUSE APCREATE USER JohnDoe FOR LOGIN JohnDoe"
+    },
+    "26443": {
+        "question": "Các cấu hình thường phải thực hiện cho một Back Up Database Task trong hộp thoại Back Up Database Task là:",
+        "answer": "&nbsp;Chọn kiểu sao lưu CSDL trong mục Database(s) và đường dẫn lưu bản sao CSDL"
+    },
+    "26444": {
+        "question": "File sử dụng để phục hồi CSDL có phần mở rộng là:",
+        "answer": "&nbsp;Bak"
+    },
+    "26445": {
+        "question": "Invoices là tên một bảng trong CSDL. Câu lệnh sp_Help 'Invoices' trả về:",
+        "answer": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại."
+    },
+    "26446": {
+        "question": "Kiểu sao lưu <span class=\"font8\">không</span><span class=\"font5\"> thực hiện sao lưu dữ liệu được lưu trong CSDL là:</span>",
+        "answer": "Transaction log backup"
+    },
+    "26447": {
+        "question": "Một system stored procedure là:",
+        "answer": "sp_column"
+    },
+    "26448": {
+        "question": "Để tạo lịch sao lưu tự động cho một CSDL, người dùng phải đăng nhập bằng Login ID có vai trò:&nbsp;",
+        "answer": "sysadmin"
+    },
+    "26449": {
+        "question": "Kiểu sao lưu:",
+        "answer": "&nbsp;Differential backup chỉ sao lưu các dữ liệu mới được cập nhật (thay đổi) kể từ lần full backup trước đó"
+    },
+    "26450": {
+        "question": "spParameters là tên một Stored Procedure. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "Đoạn văn bản chứa nội dung của Stored Procedure"
+    },
+    "26451": {
+        "question": "System Stored Procedure dùng để xem danh sách các Stored Procedure, View mà tham chiếu đến bảng Invoices trong CSDL là:",
+        "answer": "sp_depends Invoices"
+    },
+    "26452": {
+        "question": "Tùy chọn chế độ sao lưu có thể tạo ra nhiều bản sao CSDL, được lưu trong cùng một file .bak là:",
+        "answer": "Append to the existing backup set"
+    },
+    "26453": {
+        "question": "Để thực hiện phục hồi CSDL từ một bản sao Full backup và sau đó tiếp tục phục hồi CSDL sử dụng bản sao Differential backup, ở mục recovery state của trang option trong hộp thoại Restore database của lần phục hồi từ bản sao Full backup phải chọn radio button là:",
+        "answer": "radio button thứ 2"
+    },
+    "26454": {
+        "question": "Để tạo lịch sao lưu CSDL tự động trong SQL Server 2008, nhấn chuột phải vào Maintenance Plans trong thư mục Management trên cửa sổ Solution Explorer và chọn:",
+        "answer": "New Maintenance Plan"
+    },
+    "26455": {
+        "question": "<span class=\"font8\">Không</span><span class=\"font5\"> phải kiểu khôi phục CSDL là:</span>",
+        "answer": "Copy-only"
+    },
+    "26456": {
+        "question": "Các kiểu sao lưu <span class=\"font5\">trong CSDL là:</span>",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26457": {
+        "question": "Các kiểu khôi phục trong CSDL là:",
+        "answer": "Full"
+    },
+    "26759": {
+        "question": "Thao tác thực hiện trên lược đồ CSDL là:",
+        "answer": "Thêm cột"
+    },
+    "26760": {
+        "question": "SQL Server, để khởi động và dừng cần sử dụng công cụ:",
+        "answer": "SQL Server Configuration Manager"
+    },
+    "26761": {
+        "question": "Để điều hướng qua các đối tượng của CSDL trên SQL Management Studio, cần sử dụng:",
+        "answer": "Cửa sổ Object Explorer"
+    },
+    "26762": {
+        "question": "Trong SQL Management Studio, khi kết nối tới CSDL SQL Server - hộp thoại Connect to Server, chế độ xác thực người dùng phải nhập User Name và Password là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26763": {
+        "question": "Nhập và thực thi câu lệnh SQL bằng cách:",
+        "answer": "Nhập câu lệnh vào cửa sổ Query Editor và bấm F5"
+    },
+    "26764": {
+        "question": "Xảy ra lỗi cú pháp trong quá trình thực thi một câu lệnh SQL, SQL Server sẽ thông báo lỗi đó bằng cách:",
+        "answer": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    },
+    "26765": {
+        "question": "T-SQL là ngôn ngữ SQL mở rộng:",
+        "answer": "dựa trên SQL chuẩn của ISO và ANSI"
+    },
+    "26766": {
+        "question": "T-SQL:",
+        "answer": "&nbsp;là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    },
+    "26767": {
+        "question": "SQL Server 2008, có hỗ trợ các tính năng:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26768": {
+        "question": "SQL sử dụng ngôn ngữ để truy vấn CSDL là:",
+        "answer": "Transact-SQL"
+    },
+    "26769": {
+        "question": "Thanh công cụ của cửa sổ Query Editor xuất hiện khi:",
+        "answer": "nhấp chuột vào nút New Query"
+    },
+    "26770": {
+        "question": "SQL Server là hệ quản trị cơ sở dữ liệu (CSDL):",
+        "answer": "cho phép đồng thời một lúc nhiều users truy xuất đến dữ liệu."
+    },
+    "26771": {
+        "question": "Các lỗi cú pháp thường gặp khi thực thi câu lệnh SQL là:",
+        "answer": "Các đáp án đều đúng"
+    },
+    "26772": {
+        "question": "Các ứng dụng sử dụng hệ quản trị CSDL SQL Server là:",
+        "answer": "Java và .NET"
+    },
+    "26773": {
+        "question": "Câu lệnh định nghĩa dữ liệu - DDL là:",
+        "answer": "CREATE"
+    },
+    "26774": {
+        "question": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL)",
+        "answer": "DENY, GRANT, REVOKE"
+    },
+    "26775": {
+        "question": "Trong cửa sổ Query Editor, câu lệnh SQL được nhập sẽ được định dạng màu với:",
+        "answer": "Màu xanh cho các từ khóa, màu hồng tím cho các hàm, màu đen cho tên bảng hoặc tên cột"
+    },
+    "26776": {
+        "question": "Sử dụng cửa sổ Query Designer để tạo câu lệnh:",
+        "answer": "SELECT, UPDATE, DELETE"
+    },
+    "26777": {
+        "question": "Công cụ SQL Server Configuration Management có thể thực hiện tác vụ:",
+        "answer": "Thay đổi chế độ khởi động cho một dịch vụ"
+    },
+    "26778": {
+        "question": "Hai loại file sử dụng khi Attach một CSDL là:",
+        "answer": "mdf và ldf"
+    },
+    "26779": {
+        "question": "T-SQL, các đối tượng có kiểu dữ liệu:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26780": {
+        "question": "Đoạn mã sau đây cho kết quả gì?\n DECLARE @a int = 1\n SELECT @A",
+        "answer": "1"
+    },
+    "26781": {
+        "question": "T-SQL, chú thích được sử dụng là:",
+        "answer": "--Chú thích đúng"
+    },
+    "26782": {
+        "question": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, nhấn chuột phải vào tên bảng và chọn:",
+        "answer": "Design"
+    },
+    "26783": {
+        "question": "T-SQL hỗ trợ các cấu trúc điều khiển:",
+        "answer": "IF…ELSE"
+    },
+    "26784": {
+        "question": "Câu lệnh khai báo biến là:",
+        "answer": "DECLARE @a int"
+    },
+    "26785": {
+        "question": "Câu lệnh định nghĩa dữ liệu là:",
+        "answer": "CREATE TABLE"
+    },
+    "26786": {
+        "question": "Cho đoạn mã DECLARE @a int, @b nchar(50). Câu lệnh gán giá trị cho @a và @b <span class=\"font8\">không</span><span class=\"font5\"> phát sinh lỗi định dạng dữ liệu là:</span>",
+        "answer": "SELECT @a = 1, @b = N'kí tự Unicode'"
+    },
+    "26787": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n print 'Biến @a lớn hơn 0'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Lỗi cú pháp"
+    },
+    "26788": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Bạn đã khai báoBiến @a nhỏ hơn 0"
+    },
+    "26789": {
+        "question": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ được dùng để lưu trữ chuỗi là:",
+        "answer": "Nchar hoặc Nvarchar"
+    },
+    "26790": {
+        "question": "Kiểu dữ liệu thích hợp để lưu trữ số điện thoại, số chứng minh nhân dân là:",
+        "answer": "char"
+    },
+    "26791": {
+        "question": "Kiểu dữ liệu <span class=\"font8\">không</span><span class=\"font5\"> thuộc SQL Server là:</span>",
+        "answer": "String"
+    },
+    "26792": {
+        "question": "Kiểu dữ liệu để lưu chuỗi với độ dài cố định hỗ trợ UNICODE là:",
+        "answer": "Nchar"
+    },
+    "26793": {
+        "question": "Với biến bảng:",
+        "answer": "Có thể sử dụng câu lệnh UPDATE&nbsp;"
+    },
+    "26794": {
+        "question": "T-SQL:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26795": {
+        "question": "SQL Server, cung cấp số kiểu dữ liệu đơn là:",
+        "answer": "26"
+    },
+    "26796": {
+        "question": "T- SQL hỗ trợ các loại:",
+        "answer": "Biến vô hướng và biến bảng"
+    },
+    "26797": {
+        "question": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh:",
+        "answer": "INSERT"
+    },
+    "26798": {
+        "question": "Để thiết lập khóa ngoại cho một bảng, hiển thị bảng ở chế độ Table Design và nhấn vào nút gì trên thanh công cụ làm việc với bảng?",
+        "answer": "Relationships"
+    },
+    "26799": {
+        "question": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm là:",
+        "answer": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    },
+    "26800": {
+        "question": "Câu lệnh REPLACE(RIGHT('(559) 555-1212', 13), ') ', '-') trả về kết quả là",
+        "answer": "559- 555-1212"
+    },
+    "26801": {
+        "question": "Câu lệnh SELECT CHARINDEX('SQL', 'HELLO SQL Server') trả về kết quả là:",
+        "answer": "7"
+    },
+    "26802": {
+        "question": "Câu lệnh SELECT DATEDIFF(month, '2008-09-30', '2007-12-01') trả về kết quả là:",
+        "answer": "-9"
+    },
+    "26803": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng là:",
+        "answer": "mm/dd/yy"
+    },
+    "26804": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Khi đó a có giá trị là:",
+        "answer": "3"
+    },
+    "26805": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Khi đó a có giá trị là:",
+        "answer": "105"
+    },
+    "26806": {
+        "question": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012?",
+        "answer": "Tất cả đáp án đều đúng StartDate) = 2012"
+    },
+    "26807": {
+        "question": "Giả sử biến @a kiểu int có giá trị bằng 1, biến @Tổng kiểu int có giá trị bằng 0. Cho biết kết quả trả về của đoạn mã sau?\n WHILE (@a &lt;= 5)\n BEGIN\n SELECT @Tổng = @Tổng + @a\n SET @a = @a + 1\n END\n SELECT @Tổng",
+        "answer": "15"
+    },
+    "26808": {
+        "question": "Giả sử biến @String được khai báo như sau:\n DECLARE @String varchar.\n Cho biết kết quả trả về của đoạn mã sau?\n SET @String = 'SQL Server 2008'\n SELECT LEN(@String)",
+        "answer": "15"
+    },
+    "26809": {
+        "question": "Giả sử có hai biến @a, @b kiểu int. Câu lệnh gán giá trị đúng cho cả hai biến này là:",
+        "answer": "SELECT @a = 1, @b = 2SET @a = 1 SELECT @b = 2"
+    },
+    "26810": {
+        "question": "Hàm CAST có cú pháp là:",
+        "answer": "CAST(InvoiceDate AS varchar)"
+    },
+    "26811": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26812": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26813": {
+        "question": "Lệnh gán giá trị cho cột PaymentDate có kiểu SmallDatetime : PaymentDate = '2008-08-05' có thực hiện phép chuyển đổi ngầm và:",
+        "answer": "giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu SmallDatetime"
+    },
+    "26814": {
+        "question": "Đoạn mã thực hiện khai báo một biến và gán giá trị cho biến đó bằng 1 là: mso-height-source:userset;height:45.75pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26815": {
+        "question": "Cho đoạn mã sau:\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n SELECT @a, @b\n SELECT @a = @a + 1\n Kết quả trả về là:",
+        "answer": "Lỗi vòng lặp vô hạn"
+    },
+    "26816": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n BEGIN\n SELECT @a, @b\n SELECT @a = @a + 1\n END",
+        "answer": "Hai tập kết quả: thứ nhất gồm 2 cột có giá trị 0 và 2 và thứ hai gồm 2 cột có giá trị 1 và 2"
+    },
+    "26817": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 1\n IF @a &gt; 0 \n PRINT 'a is greater than 0, a = ' + @a \n ELSE\n PRINT 'a is not greater than 0'",
+        "answer": "Thông báo lỗi"
+    },
+    "26818": {
+        "question": "Cho mã kịch bản sau:\n USE AP\n PRINT N'Đây là một chuỗi'\n Kết quả là:",
+        "answer": "Câu lệnh PRINT được thực thi trên ngữ cảnh CSDL AP và in ra dòng 'Đây là một chuỗi' trong Tab Message"
+    },
+    "26819": {
+        "question": "Phát biểu đúng là:",
+        "answer": "Để khai báo điểm bắt đầu của một giao dịch, sử dụng từ khóa BEGIN TRAN hoặc BEGIN TRANSACTION"
+    },
+    "26820": {
+        "question": "Khi không khai báo điểm bắt đầu cho một giao dịch, SQL Server xem ____?____ và tự động COMMIT câu lệnh lên Server. Nếu câu lệnh phát sinh lỗi sẽ tự động ROLLBACK.",
+        "answer": "từng câu lệnh riêng lẻ là một giao dịch"
+    },
+    "26821": {
+        "question": "&nbsp;@LikeFilter là tham số đầu vào và là điều kiện lọc sử dụng với toán tử LIKE trong câu lệnh SELECT trong thân SP. Kiểu dữ liệu phù hợp để khai báo tham số này là:",
+        "answer": "varchar"
+    },
+    "26822": {
+        "question": "Các trường hợp sử dụng giao dịch là:",
+        "answer": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm tính toàn vẹn dữ liệu"
+    },
+    "26823": {
+        "question": "Thực hiện lời gọi một Stored Procedure từ:",
+        "answer": "Một chương trình ứng dụng, một thủ tục khác hoặc một mã kịch bản"
+    },
+    "26824": {
+        "question": "Tham số của một Stored Procedure là:",
+        "answer": "Các kiểu dữ liệu SQL"
+    },
+    "26825": {
+        "question": "Được lưu trữ như một đối tượng trong CSDL là:",
+        "answer": "Stored Procedure, Trigger và Hàm người dùng định nghĩa&nbsp;"
+    },
+    "26826": {
+        "question": "Mã kịch bản sau sẽ thực hiện gì khi được thực thi?\n IF OBJECT_ID('spCopyInvoices') IS NOT NULL\n DROP PROC spCopyInvoices\n CREATE PROC spCopyInvoices\n AS\n SELECT * INTO InvoiceCopy FROM Invoices",
+        "answer": "Lỗi cú pháp"
+    },
+    "26827": {
+        "question": "Sử dụng giao dịch trong trường hợp:",
+        "answer": "Khi cập nhật tham chiếu khóa ngoại"
+    },
+    "26828": {
+        "question": "Nếu dữ liệu không hợp lệ, sử dụng câu lệnh để sinh lỗi là:",
+        "answer": "RAISERROR"
+    },
+    "26829": {
+        "question": "Phát biểu nào sau đây đúng về Stored Procedure?\n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS",
+        "answer": "@a và @String là tham số đầu vào tùy chọn, @b là tham số đầu ra"
+    },
+    "26830": {
+        "question": "Hàm @@TRANCOUNT, khi thực thi câu lệnh COMMIT TRAN:",
+        "answer": "&nbsp;nếu @@TRANCOUNT &gt; 1, các thay đổi sẽ không được commit. Thay vào đó @@TRANCOUNT giảm đi 1."
+    },
+    "26831": {
+        "question": "Điểm lưu trữ:",
+        "answer": "&nbsp;Được khai báo bằng câu lệnh SAVE TRAN và sử dụng để đánh dấu điểm quay lui giao dịch"
+    },
+    "26832": {
+        "question": "Tham số đầu vào tùy chọn:",
+        "answer": "Là một tham số đầu vào, được gán một giá trị mặc định"
+    },
+    "26833": {
+        "question": "Stored Procedure:",
+        "answer": "Tham số đầu ra của Stored Procedure được khai báo bằng từ khóa OUTPUT"
+    },
+    "26834": {
+        "question": "Trong một Stored Procedure:",
+        "answer": "&nbsp;câu lệnh RETURN chỉ trả về một giá trị kiểu số nguyên"
+    },
+    "26835": {
+        "question": "spCopyInvoices là một Stored Procedure được lưu trữ trong CSDL. Phát biểu nào sau đây đúng về câu lệnh sp_helptext 'spCopyInvoices'?",
+        "answer": "Trả về đoạn mã của Stored Procedure spCopyInvoices"
+    },
+    "26836": {
+        "question": "spParameters là tên một Stored Procedure đã được mã hóa bằng cách sử dụng tham số tùy chọn ENCRYPTION trong câu lệnh tạo SP. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "&nbsp;thông báo 'The text for object 'spParameters' is encrypted.' trong tab Message"
+    },
+    "26837": {
+        "question": "Sử dụng tham số OUTPUT để trả về giá trị có kiểu dữ liệu:",
+        "answer": "bất kì"
+    },
+    "26838": {
+        "question": "Với thủ tục sau \n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS\n Lời gọi thủ tục là:",
+        "answer": "DECLARE @b intEXEC spParameters @b = @b OUTPUT, @String = 'hello'"
+    },
+    "26839": {
+        "question": "Dùng hàm giá trị bảng đơn giản (hàm giá trị bảng nội tuyến):",
+        "answer": "để thay thế cho tên một VIEW, một bảng trong câu lệnh SELECT"
+    },
+    "26840": {
+        "question": "Câu lệnh tạo ra View có thể cập nhật là:",
+        "answer": "CREATE VIEW VendorsDESCASSELECT VendorID, VendorNameFROM vendors"
+    },
+    "26841": {
+        "question": "Câu lệnh thực hiện xóa View Vendors_SW là:",
+        "answer": "DROP VIEW Vendors_SW"
+    },
+    "26842": {
+        "question": "có 3 loại hàm người dùng tự định nghĩa đó là các hàm giá trị:",
+        "answer": "vô hướng, bảng đơn giản và bảng nhiều câu lệnh"
+    },
+    "26843": {
+        "question": "Giả sử fnBalanceDue là một hàm người dùng định nghĩa. Câu lệnh thực hiện xóa hàm fnBalanceDue là:",
+        "answer": "drop function fnBalanceDue"
+    },
+    "26844": {
+        "question": "Hàm fnTonghaiso nhận hai tham số đầu vào @a và @b kiểu int và trả về kết quả tổng hai số. Đoạn mã kịch bản trả về kết quả tổng của hai số 1 và 5 là:",
+        "answer": "select dbo.fnTonghaiso(1,5)"
+    },
+    "26845": {
+        "question": "Hàm trả về một bảng, là kết quả của một câu lệnh SELECT đơn là:",
+        "answer": "Hàm giá trị bảng đơn giản&nbsp;"
+    },
+    "26846": {
+        "question": "Lựa chọn vi phạm điều kiện để tạo một VIEW có thể cập nhật là:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26847": {
+        "question": "Mã kịch bản khai báo thành công một hàm tính tổng hai số là:",
+        "answer": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0)RETURNS intBEGINRETURN (@a+@b)END"
+    },
+    "26848": {
+        "question": "Một hàm người dùng định nghĩa có thể trả về giá trị:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26849": {
+        "question": "Phát biều đúng về tên cột của một VIEW:",
+        "answer": "&nbsp;Cột chứa giá trị được tính toán từ nhiều cột khác phải được đặt tên.&nbsp; Nếu cột không được đặt tên, tên cột sẽ được mặc định giống tên cột của bảng cơ sở."
+    },
+    "26850": {
+        "question": "Với hàm người dùng định nghĩa:",
+        "answer": "Là một đối tượng CSDL chứa các câu lệnh SQL, được biên dịch sẵn, lưu trữ trong CSDL và luôn phải trả về một giá trị"
+    },
+    "26851": {
+        "question": "Với hàm người dùng định nghĩa, phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng là:</span>",
+        "answer": "Trong lời gọi hàm, có thể truyền giá trị cho các tham số theo tên"
+    },
+    "26852": {
+        "question": "Với VIEW:",
+        "answer": "Sử dụng View có thể che dấu và bảo mật dữ liệu"
+    },
+    "26853": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW OutstandingInvoices\n AS\n SELECT InvoiceNumber, InvoiceDate, InvoiceTotal,\n InvoiceTotal - PaymentTotal – CreditTotal AS BalanceDue\n FROM Invoices\n WHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0\n View tạo ra bởi đoạn mã này là:",
+        "answer": "View chỉ đọc"
+    },
+    "26854": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW VendorsDESC\n AS\n SELECT VendorID, VendorName\n FROM vendors\n ORDER BY VendorName DESC\n View tạo ra bởi đoạn mã này là:",
+        "answer": "Xảy ra lỗi khi thực thi đoạn mã này"
+    },
+    "26855": {
+        "question": "Về View:",
+        "answer": "&nbsp;Là một câu lệnh truy vấn được biên dịch sẵn và lưu trữ như là một đối tượng trong CSDL. Có thể lưu một câu lệnh tạo VIEW dưới định dạng .sql"
+    },
+    "26856": {
+        "question": "Đoạn mã thực hiện khai báo thành công một hàm người dùng định nghĩa không chứa tham số là:",
+        "answer": "CREATE FUNCTION fnBalanceDue()RETURNS moneyBEGINRETURN (SELECT SUM(InvoiceTotal - PaymentTotal - CreditTotal)FROM InvoicesWHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0)END"
+    },
+    "26857": {
+        "question": "Để chỉnh sửa một VIEW sử dụng chế độ đồ họa View Designer của Management Studio, nhấn chuột phải vào tên View trong cửa sổ Objects Explorer chọn:",
+        "answer": "Design"
+    },
+    "26858": {
+        "question": "Để trả về giá trị cho một hàm người dùng định nghĩa, có thể sử dụng:",
+        "answer": "câu lệnh RETURN"
+    },
+    "26859": {
+        "question": "Chế độ xác thực phải nhập UserName và Password khi đăng nhập SQL Server là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26860": {
+        "question": "Câu lệnh thực hiện đổi tên thành công database user SunsanRoberts thành SusanStanley là:",
+        "answer": "ALTER USER SusanRoberts WITH NAME = SusanStanley"
+    },
+    "26861": {
+        "question": "Có thể gán vai trò CSDL mặc định cho:",
+        "answer": "Database User và Login ID"
+    },
+    "26862": {
+        "question": "Vai trò Server mặc định là:",
+        "answer": "dbcreator"
+    },
+    "26863": {
+        "question": "Vai trò CSDL mặc định là:",
+        "answer": "Tất cả đáp án đều sai"
+    },
+    "26864": {
+        "question": "SQL Server dựa vào ____?_____để cấp cho người dùng/nhóm người dùng để xác định các đối tượng, câu lệnh SQL,… người đùng được phép tác động trên CSDL.",
+        "answer": "Quyền và vai trò"
+    },
+    "26865": {
+        "question": "Một Login Id được gán vai trò sysadmin thì có thể thực hiện thao tác: ght=38 style='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26866": {
+        "question": "Để kết nối tới SQL Server, người dùng cần:&nbsp; e='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Login ID"
+    },
+    "26867": {
+        "question": "Để toàn quyền đối với CSDL, người dùng được gán vai trò CSDL mặc định là: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Sysadmin"
+    },
+    "26868": {
+        "question": "Để có tính bảo mật cao, Password của một SQL Login ID phải thỏa mãn điều kiện: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26869": {
+        "question": "Phát biểu đúng:",
+        "answer": "Người dùng có thể tạo một vai trò tự định nghĩa qua câu lệnh CREATE ROLE"
+    },
+    "26870": {
+        "question": "Phát biểu đúng:",
+        "answer": "Để tạo database user cho một CSDL cụ thể, câu lệnh CREATE USER phải được thực thi trong ngữ cảnh CSDL đó"
+    },
+    "26871": {
+        "question": "Quyền EXECUTE có thể tác động lên các đối tượng:",
+        "answer": "Stored Procedure"
+    },
+    "26872": {
+        "question": "Quyền REFERENCES có thể tác động lên các đối tượng:",
+        "answer": "Tất cả dáp án đều đúng"
+    },
+    "26873": {
+        "question": "Quyền SELECT có thể tác động lên các đối tượng :",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26874": {
+        "question": "Sau khi tạo một Database User cho một CSDL, người dùng có thể thực hiện các quyền:",
+        "answer": "Chọn CSDL trên combo box chọn ngữ cảnh CSDL"
+    },
+    "26875": {
+        "question": "Khi đăng nhập vào SQL Server, thay đổi chế độ xác thực tại:",
+        "answer": "Server Properties"
+    },
+    "26876": {
+        "question": "Tên của một vai trò tự định nghĩa <span class=\"font8\">không</span><span class=\"font5\"> được các chứa kí tự:</span>",
+        "answer": "&nbsp;; ? : @ &amp; = + , $ / * &lt; &gt; | \"&nbsp; /"
+    },
+    "26877": {
+        "question": "Vai trò dbcreator có thể thực hiện các thao tác:",
+        "answer": "Phục hồi một CSDL"
+    },
+    "26878": {
+        "question": "Đoạn mã kịch bản thực thi thành công là:",
+        "answer": "CREATE LOGIN JohnDoe WITH PASSWORD = 'pt8806FG$B', DEFAULT_DATABASE = APUSE APCREATE USER JohnDoe FOR LOGIN JohnDoe"
+    },
+    "26879": {
+        "question": "Các cấu hình thường phải thực hiện cho một Back Up Database Task trong hộp thoại Back Up Database Task là:",
+        "answer": "&nbsp;Chọn kiểu sao lưu CSDL trong mục Database(s) và đường dẫn lưu bản sao CSDL"
+    },
+    "26880": {
+        "question": "File sử dụng để phục hồi CSDL có phần mở rộng là:",
+        "answer": "&nbsp;Bak"
+    },
+    "26881": {
+        "question": "Invoices là tên một bảng trong CSDL. Câu lệnh sp_Help 'Invoices' trả về:",
+        "answer": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại."
+    },
+    "26882": {
+        "question": "Kiểu sao lưu <span class=\"font8\">không</span><span class=\"font5\"> thực hiện sao lưu dữ liệu được lưu trong CSDL là:</span>",
+        "answer": "Transaction log backup"
+    },
+    "26883": {
+        "question": "Một system stored procedure là:",
+        "answer": "sp_column"
+    },
+    "26884": {
+        "question": "Để tạo lịch sao lưu tự động cho một CSDL, người dùng phải đăng nhập bằng Login ID có vai trò:&nbsp;",
+        "answer": "sysadmin"
+    },
+    "26885": {
+        "question": "Kiểu sao lưu:",
+        "answer": "&nbsp;Differential backup chỉ sao lưu các dữ liệu mới được cập nhật (thay đổi) kể từ lần full backup trước đó"
+    },
+    "26886": {
+        "question": "spParameters là tên một Stored Procedure. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "Đoạn văn bản chứa nội dung của Stored Procedure"
+    },
+    "26887": {
+        "question": "System Stored Procedure dùng để xem danh sách các Stored Procedure, View mà tham chiếu đến bảng Invoices trong CSDL là:",
+        "answer": "sp_depends Invoices"
+    },
+    "26888": {
+        "question": "Tùy chọn chế độ sao lưu có thể tạo ra nhiều bản sao CSDL, được lưu trong cùng một file .bak là:",
+        "answer": "Append to the existing backup set"
+    },
+    "26889": {
+        "question": "Để thực hiện phục hồi CSDL từ một bản sao Full backup và sau đó tiếp tục phục hồi CSDL sử dụng bản sao Differential backup, ở mục recovery state của trang option trong hộp thoại Restore database của lần phục hồi từ bản sao Full backup phải chọn radio button là:",
+        "answer": "radio button thứ 2"
+    },
+    "26890": {
+        "question": "Để tạo lịch sao lưu CSDL tự động trong SQL Server 2008, nhấn chuột phải vào Maintenance Plans trong thư mục Management trên cửa sổ Solution Explorer và chọn:",
+        "answer": "New Maintenance Plan"
+    },
+    "26891": {
+        "question": "<span class=\"font8\">Không</span><span class=\"font5\"> phải kiểu khôi phục CSDL là:</span>",
+        "answer": "Copy-only"
+    },
+    "26892": {
+        "question": "Các kiểu sao lưu <span class=\"font5\">trong CSDL là:</span>",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26893": {
+        "question": "Các kiểu khôi phục trong CSDL là:",
+        "answer": "Full"
+    },
+    "26894": {
+        "question": "Thao tác thực hiện trên lược đồ CSDL là:",
+        "answer": "Thêm cột"
+    },
+    "26895": {
+        "question": "SQL Server, để khởi động và dừng cần sử dụng công cụ:",
+        "answer": "SQL Server Configuration Manager"
+    },
+    "26896": {
+        "question": "Để điều hướng qua các đối tượng của CSDL trên SQL Management Studio, cần sử dụng:",
+        "answer": "Cửa sổ Object Explorer"
+    },
+    "26897": {
+        "question": "Trong SQL Management Studio, khi kết nối tới CSDL SQL Server - hộp thoại Connect to Server, chế độ xác thực người dùng phải nhập User Name và Password là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26898": {
+        "question": "Nhập và thực thi câu lệnh SQL bằng cách:",
+        "answer": "Nhập câu lệnh vào cửa sổ Query Editor và bấm F5"
+    },
+    "26899": {
+        "question": "Xảy ra lỗi cú pháp trong quá trình thực thi một câu lệnh SQL, SQL Server sẽ thông báo lỗi đó bằng cách:",
+        "answer": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    },
+    "26900": {
+        "question": "T-SQL là ngôn ngữ SQL mở rộng:",
+        "answer": "dựa trên SQL chuẩn của ISO và ANSI"
+    },
+    "26901": {
+        "question": "T-SQL:",
+        "answer": "&nbsp;là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    },
+    "26902": {
+        "question": "SQL Server 2008, có hỗ trợ các tính năng:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26903": {
+        "question": "SQL sử dụng ngôn ngữ để truy vấn CSDL là:",
+        "answer": "Transact-SQL"
+    },
+    "26904": {
+        "question": "Thanh công cụ của cửa sổ Query Editor xuất hiện khi:",
+        "answer": "nhấp chuột vào nút New Query"
+    },
+    "26905": {
+        "question": "SQL Server là hệ quản trị cơ sở dữ liệu (CSDL):",
+        "answer": "cho phép đồng thời một lúc nhiều users truy xuất đến dữ liệu."
+    },
+    "26906": {
+        "question": "Các lỗi cú pháp thường gặp khi thực thi câu lệnh SQL là:",
+        "answer": "Các đáp án đều đúng"
+    },
+    "26907": {
+        "question": "Các ứng dụng sử dụng hệ quản trị CSDL SQL Server là:",
+        "answer": "Java và .NET"
+    },
+    "26908": {
+        "question": "Câu lệnh định nghĩa dữ liệu - DDL là:",
+        "answer": "CREATE"
+    },
+    "26909": {
+        "question": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL)",
+        "answer": "DENY, GRANT, REVOKE"
+    },
+    "26910": {
+        "question": "Trong cửa sổ Query Editor, câu lệnh SQL được nhập sẽ được định dạng màu với:",
+        "answer": "Màu xanh cho các từ khóa, màu hồng tím cho các hàm, màu đen cho tên bảng hoặc tên cột"
+    },
+    "26911": {
+        "question": "Sử dụng cửa sổ Query Designer để tạo câu lệnh:",
+        "answer": "SELECT, UPDATE, DELETE"
+    },
+    "26912": {
+        "question": "Công cụ SQL Server Configuration Management có thể thực hiện tác vụ:",
+        "answer": "Thay đổi chế độ khởi động cho một dịch vụ"
+    },
+    "26913": {
+        "question": "Hai loại file sử dụng khi Attach một CSDL là:",
+        "answer": "mdf và ldf"
+    },
+    "26914": {
+        "question": "T-SQL, các đối tượng có kiểu dữ liệu:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26915": {
+        "question": "Đoạn mã sau đây cho kết quả gì?\n DECLARE @a int = 1\n SELECT @A",
+        "answer": "1"
+    },
+    "26916": {
+        "question": "T-SQL, chú thích được sử dụng là:",
+        "answer": "--Chú thích đúng"
+    },
+    "26917": {
+        "question": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, nhấn chuột phải vào tên bảng và chọn:",
+        "answer": "Design"
+    },
+    "26918": {
+        "question": "T-SQL hỗ trợ các cấu trúc điều khiển:",
+        "answer": "IF…ELSE"
+    },
+    "26919": {
+        "question": "Câu lệnh khai báo biến là:",
+        "answer": "DECLARE @a int"
+    },
+    "26920": {
+        "question": "Câu lệnh định nghĩa dữ liệu là:",
+        "answer": "CREATE TABLE"
+    },
+    "26921": {
+        "question": "Cho đoạn mã DECLARE @a int, @b nchar(50). Câu lệnh gán giá trị cho @a và @b <span class=\"font8\">không</span><span class=\"font5\"> phát sinh lỗi định dạng dữ liệu là:</span>",
+        "answer": "SELECT @a = 1, @b = N'kí tự Unicode'"
+    },
+    "26922": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n print 'Biến @a lớn hơn 0'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Lỗi cú pháp"
+    },
+    "26923": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Bạn đã khai báoBiến @a nhỏ hơn 0"
+    },
+    "26924": {
+        "question": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ được dùng để lưu trữ chuỗi là:",
+        "answer": "Nchar hoặc Nvarchar"
+    },
+    "26925": {
+        "question": "Kiểu dữ liệu thích hợp để lưu trữ số điện thoại, số chứng minh nhân dân là:",
+        "answer": "char"
+    },
+    "26926": {
+        "question": "Kiểu dữ liệu <span class=\"font8\">không</span><span class=\"font5\"> thuộc SQL Server là:</span>",
+        "answer": "String"
+    },
+    "26927": {
+        "question": "Kiểu dữ liệu để lưu chuỗi với độ dài cố định hỗ trợ UNICODE là:",
+        "answer": "Nchar"
+    },
+    "26928": {
+        "question": "Với biến bảng:",
+        "answer": "Có thể sử dụng câu lệnh UPDATE&nbsp;"
+    },
+    "26929": {
+        "question": "T-SQL:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26930": {
+        "question": "SQL Server, cung cấp số kiểu dữ liệu đơn là:",
+        "answer": "26"
+    },
+    "26931": {
+        "question": "T- SQL hỗ trợ các loại:",
+        "answer": "Biến vô hướng và biến bảng"
+    },
+    "26932": {
+        "question": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh:",
+        "answer": "INSERT"
+    },
+    "26933": {
+        "question": "Để thiết lập khóa ngoại cho một bảng, hiển thị bảng ở chế độ Table Design và nhấn vào nút gì trên thanh công cụ làm việc với bảng?",
+        "answer": "Relationships"
+    },
+    "26934": {
+        "question": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm là:",
+        "answer": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    },
+    "26935": {
+        "question": "Câu lệnh REPLACE(RIGHT('(559) 555-1212', 13), ') ', '-') trả về kết quả là",
+        "answer": "559- 555-1212"
+    },
+    "26936": {
+        "question": "Câu lệnh SELECT CHARINDEX('SQL', 'HELLO SQL Server') trả về kết quả là:",
+        "answer": "7"
+    },
+    "26937": {
+        "question": "Câu lệnh SELECT DATEDIFF(month, '2008-09-30', '2007-12-01') trả về kết quả là:",
+        "answer": "-9"
+    },
+    "26938": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng là:",
+        "answer": "mm/dd/yy"
+    },
+    "26939": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Khi đó a có giá trị là:",
+        "answer": "3"
+    },
+    "26940": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Khi đó a có giá trị là:",
+        "answer": "105"
+    },
+    "26941": {
+        "question": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012?",
+        "answer": "Tất cả đáp án đều đúng StartDate) = 2012"
+    },
+    "26942": {
+        "question": "Giả sử biến @a kiểu int có giá trị bằng 1, biến @Tổng kiểu int có giá trị bằng 0. Cho biết kết quả trả về của đoạn mã sau?\n WHILE (@a &lt;= 5)\n BEGIN\n SELECT @Tổng = @Tổng + @a\n SET @a = @a + 1\n END\n SELECT @Tổng",
+        "answer": "15"
+    },
+    "26943": {
+        "question": "Giả sử biến @String được khai báo như sau:\n DECLARE @String varchar.\n Cho biết kết quả trả về của đoạn mã sau?\n SET @String = 'SQL Server 2008'\n SELECT LEN(@String)",
+        "answer": "15"
+    },
+    "26944": {
+        "question": "Giả sử có hai biến @a, @b kiểu int. Câu lệnh gán giá trị đúng cho cả hai biến này là:",
+        "answer": "SELECT @a = 1, @b = 2SET @a = 1 SELECT @b = 2"
+    },
+    "26945": {
+        "question": "Hàm CAST có cú pháp là:",
+        "answer": "CAST(InvoiceDate AS varchar)"
+    },
+    "26946": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26947": {
+        "question": "Hàm <span class=\"font8\">không</span><span class=\"font5\"> phải chuẩn ANSI và chỉ được hỗ trợ bởi SQL Server là:</span>",
+        "answer": "CONVERT"
+    },
+    "26948": {
+        "question": "Lệnh gán giá trị cho cột PaymentDate có kiểu SmallDatetime : PaymentDate = '2008-08-05' có thực hiện phép chuyển đổi ngầm và:",
+        "answer": "giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu SmallDatetime"
+    },
+    "26949": {
+        "question": "Đoạn mã thực hiện khai báo một biến và gán giá trị cho biến đó bằng 1 là: mso-height-source:userset;height:45.75pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26950": {
+        "question": "Cho đoạn mã sau:\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n SELECT @a, @b\n SELECT @a = @a + 1\n Kết quả trả về là:",
+        "answer": "Lỗi vòng lặp vô hạn"
+    },
+    "26951": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 0, @b int = 2\n WHILE @a &lt; @b\n BEGIN\n SELECT @a, @b\n SELECT @a = @a + 1\n END",
+        "answer": "Hai tập kết quả: thứ nhất gồm 2 cột có giá trị 0 và 2 và thứ hai gồm 2 cột có giá trị 1 và 2"
+    },
+    "26952": {
+        "question": "Đoạn mã kịch bản sau, cho biết kế quả trả về?\n DECLARE @a int = 1\n IF @a &gt; 0 \n PRINT 'a is greater than 0, a = ' + @a \n ELSE\n PRINT 'a is not greater than 0'",
+        "answer": "Thông báo lỗi"
+    },
+    "26953": {
+        "question": "Cho mã kịch bản sau:\n USE AP\n PRINT N'Đây là một chuỗi'\n Kết quả là:",
+        "answer": "Câu lệnh PRINT được thực thi trên ngữ cảnh CSDL AP và in ra dòng 'Đây là một chuỗi' trong Tab Message"
+    },
+    "26954": {
+        "question": "Phát biểu đúng là:",
+        "answer": "Để khai báo điểm bắt đầu của một giao dịch, sử dụng từ khóa BEGIN TRAN hoặc BEGIN TRANSACTION"
+    },
+    "26955": {
+        "question": "Khi không khai báo điểm bắt đầu cho một giao dịch, SQL Server xem ____?____ và tự động COMMIT câu lệnh lên Server. Nếu câu lệnh phát sinh lỗi sẽ tự động ROLLBACK.",
+        "answer": "từng câu lệnh riêng lẻ là một giao dịch"
+    },
+    "26956": {
+        "question": "&nbsp;@LikeFilter là tham số đầu vào và là điều kiện lọc sử dụng với toán tử LIKE trong câu lệnh SELECT trong thân SP. Kiểu dữ liệu phù hợp để khai báo tham số này là:",
+        "answer": "varchar"
+    },
+    "26957": {
+        "question": "Các trường hợp sử dụng giao dịch là:",
+        "answer": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm tính toàn vẹn dữ liệu"
+    },
+    "26958": {
+        "question": "Thực hiện lời gọi một Stored Procedure từ:",
+        "answer": "Một chương trình ứng dụng, một thủ tục khác hoặc một mã kịch bản"
+    },
+    "26959": {
+        "question": "Tham số của một Stored Procedure là:",
+        "answer": "Các kiểu dữ liệu SQL"
+    },
+    "26960": {
+        "question": "Được lưu trữ như một đối tượng trong CSDL là:",
+        "answer": "Stored Procedure, Trigger và Hàm người dùng định nghĩa&nbsp;"
+    },
+    "26961": {
+        "question": "Mã kịch bản sau sẽ thực hiện gì khi được thực thi?\n IF OBJECT_ID('spCopyInvoices') IS NOT NULL\n DROP PROC spCopyInvoices\n CREATE PROC spCopyInvoices\n AS\n SELECT * INTO InvoiceCopy FROM Invoices",
+        "answer": "Lỗi cú pháp"
+    },
+    "26962": {
+        "question": "Sử dụng giao dịch trong trường hợp:",
+        "answer": "Khi cập nhật tham chiếu khóa ngoại"
+    },
+    "26963": {
+        "question": "Nếu dữ liệu không hợp lệ, sử dụng câu lệnh để sinh lỗi là:",
+        "answer": "RAISERROR"
+    },
+    "26964": {
+        "question": "Phát biểu nào sau đây đúng về Stored Procedure?\n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS",
+        "answer": "@a và @String là tham số đầu vào tùy chọn, @b là tham số đầu ra"
+    },
+    "26965": {
+        "question": "Hàm @@TRANCOUNT, khi thực thi câu lệnh COMMIT TRAN:",
+        "answer": "&nbsp;nếu @@TRANCOUNT &gt; 1, các thay đổi sẽ không được commit. Thay vào đó @@TRANCOUNT giảm đi 1."
+    },
+    "26966": {
+        "question": "Điểm lưu trữ:",
+        "answer": "&nbsp;Được khai báo bằng câu lệnh SAVE TRAN và sử dụng để đánh dấu điểm quay lui giao dịch"
+    },
+    "26967": {
+        "question": "Tham số đầu vào tùy chọn:",
+        "answer": "Là một tham số đầu vào, được gán một giá trị mặc định"
+    },
+    "26968": {
+        "question": "Stored Procedure:",
+        "answer": "Tham số đầu ra của Stored Procedure được khai báo bằng từ khóa OUTPUT"
+    },
+    "26969": {
+        "question": "Trong một Stored Procedure:",
+        "answer": "&nbsp;câu lệnh RETURN chỉ trả về một giá trị kiểu số nguyên"
+    },
+    "26970": {
+        "question": "spCopyInvoices là một Stored Procedure được lưu trữ trong CSDL. Phát biểu nào sau đây đúng về câu lệnh sp_helptext 'spCopyInvoices'?",
+        "answer": "Trả về đoạn mã của Stored Procedure spCopyInvoices"
+    },
+    "26971": {
+        "question": "spParameters là tên một Stored Procedure đã được mã hóa bằng cách sử dụng tham số tùy chọn ENCRYPTION trong câu lệnh tạo SP. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "&nbsp;thông báo 'The text for object 'spParameters' is encrypted.' trong tab Message"
+    },
+    "26972": {
+        "question": "Sử dụng tham số OUTPUT để trả về giá trị có kiểu dữ liệu:",
+        "answer": "bất kì"
+    },
+    "26973": {
+        "question": "Với thủ tục sau \n CREATE PROC spParameters\n @a int = 0,\n @b int OUT,\n @String Nvarchar(50) = '%'\n AS\n Lời gọi thủ tục là:",
+        "answer": "DECLARE @b intEXEC spParameters @b = @b OUTPUT, @String = 'hello'"
+    },
+    "26974": {
+        "question": "Dùng hàm giá trị bảng đơn giản (hàm giá trị bảng nội tuyến):",
+        "answer": "để thay thế cho tên một VIEW, một bảng trong câu lệnh SELECT"
+    },
+    "26975": {
+        "question": "Câu lệnh tạo ra View có thể cập nhật là:",
+        "answer": "CREATE VIEW VendorsDESCASSELECT VendorID, VendorNameFROM vendors"
+    },
+    "26976": {
+        "question": "Câu lệnh thực hiện xóa View Vendors_SW là:",
+        "answer": "DROP VIEW Vendors_SW"
+    },
+    "26977": {
+        "question": "có 3 loại hàm người dùng tự định nghĩa đó là các hàm giá trị:",
+        "answer": "vô hướng, bảng đơn giản và bảng nhiều câu lệnh"
+    },
+    "26978": {
+        "question": "Giả sử fnBalanceDue là một hàm người dùng định nghĩa. Câu lệnh thực hiện xóa hàm fnBalanceDue là:",
+        "answer": "drop function fnBalanceDue"
+    },
+    "26979": {
+        "question": "Hàm fnTonghaiso nhận hai tham số đầu vào @a và @b kiểu int và trả về kết quả tổng hai số. Đoạn mã kịch bản trả về kết quả tổng của hai số 1 và 5 là:",
+        "answer": "select dbo.fnTonghaiso(1,5)"
+    },
+    "26980": {
+        "question": "Hàm trả về một bảng, là kết quả của một câu lệnh SELECT đơn là:",
+        "answer": "Hàm giá trị bảng đơn giản&nbsp;"
+    },
+    "26981": {
+        "question": "Lựa chọn vi phạm điều kiện để tạo một VIEW có thể cập nhật là:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26982": {
+        "question": "Mã kịch bản khai báo thành công một hàm tính tổng hai số là:",
+        "answer": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0)RETURNS intBEGINRETURN (@a+@b)END"
+    },
+    "26983": {
+        "question": "Một hàm người dùng định nghĩa có thể trả về giá trị:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "26984": {
+        "question": "Phát biều đúng về tên cột của một VIEW:",
+        "answer": "&nbsp;Cột chứa giá trị được tính toán từ nhiều cột khác phải được đặt tên.&nbsp; Nếu cột không được đặt tên, tên cột sẽ được mặc định giống tên cột của bảng cơ sở."
+    },
+    "26985": {
+        "question": "Với hàm người dùng định nghĩa:",
+        "answer": "Là một đối tượng CSDL chứa các câu lệnh SQL, được biên dịch sẵn, lưu trữ trong CSDL và luôn phải trả về một giá trị"
+    },
+    "26986": {
+        "question": "Với hàm người dùng định nghĩa, phát biểu <span class=\"font8\">không</span><span class=\"font5\"> đúng là:</span>",
+        "answer": "Trong lời gọi hàm, có thể truyền giá trị cho các tham số theo tên"
+    },
+    "26987": {
+        "question": "Với VIEW:",
+        "answer": "Sử dụng View có thể che dấu và bảo mật dữ liệu"
+    },
+    "26988": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW OutstandingInvoices\n AS\n SELECT InvoiceNumber, InvoiceDate, InvoiceTotal,\n InvoiceTotal - PaymentTotal – CreditTotal AS BalanceDue\n FROM Invoices\n WHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0\n View tạo ra bởi đoạn mã này là:",
+        "answer": "View chỉ đọc"
+    },
+    "26989": {
+        "question": "Cho đoạn mã sau:\n CREATE VIEW VendorsDESC\n AS\n SELECT VendorID, VendorName\n FROM vendors\n ORDER BY VendorName DESC\n View tạo ra bởi đoạn mã này là:",
+        "answer": "Xảy ra lỗi khi thực thi đoạn mã này"
+    },
+    "26990": {
+        "question": "Về View:",
+        "answer": "&nbsp;Là một câu lệnh truy vấn được biên dịch sẵn và lưu trữ như là một đối tượng trong CSDL. Có thể lưu một câu lệnh tạo VIEW dưới định dạng .sql"
+    },
+    "26991": {
+        "question": "Đoạn mã thực hiện khai báo thành công một hàm người dùng định nghĩa không chứa tham số là:",
+        "answer": "CREATE FUNCTION fnBalanceDue()RETURNS moneyBEGINRETURN (SELECT SUM(InvoiceTotal - PaymentTotal - CreditTotal)FROM InvoicesWHERE InvoiceTotal - PaymentTotal - CreditTotal &gt; 0)END"
+    },
+    "26992": {
+        "question": "Để chỉnh sửa một VIEW sử dụng chế độ đồ họa View Designer của Management Studio, nhấn chuột phải vào tên View trong cửa sổ Objects Explorer chọn:",
+        "answer": "Design"
+    },
+    "26993": {
+        "question": "Để trả về giá trị cho một hàm người dùng định nghĩa, có thể sử dụng:",
+        "answer": "câu lệnh RETURN"
+    },
+    "26994": {
+        "question": "Chế độ xác thực phải nhập UserName và Password khi đăng nhập SQL Server là:",
+        "answer": "SQL Server Authentication"
+    },
+    "26995": {
+        "question": "Câu lệnh thực hiện đổi tên thành công database user SunsanRoberts thành SusanStanley là:",
+        "answer": "ALTER USER SusanRoberts WITH NAME = SusanStanley"
+    },
+    "26996": {
+        "question": "Có thể gán vai trò CSDL mặc định cho:",
+        "answer": "Database User và Login ID"
+    },
+    "26997": {
+        "question": "Vai trò Server mặc định là:",
+        "answer": "dbcreator"
+    },
+    "26998": {
+        "question": "Vai trò CSDL mặc định là:",
+        "answer": "Tất cả đáp án đều sai"
+    },
+    "26999": {
+        "question": "SQL Server dựa vào ____?_____để cấp cho người dùng/nhóm người dùng để xác định các đối tượng, câu lệnh SQL,… người đùng được phép tác động trên CSDL.",
+        "answer": "Quyền và vai trò"
+    },
+    "27000": {
+        "question": "Một Login Id được gán vai trò sysadmin thì có thể thực hiện thao tác: ght=38 style='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "27001": {
+        "question": "Để kết nối tới SQL Server, người dùng cần:&nbsp; e='mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Login ID"
+    },
+    "27002": {
+        "question": "Để toàn quyền đối với CSDL, người dùng được gán vai trò CSDL mặc định là: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Sysadmin"
+    },
+    "27003": {
+        "question": "Để có tính bảo mật cao, Password của một SQL Login ID phải thỏa mãn điều kiện: mso-height-source:userset;height:28.5pt'&gt;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "27004": {
+        "question": "Phát biểu đúng:",
+        "answer": "Người dùng có thể tạo một vai trò tự định nghĩa qua câu lệnh CREATE ROLE"
+    },
+    "27005": {
+        "question": "Phát biểu đúng:",
+        "answer": "Để tạo database user cho một CSDL cụ thể, câu lệnh CREATE USER phải được thực thi trong ngữ cảnh CSDL đó"
+    },
+    "27006": {
+        "question": "Quyền EXECUTE có thể tác động lên các đối tượng:",
+        "answer": "Stored Procedure"
+    },
+    "27007": {
+        "question": "Quyền REFERENCES có thể tác động lên các đối tượng:",
+        "answer": "Tất cả dáp án đều đúng"
+    },
+    "27008": {
+        "question": "Quyền SELECT có thể tác động lên các đối tượng :",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "27009": {
+        "question": "Sau khi tạo một Database User cho một CSDL, người dùng có thể thực hiện các quyền:",
+        "answer": "Chọn CSDL trên combo box chọn ngữ cảnh CSDL"
+    },
+    "27010": {
+        "question": "Khi đăng nhập vào SQL Server, thay đổi chế độ xác thực tại:",
+        "answer": "Server Properties"
+    },
+    "27011": {
+        "question": "Tên của một vai trò tự định nghĩa <span class=\"font8\">không</span><span class=\"font5\"> được các chứa kí tự:</span>",
+        "answer": "&nbsp;; ? : @ &amp; = + , $ / * &lt; &gt; | \"&nbsp; /"
+    },
+    "27012": {
+        "question": "Vai trò dbcreator có thể thực hiện các thao tác:",
+        "answer": "Phục hồi một CSDL"
+    },
+    "27013": {
+        "question": "Đoạn mã kịch bản thực thi thành công là:",
+        "answer": "CREATE LOGIN JohnDoe WITH PASSWORD = 'pt8806FG$B', DEFAULT_DATABASE = APUSE APCREATE USER JohnDoe FOR LOGIN JohnDoe"
+    },
+    "27014": {
+        "question": "Các cấu hình thường phải thực hiện cho một Back Up Database Task trong hộp thoại Back Up Database Task là:",
+        "answer": "&nbsp;Chọn kiểu sao lưu CSDL trong mục Database(s) và đường dẫn lưu bản sao CSDL"
+    },
+    "27015": {
+        "question": "File sử dụng để phục hồi CSDL có phần mở rộng là:",
+        "answer": "&nbsp;Bak"
+    },
+    "27016": {
+        "question": "Invoices là tên một bảng trong CSDL. Câu lệnh sp_Help 'Invoices' trả về:",
+        "answer": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại."
+    },
+    "27017": {
+        "question": "Kiểu sao lưu <span class=\"font8\">không</span><span class=\"font5\"> thực hiện sao lưu dữ liệu được lưu trong CSDL là:</span>",
+        "answer": "Transaction log backup"
+    },
+    "27018": {
+        "question": "Một system stored procedure là:",
+        "answer": "sp_column"
+    },
+    "27019": {
+        "question": "Để tạo lịch sao lưu tự động cho một CSDL, người dùng phải đăng nhập bằng Login ID có vai trò:&nbsp;",
+        "answer": "sysadmin"
+    },
+    "27020": {
+        "question": "Kiểu sao lưu:",
+        "answer": "&nbsp;Differential backup chỉ sao lưu các dữ liệu mới được cập nhật (thay đổi) kể từ lần full backup trước đó"
+    },
+    "27021": {
+        "question": "spParameters là tên một Stored Procedure. Câu lệnh sp_HelpText spParameters trả về:",
+        "answer": "Đoạn văn bản chứa nội dung của Stored Procedure"
+    },
+    "27022": {
+        "question": "System Stored Procedure dùng để xem danh sách các Stored Procedure, View mà tham chiếu đến bảng Invoices trong CSDL là:",
+        "answer": "sp_depends Invoices"
+    },
+    "27023": {
+        "question": "Tùy chọn chế độ sao lưu có thể tạo ra nhiều bản sao CSDL, được lưu trong cùng một file .bak là:",
+        "answer": "Append to the existing backup set"
+    },
+    "27024": {
+        "question": "Để thực hiện phục hồi CSDL từ một bản sao Full backup và sau đó tiếp tục phục hồi CSDL sử dụng bản sao Differential backup, ở mục recovery state của trang option trong hộp thoại Restore database của lần phục hồi từ bản sao Full backup phải chọn radio button là:",
+        "answer": "radio button thứ 2"
+    },
+    "27025": {
+        "question": "Để tạo lịch sao lưu CSDL tự động trong SQL Server 2008, nhấn chuột phải vào Maintenance Plans trong thư mục Management trên cửa sổ Solution Explorer và chọn:",
+        "answer": "New Maintenance Plan"
+    },
+    "27026": {
+        "question": "<span class=\"font8\">Không</span><span class=\"font5\"> phải kiểu khôi phục CSDL là:</span>",
+        "answer": "Copy-only"
+    },
+    "27027": {
+        "question": "Các kiểu sao lưu <span class=\"font5\">trong CSDL là:</span>",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "27028": {
+        "question": "Các kiểu khôi phục trong CSDL là:",
+        "answer": "Full"
+    },
+    "29875": {
+        "question": "Hệ đơn vị phổ biến dùng trong dựng hình Kiến trúc là gì?",
+        "answer": "Metters"
+    },
+    "29876": {
+        "question": "Để nhập bản vẽ cad vào không gian 3ds Max thì dùng lệnh Merge đúng hay sai?",
+        "answer": "Sai"
+    },
+    "29877": {
+        "question": "Khi nào ta dùng lệnh Merge?",
+        "answer": "Nhập bản vẽ Max"
+    },
+    "29878": {
+        "question": "Lệnh tắt của bắt điểm là gì?",
+        "answer": "S"
+    },
+    "29879": {
+        "question": "Modifier nàotạo ra khối 3D từ hình 2D?",
+        "answer": "Extrude"
+    },
+    "29880": {
+        "question": "Lệnh Extrude nằm trong tab nào của bảng Command Panel?",
+        "answer": "Modify"
+    },
+    "29881": {
+        "question": "Để chuyển một đối tượng thành dạng Editable Poly ta dùng lệnh Transfer to ediable Poly đúng hay sai?",
+        "answer": "Sai"
+    },
+    "29882": {
+        "question": "Lệnh Attach để làm gì?",
+        "answer": "Nhóm tất cả các khối thành một khối"
+    },
+    "29883": {
+        "question": "Trong dựng hình ở chế độ Editable Poly, có bao nhiêu cấp độ lựa chọn?",
+        "answer": "5"
+    },
+    "29884": {
+        "question": "Để isolate một đối tượng ta dùng tổ hợp lệnh gì?",
+        "answer": "ALT+Q"
+    },
+    "29885": {
+        "question": "Phím tắt chọn cấp độ Mặt - Faces trong chế độ Editable Poly là phím mấy?",
+        "answer": "4"
+    },
+    "29886": {
+        "question": "ở cấp độ mặt hoặc đường, để kết nối các đối tượng chúng ta dùng lệnh gì?",
+        "answer": "Bridge"
+    },
+    "29887": {
+        "question": "Chương trình 3ds max hỗ trợ vẽ bao nhiêu loại cửa đi?",
+        "answer": "3"
+    },
+    "29888": {
+        "question": "Chương trình 3ds max hỗ trợ vẽ bao nhiêu loại cửa sổ?",
+        "answer": "6"
+    },
+    "29889": {
+        "question": "Để bắt điểm đường Spline vào cuối các đường thì chọn tùy chọn nào?",
+        "answer": "Endpoint"
+    },
+    "29890": {
+        "question": "Lệnh zoom extend để làm gì?",
+        "answer": "Xem toàn bộ các đối tượng trong Scene"
+    },
+    "29891": {
+        "question": "Bạn đang chọn Camera, để nhìn theo hướng nhìn của camera bạn dùng phím gì?",
+        "answer": "Bấm phím C trên bàn phím"
+    },
+    "29892": {
+        "question": "Để hiện ra bảng nhập liệu Move &amp; Transformer bạn làm thế nào?",
+        "answer": "Ấn chuột phải vào biểu tượng Move"
+    },
+    "29893": {
+        "question": "Ấn chuột phải vào biểu tượng Snaps Toggle để bật bắt điểm đúng hay sai?",
+        "answer": "Sai"
+    },
+    "29894": {
+        "question": "Để nhân bản một đối tượng trong max, bạn dùng tổ hợp phím tắt nào?",
+        "answer": "Ctrl + V"
+    },
+    "29895": {
+        "question": "Lệnh tắt gọi bảng vật liệu là gì?",
+        "answer": "M"
+    },
+    "29896": {
+        "question": "Công cụ Mirror có thể tạo ra nhân bản không?",
+        "answer": "Có"
+    },
+    "29897": {
+        "question": "Bảng vật liệu có bao nhiêu ô (sample slots)",
+        "answer": "24"
+    },
+    "29898": {
+        "question": "Trước khi thao tác sử dụng các công cụ Move, Rotation hoặc Scale giữ phím gì để tạo nhân bản?",
+        "answer": "Shilf"
+    },
+    "29899": {
+        "question": "Đơn vị hiển thị nào là phù hợp trong dựng hình với ảnh tham chiếu",
+        "answer": "Generic unit"
+    },
+    "29900": {
+        "question": "Tổ hợp lệnh tắt để bật chế độ nhìn xuyên - See through là gì?",
+        "answer": "Ctrl + X "
+    },
+    "29901": {
+        "question": "Lệnh collapse có thể áp dụng ở cả 5 cấp độ thứ cấp đúng hay sai?",
+        "answer": "Sai"
+    },
+    "29902": {
+        "question": "Lệnh Collapse nằm trong menu nào?",
+        "answer": "Edit geometry"
+    },
+    "29903": {
+        "question": "Kết quả của lệnh Collapse là tạo thành?",
+        "answer": "Điểm - Vertex"
+    },
+    "29904": {
+        "question": "Kênh Spherify có bao nhiêu thông số điều chỉnh?",
+        "answer": "1"
+    },
+    "29905": {
+        "question": "Kênh Spherify áp dụng ở cấp độ thứ cấp nào?",
+        "answer": "Tất cả các cấp độ kể cả cấp độ vật thể"
+    },
+    "29906": {
+        "question": "Lệnh Bridge nào không có?",
+        "answer": "Bridge vertex"
+    },
+    "29907": {
+        "question": "Kết quả của lệnh Bridge là tạo ra?",
+        "answer": "Mặt "
+    },
+    "29908": {
+        "question": "Lệnh tạo mới Ellipse nằm trong menu nào?",
+        "answer": "Create Shapes"
+    },
+    "29909": {
+        "question": "Kênh Shell có tác dụng gì?",
+        "answer": "Tạo độ dầy cho đối tượng"
+    },
+    "29910": {
+        "question": "Kênh shell nằm trong nhóm kênh gì của Modify?",
+        "answer": "Object - Space Modifiers"
+    },
+    "29911": {
+        "question": "Tùy chọn Rendering - Enable in renderers, Enable in viewport làm thay đổi đối tượng dạng shapes thành dạng gì?",
+        "answer": "Không thay đổi"
+    },
+    "29912": {
+        "question": "Lệnh quick slice có thể có tác dụng ngay cả khi ở cửa sổ nhìn của Camera đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "29913": {
+        "question": "Công cụ Mirror có thể tạo ra đối xứng theo mấy trục, nhóm trục?",
+        "answer": "6"
+    },
+    "29914": {
+        "question": "Bảng hiệu chỉnh chất liệu là bảng nào sau đây?",
+        "answer": "Compact (Slate)Material Editor"
+    },
+    "29915": {
+        "question": "Có mấy kiểu của bảng hiệu chỉnh chất liệu?",
+        "answer": "1"
+    },
+    "29916": {
+        "question": "Tên của class được sử dụng để tạo ra các frame?",
+        "answer": "JFrame"
+    },
+    "29917": {
+        "question": "Method nào đặt kích thước cho một frame?",
+        "answer": "setSize(int chiều_rộng, int chiều_cao)"
+    },
+    "29918": {
+        "question": "Kích thước của frame được tính theo đơn vị đo nào?",
+        "answer": "pixels"
+    },
+    "29919": {
+        "question": "Đối tượng container trong GUI là gì?",
+        "answer": "Là một thành phần có thể chứa các thành phần khác bên trong"
+    },
+    "29920": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng: \nimport java.awt.*;\nimport javax.swint.*;\n\npublic class microGUI{\n public static void main ( String[] args) {\n JFrame frm = new ___________();\n frm.___________( 150, 100 );\n frm.___________( true );\n }\n}",
+        "answer": "JFrame, setSize, setVisible"
+    },
+    "29921": {
+        "question": "Câu lệnh nào sau đây tạo một frame với kích thước rộng là 300 và cao là 200 pixels?",
+        "answer": "frm.setSize( 300, 200 );"
+    },
+    "29922": {
+        "question": "Mặc định quản lý layout cho JFrame là?",
+        "answer": "BorderLayout"
+    },
+    "29923": {
+        "question": "JComponent là subclass trực tiếp của class nào?",
+        "answer": "Container"
+    },
+    "29924": {
+        "question": "Top-level-container là những thành phần nào?",
+        "answer": "JFrame, JDialog, JWindow, JApplet"
+    },
+    "29925": {
+        "question": "Lựa chọn phương án đúng?\nCác thành phần AWT là … và Swing là …",
+        "answer": "heavyweight, lightweight"
+    },
+    "29926": {
+        "question": "Để đặt màu nền cho JFrame, sử dụng lệnh nào trong số các lệnh sau đây:",
+        "answer": "frame.getContenPane().setForecolor(Color)"
+    },
+    "29927": {
+        "question": "Giá trị mặc định của phương thức setDefaultCloseOperation là gì",
+        "answer": "HIDE_ON_CLOSE"
+    },
+    "29928": {
+        "question": "Sự kiện nào được tạo ra khi người click chuột (vào một thành phần bất kỳ)?",
+        "answer": "MouseEvent"
+    },
+    "29929": {
+        "question": "Thành phần nào không phải là một top-level container trong Swing",
+        "answer": "Jpanel"
+    },
+    "29930": {
+        "question": "Phương thức pack() dùng để làm gì",
+        "answer": "Đặt kích thước của JFrame vừa khít với nội dung"
+    },
+    "29931": {
+        "question": "Component nào có phát sinh action event?",
+        "answer": "JButton"
+    },
+    "29932": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "Câu a và c đúng"
+    },
+    "29933": {
+        "question": "Phương thức nào dùng để gán nội dung cho một Jlabel?",
+        "answer": "setText()"
+    },
+    "29934": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "JPasswordField extends JTextField"
+    },
+    "29935": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "Lớp ButtonGroup dùng để nhóm các JRadioButton"
+    },
+    "29936": {
+        "question": "Câu lệnh nào dùng để tạo ra TextArea 10 dòng và 20 cột?",
+        "answer": "new JTextArea(10,20)"
+    },
+    "29937": {
+        "question": "Phương thức nào dùng để cấm người dùng ghi lên một TextField?",
+        "answer": "void setEditable(False)"
+    },
+    "29938": {
+        "question": "Trong JTextField, giá trị mặc định của phương thức setEditable() là gì?",
+        "answer": "True"
+    },
+    "29939": {
+        "question": "Phương thức nào để gán một ActionEvent vào sự kiện nhấn nút Jbutton?",
+        "answer": "addActionListener()"
+    },
+    "29940": {
+        "question": "Phương thức nào để gán trạng thái cho một JCheckBox?",
+        "answer": "setSelected()"
+    },
+    "29941": {
+        "question": "Phương thức nào để gán một ItemEvent vào JCheckBox?",
+        "answer": "addItemListener()"
+    },
+    "29942": {
+        "question": "JRadioButton sinh ra sự kiện gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "29943": {
+        "question": "JLabel sinh ra sự kiện gì?",
+        "answer": "Input Event"
+    },
+    "29944": {
+        "question": "JCheckBox sinh ra sự kiện gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "29945": {
+        "question": "Phương thức nào được sử dụng trên Jdialog?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "29946": {
+        "question": "Nếu một Frame dùng bộ quản lý trình bày là GridLayout và không chứa bất kỳ panel hay container nào khác bên trong nó thì tất cả những components khi đưa vào trong Frame này có cùng kích thước như nhau(ngang, doc)?",
+        "answer": "Đúng"
+    },
+    "29947": {
+        "question": "Nếu một Frame dùng bộ quản lý mặc định và không chứa bất kỳ panel hay container nào khác bên trong nó thì tất cả những components khi đưa vào trong Frame này có cùng kích thước như nhau(ngang, doc)?",
+        "answer": "Sai"
+    },
+    "29948": {
+        "question": "Với kiểu BorderLayout không nhất thiết các cùng phải có chứa các components, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "29949": {
+        "question": "Bộ quản lý trình bày mặc định cho 1 khung chứa kiểu Panel là:",
+        "answer": "FlowLayout"
+    },
+    "29950": {
+        "question": "Một Container có bộ quản lý trình bày là GridBagLayout thì mỗi component sẽ có kích thước bằng nhau khi thêm vào container này, đúng hay sai?",
+        "answer": "Sai"
+    },
+    "29951": {
+        "question": "Thao tác thực hiện trên lược đồ CSDL là:",
+        "answer": "Thêm cột"
+    },
+    "29952": {
+        "question": "SQL Server, để khởi động và dừng cần sử dụng công cụ:",
+        "answer": "SQL Server Configuration Manager"
+    },
+    "29953": {
+        "question": "Để điều hướng qua các đối tượng của CSDL trên SQL Management Studio, cần sử dụng:",
+        "answer": "Cửa sổ Object Explorer"
+    },
+    "29954": {
+        "question": "Trong SQL Management Studio, khi kết nối tới CSDL SQL Server - hộp thoại Connect to Server, chế độ xác thực người dùng phải nhập User Name và Password là:",
+        "answer": "SQL Server Authentication"
+    },
+    "29955": {
+        "question": "Nhập và thực thi câu lệnh SQL bằng cách:",
+        "answer": "Nhập câu lệnh vào cửa sổ Query Editor và bấm F5"
+    },
+    "29956": {
+        "question": "Xảy ra lỗi cú pháp trong quá trình thực thi một câu lệnh SQL, SQL Server sẽ thông báo lỗi đó bằng cách:",
+        "answer": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    },
+    "29957": {
+        "question": "T-SQL là ngôn ngữ SQL mở rộng:",
+        "answer": "dựa trên SQL chuẩn của ISO và ANSI"
+    },
+    "29958": {
+        "question": "T-SQL:",
+        "answer": "&nbsp;là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    },
+    "29959": {
+        "question": "SQL Server 2008, có hỗ trợ các tính năng:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "29960": {
+        "question": "SQL sử dụng ngôn ngữ để truy vấn CSDL là:",
+        "answer": "Transact-SQL"
+    },
+    "29961": {
+        "question": "Thanh công cụ của cửa sổ Query Editor xuất hiện khi:",
+        "answer": "nhấp chuột vào nút New Query"
+    },
+    "29962": {
+        "question": "SQL Server là hệ quản trị cơ sở dữ liệu (CSDL):",
+        "answer": "cho phép đồng thời một lúc nhiều users truy xuất đến dữ liệu."
+    },
+    "29963": {
+        "question": "Các lỗi cú pháp thường gặp khi thực thi câu lệnh SQL là:",
+        "answer": "Các đáp án đều đúng"
+    },
+    "29964": {
+        "question": "Các ứng dụng sử dụng hệ quản trị CSDL SQL Server là:",
+        "answer": "Java và .NET"
+    },
+    "29965": {
+        "question": "Câu lệnh định nghĩa dữ liệu - DDL là:",
+        "answer": "CREATE"
+    },
+    "29966": {
+        "question": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL)",
+        "answer": "DENY, GRANT, REVOKE"
+    },
+    "29967": {
+        "question": "Trong cửa sổ Query Editor, câu lệnh SQL được nhập sẽ được định dạng màu với:",
+        "answer": "Màu xanh cho các từ khóa, màu hồng tím cho các hàm, màu đen cho tên bảng hoặc tên cột"
+    },
+    "29968": {
+        "question": "Sử dụng cửa sổ Query Designer để tạo câu lệnh:",
+        "answer": "SELECT, UPDATE, DELETE"
+    },
+    "29969": {
+        "question": "Công cụ SQL Server Configuration Management có thể thực hiện tác vụ:",
+        "answer": "Thay đổi chế độ khởi động cho một dịch vụ"
+    },
+    "29970": {
+        "question": "Hai loại file sử dụng khi Attach một CSDL là:",
+        "answer": "mdf và ldf"
+    },
+    "29971": {
+        "question": "T-SQL, các đối tượng có kiểu dữ liệu:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "29972": {
+        "question": "Đoạn mã sau đây cho kết quả gì?\n DECLARE @a int = 1\n SELECT @A",
+        "answer": "1"
+    },
+    "29973": {
+        "question": "T-SQL, chú thích được sử dụng là:",
+        "answer": "--Chú thích đúng"
+    },
+    "29974": {
+        "question": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, nhấn chuột phải vào tên bảng và chọn:",
+        "answer": "Design"
+    },
+    "29975": {
+        "question": "T-SQL hỗ trợ các cấu trúc điều khiển:",
+        "answer": "IF…ELSE"
+    },
+    "29976": {
+        "question": "Câu lệnh khai báo biến là:",
+        "answer": "DECLARE @a int"
+    },
+    "29977": {
+        "question": "Câu lệnh định nghĩa dữ liệu là:",
+        "answer": "CREATE TABLE"
+    },
+    "29978": {
+        "question": "Cho đoạn mã DECLARE @a int, @b nchar(50). Câu lệnh gán giá trị cho @a và @b <span class=\"font8\">không</span><span class=\"font5\"> phát sinh lỗi định dạng dữ liệu là:</span>",
+        "answer": "SELECT @a = 1, @b = N'kí tự Unicode'"
+    },
+    "29979": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n print 'Biến @a lớn hơn 0'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Lỗi cú pháp"
+    },
+    "29980": {
+        "question": "Giả sử biến @a có kiểu int và được gán giá trị bằng 1. Đoạn mã sau trả về kết quả gì?\n If @a &gt; 0&nbsp;\n print N'Bạn đã khai báo'\n else\n print N'Bạn đã khai báo'\n print N'Biến @a nhỏ hơn 0'",
+        "answer": "Bạn đã khai báoBiến @a nhỏ hơn 0"
+    },
+    "29981": {
+        "question": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ được dùng để lưu trữ chuỗi là:",
+        "answer": "Nchar hoặc Nvarchar"
+    },
+    "29982": {
+        "question": "Kiểu dữ liệu thích hợp để lưu trữ số điện thoại, số chứng minh nhân dân là:",
+        "answer": "char"
+    },
+    "29983": {
+        "question": "Kiểu dữ liệu <span class=\"font8\">không</span><span class=\"font5\"> thuộc SQL Server là:</span>",
+        "answer": "String"
+    },
+    "29984": {
+        "question": "Kiểu dữ liệu để lưu chuỗi với độ dài cố định hỗ trợ UNICODE là:",
+        "answer": "Nchar"
+    },
+    "29985": {
+        "question": "Với biến bảng:",
+        "answer": "Có thể sử dụng câu lệnh UPDATE&nbsp;"
+    },
+    "29986": {
+        "question": "T-SQL:",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "29987": {
+        "question": "SQL Server, cung cấp số kiểu dữ liệu đơn là:",
+        "answer": "26"
+    },
+    "29988": {
+        "question": "T- SQL hỗ trợ các loại:",
+        "answer": "Biến vô hướng và biến bảng"
+    },
+    "29989": {
+        "question": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh:",
+        "answer": "INSERT"
+    },
+    "29990": {
+        "question": "Để thiết lập khóa ngoại cho một bảng, hiển thị bảng ở chế độ Table Design và nhấn vào nút gì trên thanh công cụ làm việc với bảng?",
+        "answer": "Relationships"
+    },
+    "29991": {
+        "question": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm là:",
+        "answer": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    },
+    "29992": {
+        "question": "Câu lệnh REPLACE(RIGHT('(559) 555-1212', 13), ') ', '-') trả về kết quả là",
+        "answer": "559- 555-1212"
+    },
+    "29993": {
+        "question": "Câu lệnh SELECT CHARINDEX('SQL', 'HELLO SQL Server') trả về kết quả là:",
+        "answer": "7"
+    },
+    "29994": {
+        "question": "Câu lệnh SELECT DATEDIFF(month, '2008-09-30', '2007-12-01') trả về kết quả là:",
+        "answer": "-9"
+    },
+    "29995": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng là:",
+        "answer": "mm/dd/yy"
+    },
+    "29996": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Khi đó a có giá trị là:",
+        "answer": "3"
+    },
+    "29997": {
+        "question": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Khi đó a có giá trị là:",
+        "answer": "105"
+    },
+    "29998": {
+        "question": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012?",
+        "answer": "Tất cả đáp án đều đúng StartDate) = 2012"
+    },
+    "29999": {
+        "question": "Giả sử biến @a kiểu int có giá trị bằng 1, biến @Tổng kiểu int có giá trị bằng 0. Cho biết kết quả trả về của đoạn mã sau?\n WHILE (@a &lt;= 5)\n BEGIN\n SELECT @Tổng = @Tổng + @a\n SET @a = @a + 1\n END\n SELECT @Tổng",
+        "answer": "15"
+    }
+}

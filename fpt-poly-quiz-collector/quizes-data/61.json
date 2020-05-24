@@ -1,0 +1,3014 @@
+{
+    "306812": {
+        "question": "Unit Test là gì ?",
+        "answer": "Quá trình kiểm thử từng đơn vị phần mềm xem có hoạt động đúng như thiết kế hay không?"
+    },
+    "306813": {
+        "question": "Laravle được hiểu là gì?",
+        "answer": "Framework"
+    },
+    "306814": {
+        "question": "Laravle được phát triển dựa trên ngôn ngữ lập trình nào",
+        "answer": "Php"
+    },
+    "306815": {
+        "question": "Các tính năng được hỗ trợ trong Laravel là?",
+        "answer": "Tất cả đều đúng"
+    },
+    "306816": {
+        "question": "Khái niệm nào đúng về Composer",
+        "answer": "Công cụ"
+    },
+    "306817": {
+        "question": "Hệ điều hành nào hỗ trợ sử dụng Composer",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306818": {
+        "question": "Tải file nào để cài đặt Composer",
+        "answer": "&nbsp;Composer-Setup.exe"
+    },
+    "306819": {
+        "question": "Câu lệnh bên dưới khi thực thi sẽ cho kết quả nào composer create-project --prefer-dist laravel/laravel blog",
+        "answer": "Tạo project có tên blog"
+    },
+    "306820": {
+        "question": "Mặc định thư mục Routes chứa chứa các file nào",
+        "answer": "tất cả đều đúng"
+    },
+    "306821": {
+        "question": "Các tài nguyên Image, JavaScript, Css được lưu trữ trong thư mục nào?",
+        "answer": "Public"
+    },
+    "306822": {
+        "question": "Thư mục /app/Console lưu trữ các lệnh nào sau đây?",
+        "answer": "Các lệnh artisan"
+    },
+    "306823": {
+        "question": "Thư mục /app/Http lưu trữ các thành phần nào của ứng dụng?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306824": {
+        "question": "Thư mục Resources chứa các thành phần nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306825": {
+        "question": "Khi Laravel cần thao tác với bootstrap thì sử dụng thư mục nào?",
+        "answer": "/bootstrap"
+    },
+    "306826": {
+        "question": "Lệnh nào tạo project có tên hello-world",
+        "answer": "composer create-project --prefer-dist laravel/laravel hello-world"
+    },
+    "306827": {
+        "question": "Trong Laravel có áp dụng mô hình MVC được không?",
+        "answer": "Được"
+    },
+    "306828": {
+        "question": "<p style=\"text-align: left;\">Các loại database mà laravel có hỗ trợ là?</p>",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306829": {
+        "question": "Trong Laravel thì Artisan cung cấp tiện ích nào?",
+        "answer": "cung cấp một danh sách các câu lệnh hữu ích"
+    },
+    "306830": {
+        "question": "Khi chạy web phát triển bởi Laravel thì trong đoạn \"http://localhost/demo/public\", đâu là tên project?",
+        "answer": "demo"
+    },
+    "306831": {
+        "question": "Câu lệnh \"php artisan list\" thực hiện công viêc nào?",
+        "answer": "Liệt kê các lệnh mà artisan hỗ trợ"
+    },
+    "306832": {
+        "question": "Nếu cài đặt thành công Laravel thì mặc định có Artisan đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "306833": {
+        "question": "Mô hình MVC là viết tắt của cụm từ nào?",
+        "answer": "model - view - controller"
+    },
+    "306834": {
+        "question": "Controller nằm ở thư mục nào trong project laravel",
+        "answer": "app/Http/Controllers"
+    },
+    "306835": {
+        "question": "routes nằm ở thư mục nào trong project laravel",
+        "answer": "routes/web.php"
+    },
+    "306836": {
+        "question": "Lệnh sau thực hiện kết quả nào\n Route::get('foo', function () {\n &nbsp;&nbsp;&nbsp; return 'Hello World';\n });",
+        "answer": "Trả về chuỗi ký tự Hello World"
+    },
+    "306837": {
+        "question": "Lệnh sau thực hiện kết quả nào\n Route::get('about', function () {\n &nbsp;&nbsp;&nbsp; return view('about');\n });",
+        "answer": "Trả về View tên About"
+    },
+    "306838": {
+        "question": "trong lệnh Route::get('/user', 'UsersController@index'); thì ký tự ' / ' là đại diện cho mục đích gi?",
+        "answer": "Đại diện cho thư mục gốc (root)"
+    },
+    "306839": {
+        "question": "trong lệnh Route::get('/user', 'UsersController@index'); thì chuỗi ký tự ' UsersController ' là tên của thành phần nào",
+        "answer": "Controller"
+    },
+    "306840": {
+        "question": "trong lệnh Route::get('/user', 'UsersController@index'); thì chuỗi ký tự ' index ' là tên của thành phần nào",
+        "answer": "phương thức bên trong controller"
+    },
+    "306841": {
+        "question": "Câu lệnh: Route::get('/', function(){\n &nbsp;&nbsp; return view('welcome',['name'=&gt;'World','age'=&gt;3]); \n }); thực hiện mục đích nào?",
+        "answer": "Truyền dữ liệu cho view thông qua biến name và age"
+    },
+    "306842": {
+        "question": "Lệnh nào nhận và xuất dữ liệu từ biến \"name\" do routes truyền qua?",
+        "answer": "(h1&gt;Hello {{$name}}"
+    },
+    "306843": {
+        "question": "Lệnh Route::get('user/profile', 'UserController@showProfile')-&gt;name('profile'); có công dụng đặt tên cho routes là?",
+        "answer": "profile"
+    },
+    "306844": {
+        "question": "Lệnh nào tạo controller có tên Hello bằng artisan",
+        "answer": "php artisan make:controller Hello"
+    },
+    "306845": {
+        "question": "Lệnh nào tạo controller có tên PhotoController đồng thời tự phát sinh các phương thức CRUD",
+        "answer": "php artisan make:controller PhotoController --resource"
+    },
+    "306846": {
+        "question": "Các model trong laravel mặc định lưu ở thư mục nào?",
+        "answer": "app"
+    },
+    "306847": {
+        "question": "Lệnh nào tạo model tên Flight",
+        "answer": "php artisan make:model Flight "
+    },
+    "306848": {
+        "question": "Mặc định trong laravel sử dụng hình thức số nhiều đặt tên model đúng hay sai",
+        "answer": "Sai"
+    },
+    "306849": {
+        "question": "Câu lệnh kiểm tra một view có tồn tại chưa?",
+        "answer": "if (View::exists('abc'))"
+    },
+    "306850": {
+        "question": "Lệnh nào đăng ký routes cho controller 'UserController'",
+        "answer": "Route::get('user/{id}', 'UserController@show');"
+    },
+    "306851": {
+        "question": "Lệnh nào tạo routes với tham số id truyền vào là tùy chọn?",
+        "answer": "Route::get('profile/{id?}', ['as' =&gt; 'viewProfile', 'uses' =&gt; 'ProfileController@view']); "
+    },
+    "306852": {
+        "question": "Routes nào quy định tham số Id truyền vào phải là các số từ 0 tới 9",
+        "answer": "Route::get('user/{id}', function ($id) {})-&gt;where('id', '[0-9]+')"
+    },
+    "306853": {
+        "question": "Sitemap được hiểu theo nghĩa nào?",
+        "answer": "Là bản đồ của website"
+    },
+    "306854": {
+        "question": "Sitemap có 2 loài là ?",
+        "answer": "HTML sitemap và XML Sitemap"
+    },
+    "306855": {
+        "question": "Laravel mặc định sử dụng template engine nào?&nbsp;",
+        "answer": "Blade"
+    },
+    "306856": {
+        "question": "Blade template lưu trữ ở thư mục nào ?",
+        "answer": "resources/views"
+    },
+    "306857": {
+        "question": "Balde view được khai báo có phần mở rộng là gì?",
+        "answer": "blade.php"
+    },
+    "306858": {
+        "question": "Balde mang lại 2 lợi ích chính khi dùng là?",
+        "answer": "template inheritance và sections"
+    },
+    "306859": {
+        "question": "Flie Blade có thể chứa nội dung là ngôn ngữ?",
+        "answer": "tất cả đều đúng"
+    },
+    "306860": {
+        "question": "Tất cả các file Blade sẽ được dịch thành file code ngôn ngữ nào?",
+        "answer": "php"
+    },
+    "306861": {
+        "question": "Các chỉ thị nào được sử dụng trong Blade",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306862": {
+        "question": "Từ khóa nào dùng chỉ định việc kế thừa master layout",
+        "answer": "@extends"
+    },
+    "306863": {
+        "question": "Câu lệnh nào hiển thị dữ liệu cho title?",
+        "answer": "@yield('title')"
+    },
+    "306864": {
+        "question": "Câu lệnh nào xuất giá trị biến $name trong blade",
+        "answer": "(h2&gt;{{$name}}"
+    },
+    "306865": {
+        "question": "Câu lệnh&nbsp; // {{ $nam }} khi chạy cho kết quả nào?",
+        "answer": "Hiển thị kết quả của biến $name"
+    },
+    "306866": {
+        "question": "Blade hỗ trợ các cấu trúc lệnh nào ?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306867": {
+        "question": "Laravel cung cấp các chỉ thị nào khi dùng với lệnh if",
+        "answer": "@if, @elseif, @else và @endif"
+    },
+    "306868": {
+        "question": "Đoạn lệnh nào phát hiện người dùng chưa sign in",
+        "answer": "@unless (Auth::check()) Bạn chưa signed in.@endunless"
+    },
+    "306869": {
+        "question": "Đoạn lệnh nào kiểm tra biến $records có chứa dữ liệu hay không?",
+        "answer": "@empty($records)$records is \"empty\" @endempty"
+    },
+    "306870": {
+        "question": "Các chỉ thị nào được sử dụng với lệnh switch",
+        "answer": "@switch, @case, @break, @default"
+    },
+    "306871": {
+        "question": "Blade hỗ trợ các loại vòng lặp nào ?",
+        "answer": "@foreach….@endforeach"
+    },
+    "306872": {
+        "question": "Sử dụng lệnh nào để kết thúc vòng lặp ngay tức thời?",
+        "answer": "@break"
+    },
+    "306873": {
+        "question": "Laravel migration được dùng hỗ trợ tính năng nào?",
+        "answer": "cung cấp cơ chế cho việc tạo và chỉnh sửa database tables"
+    },
+    "306874": {
+        "question": "Để xây dựng database schema thì migration kết hợp với schema nào?",
+        "answer": "builder shema"
+    },
+    "306875": {
+        "question": "Migration hỗ trợ các hành động nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306876": {
+        "question": "Câu lệnh nào sử dụng artisan để tạo migration&nbsp;",
+        "answer": "make:migration"
+    },
+    "306877": {
+        "question": "Migration được lưu trữ ở đâu?",
+        "answer": "database/migrations"
+    },
+    "306878": {
+        "question": "Class migration gồm các phương thức nào?",
+        "answer": "up và down"
+    },
+    "306879": {
+        "question": "Thư mục nào cho phép cấu hình database trong laravel?",
+        "answer": "config/database.php"
+    },
+    "306880": {
+        "question": "Mặc đinh loại dữ liệu sử dụng trong laravel là gi?",
+        "answer": "mysql"
+    },
+    "306881": {
+        "question": "Dùng lệnh nào để chạy tất cả các chỉ thị trong migration",
+        "answer": "php artisan migrate"
+    },
+    "306882": {
+        "question": "Dùng lệnh nào để rollback tiến trình migration ?",
+        "answer": "php artisan migrate:rollback"
+    },
+    "306883": {
+        "question": "Phát biểu nào đúng về câu lệnh sau: $table-&gt;text('comments')-&gt;nullable()",
+        "answer": "Định nghĩa colum tên comments và cho phép cột này nhận giá trị null"
+    },
+    "306884": {
+        "question": "Khi rollbacl dữ liệu, migration hỗ trợ giới hạn số bước rollback bằng từ khóa nào?",
+        "answer": "step"
+    },
+    "306885": {
+        "question": "Lệnh nào rollback tất cả migration của ứng dụng",
+        "answer": "php artisan migrate:reset"
+    },
+    "306886": {
+        "question": "lệnh nào thực thi migrate để xóa toàn bộ table bên trong cơ sở dữ liệu",
+        "answer": "php artisan migrate:fresh"
+    },
+    "306887": {
+        "question": "Lệnh nào tạo table có tên user",
+        "answer": "Schema::create('users', function (Blueprint $table)"
+    },
+    "306888": {
+        "question": "Câu lệnh sau có tác dụng gì?\n $table-&gt;increments('id');",
+        "answer": "Tạo column tên Id"
+    },
+    "306889": {
+        "question": "Lệnh nào kiểm tra sự tồn tại của table user",
+        "answer": "if (Schema::hasTable('users'))"
+    },
+    "306890": {
+        "question": "Lệnh nào kiểm tra sự tồn tại của cột email trong bảng users",
+        "answer": "if (Schema::hasColumn('users', 'email'))"
+    },
+    "306891": {
+        "question": "Lệnh nào sẽ cập nhật cột name?",
+        "answer": "$table-&gt;string('name', 50)-&gt;change(); "
+    },
+    "306892": {
+        "question": "Lệnh nnafocho phép thay đổi tên cột?",
+        "answer": "$table-&gt;renameColumn('from', 'to'); "
+    },
+    "306893": {
+        "question": "Khái niệm nào đúng về validation ?",
+        "answer": "Validation là một công đoạn quan trọng khi phát triển ứng dụng, thường là kiểm tra dữ liệu đầu vào"
+    },
+    "306894": {
+        "question": "Laravle mặc định dùng controller nào để hỗ trợ validation",
+        "answer": "ValidatesRequests"
+    },
+    "306895": {
+        "question": "Khi kiểm tra dữ liệu không hợp lệ thì validation thông báo qua biến nào?",
+        "answer": "$error"
+    },
+    "306896": {
+        "question": "Khi dùng validation thì tham số nào quy định phải nhập liệu, không được bỏ trống nội dung?",
+        "answer": "required"
+    },
+    "306897": {
+        "question": "Khi dùng validation thì tham số nào quy định phải nhập liệu là email?",
+        "answer": "email"
+    },
+    "306898": {
+        "question": "Khi dùng validation thì tham số nào quy định phải nhập liệu là chữ cái từ a-z?",
+        "answer": "alpha"
+    },
+    "306899": {
+        "question": "Khi dùng validation thì tham số nào quy định phải nhập liệu là một mảng?",
+        "answer": "array"
+    },
+    "306900": {
+        "question": "Khi dùng validation thì tham số nào quy định phải nhập liệu là dữ liệu số nguyên?",
+        "answer": "interger"
+    },
+    "306901": {
+        "question": "Có thể định nghĩa lại các thông báo lỗi trong quá trình validation bằng cách dùng file nào?",
+        "answer": "/resources/lang/[lang]/validation.php"
+    },
+    "306902": {
+        "question": "Trong lệnh $validator = Validator::make($input, $rules, $messages); thì tham số thứ mấy của phương thức Validator::make quyết định thông báo xuất ra view",
+        "answer": "3"
+    },
+    "306903": {
+        "question": "Đoạn lệnh nào kiểm tra ràng buộc dữ liệu cột name băt buộc phải nhập?",
+        "answer": "$input = request()-&gt;validate([ 'name' =&gt; 'required']"
+    },
+    "306904": {
+        "question": "Đoạn lệnh nào kiểm tra ràng buộc dữ liệu cột pass tối thiểu phải có 5 ký tự?",
+        "answer": "$input = request()-&gt;validate('password' =&gt; 'required|min:5']"
+    },
+    "306905": {
+        "question": "Câu lệnh sau thực hiện điều gi?\n foreach ($errors-&gt;all() as $message)",
+        "answer": "Liệt kê tất cả các lỗi trong tất cả các field"
+    },
+    "306906": {
+        "question": "Câu lệnh sau thực hiện điều gi?\n foreach ($errors-&gt;get('email') as $message)",
+        "answer": "Liệt kê tất cả các lỗi trong field email"
+    },
+    "306907": {
+        "question": "Câu lệnh sau thực hiện điều gi?\n 'username'=&gt;'required|max:8",
+        "answer": "kiểm tra dữ liệu field username không được trống và nhâp tối đa 8 ký tự "
+    },
+    "306908": {
+        "question": "Tham số required chấp nhận những giá trị nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306909": {
+        "question": "Khi kiểm tra nhiều validation, nếu muốn ngưng việc kiểm tra ngay khi phát hiện validation đầu tiên không hợp lệ thì dùng chỉ thị nào",
+        "answer": "bail"
+    },
+    "306910": {
+        "question": "Sử dụng lệnh artisan nào để tạo form requests",
+        "answer": "make:request"
+    },
+    "306911": {
+        "question": "Lớp form requests khi được tạo thành công mặc định ở thư mục nào?",
+        "answer": "app/Http/Requests"
+    },
+    "306912": {
+        "question": "Dùng lệnh nào để tạo thêm luật kiểm tra dữ liệu?",
+        "answer": "make:rule"
+    },
+    "306913": {
+        "question": "Eloquent ORM được mở rộng và kế thừa từ class nào?",
+        "answer": "Illuminate\\Database\\Eloquent\\Model"
+    },
+    "306914": {
+        "question": "Trước khi dùng eloquent cần phải cấu hình database trong file nào?",
+        "answer": "config/database.php"
+    },
+    "306915": {
+        "question": "Câu lệnh nào tạo model có tên Flight",
+        "answer": "php artisan make:model Flight"
+    },
+    "306916": {
+        "question": "Câu lệnh nào tạo model có tên Flight đồng thời tạo migration database?",
+        "answer": "php artisan make:model Flight --migration "
+    },
+    "306917": {
+        "question": "Câu phát biểu nào đúng?",
+        "answer": "Mỗi table có một model tương ứng"
+    },
+    "306918": {
+        "question": "Câu phát biểu nào đúng?",
+        "answer": "Đáp án 1&amp;2 đúng"
+    },
+    "306919": {
+        "question": "Câu lệnh nào chỉ định table khi tạo model categories?",
+        "answer": "protected $table = 'categories';"
+    },
+    "306920": {
+        "question": "Câu lệnh nào chỉ định khóa chính là id khi tạo model?",
+        "answer": "protected $primaryKey = 'id';"
+    },
+    "306921": {
+        "question": "Mặc định khi tạo model thì những field nào được thêm vào database?",
+        "answer": "updated_at và created_at"
+    },
+    "306922": {
+        "question": "Muốn loại bỏ mặc định cột timestamp khi dùng eloquent thì thực hiện lệnh nào?",
+        "answer": "public $timestamps = false;"
+    },
+    "306923": {
+        "question": "Sử dụng thuộc tính nào để cấu hình kết nối database?",
+        "answer": "$connection"
+    },
+    "306924": {
+        "question": "Sử dụng lệnh nào để thêm dữ liệu vào cột name trong bảng category?",
+        "answer": "App\\Category::create(array('name' =&gt; 'Music'));"
+    },
+    "306925": {
+        "question": "Sử dụng lệnh nào để lấy dữ liệu cột name,id trong bảng category?",
+        "answer": "Sử dụng lệnh nào để lấy dữ liệu cột name,id trong bảng category?"
+    },
+    "306926": {
+        "question": "Sử dụng lệnh nào tìm dữ liệu có giá trị 16 trong bảng category?",
+        "answer": "$category = App\\Category::find(16);"
+    },
+    "306927": {
+        "question": "Phương thức nào được sử dụng để lưu lại các thay đổi trên table?",
+        "answer": "$category-&gt;save();"
+    },
+    "306928": {
+        "question": "Phương thức nào được sử dụng để xóa dòng dữ liệu trên table?",
+        "answer": "$category-&gt;delete();"
+    },
+    "306929": {
+        "question": "Lệnh nào xóa một dòng nhận tham số là primary key?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306930": {
+        "question": "Lệnh nào xóa một dòng với điều kiện cho trước?",
+        "answer": "$deletedRows = App\\Flight::where('active', 0)-&gt;delete();"
+    },
+    "306931": {
+        "question": "Để kích hoạt xoá mềm cho một model, sử dụng class nào?",
+        "answer": "Illuminate\\Database\\Eloquent\\SoftDeletes"
+    },
+    "306932": {
+        "question": "Khi kích hoạt Soft Deleting thì mặc định thuôc tính nào đươc thêm vào database?",
+        "answer": "deleted_at"
+    },
+    "306933": {
+        "question": "Phát biểu nào đúng?",
+        "answer": "trong Laravel muốn dùng authencation phải cài thêm plugin"
+    },
+    "306934": {
+        "question": "Tập tin cấu hình authentication được lưu trữ tại đâu?",
+        "answer": "config/auth.php"
+    },
+    "306935": {
+        "question": "Authencation trong laravel phải sử dụng namespace nào?",
+        "answer": "App\\Http\\Controllers\\Auth"
+    },
+    "306936": {
+        "question": "các controller nào được mặc định hỗ trợ authentication trong laravel?",
+        "answer": "RegisterController, LoginController.ForgotPasswordController,ResetPasswordController"
+    },
+    "306937": {
+        "question": "Authencation dùng lệnh nào để khai báo cho route và view biết?",
+        "answer": "php artisan make:auth"
+    },
+    "306938": {
+        "question": "Thư mục nào lưu các view cần cho việc authencation?",
+        "answer": "resources/views/auth"
+    },
+    "306939": {
+        "question": "Thuộc tính nào cho phép thay đổi việc redirect trang web khi authentication thành công?",
+        "answer": "$redirectTo"
+    },
+    "306940": {
+        "question": "Lệnh nào redirect về trang home khi authentication thành công?",
+        "answer": "protected $redirectTo = '/';"
+    },
+    "306941": {
+        "question": "Mặc định laravel dùng cột email cho việc authencation, muốn thay đổi thì phải cập nhật lệnh ở đâu?",
+        "answer": "LoginController"
+    },
+    "306942": {
+        "question": "Mặc định laravel dùng cột email cho việc authencation, muốn thay đổi thì dùng đoạn code nào?",
+        "answer": "public function username(){ return 'username';}"
+    },
+    "306943": {
+        "question": "Model mặc định cho authentication user nằm trong thư mục nào?",
+        "answer": "/app/User.php"
+    },
+    "306944": {
+        "question": "Lệnh nào cho phép truy xuất user đang bị authentication?",
+        "answer": "$user = Auth::user(); "
+    },
+    "306945": {
+        "question": "Sử dụng lệnh nào để authentication một user đã logged ứng dụng hay chưa?",
+        "answer": "if (Auth::check())"
+    },
+    "306946": {
+        "question": "Lệnh nào đảm bảo việc authentication user phải thông qua routes?",
+        "answer": "Route::get('profile', function () { // Only authenticated users may enter...})-&gt;middleware('auth');"
+    },
+    "306947": {
+        "question": "Câu lệnh nào bảo vệ route khi dùng authentication ?",
+        "answer": "public function __construct(){ $this-&gt;middleware('auth');}"
+    },
+    "306948": {
+        "question": "lệnh nào khai báo sử dụng auth.basic middleware trong route ?",
+        "answer": "Route::get('profile', function () {// Only authenticated users may enter...})-&gt;middleware('auth.basic');"
+    },
+    "306949": {
+        "question": "Mặc định auth.basic middleware sử dụng cột nào cho việc xác thực",
+        "answer": "email"
+    },
+    "306950": {
+        "question": "Sử dụng phương thức nào để bật chế độ ghi nhớ đăng nhập trong authentication?",
+        "answer": "attempt"
+    },
+    "306951": {
+        "question": "Đoạn lệnh nào hỗ trợ ghi nhớ đăng nhập trong authentication?",
+        "answer": "if (Auth::attempt(['email' =&gt; $email, 'password' =&gt; $password], $remember)) {// The user is being remembered...}"
+    },
+    "306952": {
+        "question": "Đối số thứ mấy trong phương thức attempt qui định ghi nhớ đăng nhập?",
+        "answer": "2"
+    },
+    "306953": {
+        "question": "Laravel dùng thư viện nào để hỗ trợ việc gởi nhận mail?",
+        "answer": "SwiftMailer "
+    },
+    "306954": {
+        "question": "Các driver nào được dùng cấu hình gởi mail trong laravel?",
+        "answer": "SMTP, Mailgun, SparkPost, Amazon SES"
+    },
+    "306955": {
+        "question": "Sử các dụng file nào để thay đổi hoặc thay đổi driver khi cấu hình gởi mail?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "306956": {
+        "question": "Lệnh nào hỗ trợ cài Guzzle HTTP vào laravel?",
+        "answer": "composer require guzzlehttp/guzzle"
+    },
+    "306957": {
+        "question": "Khi dùng Mailgun driver, cần dùng lệnh nào cấu hình driver?",
+        "answer": "mailgun' =&gt; ['domain' =&gt; 'your-mailgun-domain','secret' =&gt; 'your-mailgun-key',]"
+    },
+    "306958": {
+        "question": "Khi dùng SparkPost, cần dùng lệnh nào cấu hình driver?",
+        "answer": "'sparkpost'=&gt;['secret' =&gt;'your-sparkpost-key',]"
+    },
+    "306959": {
+        "question": "Khi dùng Amazon SES , cần dùng lệnh nào cấu hình driver trong file composer.json ?",
+        "answer": "\"aws/aws-sdk-php\": \"~3.0\""
+    },
+    "306960": {
+        "question": "Thành phần nào trong file .env cho phép cấu hình mailbox?",
+        "answer": "MAIL_HOST"
+    },
+    "306961": {
+        "question": "Lệnh nào tạo lớp tên WelcomeMail kế thừa Mailable để thực hiện viêc gởi mail?",
+        "answer": "php artisan make:mail WelcomeMail"
+    },
+    "306962": {
+        "question": "Lệnh php artisan make:mail tạo ra class nằm ở đâu?",
+        "answer": "App\\Mail"
+    },
+    "306963": {
+        "question": "Câu lệnh nào cho phép đính kèm tài liệu?",
+        "answer": "$this-&gt;view('emails.orders.shipped') -&gt;attach('/path/to/file'); "
+    },
+    "306964": {
+        "question": "Lệnh nào cho phép cấu hình chọn người gởi mail?",
+        "answer": "return $this-&gt;from('example@example.com') -&gt;view('emails.orders.shipped');"
+    },
+    "306965": {
+        "question": "trong config/mail.php sử dụng lệnh nào cấu hình xác định người gởi mail?",
+        "answer": "'from' =&gt; ['address' =&gt; 'example@example.com', 'name' =&gt; 'App Name'],"
+    },
+    "306966": {
+        "question": "Mặc định laravel cung cấp bao nhiêu cách cấu hình xác định người gởi mail",
+        "answer": "2"
+    },
+    "306967": {
+        "question": "Lệnh nào cho phép cấu hình chọn người nhận mail?",
+        "answer": "Mail::to($request-&gt;user())-&gt;send(new OrderShipped($order)); "
+    },
+    "306968": {
+        "question": "Lệnh nào cho phép cấu hình \"cc\" mail cho nhiều người nhận?",
+        "answer": "Mail::to($request-&gt;user()) -&gt;cc($moreUsers) "
+    },
+    "306969": {
+        "question": "Laravel hỗ trợ các chế độ log nào?",
+        "answer": "single, daily, syslog, và errorlog"
+    },
+    "306970": {
+        "question": "Việc thiết lập giá trị log được thực hiện trong file nào?",
+        "answer": "config/app.php"
+    },
+    "306971": {
+        "question": "Lệnh nào cho phép tùy chỉnh một số mức độ log thông qua log level?",
+        "answer": "'log_level' =&gt; env('APP_LOG_LEVEL', 'error')"
+    },
+    "306972": {
+        "question": "Tất cả các exception được xử lý bởi lớp nào?&nbsp;",
+        "answer": "App\\Exception\\Handler"
+    },
+    "306973": {
+        "question": "Hoạt động kiểm thứ tương ứng với hoạt động của Business Requirement trong mô hìn chữ V",
+        "answer": "System Testing"
+    },
+    "306974": {
+        "question": "Yếu tố nào sau đây không nằm trong tam giác chất lượng (The Quality Triangle) của sản phẩm phần mềm?",
+        "answer": "Quản lý nhu cầu (Requirements management)"
+    },
+    "306975": {
+        "question": "Quan điểm việc thực hiện test tự động (Automated Testing) luôn luôn tốt hơn, hiệu quả hơn việc thực hiện test bằng tay (Manual testing) là đúng hay sai?",
+        "answer": "Sai"
+    },
+    "306976": {
+        "question": "Nhằm giảm thiểu việc xuất hiện lỗ hổng (gaps) giữa ba yếu tố trong tam giác chất lượng cần thực hiện bao nhiều hoạt động?",
+        "answer": "2"
+    },
+    "306977": {
+        "question": "Theo quan điểm của nhà sản xuất phần mềm (manufacturer), thì yếu tố nào được dùng để đánh giá chất lượng sản phẩm?",
+        "answer": "Nhà cung cấp bán được nhiều sản phẩm"
+    },
+    "306978": {
+        "question": "Câu nào sau đây không phải là 1 trong những lí do kiểm thử phần mềm",
+        "answer": "Để nhà cung cấp tránh bị lỗ khi không bán được sản phẩm"
+    },
+    "306979": {
+        "question": "Nhóm thực hiện các hoạt động phát triển sản phẩm trong mô hình scrum",
+        "answer": "Scrum Team"
+    },
+    "306980": {
+        "question": "Câu nào sau đây mô tả đúng nhất thứ tự của các giai đoạn trong vòng đời phát triển của phần mềm?",
+        "answer": "Requirement, Design, Buid, Test, Live use"
+    },
+    "306981": {
+        "question": "Chọn câu đúng nhất trong các câu sau đây",
+        "answer": "Lỗi sai (Fault) trong yêu cầu có chi phí sửa đắt nhất"
+    },
+    "306982": {
+        "question": "Hậu quả nào sau đây không phải do lỗi phần mềm gây ra",
+        "answer": "Dễ dàng bị đối thủ ăn cắp thông tin sản phẩm"
+    },
+    "306983": {
+        "question": "Tập hợp các năng lực, kiến thức, kỹ năng và đặc điểm cá nhân cần thiết để hoàn thành tốt vai trò của một người làm kiểm thử phần mềm gọi là...?",
+        "answer": "Khung năng lực"
+    },
+    "306984": {
+        "question": "Có bao nhiêu yếu tố chính để trở thành 1 kiểm thử viên giỏi",
+        "answer": "3"
+    },
+    "306985": {
+        "question": "Kỹ năng đọc (Reading Skill) có cần thiết đối với một Tester",
+        "answer": "Có "
+    },
+    "306986": {
+        "question": "Các Tính cách nào sau đây cần thiết cho một tester",
+        "answer": "Kỷ luật + kiên trì; Linh hoạt; Độ nhạy cảm cao; Cởi mở"
+    },
+    "306987": {
+        "question": "Theo quan điểm của người sử dụng, một sản phẩm phần mềm đạt chất lượng thì",
+        "answer": "Phù hợp với nhu cầu sử dụng"
+    },
+    "306988": {
+        "question": "Các nhân tố nào quyết định chất lượng của một sản phẩm phần mềm",
+        "answer": "Con người, Quá trình thực hiện và Công cụ"
+    },
+    "306989": {
+        "question": "Ai là người thường xuyên thực hiện hoạt động bugging?",
+        "answer": "Developers "
+    },
+    "306990": {
+        "question": "Câu nào sau đây không thuộc định nghĩa về Debugging? Debugging...",
+        "answer": "Tìm được càng nhiều lỗi càng tốt"
+    },
+    "306991": {
+        "question": "Có bao nhiều trường hợp phát sinh lỗi phần mềm?",
+        "answer": "4"
+    },
+    "306992": {
+        "question": "Lỗi phát sinh trong quá trình sử dụng hay còn được gọi là độ lệch giữa mong muốn của người dùng và sản phẩm, được gọi là ... ?",
+        "answer": "Failure"
+    },
+    "306993": {
+        "question": "Unit Test là gì ?",
+        "answer": "Quá trình kiểm thử từng đơn vị phần mềm xem có hoạt động đúng như thiết kế hay không?"
+    },
+    "306994": {
+        "question": "Đối tượng nào sau đây không được xem như 1 đơn vị",
+        "answer": "1 kiểu dữ liệu hay 1 cú pháp thực thi lệnh"
+    },
+    "306995": {
+        "question": "Chọn câu sai. Tại sao lại phải thực hiện Unit Testing (Kiểm thử đơn vị)",
+        "answer": "Hệ thống hoàn toàn không có lỗi"
+    },
+    "306996": {
+        "question": "Các loại ngôn ngữ lập trình sử dụng chung một loại công cụ kiểm thử đơn vị?",
+        "answer": "Sai"
+    },
+    "306997": {
+        "question": "Ai là người thực hiện kiểm thử đơn vị?",
+        "answer": "Developer"
+    },
+    "306998": {
+        "question": "Unit Test có thể cần các đối tượng giả định nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "306999": {
+        "question": "Loại kiểm thử thử nào sau đây không nằm trong kiểm thử đơn vị",
+        "answer": "Module Testing"
+    },
+    "307000": {
+        "question": "Các lơi ích khi có giai đoạn unit test?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307001": {
+        "question": "Giai đoạn unit test có thể thực hiện automation và manual đúng hay sai",
+        "answer": "Đúng"
+    },
+    "307002": {
+        "question": "Junit là gi?",
+        "answer": "Framework"
+    },
+    "307003": {
+        "question": "Ngôn ngữ lập trình Java dùng framwork nào thực hiện unit test?",
+        "answer": "junit"
+    },
+    "307004": {
+        "question": "Junit cung cấp các hỗ trợ nào trong unit test",
+        "answer": "Tất cả đều đúng"
+    },
+    "307005": {
+        "question": "Junit có thể….?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307006": {
+        "question": "Cân tải các file nào để có thể chạy Junit?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307007": {
+        "question": "Muốn tích hơp Junit vào Eclipse cần import thư viên tại mục nào?",
+        "answer": "Add External JARs"
+    },
+    "307008": {
+        "question": "Sử dụng anotation nào để so sánh 2 đối tượng có bằng nhau hay không?",
+        "answer": "assertEquals"
+    },
+    "307009": {
+        "question": "Junit cho kết quả pass test là màu?",
+        "answer": "Xanh"
+    },
+    "307010": {
+        "question": "Junit cho kết quả fail test là màu?",
+        "answer": "Đỏ"
+    },
+    "307011": {
+        "question": "Junit là công cụ chuẩn cho Test-Driven Development",
+        "answer": "Đúng"
+    },
+    "307012": {
+        "question": "Thực hiện Junit có cần phát triển test case hay không?",
+        "answer": "Có"
+    },
+    "307013": {
+        "question": "org.Junit package chứa class và interface nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307014": {
+        "question": "Annotation nào sẽ được thực thi trước mỗi phương thức test?",
+        "answer": "@Before"
+    },
+    "307015": {
+        "question": "Annotation nào sẽ được thực thi trước tất cả các phương thức test?",
+        "answer": "@BeforeClass"
+    },
+    "307016": {
+        "question": "Annotation nào sẽ được thực thi sau tất cả các phương thức test?",
+        "answer": "@AfterClass"
+    },
+    "307017": {
+        "question": "Annotation nào sẽ được thực thi sau mỗi phương thức test?",
+        "answer": "@After"
+    },
+    "307018": {
+        "question": "Annotation nào đánh dấu một phương thức dùng để test",
+        "answer": "Tất cả đều sai"
+    },
+    "307019": {
+        "question": "\"@test\" dùng đề làm gi?",
+        "answer": "đánh dấu một phương thức dùng để test"
+    },
+    "307020": {
+        "question": "phương thức test được đánh dấu bởi annotation nào sẽ không được thực thi?",
+        "answer": "@Ignore"
+    },
+    "307021": {
+        "question": "Phương thức nào kiểm tra hai biến có bằng nhau hay không?",
+        "answer": "void assertEquals(object expected, object actual)"
+    },
+    "307022": {
+        "question": "Phương thức nào xác nhận một điều kiện là sai?",
+        "answer": "void assertFalse(boolean condition)"
+    },
+    "307023": {
+        "question": "Phương thức nào xác nhận một đối tượng không phải là null?&nbsp;",
+        "answer": "void assertNotNull(Object object)"
+    },
+    "307024": {
+        "question": "Phương thức nào xác nhận một đối tượng là null?&nbsp;",
+        "answer": "void assertNull(Object object)"
+    },
+    "307025": {
+        "question": "Phương thức xác nhận điều kiện là đúng?&nbsp;",
+        "answer": "void assertTrue(boolean condition)"
+    },
+    "307026": {
+        "question": "Phương thức xác nhận 2 mảng là bằng nhau?",
+        "answer": "void assertArrayEquals(expectedArray, resultArray);"
+    },
+    "307027": {
+        "question": "Text fixture quy định ngữ cảnh khi chạy test case thông qua khái niệm?&nbsp;",
+        "answer": "tất cả đều sai"
+    },
+    "307028": {
+        "question": "Khái niệm nàocho phép gom chạy cùng lúc nhiều test case có trình tự?",
+        "answer": "Test suites "
+    },
+    "307029": {
+        "question": "Các class nào có thể dùng thực thi test suites?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307030": {
+        "question": "Junit cung cấp công cụ nào thực thi các test case ?&nbsp;",
+        "answer": "Junit Test Runner"
+    },
+    "307031": {
+        "question": "Annotation có thể sử dụng với thành phần nào?&nbsp;",
+        "answer": "Tất cả đều đúng"
+    },
+    "307032": {
+        "question": "Các thư viện nào dùng cho việc thực thi test case?&nbsp;",
+        "answer": "Tất cả đều đúng"
+    },
+    "307033": {
+        "question": "Junit hỗ trợ theo dõi các ngoại lệ ở giai đoạn nào?",
+        "answer": "Unit Test"
+    },
+    "307034": {
+        "question": "Tham số nào được dùng theo dõi ngoại lệ trong Junit?",
+        "answer": "expected,fail"
+    },
+    "307035": {
+        "question": "Lệnh nào khai báo xử lý với ngoại lệ trong junit?",
+        "answer": "&nbsp;@Test(expectedExceptions = { IOException.class&nbsp;})"
+    },
+    "307036": {
+        "question": "Các lợi ích khi dùng TestNG",
+        "answer": "Tất cả đều đúng"
+    },
+    "307037": {
+        "question": "Lệnh nào cho phép tạo một ngoại lệ và thực thi nó?",
+        "answer": "throw&nbsp;new&nbsp;IOException();"
+    },
+    "307038": {
+        "question": "Sử dụng thư viện nào cho việc bắt ngoại lệ trong Junit?",
+        "answer": "org.junit.rules.ExpectedException"
+    },
+    "307039": {
+        "question": "JUnit ErrorCollector có công dụng?&nbsp;",
+        "answer": "cho phép quá trình test diễn ra tiếp tục nhưng đồng thời thu thập các error, đưa ra báo cáo sau khi hoàn thành test"
+    },
+    "307040": {
+        "question": "Junit sử dụng annotation nào tạo đối tượng ErrorCollector",
+        "answer": "@rule"
+    },
+    "307041": {
+        "question": "Junit dùng lớp nào thu thập error?&nbsp;",
+        "answer": "Throwable"
+    },
+    "307042": {
+        "question": "Phương thức nào của lớp \"Throwable\" cho phép thu thập các error trong quá trình chạy lớp kiểm thử?",
+        "answer": "addError()"
+    },
+    "307043": {
+        "question": "Sử dụng thư viện nào cho việc thu thập error trong Junit?",
+        "answer": "import org.junit.rules.ErrorCollector;"
+    },
+    "307044": {
+        "question": "Sử dụng annotation nào để viết thêm hoặc thay đổi hành vi phương thức test? ",
+        "answer": "@rule"
+    },
+    "307045": {
+        "question": "Khái niệm nào cho việc thực thi cùng một test case với nhiều giá trị khác nhau? ",
+        "answer": "JUnit Parameterized Test"
+    },
+    "307046": {
+        "question": "JUnit Parameterized Test cho phép?",
+        "answer": "Truy xuất dữ liệu từ nhiều nguồn"
+    },
+    "307047": {
+        "question": "Có thể truyền tham số trong Junit bằng các phương thức nào?",
+        "answer": "Constructor, @Parameter"
+    },
+    "307048": {
+        "question": "Dùng thư viện nào khi sử dụng tham số trong Junit?",
+        "answer": "import org.junit.runners.Attribute;"
+    },
+    "307049": {
+        "question": "Lệnh nào khai báo tham số có giá trị mặc định là 0",
+        "answer": "@Parameter(value = 0)"
+    },
+    "307050": {
+        "question": "Có thể sử dụng những block nào trong việc sử lý ngoại lê với Junit?",
+        "answer": "Final"
+    },
+    "307051": {
+        "question": "Lệnh nào đúng khi khai báo test case với các tham số?",
+        "answer": "@Run(value = Parameterized.class)"
+    },
+    "307052": {
+        "question": "Lớp nào hỗ trợ hỗ trợ xác định loại exception và message exception? ",
+        "answer": "ExpectedException Rule"
+    },
+    "307053": {
+        "question": "Test Next Generation là gi?",
+        "answer": "Framework"
+    },
+    "307054": {
+        "question": "Test Next Generation hỗ trợ hình thức test nào?",
+        "answer": "automation test"
+    },
+    "307055": {
+        "question": "Test Next Generation hỗ trợ ở những giai đoạn test nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307056": {
+        "question": "Các lợi ích khi dùng TestNG&nbsp;",
+        "answer": "Tất cả đều đúng"
+    },
+    "307057": {
+        "question": "<p style=\"text-align: left;\">Có thể pluin TestNG vào Eclipse bằng cách nào?</p>",
+        "answer": "Tất cả đều đúng"
+    },
+    "307058": {
+        "question": "Khi pluin TestNG vào Eclipse dùng \"Install New Software\", sử dụng link nào?",
+        "answer": "http://beust.com/eclipse"
+    },
+    "307059": {
+        "question": "TestNG làm việc đươc với công cụ nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307060": {
+        "question": "Có thể tải Selenium Api ở link nào?",
+        "answer": "vhttp://docs.seleniumhq.org/download/"
+    },
+    "307061": {
+        "question": "Để dùng được các Api của Selenium trong TestNG thì cần dùng tính năng nào?",
+        "answer": "Add External JARs"
+    },
+    "307062": {
+        "question": "Để xác định đâu là test case, TestNg dùng từ khóa nào?",
+        "answer": "@Test"
+    },
+    "307063": {
+        "question": "Để chạy được TestNG cần dùng thư viện nào?",
+        "answer": "import org.testng.annotations.Test;"
+    },
+    "307064": {
+        "question": "Lệnh nào so sánh 2 giá trị có bằng nhau không",
+        "answer": "Assert.assertEquals(100, 100);"
+    },
+    "307065": {
+        "question": "Lệnh nào kiểm tra 2 giá trị là không bằng nhau?",
+        "answer": "Assert.assertNotEquals(120, 100);"
+    },
+    "307066": {
+        "question": "Điểm mạnh của TestNg so với Junit4 là gi?",
+        "answer": "Dependency Test"
+    },
+    "307067": {
+        "question": "Có thể pluin TestNG cho những công cụ nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307068": {
+        "question": "Dùng thư viện nào khi sử dụng Assert?",
+        "answer": "import&nbsp;org.testng.Assert;"
+    },
+    "307069": {
+        "question": "Các bước nào có thể tạo được lớp TesNG",
+        "answer": "huột phải vào tên packge, chọn New-&gt;Other-&gt;TestNG class"
+    },
+    "307070": {
+        "question": "Các bước nào có thể tạo được lớp TesNG",
+        "answer": "huột phải vào tên packge, chọn New-&gt;TestNG-&gt;create TestNG class"
+    },
+    "307071": {
+        "question": "TestNG có hỗ trợ các annotation không?",
+        "answer": "Có"
+    },
+    "307072": {
+        "question": "Các thành phần được hỗ trợ bởi junit và testNg",
+        "answer": "Tất cả đều đúng"
+    },
+    "307073": {
+        "question": "Các&nbsp; Annotations có thể được khai báo cho các thành phần nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "307074": {
+        "question": "Annotation nào giúp một phương thức thực thi trước mỗi khi có một phương thức khác thực thi?",
+        "answer": "@BeforeMethod"
+    },
+    "307075": {
+        "question": "Annotation nào giúp một phương thức thực thi sau mỗi khi có một phương thức khác thực thi?",
+        "answer": "@AfterMethod"
+    },
+    "307076": {
+        "question": "Annotation nào giúp một phương thức thực thi trước tất cả các phương thức khác?",
+        "answer": "@BeforeTest "
+    },
+    "307077": {
+        "question": "Annotation nào giúp một phương thức thực thi sau tất cả các phương thức khác?",
+        "answer": "@AfterTest"
+    },
+    "307078": {
+        "question": "data-driven testing là khái niệm nào?",
+        "answer": "tách rời test data với test script "
+    },
+    "307079": {
+        "question": "Có thể truyền bao nhiêu tham số đầu vào khi dùng &lt;@Parameters&gt; ?",
+        "answer": "Tất cả đều sai"
+    },
+    "307080": {
+        "question": "Lệnh nào cho phép truyền giá trị \"demo\" vào tham số \"name\"?",
+        "answer": "(parameter name=\"name\" value=\"demo\"/)"
+    },
+    "307081": {
+        "question": "Annotation nào có thể nhận giá trị mặc định nếu lúc thực thi không truyền giá trị? ",
+        "answer": "@optional"
+    },
+    "307082": {
+        "question": "Annotation nào cho phép thiết lập độ ưu tiên thực thi trước sau của test case? ",
+        "answer": "priority"
+    },
+    "307083": {
+        "question": "Giá trị có thể thiết lập cho tham số priority nhỏ nhất là bao nhiêu",
+        "answer": "2"
+    },
+    "307084": {
+        "question": "Lệnh nào khai báo sử dụng annotation &lt;@Optional&gt;?",
+        "answer": "@Parameters({ \"optional-value\" })"
+    },
+    "307085": {
+        "question": "Lệnh nào thiết lập giá trị mặc định khi dùng &lt;@Optional&gt;?",
+        "answer": "public void optionCheck(@Optional(\"Optional Value\") String value)"
+    },
+    "307086": {
+        "question": "Lệnh nào khai báo truyền 2 tham số cho @parameters",
+        "answer": "@Parameters({ \"UserName\", \"Passcode\" })"
+    },
+    "307087": {
+        "question": "Giả sử lớp kiểm thử có 3 test case: @Test\n &nbsp;public void registerAccount(), @Test(priority=2)\n &nbsp;public void sendEmail(), @Test(priority=1)\n &nbsp;public void login().\n Test case nào thực thi trước?",
+        "answer": "registerAccount()"
+    },
+    "307088": {
+        "question": "Annotation nào đánh dấu một phương thức trở thành test case?",
+        "answer": "Tât cả đều đúng"
+    },
+    "307089": {
+        "question": "TestNG hỗ trợ sử dụng tổng cộng bao nhiêu annotation?",
+        "answer": "15"
+    },
+    "307090": {
+        "question": "TestNG không hỗ trợ annotation nào?",
+        "answer": "@Test"
+    },
+    "307091": {
+        "question": "Khi dùng TestNG, mỗi test case có thể thực thi bao nhiêu lần?",
+        "answer": "nhiều lần"
+    },
+    "307092": {
+        "question": "TestNG cung cấp 2 cách để truyền dữ liệu cho test case là gì?",
+        "answer": "Parameters và DataProvide"
+    },
+    "307093": {
+        "question": "Automation test tool hỗ trợ người kiểm thử các công việc nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "307094": {
+        "question": "Thư mục nào chứa kết quả sau khi thực thi lớp kiểm thử?",
+        "answer": "test-output"
+    },
+    "307095": {
+        "question": "TestNg hỗ trợ các loại tập tin report cơ bản nào?&nbsp;",
+        "answer": "\"Index.html” và “emailable-report.html”"
+    },
+    "307096": {
+        "question": "Các phương thức nào được sử dụng trong report model?&nbsp;",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "307097": {
+        "question": "Tập tin Index.html report mặc định được chia thành bao nhiêu vùng?",
+        "answer": "3"
+    },
+    "307098": {
+        "question": "Trong tập tin Index.html, khu vực Test Result gồm thông tin nào?",
+        "answer": "tổng số lượng suites, số lượng test case thành công, test case được bỏ qua"
+    },
+    "307099": {
+        "question": "Trong tập tin Index.html, chọn All suites để xem chi tiết sẽ hiển thị những thành phần nào?",
+        "answer": "Result, Info"
+    },
+    "307100": {
+        "question": "Tập tin emailable-report.html có được bằng cách nào?",
+        "answer": "quá trình thực thi lớp kiểm thử tự tạo ra"
+    },
+    "307101": {
+        "question": "Các test case thất bại được tô màu nào?",
+        "answer": "đỏ"
+    },
+    "307102": {
+        "question": "Các test case thành công được tô màu nào?",
+        "answer": "xanh"
+    },
+    "307103": {
+        "question": "TestNg hỗ trợ xem các report theo kiểu cũ tại tập tin nào?",
+        "answer": "old.html"
+    },
+    "307104": {
+        "question": "Tập tin testng-failed.xml chứa các phương thức nào?",
+        "answer": "các phương thức kiểm thử thất bại"
+    },
+    "307105": {
+        "question": "Tập tin testng-results.xml chứa các phương thức nào?",
+        "answer": "các phương thức kiểm thử thành công"
+    },
+    "307106": {
+        "question": "tập tin testng-results.xml chứa trong thư mục nào?&nbsp;",
+        "answer": "test-output"
+    },
+    "307107": {
+        "question": "tập tin&nbsp; testng-failed.xml&nbsp; chứa trong thư mục nào?&nbsp;",
+        "answer": "test-output"
+    },
+    "307108": {
+        "question": "Để thực thi đươc các report trong testng, cần import interface nào?",
+        "answer": "org.testng.IReporter"
+    },
+    "307109": {
+        "question": "TestNG report sử dụng phương thức nào trả về tên của suite?",
+        "answer": "getName()"
+    },
+    "307110": {
+        "question": "Khi thực thi testng report thì các thông tin của một suite được lưu ở đâu?",
+        "answer": "testng.xml"
+    },
+    "307111": {
+        "question": "Kết quả hiển thị trên Suite Pane gồm các phần nào?",
+        "answer": "Tất cả đáp án đều đúng"
+    },
+    "307112": {
+        "question": "Để xem report log thì cần chọn mục nào trong Suite Pane?",
+        "answer": "reporter output"
+    },
+    "307113": {
+        "question": "Khi xuất kết quả từ TestNG sang Excel dùng thư viện nào để tích hợp webdriver?",
+        "answer": "selenium-server-standalone"
+    },
+    "307114": {
+        "question": "thư viện nào hỗ trợ xuất kết quả từ TestNG sang Excel ?",
+        "answer": "Apache POI library"
+    },
+    "307115": {
+        "question": "Phương thức nào cho phép xác định website bị kiểm thử?&nbsp;",
+        "answer": "driver.get(\"http://phptravels.net/login\");"
+    },
+    "307116": {
+        "question": "Câu lệnh nào cho phép tìm và nhập user name?",
+        "answer": "username.sendKeys(datafile.getData(\"username\"));"
+    },
+    "307117": {
+        "question": "Để xuất ra tập Excel cần dùng lớp nào?&nbsp;",
+        "answer": "FileOutputStream"
+    },
+    "307118": {
+        "question": "Lệnh nào khai báo xuất ra tập tin Excel có tên \"SaveTestNGResultToExcel.xls\"?",
+        "answer": "FileOutputStream out = new FileOutputStream(new File( \"SaveTestNGResultToExcel.xls\"));"
+    },
+    "307119": {
+        "question": "Cần import thư viện nào cho việc xuất tập tin?",
+        "answer": "java.io.FileOutputStream;"
+    },
+    "307120": {
+        "question": "TestNG và JUnit&nbsp; đều được sử dụng ở giai đoạn nào?",
+        "answer": "Unit test"
+    },
+    "307121": {
+        "question": "Annotation \"@BeforeMethod\" được dùng bởi framework nào?&nbsp;",
+        "answer": "TestNG"
+    },
+    "307122": {
+        "question": "Annotation \"@Before\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307123": {
+        "question": "Annotation \"@AfterMethod\" được dùng bởi framework nào?&nbsp;",
+        "answer": "TestNG"
+    },
+    "307124": {
+        "question": "Annotation \"@After\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307125": {
+        "question": "Annotation \"@RunWith\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307126": {
+        "question": "Annotation \"@Ignore\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307127": {
+        "question": "Annotation \"@Test(enabled=false)\" được dùng bởi framework nào?&nbsp;",
+        "answer": "TestNG"
+    },
+    "307128": {
+        "question": "Junit4 và TestNG hỗ trợ các tính năng nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307129": {
+        "question": "Annotation \"@Test(timeout = 1000)\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307130": {
+        "question": "Annotation \"@Test(timeOut = 1000)\" được dùng bởi framework nào?&nbsp;",
+        "answer": "TestNG"
+    },
+    "307131": {
+        "question": "Annotation&nbsp; \"@Parameter\" được dùng bởi framework nào?&nbsp;",
+        "answer": "Junit"
+    },
+    "307132": {
+        "question": "Annotation \"@DataProvider\" được dùng bởi framework nào?&nbsp;",
+        "answer": "TestNG"
+    },
+    "307133": {
+        "question": "Selenium(SE) chạy được trên hệ điều hành nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307134": {
+        "question": "SE hỗ trợ cho các ngôn ngữ lập trình nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307135": {
+        "question": "SE có thể kết hợp với một số test framework nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307136": {
+        "question": "SE cho phép các tính năng nào?",
+        "answer": "debug"
+    },
+    "307137": {
+        "question": "SE hỗ trợ xuất kết quả ra các định dạng?",
+        "answer": "tất cả đều đúng"
+    },
+    "307138": {
+        "question": "Selenium suite có những thành phần nào?",
+        "answer": "Tất cả đều đúng"
+    },
+    "307139": {
+        "question": "Selenium RC và Selenium Webdriver kết hợp tạo thành SE nào?",
+        "answer": "Selenium 2"
+    },
+    "307140": {
+        "question": "Khi tích hợp SE webdriver trên eclipse với ngôn ngữ Java để chạy google chorme cần dùng driver nào?",
+        "answer": "Google.Chrome.Driver"
+    },
+    "307141": {
+        "question": "Cần import thư viện nào khi dùng google chrome driver cho SE?",
+        "answer": "import org.openqa.selenium.chrome.ChromeDriver;"
+    },
+    "307142": {
+        "question": "Cần import thư viện nào khi dùng Selenium Webdriver?",
+        "answer": "import org.openqa.selenium.WebDriver;"
+    },
+    "307143": {
+        "question": "Câu lệnh nào thiết lập driver trình duyệt cho SE?",
+        "answer": "System.setProperty(…);"
+    },
+    "307144": {
+        "question": "Sau khi thực thi lớp với SE, tập tin index.html trong mục nào?&nbsp;",
+        "answer": "test-output"
+    },
+    "307145": {
+        "question": "Khi dùng TestNG có thể cấu hình file nào để chạy nhiều testcase cùng lúc?",
+        "answer": "file.xml"
+    },
+    "307146": {
+        "question": "Thứ tự thao tác nào cho phép thực thi suite test trong TestNG?",
+        "answer": "Chuột phải testng.xml -&gt;Run as -&gt;‘TestNG Suite’ "
+    },
+    "307147": {
+        "question": "test groups được khai báo trong file nào?&nbsp;",
+        "answer": "file.xml"
+    },
+    "307148": {
+        "question": "Câu lệnh nào khai báo một test case thuộc một group?",
+        "answer": "@Test(groups=\"name\")"
+    },
+    "307149": {
+        "question": "Trong file.xml, lệnh nào cho phép xác định một test group được thực thi?",
+        "answer": "(include name=\"name\" /)"
+    },
+    "307150": {
+        "question": "Thẻ gốc (root) trong file.xml là thẻ nào?",
+        "answer": "suite"
+    },
+    "307151": {
+        "question": "Câu lệnh nào cho phép lấy địa chỉ website cần test trong SE webdriver?",
+        "answer": "driver = new ChromeDriver(); driver.set(url);"
+    },
+    "307152": {
+        "question": "Một trong số tính năng test group hỗ trợ là gi?",
+        "answer": "Thực hiện song song các nhóm testcase"
+    },
+    "307153": {
+        "question": "Dedicated Server là?",
+        "answer": "Là một hình thức sử dụngtài nguyên của máy chử mà người dùng có thể thuê toàn bộ một máy chủ, không hề chia sẻ với bất cứ ai"
+    },
+    "307154": {
+        "question": "Doanh nghiệp X cần đầu tư mạnh vào thị trường online. Họ đã xây dựng một website thương mại điện tử với mong muốn thu hút nhiều lượt truy cập vào mua hàng. Ngân sách doanh nghiệp X chia cho hệ thống lưu trữ website khoảng 5 triệu VNĐ/ 1 năm. Doanh nghiệp X nên lựa chọn mô hình nào là phù hợp nhất?",
+        "answer": "VPS"
+    },
+    "307155": {
+        "question": "Nhược điểm của VPS?",
+        "answer": "Việc sử dụng chung máy chủ vật lý khiến VPS của bạn bị phụ thuộc."
+    },
+    "307156": {
+        "question": "VPS là viết tắt của từ gì",
+        "answer": "Virtual Private Server"
+    },
+    "307157": {
+        "question": "Khi sử dụng công nghệ Cloud cho Server , sẽ loại bỏ được những hạn chế gì?",
+        "answer": "Loại bỏ được yếu tố vị trí địa lý và đảm bảo 24/7"
+    },
+    "307158": {
+        "question": "Cloud Server khác Dedicated Server ở chỗ nào?",
+        "answer": "Đảm bảo được yếu tố 24/7, vì với công nghệ điện toán đám mây, luôn luôn có nhiều Server hoạt động song song và động bộ hóa dữ liệu với nhau"
+    },
+    "307159": {
+        "question": "Khi thuê VPS, những hệ điều hành nào có thể cài đặt được",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307160": {
+        "question": "VPS có thể dùng để thiết lập các dịch vụ gì?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307161": {
+        "question": "VPS khác với Cloud Server ở điểm nào?",
+        "answer": "VPS khi gặp sự cố thì website sẽ không hoạt động. Cloud Server hoạt động trên nhiều Server. Khi 1 Server gặp sự cố, dịch vụ Cloud sẽ tự động di chuyển đến các Server còn hoạt động"
+    },
+    "307162": {
+        "question": "Domain .GOV có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức chính phủ."
+    },
+    "307163": {
+        "question": "Domain .EDU có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức giáo dục"
+    },
+    "307164": {
+        "question": "ICANN là gì?",
+        "answer": "Là trung tâm quản lý tên miền quốc tế"
+    },
+    "307165": {
+        "question": "VNNIC là gì?",
+        "answer": "Là đơn vị quản lý tên miền .VN"
+    },
+    "307166": {
+        "question": "Tên miền không được vượt quá bao nhiêu ký tự?",
+        "answer": "63"
+    },
+    "307167": {
+        "question": "Tên miền chỉ được đặt theo quy tắc",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307168": {
+        "question": "Tên miền là nơi lưu trữ source website",
+        "answer": "Sai"
+    },
+    "307169": {
+        "question": "Chúng ta có thể lưu trữ website ở đâu?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307170": {
+        "question": "Để có một website chạy trên Internet, chúng ta cần có&nbsp;",
+        "answer": "Cả 2 đều đúng"
+    },
+    "307171": {
+        "question": "Cấu trúc tên miền thường có dạng www.example.com, vậy www là viết tắt của từ gì",
+        "answer": "World wide web "
+    },
+    "307172": {
+        "question": "Phần mềm quản lý Hosting là những phần mềm nào",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307173": {
+        "question": "Tên miền nào sau đây không phải là tên miền hợp lệ",
+        "answer": "caodang$thuchanh.vip"
+    },
+    "307174": {
+        "question": "Tên miền nào sau đây là dạng tên miền miễn phí",
+        "answer": "caodangthuchanh.tk"
+    },
+    "307175": {
+        "question": "Domain .COM có ý nghĩa gì?",
+        "answer": "Hầu hết các doanh nghiệp đều mong muốn sở hữu một tên miền loại này bởi vì nó khẳng định vị thế cao của doanh nghiệp trên mạng Internet"
+    },
+    "307176": {
+        "question": "Làm sao để biết có bao nhiều người truy cập vào website của chúng ta",
+        "answer": "Tích hợp website với các công cụ hỗ trợ"
+    },
+    "307177": {
+        "question": "<p style=\"text-align: left;\">Google Analytics là một hệ thống giúp chúng ta những công việc gì?</p>",
+        "answer": "Có bao nhiều người ghé thăm trang web của bạn, họ đến từ đâu, trang nào hấp dẫn khách hàng nhiều nhất, website có thân thiện với di động"
+    },
+    "307178": {
+        "question": "Quy trình hoạt động của Google Analytics",
+        "answer": "Data Collection –&gt; Configuration –&gt; Processing –&gt; Reporting"
+    },
+    "307179": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Processing là quá trình?",
+        "answer": "Đây là công đoạn Google xử lý các dữ liệu theo yêu cầu của người dùng"
+    },
+    "307180": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Data Collection là quá trình?",
+        "answer": "Tất cả thông tin truy cập của khách hàng đối với website chúng ta sẽ được Google thu thập bằng một đoạn mã java script"
+    },
+    "307181": {
+        "question": "Google Analytics công cụ&nbsp;",
+        "answer": "Miễn phí"
+    },
+    "307182": {
+        "question": "Google Webmaster Tools là công cụ",
+        "answer": "Đưa ra các thông báo mới, hoặc sự cố, hình phạt Google muốn thông báo cho website"
+    },
+    "307183": {
+        "question": "Sự khác biệt giữ Google Webmaster Tools và Google Analytics",
+        "answer": "Google Analytics là quản lý, thống kê lượt truy cập thì Google Webmaster Tools quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn"
+    },
+    "307184": {
+        "question": "Cách tích hợp Website với hệ thống Google Webmaster Tools",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307185": {
+        "question": "Khi nào chúng ta cần phục hồi dữ liệu website",
+        "answer": "Khi vô tình xóa mất thông tin trên website, hoặc website bị lỗi dữ liệu"
+    },
+    "307186": {
+        "question": "Khi nói đến sao lưu, chúng ta cần sao lưu những gì",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307187": {
+        "question": "Khi nào chúng ta cần sao lưu dữ liệu",
+        "answer": "Sao lưu hằng ngày, vào ban đêm để tránh ảnh hưởng đến khách hàng"
+    },
+    "307188": {
+        "question": "Tên miền website của công ty khi đã đăng ký thì?",
+        "answer": "Cần gia hạn trước khi tên miền bị hết hạn, và vẫn có thể bị người khác mua mất nếu chúng ta không gia hạn"
+    },
+    "307189": {
+        "question": "Bạn sẽ làm gì khi phát hiện giá của sản phẩm được đăng trên website bị sai lệch so với giá trị thực",
+        "answer": "Ngay lập tức tạm dừng đăng sản phẩm và báo cáo lên ban lãnh đạo công ty"
+    },
+    "307190": {
+        "question": "Bạn sẽ làm gì khi phát hiện nhiều bình luận sai lệch, nói tục, nói xấu chế độ cũng như các lãnh tụ xuất hiện trong khu vực bình luận trong các bài viết trên website mà bạn đang quản lý",
+        "answer": "Tạm dừng các bình luận (hoặc xóa) sau đó báo lên ban lãnh đạo công ty"
+    },
+    "307191": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"Bandwidth Limit Exceeded\"?",
+        "answer": "Tìm hiểu nguyên nhân hết Bandwidth là do đâu? Nếu do lượng người truy cập vào nhiều thì lên kế hoạch nâng cấp Bandwidth. Nếu bandwidth hết là do bị tấn công DDoS thì cần có biện pháp khắc phục"
+    },
+    "307192": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"404 Page Not Found\"?",
+        "answer": "Tìm hiểu xem trước khi bị lỗi, bạn đã có thao tác nào liên quan đến Source Code hoặc can thiệp vào Hosting hay không. Nếu không hãy liên hệ đơn vị cung cấp website để được hỗ trợ"
+    },
+    "307193": {
+        "question": "Bạn sẽ làm gì khi không nhớ Password Admin",
+        "answer": "Tìm kiếm password admin trong CSDL của website"
+    },
+    "307194": {
+        "question": "DDoS là gì?",
+        "answer": "DDoS là kiểu tấn công làm cho mục tiêu, là các trang web, dịch vụ trực tuyến, trở nên quá tải. Người dùng gặp khó khăn, hay thậm chí không thể truy cập vào các trang web, dịch vụ này."
+    },
+    "307195": {
+        "question": "DDoS là hình tấn công trong các dạng website?",
+        "answer": "Tất công tất cả các hệ thống website"
+    },
+    "307196": {
+        "question": "Khi phát hiện website mà bạn đang quản trị có dấu hiệu bị tấn công, thì giải pháp hợp lý là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307197": {
+        "question": "DDoS là viết tắt của từ",
+        "answer": "Distributed Denial of Service"
+    },
+    "307198": {
+        "question": "Dedicated Server là?",
+        "answer": "Là một hình thức sử dụngtài nguyên của máy chử mà người dùng có thể thuê toàn bộ một máy chủ, không hề chia sẻ với bất cứ ai"
+    },
+    "307199": {
+        "question": "Doanh nghiệp X cần đầu tư mạnh vào thị trường online. Họ đã xây dựng một website thương mại điện tử với mong muốn thu hút nhiều lượt truy cập vào mua hàng. Ngân sách doanh nghiệp X chia cho hệ thống lưu trữ website khoảng 5 triệu VNĐ/ 1 năm. Doanh nghiệp X nên lựa chọn mô hình nào là phù hợp nhất?",
+        "answer": "VPS"
+    },
+    "307200": {
+        "question": "Nhược điểm của VPS?",
+        "answer": "Việc sử dụng chung máy chủ vật lý khiến VPS của bạn bị phụ thuộc."
+    },
+    "307201": {
+        "question": "VPS là viết tắt của từ gì",
+        "answer": "Virtual Private Server"
+    },
+    "307202": {
+        "question": "Khi sử dụng công nghệ Cloud cho Server , sẽ loại bỏ được những hạn chế gì?",
+        "answer": "Loại bỏ được yếu tố vị trí địa lý và đảm bảo 24/7"
+    },
+    "307203": {
+        "question": "Cloud Server khác Dedicated Server ở chỗ nào?",
+        "answer": "Đảm bảo được yếu tố 24/7, vì với công nghệ điện toán đám mây, luôn luôn có nhiều Server hoạt động song song và động bộ hóa dữ liệu với nhau"
+    },
+    "307204": {
+        "question": "Khi thuê VPS, những hệ điều hành nào có thể cài đặt được",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307205": {
+        "question": "VPS có thể dùng để thiết lập các dịch vụ gì?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307206": {
+        "question": "VPS khác với Cloud Server ở điểm nào?",
+        "answer": "VPS khi gặp sự cố thì website sẽ không hoạt động. Cloud Server hoạt động trên nhiều Server. Khi 1 Server gặp sự cố, dịch vụ Cloud sẽ tự động di chuyển đến các Server còn hoạt động"
+    },
+    "307207": {
+        "question": "Domain .GOV có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức chính phủ."
+    },
+    "307208": {
+        "question": "Domain .EDU có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức giáo dục"
+    },
+    "307209": {
+        "question": "ICANN là gì?",
+        "answer": "Là trung tâm quản lý tên miền quốc tế"
+    },
+    "307210": {
+        "question": "VNNIC là gì?",
+        "answer": "Là đơn vị quản lý tên miền .VN"
+    },
+    "307211": {
+        "question": "Tên miền không được vượt quá bao nhiêu ký tự?",
+        "answer": "63"
+    },
+    "307212": {
+        "question": "Tên miền chỉ được đặt theo quy tắc",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307213": {
+        "question": "Tên miền là nơi lưu trữ source website",
+        "answer": "Sai"
+    },
+    "307214": {
+        "question": "Chúng ta có thể lưu trữ website ở đâu?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307215": {
+        "question": "Để có một website chạy trên Internet, chúng ta cần có&nbsp;",
+        "answer": "Cả 2 đều đúng"
+    },
+    "307216": {
+        "question": "Cấu trúc tên miền thường có dạng www.example.com, vậy www là viết tắt của từ gì",
+        "answer": "World wide web "
+    },
+    "307217": {
+        "question": "Phần mềm quản lý Hosting là những phần mềm nào",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307218": {
+        "question": "Tên miền nào sau đây không phải là tên miền hợp lệ",
+        "answer": "caodang$thuchanh.vip"
+    },
+    "307219": {
+        "question": "Tên miền nào sau đây là dạng tên miền miễn phí",
+        "answer": "caodangthuchanh.tk"
+    },
+    "307220": {
+        "question": "Domain .COM có ý nghĩa gì?",
+        "answer": "Hầu hết các doanh nghiệp đều mong muốn sở hữu một tên miền loại này bởi vì nó khẳng định vị thế cao của doanh nghiệp trên mạng Internet"
+    },
+    "307221": {
+        "question": "Làm sao để biết có bao nhiều người truy cập vào website của chúng ta",
+        "answer": "Tích hợp website với các công cụ hỗ trợ"
+    },
+    "307222": {
+        "question": "<p style=\"text-align: left;\">Google Analytics là một hệ thống giúp chúng ta những công việc gì?</p>",
+        "answer": "Có bao nhiều người ghé thăm trang web của bạn, họ đến từ đâu, trang nào hấp dẫn khách hàng nhiều nhất, website có thân thiện với di động"
+    },
+    "307223": {
+        "question": "Quy trình hoạt động của Google Analytics",
+        "answer": "Data Collection –&gt; Configuration –&gt; Processing –&gt; Reporting"
+    },
+    "307224": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Processing là quá trình?",
+        "answer": "Đây là công đoạn Google xử lý các dữ liệu theo yêu cầu của người dùng"
+    },
+    "307225": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Data Collection là quá trình?",
+        "answer": "Tất cả thông tin truy cập của khách hàng đối với website chúng ta sẽ được Google thu thập bằng một đoạn mã java script"
+    },
+    "307226": {
+        "question": "Google Analytics công cụ&nbsp;",
+        "answer": "Miễn phí"
+    },
+    "307227": {
+        "question": "Google Webmaster Tools là công cụ",
+        "answer": "Đưa ra các thông báo mới, hoặc sự cố, hình phạt Google muốn thông báo cho website"
+    },
+    "307228": {
+        "question": "Sự khác biệt giữ Google Webmaster Tools và Google Analytics",
+        "answer": "Google Analytics là quản lý, thống kê lượt truy cập thì Google Webmaster Tools quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn"
+    },
+    "307229": {
+        "question": "Cách tích hợp Website với hệ thống Google Webmaster Tools",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307230": {
+        "question": "Khi nào chúng ta cần phục hồi dữ liệu website",
+        "answer": "Khi vô tình xóa mất thông tin trên website, hoặc website bị lỗi dữ liệu"
+    },
+    "307231": {
+        "question": "Khi nói đến sao lưu, chúng ta cần sao lưu những gì",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307232": {
+        "question": "Khi nào chúng ta cần sao lưu dữ liệu",
+        "answer": "Sao lưu hằng ngày, vào ban đêm để tránh ảnh hưởng đến khách hàng"
+    },
+    "307233": {
+        "question": "Tên miền website của công ty khi đã đăng ký thì?",
+        "answer": "Cần gia hạn trước khi tên miền bị hết hạn, và vẫn có thể bị người khác mua mất nếu chúng ta không gia hạn"
+    },
+    "307234": {
+        "question": "Bạn sẽ làm gì khi phát hiện giá của sản phẩm được đăng trên website bị sai lệch so với giá trị thực",
+        "answer": "Ngay lập tức tạm dừng đăng sản phẩm và báo cáo lên ban lãnh đạo công ty"
+    },
+    "307235": {
+        "question": "Bạn sẽ làm gì khi phát hiện nhiều bình luận sai lệch, nói tục, nói xấu chế độ cũng như các lãnh tụ xuất hiện trong khu vực bình luận trong các bài viết trên website mà bạn đang quản lý",
+        "answer": "Tạm dừng các bình luận (hoặc xóa) sau đó báo lên ban lãnh đạo công ty"
+    },
+    "307236": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"Bandwidth Limit Exceeded\"?",
+        "answer": "Tìm hiểu nguyên nhân hết Bandwidth là do đâu? Nếu do lượng người truy cập vào nhiều thì lên kế hoạch nâng cấp Bandwidth. Nếu bandwidth hết là do bị tấn công DDoS thì cần có biện pháp khắc phục"
+    },
+    "307237": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"404 Page Not Found\"?",
+        "answer": "Tìm hiểu xem trước khi bị lỗi, bạn đã có thao tác nào liên quan đến Source Code hoặc can thiệp vào Hosting hay không. Nếu không hãy liên hệ đơn vị cung cấp website để được hỗ trợ"
+    },
+    "307238": {
+        "question": "Bạn sẽ làm gì khi không nhớ Password Admin",
+        "answer": "Tìm kiếm password admin trong CSDL của website"
+    },
+    "307239": {
+        "question": "DDoS là gì?",
+        "answer": "DDoS là kiểu tấn công làm cho mục tiêu, là các trang web, dịch vụ trực tuyến, trở nên quá tải. Người dùng gặp khó khăn, hay thậm chí không thể truy cập vào các trang web, dịch vụ này."
+    },
+    "307240": {
+        "question": "DDoS là hình tấn công trong các dạng website?",
+        "answer": "Tất công tất cả các hệ thống website"
+    },
+    "307241": {
+        "question": "Khi phát hiện website mà bạn đang quản trị có dấu hiệu bị tấn công, thì giải pháp hợp lý là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307242": {
+        "question": "DDoS là viết tắt của từ",
+        "answer": "Distributed Denial of Service"
+    },
+    "307243": {
+        "question": "Dedicated Server là?",
+        "answer": "Là một hình thức sử dụngtài nguyên của máy chử mà người dùng có thể thuê toàn bộ một máy chủ, không hề chia sẻ với bất cứ ai"
+    },
+    "307244": {
+        "question": "Doanh nghiệp X cần đầu tư mạnh vào thị trường online. Họ đã xây dựng một website thương mại điện tử với mong muốn thu hút nhiều lượt truy cập vào mua hàng. Ngân sách doanh nghiệp X chia cho hệ thống lưu trữ website khoảng 5 triệu VNĐ/ 1 năm. Doanh nghiệp X nên lựa chọn mô hình nào là phù hợp nhất?",
+        "answer": "VPS"
+    },
+    "307245": {
+        "question": "Nhược điểm của VPS?",
+        "answer": "Việc sử dụng chung máy chủ vật lý khiến VPS của bạn bị phụ thuộc."
+    },
+    "307246": {
+        "question": "VPS là viết tắt của từ gì",
+        "answer": "Virtual Private Server"
+    },
+    "307247": {
+        "question": "Khi sử dụng công nghệ Cloud cho Server , sẽ loại bỏ được những hạn chế gì?",
+        "answer": "Loại bỏ được yếu tố vị trí địa lý và đảm bảo 24/7"
+    },
+    "307248": {
+        "question": "Cloud Server khác Dedicated Server ở chỗ nào?",
+        "answer": "Đảm bảo được yếu tố 24/7, vì với công nghệ điện toán đám mây, luôn luôn có nhiều Server hoạt động song song và động bộ hóa dữ liệu với nhau"
+    },
+    "307249": {
+        "question": "Khi thuê VPS, những hệ điều hành nào có thể cài đặt được",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307250": {
+        "question": "VPS có thể dùng để thiết lập các dịch vụ gì?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307251": {
+        "question": "VPS khác với Cloud Server ở điểm nào?",
+        "answer": "VPS khi gặp sự cố thì website sẽ không hoạt động. Cloud Server hoạt động trên nhiều Server. Khi 1 Server gặp sự cố, dịch vụ Cloud sẽ tự động di chuyển đến các Server còn hoạt động"
+    },
+    "307252": {
+        "question": "DNS có chức năng gì?",
+        "answer": "Là hệ thống phân giải tên miền thành địa chỉ IP và ngược lại"
+    },
+    "307253": {
+        "question": "DNS là viết tắt của từ gì",
+        "answer": "Domain Name System"
+    },
+    "307254": {
+        "question": "DNS ra đời vào năm nào?",
+        "answer": "1984"
+    },
+    "307255": {
+        "question": "Các thông số cơ bản khi cấu hình DNS",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307256": {
+        "question": "Subdomain là gì",
+        "answer": "Là domain con, trỏ đến các trang con của website"
+    },
+    "307257": {
+        "question": "Add-on Domain khác Parked Domain ở điểm nào",
+        "answer": "Add-on Domain là một domain trỏ tới một website khác nằm trên cùng hosting của Domain chính. Parked Domain là domain chạy cùng website với Domain chính"
+    },
+    "307258": {
+        "question": "Hệ thống website có domain chính là caodang.fpt.edu.vn. Khi chúng ta truy cập domain poly.edu.vn thì cũng xuất hiện website tương tự. Vậy trong trường hợp này, để thêm domain poly.edu.vn vào hosting, chúng ta phải thêm ở dạng nào",
+        "answer": "Parked domain"
+    },
+    "307259": {
+        "question": "Thông số Disk Space Used trong hosting có ý nghĩa gì?",
+        "answer": "Số dung lượng mà chúng ta đã upload lên hệ thống"
+    },
+    "307260": {
+        "question": "Thông số Bandwidth trong hosting có ý nghĩa gì?",
+        "answer": "\"Là thông số chỉ dung lượng thông tin tối đa mà website của bạn được lưu chuyển qua lại mỗi tháng \""
+    },
+    "307261": {
+        "question": "Khi truy cập website xuất hiện dòng chữ \"Bandwidth Limit Exceeded\" có nghĩa là?",
+        "answer": "Băng thông của bạn đã sử dụng hết"
+    },
+    "307262": {
+        "question": "FTP là viết tắt của từ gì?",
+        "answer": "File Transfer Protocol"
+    },
+    "307263": {
+        "question": "FTP là gì?",
+        "answer": "Là giao thức truyền tập tin, được dùng để trao đổi tập tin qua mạng"
+    },
+    "307264": {
+        "question": "Phần mềm nào sau đây được dùng để chuyển file bằng giao thức FTP",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307265": {
+        "question": "Cổng (Port) của giao thức FTP là",
+        "answer": "Port 21"
+    },
+    "307266": {
+        "question": "Phát biểu nào sau đây là chính xác nhất",
+        "answer": "Hầu như bất cứ một nền tảng hệ điều hành máy tính nào cũng hỗ trợ giao thức FTP. Và để thực hiện việc truyền tải file lên hosting, chúng ta cần sử dụng một phần mềm gọi là FTP Client."
+    },
+    "307267": {
+        "question": "Để truy cập FTP Server, chúng ta cần các thông số nào",
+        "answer": "Host Name, User Name, Password"
+    },
+    "307268": {
+        "question": "Đâu là các ngôn ngữ lập trình Web",
+        "answer": "PHP"
+    },
+    "307269": {
+        "question": "Web động là gì?",
+        "answer": "Web động là website có hệ thông quản lý nội dung nên người dùng có thể thay đổi nội dung được"
+    },
+    "307270": {
+        "question": "Đâu là các hệ thống website mã nguồn mở (Open Source)",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307271": {
+        "question": "Đâu là hệ thống mã nguồn mở",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307272": {
+        "question": "Khi sử dụng hệ thống website mã nguồn mở",
+        "answer": "Người dùng có thể xem, sửa đổi hoặc cập nhật thêm các tính năng và chia sẻ theo một số quy định trong giấy phép phần mềm mã nguồn mở (General Public Licence - GPL) mà không cần chi trả bất kỳ chi phí "
+    },
+    "307273": {
+        "question": "NukeViet ra đời vào năm nào",
+        "answer": "2004"
+    },
+    "307274": {
+        "question": "NukeViet được trao giải thưởng nào?",
+        "answer": "Giải Nhân Tài Đất Việt 2011"
+    },
+    "307275": {
+        "question": "NukeViet mà một hệ thống CMS cho phép chúng ta tạo ra website",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307276": {
+        "question": "Đối với hệ thống NukeViet, nếu muốn thay đổi bố cục website",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307277": {
+        "question": "Để thay đổi màu chữ, màu nền trong hệ thống NukeViet?",
+        "answer": "Thay đổi trong phần \"thiết lập giao diện\" trong hệ thống quản trị bằng giao diện"
+    },
+    "307278": {
+        "question": "Đối với hệ thống NukeViet, bố cục Layout cho các website hay dùng là",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307279": {
+        "question": "Đối với hệ thống NukeViet, vào đâu để thay đổi logo và banner",
+        "answer": "Truy cập vào trang quản trị &gt; Cấu hình &gt; Cấu hình chung"
+    },
+    "307280": {
+        "question": "Đối với hệ thống NukeViet, phân quyền quản trị bao gồm",
+        "answer": "Có hệ thống quản trị với các tài khoản được chỉ định từ tài khoản tối cao"
+    },
+    "307281": {
+        "question": "Modules Website là gì?",
+        "answer": "Là một chức năng mà người lập trình tạo thành và có thể \"tháo rời\". Một website được chia thành nhiều module khác nhau."
+    },
+    "307282": {
+        "question": "Đối với hệ thống website lớn, chúng ta cần sao lưu dữ liệu là vì?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307283": {
+        "question": "Các cách backup dữ liệu Website cơ bản?",
+        "answer": "Sử dụng tính năng Export để tạo file SQL trong hệ quản trị CSDL"
+    },
+    "307284": {
+        "question": "Nâng cấp website bằng cách?Nâng cấp website bằng cách?",
+        "answer": "Cập nhật thêm các Modules từ đơn vị cung cấp website, hoặc từ các hệ thống hỗ trợ đối với website mã nguồn mở"
+    },
+    "307285": {
+        "question": "Nâng cấp website là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307286": {
+        "question": "Trách nhiệm của người làm quản trị website",
+        "answer": "Đăng bài, phản hồi bình luận. Quản trị hosting, tên miền. Đảm bảo hệ thống ổn định. Phân tích, báo cáo tình hình hoạt động của website. Đưa ra đề xuất và giải pháp nhằm cải thiện chất lượng website"
+    },
+    "307287": {
+        "question": "Đâu được coi là công việc quan trọng nhất của người quản trị website",
+        "answer": "Lập kế hoạch và phát triển được nội dung trên website "
+    },
+    "307288": {
+        "question": "Đâu là công việc không được làm đối với người quản trị website?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307289": {
+        "question": "Vì sao phải xây dựng nội dung phong phú cho website",
+        "answer": "Hệ thống Google sẽ đánh giá cao các hệ thống website có nội dung phong phú Cả 3 đáp án trên đều đúng"
+    },
+    "307290": {
+        "question": "Khi xây dựng bài viết cho website, chúng ta cần quan tâm điều gì?",
+        "answer": "Quan tâm đến đối tượng khách hàng, ai sẽ là người đọc. Và người đọc có nhận được lợi ích nào từ bài viết không"
+    },
+    "307291": {
+        "question": "Để xây dựng một website với nội dung phong phú cần phải làm?",
+        "answer": "Nhờ các phòng ban trong công ty hỗ trợ bài viết. Suy nghỉ và tự viết các bài viết với nội dung hấp dẫn. Nhờ các chuyên gia hỗ trợ viết bài với tần suất ít"
+    },
+    "307292": {
+        "question": "Các dạng bài viết thường thu hút người đọc nhiều",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307293": {
+        "question": "Tiêu đề bài viết không nên dài quá bao nhiêu ký tự",
+        "answer": "65 ký tự"
+    },
+    "307294": {
+        "question": "Cách xây dựng nội dung nào sau đây là chính xác nhất",
+        "answer": "Đăng bài viết thường xuyên, mỗi tuần từ 5-7 bài viết với nội dung phong phú. Nếu công ty có nhiều hoạt động thì có thể tăng số lượng lên"
+    },
+    "307295": {
+        "question": "Khi nhận một bài viết từ các phòng ban khác, và bạn cảm thấy bài viết có nội dung bị sai lệch, bạn sẽ làm gì?",
+        "answer": "Gởi phản hồi lại với tác giả và yêu cầu tác giả kiểm tra lại thông tin bài viết"
+    },
+    "307296": {
+        "question": "Làm sao để biết có bao nhiều người truy cập vào website của chúng ta",
+        "answer": "Tích hợp website với các công cụ hỗ trợ"
+    },
+    "307297": {
+        "question": "<p style=\"text-align: left;\">Google Analytics là một hệ thống giúp chúng ta những công việc gì?</p>",
+        "answer": "Có bao nhiều người ghé thăm trang web của bạn, họ đến từ đâu, trang nào hấp dẫn khách hàng nhiều nhất, website có thân thiện với di động"
+    },
+    "307298": {
+        "question": "Quy trình hoạt động của Google Analytics",
+        "answer": "Data Collection –&gt; Configuration –&gt; Processing –&gt; Reporting"
+    },
+    "307299": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Processing là quá trình?",
+        "answer": "Đây là công đoạn Google xử lý các dữ liệu theo yêu cầu của người dùng"
+    },
+    "307300": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Data Collection là quá trình?",
+        "answer": "Tất cả thông tin truy cập của khách hàng đối với website chúng ta sẽ được Google thu thập bằng một đoạn mã java script"
+    },
+    "307301": {
+        "question": "Google Analytics công cụ&nbsp;",
+        "answer": "Miễn phí"
+    },
+    "307302": {
+        "question": "Google Webmaster Tools là công cụ",
+        "answer": "Đưa ra các thông báo mới, hoặc sự cố, hình phạt Google muốn thông báo cho website"
+    },
+    "307303": {
+        "question": "Sự khác biệt giữ Google Webmaster Tools và Google Analytics",
+        "answer": "Google Analytics là quản lý, thống kê lượt truy cập thì Google Webmaster Tools quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn"
+    },
+    "307304": {
+        "question": "Cách tích hợp Website với hệ thống Google Webmaster Tools",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307305": {
+        "question": "Khi nào chúng ta cần phục hồi dữ liệu website",
+        "answer": "Khi vô tình xóa mất thông tin trên website, hoặc website bị lỗi dữ liệu"
+    },
+    "307306": {
+        "question": "Khi nói đến sao lưu, chúng ta cần sao lưu những gì",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307307": {
+        "question": "Khi nào chúng ta cần sao lưu dữ liệu",
+        "answer": "Sao lưu hằng ngày, vào ban đêm để tránh ảnh hưởng đến khách hàng"
+    },
+    "307308": {
+        "question": "Tên miền website của công ty khi đã đăng ký thì?",
+        "answer": "Cần gia hạn trước khi tên miền bị hết hạn, và vẫn có thể bị người khác mua mất nếu chúng ta không gia hạn"
+    },
+    "307309": {
+        "question": "Bạn sẽ làm gì khi phát hiện giá của sản phẩm được đăng trên website bị sai lệch so với giá trị thực",
+        "answer": "Ngay lập tức tạm dừng đăng sản phẩm và báo cáo lên ban lãnh đạo công ty"
+    },
+    "307310": {
+        "question": "Bạn sẽ làm gì khi phát hiện nhiều bình luận sai lệch, nói tục, nói xấu chế độ cũng như các lãnh tụ xuất hiện trong khu vực bình luận trong các bài viết trên website mà bạn đang quản lý",
+        "answer": "Tạm dừng các bình luận (hoặc xóa) sau đó báo lên ban lãnh đạo công ty"
+    },
+    "307311": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"Bandwidth Limit Exceeded\"?",
+        "answer": "Tìm hiểu nguyên nhân hết Bandwidth là do đâu? Nếu do lượng người truy cập vào nhiều thì lên kế hoạch nâng cấp Bandwidth. Nếu bandwidth hết là do bị tấn công DDoS thì cần có biện pháp khắc phục"
+    },
+    "307312": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"404 Page Not Found\"?",
+        "answer": "Tìm hiểu xem trước khi bị lỗi, bạn đã có thao tác nào liên quan đến Source Code hoặc can thiệp vào Hosting hay không. Nếu không hãy liên hệ đơn vị cung cấp website để được hỗ trợ"
+    },
+    "307313": {
+        "question": "Bạn sẽ làm gì khi không nhớ Password Admin",
+        "answer": "Tìm kiếm password admin trong CSDL của website"
+    },
+    "307314": {
+        "question": "DDoS là gì?",
+        "answer": "DDoS là kiểu tấn công làm cho mục tiêu, là các trang web, dịch vụ trực tuyến, trở nên quá tải. Người dùng gặp khó khăn, hay thậm chí không thể truy cập vào các trang web, dịch vụ này."
+    },
+    "307315": {
+        "question": "DDoS là hình tấn công trong các dạng website?",
+        "answer": "Tất công tất cả các hệ thống website"
+    },
+    "307316": {
+        "question": "Khi phát hiện website mà bạn đang quản trị có dấu hiệu bị tấn công, thì giải pháp hợp lý là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307317": {
+        "question": "DDoS là viết tắt của từ",
+        "answer": "Distributed Denial of Service"
+    },
+    "307318": {
+        "question": "Dedicated Server là?",
+        "answer": "Là một hình thức sử dụngtài nguyên của máy chử mà người dùng có thể thuê toàn bộ một máy chủ, không hề chia sẻ với bất cứ ai"
+    },
+    "307319": {
+        "question": "Doanh nghiệp X cần đầu tư mạnh vào thị trường online. Họ đã xây dựng một website thương mại điện tử với mong muốn thu hút nhiều lượt truy cập vào mua hàng. Ngân sách doanh nghiệp X chia cho hệ thống lưu trữ website khoảng 5 triệu VNĐ/ 1 năm. Doanh nghiệp X nên lựa chọn mô hình nào là phù hợp nhất?",
+        "answer": "VPS"
+    },
+    "307320": {
+        "question": "Nhược điểm của VPS?",
+        "answer": "Việc sử dụng chung máy chủ vật lý khiến VPS của bạn bị phụ thuộc."
+    },
+    "307321": {
+        "question": "VPS là viết tắt của từ gì",
+        "answer": "Virtual Private Server"
+    },
+    "307322": {
+        "question": "Khi sử dụng công nghệ Cloud cho Server , sẽ loại bỏ được những hạn chế gì?",
+        "answer": "Loại bỏ được yếu tố vị trí địa lý và đảm bảo 24/7"
+    },
+    "307323": {
+        "question": "Cloud Server khác Dedicated Server ở chỗ nào?",
+        "answer": "Đảm bảo được yếu tố 24/7, vì với công nghệ điện toán đám mây, luôn luôn có nhiều Server hoạt động song song và động bộ hóa dữ liệu với nhau"
+    },
+    "307324": {
+        "question": "Khi thuê VPS, những hệ điều hành nào có thể cài đặt được",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307325": {
+        "question": "VPS có thể dùng để thiết lập các dịch vụ gì?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307326": {
+        "question": "VPS khác với Cloud Server ở điểm nào?",
+        "answer": "VPS khi gặp sự cố thì website sẽ không hoạt động. Cloud Server hoạt động trên nhiều Server. Khi 1 Server gặp sự cố, dịch vụ Cloud sẽ tự động di chuyển đến các Server còn hoạt động"
+    },
+    "307327": {
+        "question": "Domain .GOV có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức chính phủ."
+    },
+    "307328": {
+        "question": "Domain .EDU có ý nghĩa gì?",
+        "answer": "Dành cho các tổ chức giáo dục"
+    },
+    "307329": {
+        "question": "ICANN là gì?",
+        "answer": "Là trung tâm quản lý tên miền quốc tế"
+    },
+    "307330": {
+        "question": "VNNIC là gì?",
+        "answer": "Là đơn vị quản lý tên miền .VN"
+    },
+    "307331": {
+        "question": "Tên miền không được vượt quá bao nhiêu ký tự?",
+        "answer": "63"
+    },
+    "307332": {
+        "question": "Tên miền chỉ được đặt theo quy tắc",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307333": {
+        "question": "Tên miền là nơi lưu trữ source website",
+        "answer": "Sai"
+    },
+    "307334": {
+        "question": "Chúng ta có thể lưu trữ website ở đâu?",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307335": {
+        "question": "Để có một website chạy trên Internet, chúng ta cần có&nbsp;",
+        "answer": "Cả 2 đều đúng"
+    },
+    "307336": {
+        "question": "Cấu trúc tên miền thường có dạng www.example.com, vậy www là viết tắt của từ gì",
+        "answer": "World wide web "
+    },
+    "307337": {
+        "question": "Phần mềm quản lý Hosting là những phần mềm nào",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307338": {
+        "question": "Tên miền nào sau đây không phải là tên miền hợp lệ",
+        "answer": "caodang$thuchanh.vip"
+    },
+    "307339": {
+        "question": "Tên miền nào sau đây là dạng tên miền miễn phí",
+        "answer": "caodangthuchanh.tk"
+    },
+    "307340": {
+        "question": "Domain .COM có ý nghĩa gì?",
+        "answer": "Hầu hết các doanh nghiệp đều mong muốn sở hữu một tên miền loại này bởi vì nó khẳng định vị thế cao của doanh nghiệp trên mạng Internet"
+    },
+    "307341": {
+        "question": "DNS có chức năng gì?",
+        "answer": "Là hệ thống phân giải tên miền thành địa chỉ IP và ngược lại"
+    },
+    "307342": {
+        "question": "DNS là viết tắt của từ gì",
+        "answer": "Domain Name System"
+    },
+    "307343": {
+        "question": "DNS ra đời vào năm nào?",
+        "answer": "1984"
+    },
+    "307344": {
+        "question": "Các thông số cơ bản khi cấu hình DNS",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307345": {
+        "question": "Subdomain là gì",
+        "answer": "Là domain con, trỏ đến các trang con của website"
+    },
+    "307346": {
+        "question": "Add-on Domain khác Parked Domain ở điểm nào",
+        "answer": "Add-on Domain là một domain trỏ tới một website khác nằm trên cùng hosting của Domain chính. Parked Domain là domain chạy cùng website với Domain chính"
+    },
+    "307347": {
+        "question": "Hệ thống website có domain chính là caodang.fpt.edu.vn. Khi chúng ta truy cập domain poly.edu.vn thì cũng xuất hiện website tương tự. Vậy trong trường hợp này, để thêm domain poly.edu.vn vào hosting, chúng ta phải thêm ở dạng nào",
+        "answer": "Parked domain"
+    },
+    "307348": {
+        "question": "Thông số Disk Space Used trong hosting có ý nghĩa gì?",
+        "answer": "Số dung lượng mà chúng ta đã upload lên hệ thống"
+    },
+    "307349": {
+        "question": "Thông số Bandwidth trong hosting có ý nghĩa gì?",
+        "answer": "\"Là thông số chỉ dung lượng thông tin tối đa mà website của bạn được lưu chuyển qua lại mỗi tháng \""
+    },
+    "307350": {
+        "question": "Khi truy cập website xuất hiện dòng chữ \"Bandwidth Limit Exceeded\" có nghĩa là?",
+        "answer": "Băng thông của bạn đã sử dụng hết"
+    },
+    "307351": {
+        "question": "FTP là viết tắt của từ gì?",
+        "answer": "File Transfer Protocol"
+    },
+    "307352": {
+        "question": "FTP là gì?",
+        "answer": "Là giao thức truyền tập tin, được dùng để trao đổi tập tin qua mạng"
+    },
+    "307353": {
+        "question": "Phần mềm nào sau đây được dùng để chuyển file bằng giao thức FTP",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307354": {
+        "question": "Cổng (Port) của giao thức FTP là",
+        "answer": "Port 21"
+    },
+    "307355": {
+        "question": "Phát biểu nào sau đây là chính xác nhất",
+        "answer": "Hầu như bất cứ một nền tảng hệ điều hành máy tính nào cũng hỗ trợ giao thức FTP. Và để thực hiện việc truyền tải file lên hosting, chúng ta cần sử dụng một phần mềm gọi là FTP Client."
+    },
+    "307356": {
+        "question": "Để truy cập FTP Server, chúng ta cần các thông số nào",
+        "answer": "Host Name, User Name, Password"
+    },
+    "307357": {
+        "question": "Đâu là các ngôn ngữ lập trình Web",
+        "answer": "PHP"
+    },
+    "307358": {
+        "question": "Web động là gì?",
+        "answer": "Web động là website có hệ thông quản lý nội dung nên người dùng có thể thay đổi nội dung được"
+    },
+    "307359": {
+        "question": "Đâu là các hệ thống website mã nguồn mở (Open Source)",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307360": {
+        "question": "Đâu là hệ thống mã nguồn mở",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307361": {
+        "question": "Khi sử dụng hệ thống website mã nguồn mở",
+        "answer": "Người dùng có thể xem, sửa đổi hoặc cập nhật thêm các tính năng và chia sẻ theo một số quy định trong giấy phép phần mềm mã nguồn mở (General Public Licence - GPL) mà không cần chi trả bất kỳ chi phí "
+    },
+    "307362": {
+        "question": "NukeViet ra đời vào năm nào",
+        "answer": "2004"
+    },
+    "307363": {
+        "question": "NukeViet được trao giải thưởng nào?",
+        "answer": "Giải Nhân Tài Đất Việt 2011"
+    },
+    "307364": {
+        "question": "NukeViet mà một hệ thống CMS cho phép chúng ta tạo ra website",
+        "answer": "Cả 3 đáp án đều đúng"
+    },
+    "307365": {
+        "question": "Đối với hệ thống NukeViet, nếu muốn thay đổi bố cục website",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307366": {
+        "question": "Để thay đổi màu chữ, màu nền trong hệ thống NukeViet?",
+        "answer": "Thay đổi trong phần \"thiết lập giao diện\" trong hệ thống quản trị bằng giao diện"
+    },
+    "307367": {
+        "question": "Đối với hệ thống NukeViet, bố cục Layout cho các website hay dùng là",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307368": {
+        "question": "Đối với hệ thống NukeViet, vào đâu để thay đổi logo và banner",
+        "answer": "Truy cập vào trang quản trị &gt; Cấu hình &gt; Cấu hình chung"
+    },
+    "307369": {
+        "question": "Đối với hệ thống NukeViet, phân quyền quản trị bao gồm",
+        "answer": "Có hệ thống quản trị với các tài khoản được chỉ định từ tài khoản tối cao"
+    },
+    "307370": {
+        "question": "Modules Website là gì?",
+        "answer": "Là một chức năng mà người lập trình tạo thành và có thể \"tháo rời\". Một website được chia thành nhiều module khác nhau."
+    },
+    "307371": {
+        "question": "Đối với hệ thống website lớn, chúng ta cần sao lưu dữ liệu là vì?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307372": {
+        "question": "Các cách backup dữ liệu Website cơ bản?",
+        "answer": "Sử dụng tính năng Export để tạo file SQL trong hệ quản trị CSDL"
+    },
+    "307373": {
+        "question": "Nâng cấp website bằng cách?Nâng cấp website bằng cách?",
+        "answer": "Cập nhật thêm các Modules từ đơn vị cung cấp website, hoặc từ các hệ thống hỗ trợ đối với website mã nguồn mở"
+    },
+    "307374": {
+        "question": "Nâng cấp website là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307375": {
+        "question": "Trách nhiệm của người làm quản trị website",
+        "answer": "Đăng bài, phản hồi bình luận. Quản trị hosting, tên miền. Đảm bảo hệ thống ổn định. Phân tích, báo cáo tình hình hoạt động của website. Đưa ra đề xuất và giải pháp nhằm cải thiện chất lượng website"
+    },
+    "307376": {
+        "question": "Đâu được coi là công việc quan trọng nhất của người quản trị website",
+        "answer": "Lập kế hoạch và phát triển được nội dung trên website "
+    },
+    "307377": {
+        "question": "Đâu là công việc không được làm đối với người quản trị website?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307378": {
+        "question": "Vì sao phải xây dựng nội dung phong phú cho website",
+        "answer": "Hệ thống Google sẽ đánh giá cao các hệ thống website có nội dung phong phú Cả 3 đáp án trên đều đúng"
+    },
+    "307379": {
+        "question": "Khi xây dựng bài viết cho website, chúng ta cần quan tâm điều gì?",
+        "answer": "Quan tâm đến đối tượng khách hàng, ai sẽ là người đọc. Và người đọc có nhận được lợi ích nào từ bài viết không"
+    },
+    "307380": {
+        "question": "Để xây dựng một website với nội dung phong phú cần phải làm?",
+        "answer": "Nhờ các phòng ban trong công ty hỗ trợ bài viết. Suy nghỉ và tự viết các bài viết với nội dung hấp dẫn. Nhờ các chuyên gia hỗ trợ viết bài với tần suất ít"
+    },
+    "307381": {
+        "question": "Các dạng bài viết thường thu hút người đọc nhiều",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307382": {
+        "question": "Tiêu đề bài viết không nên dài quá bao nhiêu ký tự",
+        "answer": "65 ký tự"
+    },
+    "307383": {
+        "question": "Cách xây dựng nội dung nào sau đây là chính xác nhất",
+        "answer": "Đăng bài viết thường xuyên, mỗi tuần từ 5-7 bài viết với nội dung phong phú. Nếu công ty có nhiều hoạt động thì có thể tăng số lượng lên"
+    },
+    "307384": {
+        "question": "Khi nhận một bài viết từ các phòng ban khác, và bạn cảm thấy bài viết có nội dung bị sai lệch, bạn sẽ làm gì?",
+        "answer": "Gởi phản hồi lại với tác giả và yêu cầu tác giả kiểm tra lại thông tin bài viết"
+    },
+    "307385": {
+        "question": "Làm sao để biết có bao nhiều người truy cập vào website của chúng ta",
+        "answer": "Tích hợp website với các công cụ hỗ trợ"
+    },
+    "307386": {
+        "question": "<p style=\"text-align: left;\">Google Analytics là một hệ thống giúp chúng ta những công việc gì?</p>",
+        "answer": "Có bao nhiều người ghé thăm trang web của bạn, họ đến từ đâu, trang nào hấp dẫn khách hàng nhiều nhất, website có thân thiện với di động"
+    },
+    "307387": {
+        "question": "Quy trình hoạt động của Google Analytics",
+        "answer": "Data Collection –&gt; Configuration –&gt; Processing –&gt; Reporting"
+    },
+    "307388": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Processing là quá trình?",
+        "answer": "Đây là công đoạn Google xử lý các dữ liệu theo yêu cầu của người dùng"
+    },
+    "307389": {
+        "question": "Trong hoạt động của Google Analytics. Quá trình Data Collection là quá trình?",
+        "answer": "Tất cả thông tin truy cập của khách hàng đối với website chúng ta sẽ được Google thu thập bằng một đoạn mã java script"
+    },
+    "307390": {
+        "question": "Google Analytics công cụ&nbsp;",
+        "answer": "Miễn phí"
+    },
+    "307391": {
+        "question": "Google Webmaster Tools là công cụ",
+        "answer": "Đưa ra các thông báo mới, hoặc sự cố, hình phạt Google muốn thông báo cho website"
+    },
+    "307392": {
+        "question": "Sự khác biệt giữ Google Webmaster Tools và Google Analytics",
+        "answer": "Google Analytics là quản lý, thống kê lượt truy cập thì Google Webmaster Tools quản lý các liên kết đến website và các từ khóa mà người dùng dùng để truy cập vào Website bạn"
+    },
+    "307393": {
+        "question": "Cách tích hợp Website với hệ thống Google Webmaster Tools",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307394": {
+        "question": "Khi nào chúng ta cần phục hồi dữ liệu website",
+        "answer": "Khi vô tình xóa mất thông tin trên website, hoặc website bị lỗi dữ liệu"
+    },
+    "307395": {
+        "question": "Khi nói đến sao lưu, chúng ta cần sao lưu những gì",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307396": {
+        "question": "Khi nào chúng ta cần sao lưu dữ liệu",
+        "answer": "Sao lưu hằng ngày, vào ban đêm để tránh ảnh hưởng đến khách hàng"
+    },
+    "307397": {
+        "question": "Tên miền website của công ty khi đã đăng ký thì?",
+        "answer": "Cần gia hạn trước khi tên miền bị hết hạn, và vẫn có thể bị người khác mua mất nếu chúng ta không gia hạn"
+    },
+    "307398": {
+        "question": "Bạn sẽ làm gì khi phát hiện giá của sản phẩm được đăng trên website bị sai lệch so với giá trị thực",
+        "answer": "Ngay lập tức tạm dừng đăng sản phẩm và báo cáo lên ban lãnh đạo công ty"
+    },
+    "307399": {
+        "question": "Bạn sẽ làm gì khi phát hiện nhiều bình luận sai lệch, nói tục, nói xấu chế độ cũng như các lãnh tụ xuất hiện trong khu vực bình luận trong các bài viết trên website mà bạn đang quản lý",
+        "answer": "Tạm dừng các bình luận (hoặc xóa) sau đó báo lên ban lãnh đạo công ty"
+    },
+    "307400": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"Bandwidth Limit Exceeded\"?",
+        "answer": "Tìm hiểu nguyên nhân hết Bandwidth là do đâu? Nếu do lượng người truy cập vào nhiều thì lên kế hoạch nâng cấp Bandwidth. Nếu bandwidth hết là do bị tấn công DDoS thì cần có biện pháp khắc phục"
+    },
+    "307401": {
+        "question": "Bạn sẽ làm gì khi website xuất hiện lỗi \"404 Page Not Found\"?",
+        "answer": "Tìm hiểu xem trước khi bị lỗi, bạn đã có thao tác nào liên quan đến Source Code hoặc can thiệp vào Hosting hay không. Nếu không hãy liên hệ đơn vị cung cấp website để được hỗ trợ"
+    },
+    "307402": {
+        "question": "Bạn sẽ làm gì khi không nhớ Password Admin",
+        "answer": "Tìm kiếm password admin trong CSDL của website"
+    },
+    "307403": {
+        "question": "DDoS là gì?",
+        "answer": "DDoS là kiểu tấn công làm cho mục tiêu, là các trang web, dịch vụ trực tuyến, trở nên quá tải. Người dùng gặp khó khăn, hay thậm chí không thể truy cập vào các trang web, dịch vụ này."
+    },
+    "307404": {
+        "question": "DDoS là hình tấn công trong các dạng website?",
+        "answer": "Tất công tất cả các hệ thống website"
+    },
+    "307405": {
+        "question": "Khi phát hiện website mà bạn đang quản trị có dấu hiệu bị tấn công, thì giải pháp hợp lý là?",
+        "answer": "Cả 3 đáp án trên đều đúng"
+    },
+    "307406": {
+        "question": "DDoS là viết tắt của từ",
+        "answer": "Distributed Denial of Service"
+    },
+    "307690": {
+        "question": "Animate CC là phần mềm chuyên dùng để làm clip quảng cáo đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "307691": {
+        "question": "Animate CC là phần mềm thường dùng trong lĩnh vực",
+        "answer": "Banner quảng cáo"
+    },
+    "307692": {
+        "question": "Animate CC làm việc với Html05 ta chọn thuộc tính làm việc nào sau đây&nbsp;",
+        "answer": "HTML5 canvas"
+    },
+    "307693": {
+        "question": "Animate CC xuất sang nhiều định dạng file ta chọn thuộc tính nào sau đây&nbsp;",
+        "answer": "Publish setting"
+    },
+    "307694": {
+        "question": "Animate CC muốn xác lâp lại các thuộc tính của trang làm việc ta chọn phím tắt nào sau đây&nbsp;",
+        "answer": "Ctrl + J"
+    },
+    "307695": {
+        "question": "Animate CC thời gian mặc định của số khung frame/s là bao nhiêu&nbsp;",
+        "answer": "24 frame/s"
+    },
+    "307696": {
+        "question": "Animate CC phím tắt nào sau đây phóng to thu nhỏ đối tượng",
+        "answer": "Q"
+    },
+    "307697": {
+        "question": "Trong Animate CC, thao tác vẽ một đối tượng là Vector để chỉnh sửa đối tượng đó cần phải sử dụng công cụ nào sau",
+        "answer": "Subselection tool"
+    },
+    "307698": {
+        "question": "Để nhập nhanh một hình ảnh ngoài vào vào sân khấu&nbsp; Animate CC chọn cách nào",
+        "answer": "Bấm phím tắt Ctrl + R chọn hình ảnh cần nhập"
+    },
+    "307699": {
+        "question": "Khi tiến hành chỉnh sửa đường viền của một đối tượng Vector đã vẽ, Ta chọn tại Properties các thuộc tính sau",
+        "answer": "Stroke Options"
+    },
+    "307700": {
+        "question": "Các tham số xác định phạm vi thay đổi trong suốt cho các đối tượng đồ họa",
+        "answer": "Alpha 0 -&gt;100"
+    },
+    "307701": {
+        "question": "Trong Animate CC lệnh nào cho phép lật ngang đối tượng&nbsp;",
+        "answer": "Flip Horizontal"
+    },
+    "307702": {
+        "question": "Trong Animate CC phím tắt group đối tượng&nbsp;&nbsp;",
+        "answer": "Ctrl + G"
+    },
+    "307703": {
+        "question": "Trong Animate CC Đối tượng cùng màu cùng layer đặt giao nhau xảy ra hiện tượng gì&nbsp;&nbsp;",
+        "answer": "Hai đối hàn gắn lại thành 1"
+    },
+    "307704": {
+        "question": "Trong Animate CC khi 2 click vào 1 đối tượng ta thấy hiện tượng gì?",
+        "answer": "Chọn cả nền và viền"
+    },
+    "307705": {
+        "question": "Trong Animate CC Đối tượng khác màu cùng layer đặt giao nhau xảy ra hiện tượng gì&nbsp;&nbsp;",
+        "answer": "Hai đối tượng cắt nhau"
+    },
+    "307706": {
+        "question": "Trong Animate CC công&nbsp; cụ nào sao đây thay đổi màu viền đối tượng?",
+        "answer": "Ink bottle Tool"
+    },
+    "307707": {
+        "question": "Animate CC phím tắt nào sau đây hiệu chỉnh chuyển sắc",
+        "answer": "F"
+    },
+    "307708": {
+        "question": "Animate CC Công cụ chọn (V) có cắt được đối tượng nguyên thủy Shape không?",
+        "answer": "Có"
+    },
+    "307709": {
+        "question": "Animate CC chuyển đối tượng primitive sang đối tượng shape nguyên thủy nhấn phím tắt nào sao đây?",
+        "answer": "Ctrl + B"
+    },
+    "307710": {
+        "question": "Trong Animate CC nhấn [hím nào sau đây để copy 1 keyframe?",
+        "answer": "F6"
+    },
+    "307711": {
+        "question": "Muốn xuất hiện bảng lệnh Color Effect ta thực hiện thao tác nào sao đây?",
+        "answer": "Tạo diển hoạt Classic -&gt; Chọn keyframe -&gt; chọn đối tượng"
+    },
+    "307712": {
+        "question": "Để xuất hiện xuất hiện hộp thoại rotate ta phải thao tác nào sau đây",
+        "answer": "Tạo diển hoạt Classic -&gt; Chọn keyframe"
+    },
+    "307713": {
+        "question": "Diễn hoạt frame by frame là diễn hoạt từng khung hình?",
+        "answer": "đúng"
+    },
+    "307714": {
+        "question": "Tăng độ sáng tối của đối tượng ta chọn thuộc tính nào sau đây?",
+        "answer": "Brightness"
+    },
+    "307715": {
+        "question": "Tăng giảm độ trong suốt của đối tượng ta chọn thuộc tính nào sau đây?",
+        "answer": "Alpha"
+    },
+    "307716": {
+        "question": "Thay đổi màu của đối tượng ta chọn thuộc tính nào sau đây?",
+        "answer": "Tint"
+    },
+    "307717": {
+        "question": "Chọn đối tượng xoay theo chiều kim đồng hồ?",
+        "answer": "Cw"
+    },
+    "307718": {
+        "question": "Xác định số vòng xoay của đối tượng?&nbsp;",
+        "answer": "Rotation count"
+    },
+    "307719": {
+        "question": "Thuộc tính Ease bằng -100 cho chuyển động classic có tác dụng gì?",
+        "answer": "chuyển động nhanh dần"
+    },
+    "307720": {
+        "question": "Chọn đối tượng xoay ngược chiều kim đồng hồ?",
+        "answer": "CCw"
+    },
+    "307721": {
+        "question": "Tổ hợp phím Ctr + Shift + D có tác dụng gì",
+        "answer": "Phân bố đối tượng trên từng layer riêng"
+    },
+    "307722": {
+        "question": "Thuộc tính Orient to path có tác dụng gì?",
+        "answer": "Đối tượng uyển chuyển theo hướng path."
+    },
+    "307723": {
+        "question": "Thuộc tính Ease bằng 100 cho chuyển động classic có tác dụng gì?",
+        "answer": "chuyển động chậm dần"
+    },
+    "307724": {
+        "question": "Thuộc tính Insert Keyframe tương ứng với phím tắt nào sau đây?",
+        "answer": "F6"
+    },
+    "307725": {
+        "question": "Thuộc tính Insert Blankkey frame tương ứng với phím tắt nào sau đây?",
+        "answer": "F7"
+    },
+    "307726": {
+        "question": "Xóa 1 keyframe nhấn phím tắt nào sau đây?",
+        "answer": "Shift F6"
+    },
+    "307727": {
+        "question": "Thuộc tính Insert frame tương ứng với phím tắt nào sau đây?",
+        "answer": "F5"
+    },
+    "307728": {
+        "question": "Chuyển động theo đường path là chuyển động nào sau đây?",
+        "answer": "1-3 đều đúng"
+    },
+    "307729": {
+        "question": "Xóa 1 đoạn chuyển động Motion tween chọn thuộc tính nào sau đây?",
+        "answer": "Remove Motion"
+    },
+    "307730": {
+        "question": "Tạo 1 diễn hoạt theo đường Path ta dùng diễn hoạt nào sao đây",
+        "answer": "Add classic motion guides"
+    },
+    "307731": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween thì đối tượng chuyển thành MovieClip đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "307732": {
+        "question": "Chọn 1 đoạn frame ta nhấn phím tắt nào sau đây?",
+        "answer": "Shift"
+    },
+    "307733": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, chèn 1 key frame thay đổi kích thước đối tượng?",
+        "answer": "Insert Keyframe -&gt; scale"
+    },
+    "307734": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, chế độ Blending trong bảng properties dùng để làm gì?",
+        "answer": "Chế độ hòa trộn"
+    },
+    "307735": {
+        "question": "Chèn 1 keyframe rõng nhấn phím nào sau đây?",
+        "answer": "F7"
+    },
+    "307736": {
+        "question": "Copy 1 đoạn frame ta nhấn phím tắt nào sau đây?",
+        "answer": "Alt"
+    },
+    "307737": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween thì đối tượng chuyển thành MovieClip có áp dụng được filter không",
+        "answer": "Không "
+    },
+    "307738": {
+        "question": "Đảo ngược 1 chuyển động chọn thuộc tính nào sau đây?",
+        "answer": "Reverse Frame"
+    },
+    "307739": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, filter tạo bóng cho đối tượng?",
+        "answer": "Dropshadow"
+    },
+    "307740": {
+        "question": "Thuộc tính visible trong bảng lệnh display có tác dụng gì?",
+        "answer": "Ẩn đối tượng"
+    },
+    "307741": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, chèn 1 key frame thay đổi vị trí đối tượng?",
+        "answer": "Insert Keyframe -&gt; Position"
+    },
+    "307742": {
+        "question": "Mở/ khóa tất cả các layer?",
+        "answer": "lock/ unlock all layer"
+    },
+    "307743": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween có áp dụng các loại chuyển động lên đối tượng (nhanh dần đều, châm dần đều)?",
+        "answer": "Có"
+    },
+    "307744": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, filter làm mờ cho đối tượng?",
+        "answer": "Blur"
+    },
+    "307745": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, chèn 1 key frame thay đổi xoay đối tượng?",
+        "answer": "Insert Keyframe -&gt; rotate"
+    },
+    "307746": {
+        "question": "tạo thời gian tồn tại cho đối tượng?",
+        "answer": "F5"
+    },
+    "307747": {
+        "question": "Khi thực hiện diễn hoạt Motion Tween, filtercho hiệu ứng chạm nổi đối tượng?",
+        "answer": "Bevel"
+    },
+    "307748": {
+        "question": "Có bao nhiêu loại symbol trong animate cc?",
+        "answer": "3"
+    },
+    "307749": {
+        "question": "Symbol nào có khả năng tương tác với người dùng?",
+        "answer": "Button"
+    },
+    "307750": {
+        "question": "Tạo mới 1 symbol nhấn phím tắt nào sao đây?",
+        "answer": "F8"
+    },
+    "307751": {
+        "question": "Thuộc tính registration trong bảng convert to symbol có tác dụng gì?",
+        "answer": "Xác định tâm đối tượng"
+    },
+    "307752": {
+        "question": "Symbol dạng button có bao nhiêu trang thái",
+        "answer": "4"
+    },
+    "307753": {
+        "question": "Symbol nào có chứa chuyển động, lồng chuyển động với nhau?",
+        "answer": "Movie clip"
+    },
+    "307754": {
+        "question": "Nhân đôi Movie Clip ta chọn thuộc tính nào sau đây?",
+        "answer": "Duplicate symbol"
+    },
+    "307755": {
+        "question": "Chuyển đối tượng thành symbol nhấn phím tắt nào sao đây?",
+        "answer": "F8"
+    },
+    "307756": {
+        "question": "Trang thái hit trong button có tác dụng gì?",
+        "answer": "Vùng tương tác"
+    },
+    "307757": {
+        "question": "Thuộc tính swap có tác dụng với symbol?",
+        "answer": "hoán đổi symbol"
+    },
+    "307758": {
+        "question": "Symbol nào là dạng symbol dạng tĩnh?",
+        "answer": "Graphic"
+    },
+    "307759": {
+        "question": "Chuyển đối tượng symbol thành shape ta thực hiện lệnh nào sau đây?",
+        "answer": "Ctrl + R"
+    },
+    "307760": {
+        "question": "Dòng lệnh điều khiển dùng 1 movie clip đúng?",
+        "answer": "this.stop();"
+    },
+    "307761": {
+        "question": "Thuộc tính over trong button có tác dụng gì?",
+        "answer": "rê chuột ra "
+    },
+    "307762": {
+        "question": "Menu Modify -&gt; symbol -&gt; swap symbol",
+        "answer": "hoán đổi symbol"
+    },
+    "307763": {
+        "question": "Movic Clip có lồng movie clip được không?",
+        "answer": "Có"
+    },
+    "307764": {
+        "question": "Menu insert -&gt; new symbol có tác dụng gì?",
+        "answer": "Tạo 1 symbols mới"
+    },
+    "307765": {
+        "question": "Thuộc tính down trong button có tác dụng gì?",
+        "answer": "nhấn chuột"
+    },
+    "307766": {
+        "question": "Bảng library có tác dụng gì?",
+        "answer": "Chứa tài nguyên làm việc"
+    },
+    "307767": {
+        "question": "Trong animate cc có tạo được button ảo không?",
+        "answer": "Có"
+    },
+    "307768": {
+        "question": "Một button trong animate cc có điểu khiển nhiều đối tượng cùng lúc không?",
+        "answer": "có"
+    },
+    "307769": {
+        "question": "loại Symbol nào có thể tương tác lệnh",
+        "answer": "tất cả 2 và 3 đều đúng"
+    },
+    "307770": {
+        "question": "Mở bảng lệnh để viết lệnh ta nhấn phím tắt nào?",
+        "answer": "F9"
+    },
+    "307771": {
+        "question": "Thuộc tính hổ trợ code trong animate cc?",
+        "answer": "Alpha"
+    },
+    "307772": {
+        "question": "Symbol dạng graphic không thể gán lệnh?",
+        "answer": "không"
+    },
+    "307773": {
+        "question": "Để điều khiển 1 movie clip có đầu đoc dựng tại 1 frame xác định&nbsp; và chạy tiếp ta dùng lệnh nào sau đây?",
+        "answer": "gotoAndplay()"
+    },
+    "307774": {
+        "question": "cách đặt tên cho 1 đối tượng movieclip?",
+        "answer": "tên không dấu, không kí tự đặt biệt"
+    },
+    "307775": {
+        "question": "Chèn 1 frame rõng nhấn phím nào sau đây?",
+        "answer": "F7"
+    },
+    "307776": {
+        "question": "Các đối tượng muốn có sự tương tác điều khiển phải làm gì?&nbsp;",
+        "answer": "đặt tên trong bảng Properties"
+    },
+    "307777": {
+        "question": "Để điều khiển chạy 1 movie clip ta dùng lệnh nào sau đây?",
+        "answer": " /* */"
+    },
+    "307778": {
+        "question": "Nhân bản 1 movieclip giữ phím nào sao đây?",
+        "answer": "Ctrl "
+    },
+    "307779": {
+        "question": "Chú thích cho một khối lệnh ta dùng kí hiệu gì sau đây?&nbsp;",
+        "answer": "Ctrl + R"
+    },
+    "307780": {
+        "question": "Để điều khiển 1 movie clip có đầu đoc dựng tại 1 frame xác định&nbsp; ta dùng lệnh nào sau đây?",
+        "answer": "this.stop();"
+    },
+    "307781": {
+        "question": "Tương tác lệnh khi trỏ chuột vào?",
+        "answer": "dblclick"
+    },
+    "307782": {
+        "question": "Thao tác nào sau đây chuyển đổi các loại symbol ?",
+        "answer": "Click phải chọn properties"
+    },
+    "307783": {
+        "question": "Tương tác lệnh khi trỏ chuột ra ngoài?",
+        "answer": "mouseout"
+    },
+    "307784": {
+        "question": "Tương tác lệnh 2 lần click chuột?",
+        "answer": "dblclick"
+    },
+    "307785": {
+        "question": "Chú thích cho một dòng ta dùng kí hiệu gì sau đây?",
+        "answer": "//"
+    },
+    "307786": {
+        "question": "Thao tác nào sau đây thay đổi tâm symbol?",
+        "answer": "2 click chuột vào symboy?"
+    },
+    "307787": {
+        "question": "Tương tác lệnh&nbsp; khi chuột trái được nhấn dùng biến cố nào?",
+        "answer": "Click"
+    },
+    "307788": {
+        "question": "ngyên tắc chia các nhịp khác nhau của chuyển động trong cùng 1 thời gian\n &nbsp;",
+        "answer": "timing"
+    },
+    "307789": {
+        "question": "Đối tượng cần tạo xương là 1 khối ta thao tác tạo xương thế nào?",
+        "answer": "Chọn đối tượng vẽ tạo xương trực bằng công bone tool"
+    },
+    "307790": {
+        "question": "Squash&amp; Stretch là nguyên tắc gì trong chuyển động?",
+        "answer": "Sự co dãn trong chuyển động "
+    },
+    "307791": {
+        "question": "Nhân bản một đoạn chuyển động xương",
+        "answer": "Copy pose"
+    },
+    "307792": {
+        "question": "Khi diễn hoạt nhân vật có tích hợp từ phần mềm AI",
+        "answer": "có"
+    },
+    "307793": {
+        "question": "Hành động phụ giúp cho diễn xuất tự nhiên và sinh động",
+        "answer": "Secondary Action"
+    },
+    "307794": {
+        "question": "Xóa 1 key chuyển động xương chọn thuộc tính nào?",
+        "answer": "Clear pose"
+    },
+    "307795": {
+        "question": "Đối tượng cần tạo xương không là 1 khối ta thao tác tạo xương thế nào?",
+        "answer": "Chuyển thành symbol và dùng công cụ bone tool"
+    },
+    "307796": {
+        "question": "Nguyên tắc nào sao đây thể hiện cảm xúc",
+        "answer": "Appeal"
+    },
+    "307797": {
+        "question": "Animate CC có hỗ trợ làm hoạt hình 3D không?",
+        "answer": "Có"
+    },
+    "307798": {
+        "question": "Xóa đoạn chuyển động xương",
+        "answer": "Remove amature"
+    },
+    "307799": {
+        "question": "Khi nhi diễn hoạt character tạo càng nhiều xương càng dễ diễn hoạt?",
+        "answer": "có thông số qui định"
+    },
+    "307800": {
+        "question": "Có bao nhiêu nguyên tắc chuyển động",
+        "answer": "12"
+    },
+    "307801": {
+        "question": "Khi sử dụng công cụ bone tool có mấy trường hợp cần phân biệt khi gắn xương?",
+        "answer": "2"
+    },
+    "307802": {
+        "question": "Phím tắt công cụ bone tool?",
+        "answer": "M"
+    },
+    "307803": {
+        "question": "Để character diễn hoạt, hành động thật ta cần đều gì?",
+        "answer": "Kết hợp cả 3 diễn hoạt và gắn xương cho nhân vật"
+    },
+    "307804": {
+        "question": "hiệu chỉnh xương dùng công cụ nào sao đây?",
+        "answer": "di chuyển"
+    },
+    "307805": {
+        "question": "Thuộc tính Ease in Ease out giúp gì khi diễn hoạt nhân vật?",
+        "answer": "thời gian tăng tốc và giảm tốc"
+    },
+    "307806": {
+        "question": "công cụ bone tool và bind tool có liên hệ mật thiết nhau không?",
+        "answer": "có "
+    },
+    "307807": {
+        "question": "ghi nhận diễn hoạt của xương chọn thuộc tính nào sau đây?",
+        "answer": "Insert bone"
+    },
+    "307808": {
+        "question": "Phím tắt chọn công cụ camera tool?",
+        "answer": "C"
+    },
+    "307809": {
+        "question": "kỹ thuật Arc camera là gì?",
+        "answer": "Xoay camera 306 độ"
+    },
+    "307810": {
+        "question": "Khi tạo camera cho 1 layer có hiện tượng gì xảy ra?",
+        "answer": "Trên 1 layer mới"
+    },
+    "307811": {
+        "question": "Có nên áp dụng cùng l lúc các loại camera không?",
+        "answer": "Không"
+    },
+    "307812": {
+        "question": "Nhân bản camera trong animate nhấn phím nào sau?",
+        "answer": "Tất cả đều sai"
+    },
+    "307813": {
+        "question": "kỹ thuật Pan camera là gì?",
+        "answer": " Di chuyển camera từ trái sang phải (ngang)"
+    },
+    "307814": {
+        "question": "Kỹ thuật camera nào người máy quay phải di chuyển 360 độ?&nbsp;",
+        "answer": "arc"
+    },
+    "307815": {
+        "question": "Kỹ thuật camera chạy theo đối tượng?",
+        "answer": "Follow "
+    },
+    "307816": {
+        "question": "Ứng dụng hiệu quả camera là gì?",
+        "answer": "Diễn hoạt hoạt cảnh sinh động"
+    },
+    "307817": {
+        "question": "Camera color có tác dụng gì?",
+        "answer": "Thay đổi màu sắc"
+    },
+    "307818": {
+        "question": "Có bao nhiêu cách đặt camera thông dụng?",
+        "answer": "8"
+    },
+    "307819": {
+        "question": "kỹ thuật tilt camera là gì?",
+        "answer": "Di chuyển camera từ trên sang xuống (doc)"
+    },
+    "307820": {
+        "question": "Có thể tạo mấy camera trong 1 scene?",
+        "answer": "1"
+    },
+    "307821": {
+        "question": "Thuộc tính rotate trong bảng lệnh camera properties?",
+        "answer": "Xoay camera"
+    },
+    "307822": {
+        "question": "Di chuyển camera xa dần theo sự di chuyển của đối tượng?",
+        "answer": "Dolly"
+    },
+    "307823": {
+        "question": "Trong animate có ứng dụng được arc camera không?",
+        "answer": "Không"
+    },
+    "307824": {
+        "question": "Hiệu chỉnh sáng tối camera?",
+        "answer": "Brightness"
+    },
+    "307825": {
+        "question": "Di chuyển camera bên cạnh đối tượng?",
+        "answer": "tracking"
+    },
+    "307826": {
+        "question": "Xóa camera khi đang sử dụng?",
+        "answer": "delete camera"
+    },
+    "307827": {
+        "question": "Thuộc tính rotate apply to pastboard bảng lệnh camera properties?",
+        "answer": "mở rộng vùng làm việc camera"
+    },
+    "307828": {
+        "question": "Giới hạn số lần lặp lại của âm thanh?",
+        "answer": "Repeat"
+    },
+    "307829": {
+        "question": "Import file nhạc mp3 vào animate nhấn phím tắt nào ?",
+        "answer": "Ctrl + R"
+    },
+    "307830": {
+        "question": "Có thể chèn trực tiếp file nhạc vào animate cc?",
+        "answer": "Có"
+    },
+    "307831": {
+        "question": "Âm thanh định dạng thường sử dụng nhất ?",
+        "answer": "Mp3"
+    },
+    "307832": {
+        "question": "Event sounds là loại âm thanh thường dủng để làm gì?",
+        "answer": " Cho nút nhấn"
+    },
+    "307833": {
+        "question": "Thuộc tính chuyển dần âm thanh từ phải sang trái?",
+        "answer": "Fade left to right"
+    },
+    "307834": {
+        "question": "stream sounds là loại âm thanh thường dủng để làm gì?",
+        "answer": " âm thanh minh họa cho nhạc cảnh"
+    },
+    "307835": {
+        "question": "Thuộc tính hổ trợ cắt 1 đoạn âm thanh?",
+        "answer": "Split audio"
+    },
+    "307836": {
+        "question": "Phát âm thanh chọn thuộc tính nào?",
+        "answer": "Start"
+    },
+    "307837": {
+        "question": "Trong animate cc có hổ trợ chuyển đuôi video không?",
+        "answer": "Không, liên kết phần mềm khác"
+    },
+    "307838": {
+        "question": "Thuộc tính âm thanh nhỏ dần?",
+        "answer": "Fade out "
+    },
+    "307839": {
+        "question": "hai thuộc tính import to library / import to stage có gì khác nhau?",
+        "answer": "đưa âm thanh vào stage / đưa âm thanh vào library"
+    },
+    "307840": {
+        "question": "Tắt kênh phải chọn thuộc tính nào sau?",
+        "answer": " right channel"
+    },
+    "307841": {
+        "question": "Trong animate cc có hổ trợ chèn âm thanh cho button không?",
+        "answer": "có"
+    },
+    "307842": {
+        "question": "Phím tắt xuất file video?",
+        "answer": "Ctrl + Alt + Shift + S"
+    },
+    "307843": {
+        "question": "Thuộc tính có tác dụng làm âm thanh tăng dần?",
+        "answer": "Fade In"
+    },
+    "307844": {
+        "question": "Phần mở rộng video nào sau đây được animate hổ trợ?",
+        "answer": "cả 2-3 đểu đúng"
+    },
+    "307845": {
+        "question": "Thuộc tính&nbsp; âm thanh lặp lại liên tục?",
+        "answer": "Stream"
+    },
+    "307846": {
+        "question": "Lặp lại 1 d0oa5n âm thanh chọn phím tắt nào sao đây?",
+        "answer": "delete camera"
+    },
+    "307847": {
+        "question": "Tắt kênh trái chọn thuộc tính nào sau?",
+        "answer": "Shift + Alt + L"
+    }
+}

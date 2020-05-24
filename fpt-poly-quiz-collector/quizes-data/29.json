@@ -1,0 +1,1134 @@
+{
+    "145961": {
+        "question": "Hàm lấy giá trị tuyệt đối của một số là hàm",
+        "answer": "Math.abs()"
+    },
+    "145962": {
+        "question": "Hàm lấy ngẫu nhiên một số nằm trong khoảng từ 0 đến 1 là hàm nào?",
+        "answer": "Math.random()"
+    },
+    "145963": {
+        "question": "Đoạn code sau đây cho kết quả nào?\n Integer i1 = 1;&nbsp; \n Integer i2 = 1;&nbsp; \n System.out.println(i1 == i2);&nbsp; ",
+        "answer": "TRUE"
+    },
+    "145964": {
+        "question": "Đoạn code sau đây cho kết quả nào?\n Integer i1 = 1;&nbsp; \n int i2 = 1;&nbsp; \n System.out.println(i1 == i2);&nbsp; ",
+        "answer": "TRUE"
+    },
+    "145965": {
+        "question": "Đoạn code sau đây cho kết quả nào?\n &nbsp;&nbsp;&nbsp; Integer i = 5;\n &nbsp;&nbsp;&nbsp; Integer j = 5;\n &nbsp;&nbsp;&nbsp; System.out.println(i == j);\n &nbsp;&nbsp;&nbsp; Integer k = new Integer(5);\n &nbsp;&nbsp;&nbsp; Integer h = new Integer(5);\n &nbsp;&nbsp;&nbsp; System.out.println(k == h);",
+        "answer": "true false"
+    },
+    "145966": {
+        "question": "Đoạn code sau đây cho kết quả nào?\n Integer one = new Integer(1);\n Integer two = new Integer(1);\n if(one == two){\n &nbsp; System.out.println(\"Equal\");\n }else{\n &nbsp;&nbsp; System.out.println(\"Not equal\");\n }",
+        "answer": "Not equal"
+    },
+    "145967": {
+        "question": "Chọn câu trả lời đúng",
+        "answer": "Enum cho phép bạn định nghĩa kiểu dữ liệu mới."
+    },
+    "145968": {
+        "question": "Chọn câu trả lời đúng nhất:\n Class được khai báo là abstract là class có&nbsp;",
+        "answer": "Có ít nhất một method là abstract"
+    },
+    "145969": {
+        "question": "Chọn câu trả lời đúng:\n final class có ý&nbsp; nghĩa gì?",
+        "answer": "Là class không thể có class con"
+    },
+    "145970": {
+        "question": "Lập trình generic nghĩa là gì?",
+        "answer": "Viết chương trình để sử dụng với nhiều kiểu dữ liệu đối tượng khác nhau."
+    },
+    "145972": {
+        "question": "Tại sao Java không hỗ trợ lập trình generic với kiểu dữ liệu nguyên thủy?",
+        "answer": "Vì generic chỉ làm việc với kiểu đối tượng (Object) nên chỉ các kiểu dữ liệu được kế thừa từ class Object mới được chấp nhận."
+    },
+    "145973": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n 1.interface Containment&lt;T&gt;{\n 2.&nbsp;&nbsp; boolean contains(T obj);\n 3. }\n 4. public class MyClass implements Containment&lt;T&gt;{\n 5.&nbsp;&nbsp;&nbsp; T[] arrayRef;\n 6.&nbsp;&nbsp;&nbsp; MyClass(T[] arr){\n 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arrayRef = arr;\n 8.&nbsp;&nbsp;&nbsp; }",
+        "answer": "Có lỗi ở dòng 4"
+    },
+    "145974": {
+        "question": "Đoạn code sau đây có kết quả nào?\n ArrayList mylist = new ArrayList();\n &nbsp;mylist.add(10);\n &nbsp;mylist.add(“Hello”);\n &nbsp;mylist.add(15.75);\n &nbsp;int a = mylist.get(0);\n &nbsp;System.out.println(\"a=\"+a);",
+        "answer": "Có lỗi khi dịch"
+    },
+    "145975": {
+        "question": "Đoạn code sau đây có kết quả nào?\n ArrayList mylist = new ArrayList();\n &nbsp;mylist.add(10);\n &nbsp;mylist.add(“Hello”);\n &nbsp;mylist.add(15.75);\n &nbsp;int a = mylist.get(1);\n &nbsp;System.out.println(\"a=\"+a);",
+        "answer": "Có lỗi khi dịch"
+    },
+    "145976": {
+        "question": "Đoạn code sau đây có kết quả nào?\n ArrayList mylist = new ArrayList();\n &nbsp;mylist.add(10);\n &nbsp;mylist.add(“Hello”);\n &nbsp;mylist.add(15.75);\n &nbsp;int a = (String)mylist.get(1);\n &nbsp;System.out.println(\"a=\"+a);",
+        "answer": "a = Hello"
+    },
+    "145977": {
+        "question": "Đoạn code sau đây có kết quả nào?\n ArrayList mylist = new ArrayList();\n &nbsp;mylist.add(10);\n &nbsp;mylist.add(“Hello”);\n &nbsp;mylist.add(15.75);\n &nbsp;int a = (int)mylist.get(0);\n &nbsp;System.out.println(\"a=\"+a);",
+        "answer": "Có lỗi khi dịch"
+    },
+    "145978": {
+        "question": "Đoạn code sau đây có kết quả nào?\n ArrayList mylist = new ArrayList();\n &nbsp;mylist.add(10);\n &nbsp;mylist.add(“Hello”);\n &nbsp;mylist.add(15.75);\n &nbsp;int a = (Integer)mylist.get(0);\n &nbsp;System.out.println(\"a=\"+a);",
+        "answer": "a = 10"
+    },
+    "145979": {
+        "question": "Đoạn code sau đây sẽ in ra màn hình kết quả nào?\n public class example2&lt;T&gt; {\n &nbsp;&nbsp;&nbsp; T number;\n &nbsp;&nbsp;&nbsp; public example2(T n ){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; number=n;\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public String toString(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return \"obj=\"+number.toString();\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; example2&lt;?&gt; objs[] = new example2&lt;?&gt;[3];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; objs[0] = new example2(10);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; objs[1] = new example2(\"Hello\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(objs[0]+\" \"+objs[1]);\n &nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "obj=10 obj=Hello"
+    },
+    "145980": {
+        "question": "Đoạn code sau đây sẽ in ra màn hình kết quả nào?\n public class example2&lt;T&gt; {\n &nbsp;&nbsp;&nbsp; T number;\n &nbsp;&nbsp;&nbsp; public example2(T n ){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; number=n;\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public String toString(){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return \"obj=\"+number.toString();\n &nbsp;&nbsp;&nbsp; }\n &nbsp;&nbsp;&nbsp; public static void main(String[] args) {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; example2&lt;Integer&gt; objs[] = new example2&lt;Integer&gt;[3];\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; objs[0] = new example2(10);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; objs[0] = new example2(15);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(objs[0]+\" \"+objs[1]);\n &nbsp;&nbsp;&nbsp; }\n }",
+        "answer": "Có lỗi khi dịch"
+    },
+    "145981": {
+        "question": "ArrayList là kiểu dữ liệu được lấy từ package nào?",
+        "answer": "java.util"
+    },
+    "145982": {
+        "question": "Chọn câu trả lời đúng\n Có thể thêm các phần tử có kiểu gì vào trong ArrayList?",
+        "answer": "Kiểu bất kỳ, nếu là kiểu nguyên thủy thì sẽ tự autoboxing"
+    },
+    "145983": {
+        "question": "Ký tự đại diện &lt;? extends O&gt; đại diện cho",
+        "answer": "Class O và tất cả các class khác được kế thừa từ nó"
+    },
+    "145984": {
+        "question": "Ký tự đại diện &lt;? super O&gt; đại diện cho",
+        "answer": "Class O và các class là cha của class O"
+    },
+    "145985": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n 1. class Gen&lt;T&gt;{\n 2.&nbsp; static T obj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n 3.&nbsp; static T getObj(){&nbsp; \n 4.&nbsp;&nbsp; return obj; \n 5.&nbsp; }\n 6. }",
+        "answer": "Có lỗi ở dòng 2, 3"
+    },
+    "145986": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n 1. class Gen&lt;T&gt;{\n 2.&nbsp;&nbsp;&nbsp; public T obj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; static T getObj(){&nbsp; \n 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return obj; \n 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }\n 6. }",
+        "answer": "Có lỗi ở dòng 3"
+    },
+    "145987": {
+        "question": "Ưu điểm của generic là gì? (Chọn 4)\n 1. Có thể thực hiện các phép toán tổng quát với nhiều kiểu dữ liệu khác nhau.\n 2. Có thể sử dụng mảng với generic.\n 3. Làm cho đoạn code rõ ràng, dễ hiểu hơn.\n 4. Kiểm tra lỗi tại thời điểm dịch.\n 5. Kiểm tra lỗi tại thời điểm chạy.\n 6. Không cần ép kiểu khi lấy ra các phần tử.",
+        "answer": "1346"
+    },
+    "145988": {
+        "question": "Nhược điểm của generic là gì? (Chọn 3)\n 1. Không thể khởi tạo generic với kiểu dữ liệu nguyên thủy.\n 2. Không thể sử dụng mảng với generic.\n 3. Không thể khai báo static cho method và property.\n 4. Không thể kiểm tra lỗi tại thời điểm dịch.\n 5. Kiểm tra lỗi tại thời điểm chạy.\n 6. Phải ép kiểu khi lấy ra các phần tử.",
+        "answer": "123"
+    },
+    "145989": {
+        "question": "Kiểu tham chiếu nào sau đây không thể generic?\n 1. Inner class nặc danh \n 2. Interface\n 3. Class\n 4. Method\n 5. Tất cả ",
+        "answer": "1"
+    },
+    "145990": {
+        "question": "Cú pháp nào được dùng để mô tả ký tự đại diện với giới hạn kiểu tham số là giảm đi?\n 1. &lt;?&gt;\n 2. &lt;? extends type&gt;\n 3. &lt;? super type&gt;\n 4. &lt;? implements type&gt;\n 5. &lt;? object type&gt;\n 6. &lt;? extends type&gt;",
+        "answer": "3"
+    },
+    "145991": {
+        "question": "Tên của class được sử dụng để tạo ra các frame?",
+        "answer": "JFrame"
+    },
+    "145992": {
+        "question": "Method nào đặt kích thước cho một frame?",
+        "answer": "setSize(int chiều_rộng, int chiều_cao)"
+    },
+    "145993": {
+        "question": "Kích thước của frame được tính theo đơn vị đo nào?",
+        "answer": "pixels"
+    },
+    "145994": {
+        "question": "Đối tượng container trong GUI là gì?",
+        "answer": "Là một thành phần có thể chứa các thành phần khác bên trong"
+    },
+    "145995": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng: \n import java.awt.*;\n import javax.swint.*;\n \n public class microGUI{\n &nbsp; public static void main ( String[] args)&nbsp; {\n &nbsp;&nbsp;&nbsp; JFrame frm = new ___________();\n &nbsp;&nbsp;&nbsp; frm.___________( 150, 100 );\n &nbsp;&nbsp;&nbsp; frm.___________( true );\n &nbsp; }\n }",
+        "answer": "JFrame, setSize, setVisible"
+    },
+    "145996": {
+        "question": "Câu lệnh nào sau đây tạo một frame với kích thước rộng là 300 và cao là 200 pixels?",
+        "answer": "frm.setSize( 300, 200 );"
+    },
+    "145997": {
+        "question": "Mặc định quản lý layout cho JFrame là?",
+        "answer": "BorderLayout"
+    },
+    "145998": {
+        "question": "JComponent là subclass trực tiếp của class nào?",
+        "answer": "Container"
+    },
+    "145999": {
+        "question": "Top-level-container là những thành phần nào?",
+        "answer": "JFrame, JDialog, JWindow, JApplet"
+    },
+    "146000": {
+        "question": "Lựa chọn phương án đúng?\n Các thành phần AWT là … và Swing là …&nbsp;",
+        "answer": "heavyweight, lightweight"
+    },
+    "146001": {
+        "question": "Để đặt màu nền cho JFrame, sử dụng lệnh nào trong số các lệnh sau đây:",
+        "answer": "frame.getContenPane().setBackground(Color)"
+    },
+    "146002": {
+        "question": "Giá trị mặc định của phương thức setDefaultCloseOperation là gì",
+        "answer": "HIDE_ON_CLOSE"
+    },
+    "146003": {
+        "question": "Sự kiện nào được tạo ra khi người click chuột (vào một thành phần bất kỳ)?",
+        "answer": "MouseEvent"
+    },
+    "146004": {
+        "question": "Thành phần nào không phải là một top-level container trong Swing",
+        "answer": "Jpanel"
+    },
+    "146005": {
+        "question": "Phương thức pack() dùng để làm gì",
+        "answer": "Đặt kích thước của JFrame vừa khít với nội dung"
+    },
+    "146006": {
+        "question": "Component nào có phát sinh action event?",
+        "answer": "JButton"
+    },
+    "146007": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "Câu a và c đúng"
+    },
+    "146008": {
+        "question": "Phương thức nào dùng để gán nội dung cho một Jlabel?",
+        "answer": "setText()"
+    },
+    "146009": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "JPasswordField extends JTextField"
+    },
+    "146010": {
+        "question": "Chọn phát biểu đúng trong các phát biểu sau:",
+        "answer": "Lớp ButtonGroup dùng để nhóm các JRadioButton"
+    },
+    "146011": {
+        "question": "Câu lệnh nào dùng để tạo ra TextArea 10 dòng và&nbsp; 20 cột?",
+        "answer": "new JTextArea(10,20)"
+    },
+    "146012": {
+        "question": "Phương thức nào dùng để cấm người dùng ghi lên một TextField?",
+        "answer": "void setEditable(False)"
+    },
+    "146013": {
+        "question": "Trong JTextField, giá trị mặc định của phương thức setEditable() là gì?",
+        "answer": "TRUE"
+    },
+    "146014": {
+        "question": "Phương thức nào để gán một ActionEvent vào sự kiện nhấn nút Jbutton?",
+        "answer": "addActionListener()"
+    },
+    "146015": {
+        "question": "Phương thức nào để gán trạng thái cho một JCheckBox?",
+        "answer": "setSelected()"
+    },
+    "146016": {
+        "question": "Phương thức nào để gán một ItemEvent vào JCheckBox?",
+        "answer": "addItemListener()"
+    },
+    "146017": {
+        "question": "JRadioButton sinh ra sự kiện gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "146018": {
+        "question": "JLabel sinh ra sự kiện gì?",
+        "answer": "Input Event"
+    },
+    "146019": {
+        "question": "JCheckBox sinh ra sự kiện gì?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "146020": {
+        "question": "Phương thức nào được sử dụng trên Jdialog?",
+        "answer": "Tất cả các phương án đều đúng"
+    },
+    "146021": {
+        "question": "Nếu một Frame dùng bộ quản lý trình bày là GridLayout và không chứa bất kỳ panel hay container nào khác bên trong nó thì tất cả những components khi đưa vào trong Frame này có cùng kích thước như nhau(ngang, doc)?",
+        "answer": "Đúng"
+    },
+    "146022": {
+        "question": "Nếu một Frame dùng bộ quản lý mặc định và không chứa bất kỳ panel hay container nào khác bên trong nó thì tất cả những components khi đưa vào trong Frame này có cùng kích thước như nhau(ngang, doc)?",
+        "answer": "Sai"
+    },
+    "146023": {
+        "question": "Với kiểu BorderLayout không nhất thiết các cùng phải có chứa các components, đúng hay sai?",
+        "answer": "Đúng"
+    },
+    "146024": {
+        "question": "Bộ quản lý trình bày mặc định cho 1 khung chứa kiểu Panel là:",
+        "answer": "FlowLayout"
+    },
+    "146025": {
+        "question": "Một Container có bộ quản lý trình bày là GridBagLayout thì mỗi component sẽ có kích thước bằng nhau khi thêm vào container này, đúng hay sai?",
+        "answer": "Sai"
+    },
+    "146027": {
+        "question": "Màn hình sau sử dụng kiểu trình bày nào?\n\n",
+        "answer": "BorderLayout"
+    },
+    "146028": {
+        "question": "Màn hình sau sử dụng kiểu trình bày nào?\n\n",
+        "answer": "FlowLayout"
+    },
+    "146029": {
+        "question": "Kiểu trình bày nào bố trí các component theo dòng, từ trái sang phải giống cách viết thông thường?",
+        "answer": "FlowLayout"
+    },
+    "146030": {
+        "question": "Kiểu trình bày nào chia container thành 5 vùng: Đông, Tây, Nam, Bắc, Chính giữa?",
+        "answer": "BorderLayout"
+    },
+    "146031": {
+        "question": "Cho một nút jbt và một container cont có kiểu trình bày là BorderLayout. Hãy cho biết cách gắn jbt vào vị trí đầu của cont?",
+        "answer": "cont.add(jbt,BorderLayout.North)"
+    },
+    "146032": {
+        "question": "Cho một nút jbt và một container cont có kiểu trình bày là FlowLayout. Hãy cho biết cách gắn jbt vào cont?",
+        "answer": "cont.add(jbt)"
+    },
+    "146033": {
+        "question": "Phương thức nào dùng để xác định cách trình bày của một container?",
+        "answer": "setLayout()"
+    },
+    "146034": {
+        "question": "Kiểu trình bày nào quản lý 2 hay nhiều Component cùng không gian hiển thị nhưng tại một thời điểm chỉ có một Component được hiển thị ra ngoài?",
+        "answer": "CardLayout"
+    },
+    "146035": {
+        "question": "Kiểu trình bày nào có thiết kế giống với JTabbedPane?",
+        "answer": "CardLayout"
+    },
+    "146036": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n 1.&nbsp; JButton component1 = new JButton();\n 2.&nbsp;&nbsp;&nbsp; JButton component2 = new JButton();\n 3.&nbsp;&nbsp;&nbsp; JPanel panel = new JPanel(new GridLayout(2,2));\n 4.&nbsp;&nbsp;&nbsp; panel.add(component1);\n 5.&nbsp;&nbsp;&nbsp; panel.add(component2);",
+        "answer": "Không có lỗi"
+    },
+    "146037": {
+        "question": "Sự kiện nào được tạo ra khi người dùng chọn một MenuItem?",
+        "answer": "MouseListener"
+    },
+    "146038": {
+        "question": "Sự kiện nào được tạo ra khi người dùng chọn/bỏ chọn một mục trong JList?",
+        "answer": "ListSelectionEvent"
+    },
+    "146039": {
+        "question": "Để lấy ra chỉ số của phần tử đang được chọn/bỏ chọn trong JList, ta sử dụng method nào?",
+        "answer": "getSelectedIndex()"
+    },
+    "146040": {
+        "question": "Phương thức nào để đặt một dấu ngăn cách trong Jmenu?",
+        "answer": "AddSeperator()"
+    },
+    "146041": {
+        "question": "Đoạn code sau thực hiện công việc gì?\n JFrame frame = new JFrame;\n JMenuBar menuBar = new JMenuBar(); frame.setJMenuBar(menuBar);",
+        "answer": "Khởi tạo một JFrame và đặt một MenuBar lên đó"
+    },
+    "146042": {
+        "question": "Đoạn code sau thực hiện công việc gì?\n menu=new Jmenu();\n menu.setMnemonic(KeyEvent.VK_A)",
+        "answer": "Tạo một menu và đặt phím tắt cho menu"
+    },
+    "146043": {
+        "question": "Để thiết lập kiể trình bày dạng ô lưới với 4 hàng và mỗi hàng 5 cột, sử dụng lệnh nào trong số các lệnh sau đây?",
+        "answer": "setLayout(new GridLayout(4,5))"
+    },
+    "146044": {
+        "question": "Đoạn code sau đây thực hiện công việc gì?\n cboCountry.addItem(\"Viet Nam\");",
+        "answer": "Thêm một mục \"Việt Nam\" vào JComboBox \"cboCountry\""
+    },
+    "146045": {
+        "question": "Lớp listSelectionListener dùng làm gì?",
+        "answer": "Xử lý sự kiện trong JList"
+    },
+    "146046": {
+        "question": "Node không có Node con gọi là gì?",
+        "answer": "Node lá"
+    },
+    "146047": {
+        "question": "Node con đầu tiên gọi là gì?",
+        "answer": "First Child"
+    },
+    "146048": {
+        "question": "Phương thức model.setRoot() dùng làm gì?",
+        "answer": "Đặt node hiện tại làm node gốc"
+    },
+    "146049": {
+        "question": "Phương thức node.removeAllChildren() dùng làm gì?",
+        "answer": "Xóa tất cả các node con"
+    },
+    "146050": {
+        "question": "Đoạn code sau thực hiện việc gì?\n 1. DefaultTableModel model = new DefaultTableModel(data,column_name);\n 2.&nbsp; table1.setModel(model);",
+        "answer": "Đưa dữ liệu vào DefaultTableModel và hiển thị lên bảng"
+    },
+    "146051": {
+        "question": "Đoạn code sau đây sẽ làm gì?\n private JPanel createMainPanel() {\n &nbsp; gridLayout = new GridLayout(3, 2, 5, 5);\n &nbsp; JPanel panel = new JPanel(gridLayout);",
+        "answer": "Tạo ra một JPanel dạng 3 cột, 2 hàng, khoảng cách hàng 5 px, khoảng cách cột 5 px"
+    },
+    "146325": {
+        "question": "JDBC là viết vắt của từ gì?",
+        "answer": "Java DataBase Connective"
+    },
+    "146326": {
+        "question": "DriverManager dùng làm gì?",
+        "answer": "Quản lý một nhóm các driver đã đăng ký"
+    },
+    "146327": {
+        "question": "JDBC Driver dùng làm gì?",
+        "answer": "Thiết lập kết nối đến CSDL và xử lý các giao tiếp"
+    },
+    "146328": {
+        "question": "ODBC có thể kết nối đến những hệ quản trị CSDL nào?",
+        "answer": "Tất cả những DBMS trên"
+    },
+    "146329": {
+        "question": "Phương thức kết nối CSDL nào sử dụng cấu nối và có sẵn trong JDBC API?",
+        "answer": "JDBC Type I"
+    },
+    "146330": {
+        "question": "Tập hợp các class và interface dùng để tương tác với một CSDL gọi là gì?",
+        "answer": "JDBC Driver"
+    },
+    "146331": {
+        "question": "Kiểu kết nối CSDL nào chậm nhất do phải qua cầu nối trung gian?",
+        "answer": "JDBC Type I"
+    },
+    "146332": {
+        "question": "Kiểu kết nối CSDL nào sử dụng các mã Java thuần?",
+        "answer": "3,4"
+    },
+    "146333": {
+        "question": "Kiểu kết nối CSDL nào nhanh nhất và hiệu quả nhất?",
+        "answer": "4"
+    },
+    "146334": {
+        "question": "Làm thế nào để kết nối CSDL theo kiểu 4?",
+        "answer": "Download driver kiểu 4 "
+    },
+    "146335": {
+        "question": "Kiểu statement nào biên dịch câu lệnh SQL trước khi thực thi?",
+        "answer": "PreparedStatement"
+    },
+    "146336": {
+        "question": "Phương thức nào dùng để thi hành lệnh Select CSDL?",
+        "answer": "executeQuery()"
+    },
+    "146337": {
+        "question": "Kết quả của việc truy vấn CSDL trả về đối tượng gì?",
+        "answer": "ResultSet"
+    },
+    "146338": {
+        "question": "Cổng ứng dụng của MySQL là…. và SQL Server là … ?",
+        "answer": "3306; 1433"
+    },
+    "146339": {
+        "question": "Đoạn code sau đây sai ở đâu?\n 1. String user=\"sa\";\n 2. String pass=\"123456\";\n 3. String url=\"jdbc:sqlserver://localhost:1433;databaseName=Test\";\n 4.Class.forName(\"com.microsoft.sqlserver.jdbc.SQLServerDriver\");\n 5. Connection connect = DriverManager.getConnection(url,user,pass);",
+        "answer": "Không sai"
+    },
+    "146340": {
+        "question": "Đoạn mã sau sai ở dòng số mấy?\n 1. connect{\n 2. Class.forName(\"com.mysql.jdbc.Driver\");\n 3. System.out.println(\"Connecting to database...\");\n 4. conn = DriverManager.getConnection(DB_URL,USER,PASS);\n 5. }",
+        "answer": "1"
+    },
+    "146341": {
+        "question": "Đoạn mã sau sai ở dòng số mấy?\n 1. try{\n 2. Class.forName(\"com.mysql.jdbc.Driver\");\n 3. System.out.println(\"Connecting to database...\");\n 4. conn = DriverManager.getConnection(USER,PASS);\n 5. }",
+        "answer": "4"
+    },
+    "146342": {
+        "question": "Đoạn mã sau sai ở dòng số mấy?\n 1. System.println(\"Creating statement...\");\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stmt = conn.createStatement();\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Str sql;\n 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sql = \"SELECT id, first, last, age FROM Employees\";\n 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ResultSet rs = stmt.executeQuery(sql);",
+        "answer": "1và 3"
+    },
+    "146343": {
+        "question": "Đoạn mã sau sai ở dòng số mấy?\n 1. System.out.println(\"Creating statement...\");\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stmt = conn.createStatement();\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String sql;\n 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sql = \"SELECT id, first, last, age IN Employees\";\n 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ResultSet rs = stmt.executeQuery(sql);",
+        "answer": "4"
+    },
+    "146344": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng: \n while(rs.next()){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Retrieve by column name\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int id&nbsp; = rs._____(\"id\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; String hovaten = rs._____(\"name\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }",
+        "answer": "getInt, getString"
+    },
+    "146345": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng: \n String query = \"select * from emp where empid=?\";\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prSt = con.prepareStatement(query);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prSt.setInt(1, 1016);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rs = prSt._______();\n ",
+        "answer": "executeQuery"
+    },
+    "146346": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng:\n PreparedStatement updateAddr=con.prepareStatement(\"UPDATE Customers SET Address=? WHERE CustNo=?\");\n updateAddr.set____(___,\"Danang\");",
+        "answer": "String,1"
+    },
+    "146347": {
+        "question": "Cho đoạn code sau, điền câu trả lời đúng:\n PreparedStatement updateAddr=con.prepareStatement(\"UPDATE Customers SET Address=? WHERE CustNo=?\");\n updateAddr.setString(___,\"Danang\");\n updateSales.setInt(___,1001);",
+        "answer": "1,2"
+    },
+    "146348": {
+        "question": "Đoạn mã sau sai ở dòng thứ mấy?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n 1. Connection con = 0;\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CallableStatement callSt = null;\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try {\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class.forName(\"oracle.jdbc.driver.OracleDriver\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; con = DriverManager.\n 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; getConnection(\"jdbc:oracle:thin:@&lt;hostname&gt;:&lt;port num&gt;:&lt;DB name&gt;\"\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,\"user\",\"password\");\n 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt = con.prepareCall(\"{call myprocedure(?,?)}\");\n 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.setString(1,200);\n 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.setDouble(2, 3000);\n 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.execute();",
+        "answer": "1,5"
+    },
+    "146349": {
+        "question": "Đoạn mã sau sai ở dòng số mấy?\n 1. callSt = con.prepareCall(\"{?= call myfunction(?,?)}\");\n 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.setInt(1,200);\n 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.registerOutParameter(2, Types.DOUBLE);\n 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; callSt.execute();\n 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double output = callSt.getDouble(2);",
+        "answer": "không sai"
+    },
+    "146350": {
+        "question": "Socket là gì?",
+        "answer": "\"Như là cửa thông giữa các quá trình ứng dụng và giao thức truyền tải end-to-end(UDP hay TCP) \""
+    },
+    "146351": {
+        "question": "Các loại dịch vụ truyền tải qua Socket API",
+        "answer": "TCP, UDP"
+    },
+    "146352": {
+        "question": "Port hệ thống nằm trong khoảng nào?",
+        "answer": "0-1023"
+    },
+    "146353": {
+        "question": "Phương thức \"public String getHostAddress()\" trả về thông tin gì?",
+        "answer": "Địa chỉ IP"
+    },
+    "146354": {
+        "question": "Phương thức \"public byte[] getAddress()\" thuộc lớp nào?",
+        "answer": "InetAddress"
+    },
+    "146355": {
+        "question": "UDP&nbsp; cung cấp dịch vụ truyền dữ liệu&nbsp; không tin cậy theo byte (“datagrams”) giữa Client và Server",
+        "answer": "TRUE"
+    },
+    "146356": {
+        "question": "TCP là giao thức truyền đảm bảo?",
+        "answer": "TRUE"
+    },
+    "146357": {
+        "question": "UDP là giao thức truyền không đảm bảo?",
+        "answer": "TRUE"
+    },
+    "146358": {
+        "question": "public static void main(String[] args) {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; try{\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; InetAddress []address = InetAddress.getAllByName(\"dantri.com.vn\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for(int i=0;i&lt;address.length;i++){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(\"Address \"+(i+1)+\": \"+address[i]);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }catch(UnknownHostException ex){\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ex.printStackTrace();\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n &nbsp;&nbsp;&nbsp; }",
+        "answer": "Danh sách các địa chỉ IP của domain dantri.com.vn"
+    },
+    "146359": {
+        "question": "Phương thức public \"Socket(InetAddress address, int port)\" dùng để làm gì?",
+        "answer": "\"Tạo một kết nối theo địa chỉ là đối tượng InetAddress và số cổng port. \""
+    },
+    "146360": {
+        "question": "Phương thức \"Socket accept()\" có ý nghĩa gì?",
+        "answer": "Dừng lại chờ cho đến khi nhận được kết nối và trả về đối tượng Socket của máy khách(Client)"
+    },
+    "146361": {
+        "question": "Truyền thông theo TCP thích hợp cho những loại ứng dụng nào?",
+        "answer": "Ứng dụng cần độ chính xác cao như: truyền file, thông tin điều khiển, ..."
+    },
+    "146362": {
+        "question": "Truyền thông theo UDP thích hợp cho những loại ứng dụng nào?",
+        "answer": "Ứng dụng cần tốc độ, không cần độ chính xác cao như: truyền âm thanh, hình ảnh, ..."
+    },
+    "146363": {
+        "question": "Phương thức nào dùng để lấy tên file khi download?",
+        "answer": "getFile()"
+    },
+    "146364": {
+        "question": "Phương thức nào dùng để lấy nội dung file khi download?",
+        "answer": "openStream()"
+    },
+    "146365": {
+        "question": "Phương thức getHost() trả về kiểu dữ liệu gì?",
+        "answer": "String"
+    },
+    "146366": {
+        "question": "Phương thức getFile() trả về kiểu dữ liệu gì?",
+        "answer": "String"
+    },
+    "146367": {
+        "question": "Phương thức openStream() trả về kiểu dữ liệu gì?",
+        "answer": "Stream"
+    },
+    "146368": {
+        "question": "Lớp nào dùng để ghi dữ liệu ra một mảng byte?",
+        "answer": "ByteArrayOutputStream"
+    },
+    "146369": {
+        "question": "Phương thức nào để ghi dữ liệu từ luồng ra một mảng Byte?",
+        "answer": "toByteArray()"
+    },
+    "146370": {
+        "question": "Phương thức nào để gửi một MimeMessage đến một server?",
+        "answer": "Transport.send()"
+    },
+    "146371": {
+        "question": "Phương thức nào để thêm một MimeMessage vào một hàng chờ?",
+        "answer": "Transport.queue()"
+    },
+    "146372": {
+        "question": "Nếu quá trình gửi mail có lỗi, chương trình sẽ đưa ra ngoại lệ nào?",
+        "answer": "RuntimeException"
+    },
+    "146373": {
+        "question": "Lớp nào dùng để gửi email có đính kèm tệp?",
+        "answer": "MimeMultipart"
+    },
+    "146374": {
+        "question": "Lớp nào dùng để gửi email có CC?",
+        "answer": "RecipientType.CC"
+    },
+    "146375": {
+        "question": "Lớp nào dùng để gửi email có BCC?",
+        "answer": "RecipientType.BCC"
+    },
+    "146376": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. MimeMessage message = new MimeMessage(session);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. message.setFrom(new InternetAddress(from));\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. message.addRecipient(TO);\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. message.setSubject(\"This is the Subject Line!\");\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. message.setText(\"This is actual message\");",
+        "answer": "Có lỗi ở dòng 3"
+    },
+    "146377": {
+        "question": "Đoạn code sau đây có lỗi ở dòng nào?\n &nbsp;&nbsp;&nbsp;&nbsp; 1. String to = \"abcd@gmail.com\";\n &nbsp;&nbsp;&nbsp;&nbsp; 2. String from = \"web@gmail.com\";\n &nbsp;&nbsp;&nbsp;&nbsp; 3. String host = \"localhost\";\n &nbsp;&nbsp;&nbsp;&nbsp; 4. Properties properties = System.getProperties();\n &nbsp;&nbsp;&nbsp;&nbsp; 5. properties.setProperty(\"mail.smtp.host\", host);",
+        "answer": "Không có lỗi"
+    },
+    "149750": {
+        "question": "Java EE viết tắt của chữ nào?",
+        "answer": "Java Platform, Enterprise Edition"
+    },
+    "149753": {
+        "question": "Năm 2013 là năm ra đời của phiên bản nào?",
+        "answer": "Java EE 7"
+    },
+    "149754": {
+        "question": "Java EE 5 ra đời vào năm nào?",
+        "answer": "2006"
+    },
+    "149755": {
+        "question": "Java EE cung cấp các API cho việc phát triển ứng dụng không nhằm mục đích gì",
+        "answer": "Tăng số dòng mã lệnh"
+    },
+    "149756": {
+        "question": "Chọn phát biểu đúng nhất về ưu điểm Java EE.&nbsp;",
+        "answer": "Tất cả các đáp án khác đều đúng"
+    },
+    "149757": {
+        "question": "Chỉ ra Tier không thuộc Java EE",
+        "answer": "Scripting Tier"
+    },
+    "149758": {
+        "question": "Trong Java EE Container, Web Container chứa thành phần nào",
+        "answer": "EJB"
+    },
+    "149759": {
+        "question": "Java EE Container không cung cấp các dịch vụ nào?",
+        "answer": "Dịch vụ domain"
+    },
+    "149760": {
+        "question": "Chọn phát biểu không đúng về thành phần thuộc Web Container",
+        "answer": "Applet là một thành phần web thuộc Web Container"
+    },
+    "149761": {
+        "question": "File cấu hình ứng dụng web có thẻ gốc là gì?",
+        "answer": "&lt; web-app&gt;"
+    },
+    "149762": {
+        "question": "Thẻ nào trong file cấu hình web.xml được sử dụng để khai báo lớp servlet",
+        "answer": "&lt; servlet-class&gt;"
+    },
+    "149763": {
+        "question": "Thẻ nào trong file cấu hình được sử dụng để khai báo bộ lọc?",
+        "answer": "&lt; filter&gt;"
+    },
+    "149764": {
+        "question": "Trong khai báo trang web thông báo lỗi, thẻ nào được sử dụng để khai báo trang lỗi",
+        "answer": "&lt; location&gt;"
+    },
+    "149765": {
+        "question": "Chỉ ra thành phần không thuộc design pattern",
+        "answer": "Programming Language"
+    },
+    "149766": {
+        "question": "Chỉ ra thành phần trung tâm thuộc mô hình MVC1",
+        "answer": "JSP Page"
+    },
+    "149767": {
+        "question": "Chỉ ra thành phần không thuộc mô hình MVC2",
+        "answer": "Filter"
+    },
+    "149768": {
+        "question": "Trong mô hình MVC2 công việc chính của JSP là gì",
+        "answer": "Sinh giao diện phản hồi cho người dùng"
+    },
+    "149769": {
+        "question": "Chọn phát biểu đúng nhất về chức năng của ứng dụng web theo mô hình MVC 2",
+        "answer": "Tất cả các chức năng khác đều đúng"
+    },
+    "149770": {
+        "question": "Chọn phát biểu đúng nhất về Framework",
+        "answer": "Tất cả các phát biểu trên đều đúng"
+    },
+    "149771": {
+        "question": "Chỉ ra thành phần không phải framework",
+        "answer": "Servlet/JSP"
+    },
+    "149772": {
+        "question": "Chọn phát biểu đúng nhất về servlet&nbsp;",
+        "answer": "Các đáp án khác đều đúng"
+    },
+    "149773": {
+        "question": "Chọn phát biểu đúng về cơ chế hoạt động của servlet",
+        "answer": "Servlet chạy theo cơ chế đa luồng xử lý"
+    },
+    "149774": {
+        "question": "Chọn phát biểu đúng nhất về ưu điểm của Servlet so với CGI.",
+        "answer": "Tất cả các đáp ứng điều đúng"
+    },
+    "149775": {
+        "question": "Chọn thứ tự đúng của vòng đời servlet",
+        "answer": "Load, tạo instance, init(), service(), destroy()"
+    },
+    "149776": {
+        "question": "Chỉ ra phương thức không được gọi trong vòng đời servlet",
+        "answer": "load()"
+    },
+    "149777": {
+        "question": "Phương thức nào được gọi sau cùng trong vòng đời của servlet",
+        "answer": "destroy()"
+    },
+    "149778": {
+        "question": "Phương thức nào chỉ được gọi đúng một lần trong vòng đời servlet",
+        "answer": "init()"
+    },
+    "149779": {
+        "question": "Lớp cha của lớp servlet là lớp nào?",
+        "answer": "HttpServlet"
+    },
+    "149780": {
+        "question": "Phương thức nào được sử dụng để đọc tham số từ file cấu hình",
+        "answer": "getInitParameter()"
+    },
+    "149781": {
+        "question": "Thẻ nào trong file cấu hình được sử dụng để chỉ ra giá trị của tham số được khai báo trong file cấu hình",
+        "answer": "&lt; init-param&gt;"
+    },
+    "149782": {
+        "question": "Phương thức nào khi bạn ghi đè không xử lý các yêu cầu gửi từ người dùng",
+        "answer": "init()"
+    },
+    "149783": {
+        "question": "Chọn phát biểu đúng nhất&nbsp; về nhiệm vụ của Servlet là gì?&nbsp;",
+        "answer": "Tất cả các đáp án khác đều đúng"
+    },
+    "149784": {
+        "question": "Chọn phát biểu đúng nhất về Request và Response",
+        "answer": "Cả 2 phát biểu Request và Response đều đúng"
+    },
+    "149785": {
+        "question": "Chọn phát biểu đúng nhất về phương thức POST và GET",
+        "answer": "Cả phát biểu POST và GET đều đúng"
+    },
+    "149786": {
+        "question": "Cấu trúc của một Response không bao gồm những gì?",
+        "answer": "Parameter"
+    },
+    "149787": {
+        "question": "Status Code được chia làm bao nhiêu nhóm",
+        "answer": "5"
+    },
+    "149788": {
+        "question": "Response Header không sử dụng để làm gì?",
+        "answer": "Gửi tham số về client"
+    },
+    "149789": {
+        "question": "Phương thức nào sau đây không sử dụng để thiết lập các response header",
+        "answer": "response.setParameter()"
+    },
+    "149790": {
+        "question": "Chỉ ra kỹ thuật không sử dụng để lưu dấu session",
+        "answer": "Cơ sở dữ liệu"
+    },
+    "149791": {
+        "question": "Thế nào là trang web tĩnh?",
+        "answer": "Là trang web có nội dung không thay đổi"
+    },
+    "149792": {
+        "question": "Thế nào là trang web động?",
+        "answer": "Là trang web có nội dung thay đổi"
+    },
+    "149793": {
+        "question": "Chọn phát biểu đúng về trang JSP",
+        "answer": "Tất cả các phát biểu đều đúng"
+    },
+    "149794": {
+        "question": "Cho biết các bất lợi của servlet",
+        "answer": "Sử dụng câu lệnh println để phát sinh HTML"
+    },
+    "149795": {
+        "question": "Cho biết các bất lợi của servlet",
+        "answer": "Khi thay đổi, phải biên dich lại, (đóng gói lại), deploy lại"
+    },
+    "149796": {
+        "question": "Chọn phát biểu đúng về trang JSP và servlet",
+        "answer": "Phát biểu servlet và JSP đều đúng"
+    },
+    "149797": {
+        "question": "Chọn phát biểu đúng về các thành phần trong mô hình MVC",
+        "answer": "Phát biểu servlet và JSP đều đúng"
+    },
+    "149798": {
+        "question": "Các giai đoạn trong vòng đời trang JSP",
+        "answer": "Translation, Compile, Execution"
+    },
+    "149799": {
+        "question": "Phương thức không thuộc trong giai đoạn thực thi của JSP",
+        "answer": "jspService()"
+    },
+    "149800": {
+        "question": "Việc override phương thức jspInit() của giao diện JspPage không thể làm công việc gì",
+        "answer": "Đọc các tham số người dùng"
+    },
+    "149801": {
+        "question": "Việc override phương thức jspDestroy() của giao diện JspPage không nên làm gì",
+        "answer": "Khởi tạo tài nguyên"
+    },
+    "149803": {
+        "question": "Chọn dòng mã lệnh đúng",
+        "answer": "&lt; %int x = 5;%&gt;"
+    },
+    "149804": {
+        "question": "Chọn dòng mã sai",
+        "answer": "&lt; %String x = \"Hello\"%&gt;"
+    },
+    "149805": {
+        "question": "Chọn khai báo phương thức đúng trong JSP",
+        "answer": "&lt; %!void m(){}%&gt;"
+    },
+    "149806": {
+        "question": "Giả sử trong trang JSP có 2 đoạn mã Java sau\n &lt;%int x = 5;%&gt;\n &lt;%!int y = 5;%&gt;\n Hãy cho biết phát biểu nào sau đây là đúng",
+        "answer": "y là trường trên trang web"
+    },
+    "149807": {
+        "question": "Cho đoạn mã JSP sau. Hãy chọn phát biểu đúng\n &lt;%int x = 5;%&gt;\n &lt;%!int y = 5;%&gt;\n &lt;%!void m(){y++; x++;}%&gt;",
+        "answer": "y++ đúng"
+    },
+    "149808": {
+        "question": "Thứ tự thực hiện của các phương thức quản lý vòng đời của JSP là",
+        "answer": "jspInit(), _jspService(), jspDestroy()"
+    },
+    "149809": {
+        "question": "Chọn phát biểu đúng và servlet và JSP",
+        "answer": "JSP rất mạnh về xử lý giao diện"
+    },
+    "149810": {
+        "question": "Chọn phát biểu đúng và servlet và JSP",
+        "answer": "Servlet rất mạnh về xử lý nghiệp vụ"
+    },
+    "149811": {
+        "question": "Thuộc tính nào sau đây không thuộc chỉ thị &lt;%@page%&gt;",
+        "answer": "script"
+    },
+    "149812": {
+        "question": "Thuộc tính nào sau đây không thuộc chỉ thị &lt;%@page%&gt;",
+        "answer": "src"
+    },
+    "149813": {
+        "question": "Thuộc tính nào sau đây không thuộc chỉ thị &lt;%@page%&gt;",
+        "answer": "href"
+    },
+    "149814": {
+        "question": "Thuộc tính nào sau đây không thuộc chỉ thị &lt;%@page%&gt;",
+        "answer": "title"
+    },
+    "149815": {
+        "question": "Giá trị mặc định của thuộc tính contentType trong &lt;%@page%&gt; là gì",
+        "answer": "text/html;charset=ISO-8859-1"
+    },
+    "149816": {
+        "question": "Thuộc tính nào của chỉ thị &lt;%@page%&gt; chỉ ra trang thông báo lỗi",
+        "answer": "errorPage"
+    },
+    "149817": {
+        "question": "Chọn phát biểu đúng về giá trị mặc định của các thuộc tính của &lt;%@page%&gt;",
+        "answer": "isErrorPage có giá trị mặc định là false"
+    },
+    "149818": {
+        "question": "Giá trị của thuộc tính pageEncoding trong &lt;%@page%&gt; là gì để cho phép trang JSP hiển thị tiếng việt",
+        "answer": "charset=utf-8"
+    },
+    "149819": {
+        "question": "Để xuất tài liệu xml thì thuộc tính contentType của &lt;%@page%&gt; phải có giá trị nào",
+        "answer": "text/xml"
+    },
+    "149820": {
+        "question": "Chọn phát biểu đúng về\n &lt;jsp:include page =\"...\"/&gt; và &lt;%@ include file=\"...\"%&gt;",
+        "answer": " bao hàm trang tại lúc chạy"
+    },
+    "149821": {
+        "question": "&lt;jsp:include/&gt; có thể truyền tham số đến trang được bao hàm. Trong trang được bao hàm có thể nhận tham số này như thế nào",
+        "answer": "Sử dụng request.getParameter()"
+    },
+    "149822": {
+        "question": "Chọn mã &lt;jsp:include&gt; hợp lệ",
+        "answer": "&lt; jsp:include page=\"compare.jsp\"&gt;"
+    },
+    "149823": {
+        "question": "Chọn dòng mã &lt;jsp:forward&gt; không hợp lệ",
+        "answer": "&lt; jsp:forward page=\"XuLy.jsp?id=5\" /&gt;"
+    },
+    "149824": {
+        "question": "Nếu bạn muốn ghi đè phương thức khởi tạo thì phải viết trong loại thẻ nào",
+        "answer": "&lt; %! %&gt;"
+    },
+    "149825": {
+        "question": "Thẻ nào sử dụng để truyền thông tin từ JSP này sang JSP khác",
+        "answer": "&lt; jsp:param&gt;"
+    },
+    "149826": {
+        "question": "Cú pháp đúng khi overide jspInit() là gì",
+        "answer": "void jspInit() throws ServletException, IOException"
+    },
+    "149827": {
+        "question": "Thứ tự thực hiện các giai đoạn trong vòng đời của JSP",
+        "answer": "Dịch, Khởi tạo, Thực thi, Giải phóng"
+    },
+    "149828": {
+        "question": "Thuộc tính nào được sử dụng trong thẻ &lt;jsp:include /&gt;",
+        "answer": "page, flush"
+    },
+    "149829": {
+        "question": "Các bước xảy ra trong JSP container trong giai đoạn dịch bao gồm?",
+        "answer": "Tất cả các đáp án khác"
+    },
+    "149830": {
+        "question": "Phát biểu đúng về giai đoạn khởi tạo trong vòng đời của JSP",
+        "answer": "Cả hai phát biểu đều đúng"
+    },
+    "149831": {
+        "question": "Scope nào được sử dụng để duy trì dữ liệu trong suốt phiên làm việc của người dùng",
+        "answer": "session"
+    },
+    "149832": {
+        "question": "Scope nào được sử dụng để duy trì dữ liệu chỉ trong một yêu cầu của người dùng",
+        "answer": "request"
+    },
+    "149833": {
+        "question": "Scope nào được sử dụng để duy trì dữ liệu chỉ trong một trang web",
+        "answer": "page"
+    },
+    "149834": {
+        "question": "Scope nào được sử dụng để duy trì dữ liệu và chia sẻ chung cho tất cả mọi người dùng",
+        "answer": "application"
+    },
+    "149835": {
+        "question": "Giả sử trong cả 4 scope (page, request, session và application) đều có attribute có tên là fullname. Biểu thức EL ${fullname} sẽ hiển thị giá trị của attribute đặt ở scope nào",
+        "answer": "page"
+    },
+    "149836": {
+        "question": "Giả sử trong cả 4 scope (page, request, session và application) đều có attribute có tên là fullname. Biểu thức EL ${sessionScope.fullname} sẽ hiển thị giá trị của attribute đặt ở scope nào",
+        "answer": "session"
+    },
+    "149837": {
+        "question": "Cách để truy xuất một attribute có tên là fullname đặt trong session:\n 1. ${sessionScope.fullname}\n 2. ${sessionScope['fullname']}",
+        "answer": "Cả 2 cách đều đúng"
+    },
+    "149838": {
+        "question": "Cách để truy xuất một attribute có tên là full-name đặt trong session:\n 1. ${sessionScope.full-name}\n 2. ${sessionScope['full-name']}",
+        "answer": "Cách 2 đúng, cách 1 sai"
+    },
+    "149839": {
+        "question": "Cho lớp MyBean như sau\n public class MyBean {\n &nbsp;private String name = \"Nguyễn Văn Tèo\";\n &nbsp;public String getFullname() {\n &nbsp; return name;\n &nbsp;}\n }\n Giả sử trong model có attribute có tên là bean có giá trị được tạo từ lớp MyBean. Biểu thức EL nào cho phép hiển thị giá trị của trường name\n 1. ${bean.name}\n 2. ${bean.fullname}",
+        "answer": "Cách 2 đúng, cách 1 sai"
+    },
+    "149840": {
+        "question": "Đâu là qui ước của một lớp JavaBean",
+        "answer": "Tất cả các đáp án khác đều đúng"
+    },
+    "149841": {
+        "question": "Trong một action có đoạn mã\n &nbsp;&nbsp;&nbsp;&nbsp; List&lt;String&gt; list = new ArrayList&lt;&gt;();\n &nbsp;&nbsp;&nbsp;&nbsp; list.add(\"Phương\");\n &nbsp;&nbsp;&nbsp;&nbsp; list.add(\"Cường\");\n &nbsp;&nbsp;&nbsp;&nbsp; model.addAttribute(\"items\", list);\n Trong view muốn hiển thị tên Cường thì phải viết thế nào?",
+        "answer": "${items[1]}"
+    },
+    "149842": {
+        "question": "Trong một action có đoạn mã\n &nbsp;&nbsp;&nbsp;&nbsp; Map&lt;String, Object&gt; map = new HashMap&lt;&gt;();\n &nbsp;&nbsp;&nbsp;&nbsp; map.put(\"name\", \"Phương\");\n &nbsp;&nbsp;&nbsp;&nbsp; map.put(\"mark\", 9.5);\n &nbsp;&nbsp;&nbsp;&nbsp; model.addAttribute(\"student\", map);\n Trong view muốn hiển thị tên Phương thì phải viết thế nào?",
+        "answer": "${student.name}"
+    },
+    "149843": {
+        "question": "Để hiển thị giá trị của tham số có tên là full-name bạn sử dụng cách nào?\n 1. ${param[\"full-name\"]}\n 2. ${param['full-name']}",
+        "answer": "Cách 2 đúng, cách 1 sai"
+    },
+    "149844": {
+        "question": "Để hiển thị giá trị của cookie có tên là fullname bạn sử dụng cách nào?\n 1. ${cookie.fullname.value}\n 2. ${cookie['fullname'].value}",
+        "answer": "Cả 2 cách đều đúng"
+    },
+    "149845": {
+        "question": "Khi lập trình giao diện với JSTL bạn cần thư viện nào?\n 1. jstl-api.jar\n 2. jstl-impl.jar",
+        "answer": "Cần cả 2"
+    },
+    "149846": {
+        "question": "Thuật ngữ EL và JSTL được viết tắt của những chữ nào\n 1. EL=Expression Language\n 2. JSTL=Java Standard Tab Library",
+        "answer": "Cả 2 cùng đúng"
+    },
+    "149847": {
+        "question": "Thư viện nào trong JSTL được sử dụng để định dạng số, thời gian…",
+        "answer": "http://java.sun.com/jstl/fmt_rt"
+    },
+    "149849": {
+        "question": "Thuộc tính var trong &lt;c:forEach&gt; có ý nghĩa gì?",
+        "answer": "Chỉ ra phần tử hiện tại"
+    },
+    "149850": {
+        "question": "Thuộc tính test đưa ra điều kiện cần kiểm tra là thuộc tính của thẻ nào?\n 1. &lt;c:if&gt;\n 2. &lt;c:when&gt;",
+        "answer": "Cả 2 cùng đúng"
+    },
+    "149851": {
+        "question": "Chọn đáp án đúng nhất về custom tag",
+        "answer": "Tất cả các đáp án đều đúng"
+    },
+    "149852": {
+        "question": "Chọn phát biểu đúng nhất về custom tag&nbsp;",
+        "answer": "Cả 2 phát biểu đều đúng"
+    },
+    "149853": {
+        "question": "Chọn phát biểu đúng nhất về custom tag",
+        "answer": "Cả 2 phát biểu đều đúng"
+    },
+    "149854": {
+        "question": "Custom tag không thể thực hiện được công việc gì&nbsp;",
+        "answer": "Lắng nghe các sự kiện xảy ra trong ứng dụng"
+    },
+    "149855": {
+        "question": "Thư viện thẻ được định nghĩa sẵn trong JSP",
+        "answer": "Thư viện thẻ làm việc với CSDL"
+    },
+    "149856": {
+        "question": "Thư viện thẻ nào chưa được định nghĩa sẵn trong JSP",
+        "answer": "Thư viện thẻ làm việc với file excel"
+    },
+    "149857": {
+        "question": "Thành phần nào không liên quan đến Tag Library",
+        "answer": "Servlet"
+    },
+    "149858": {
+        "question": "Cho hai phát biểu về Tag Handler\n Phát biểu 1: Thường kế thừa từ TagSupport hoặc BodyTagSupport\n Phát biểu 2: Thường kế thừa từ HttpServlet",
+        "answer": "Cả hai phát biểu cùng đúng"
+    },
+    "149859": {
+        "question": "Phát biểu nào sau đây không liên quan đến Tag Handler",
+        "answer": "Tag Handler bắt buộc phải sử dụng JavaBean"
+    },
+    "149860": {
+        "question": "Tag Library Descriptor File không phải mô tả điều gì?",
+        "answer": "Tên trang JSP sử dụng nó"
+    },
+    "149861": {
+        "question": "Để sử dụng thư viện thẻ trong trang JSP, bạn cần phải làm gì?\n Công việc 1: Import Tag Library để tham chiếu đến URL của TLD\n Công việc 2: Khai báo Tag Prefix để sử dụng các Tag",
+        "answer": "Cần cả 2 công việc"
+    },
+    "149862": {
+        "question": "Đặc điểm của Simple Custom Tag là gì",
+        "answer": "Không có thân, không thuộc tính"
+    },
+    "149863": {
+        "question": "Các bước xây dựng và sử dụng Simple Custom Tag\n B1: Tạo lớp Tag Handler Class kế thừa TagSupport trong Source Packages\n B2: Tao Tag Library Descriptor (TLD) mô tả thông tin về Simple Custom Tag (Có thể mô tả thông tin nhiều Tag)\n B3: Khai báo và sử dụng Simple Custom Tag trong JSP",
+        "answer": "B1, B2, B3"
+    },
+    "149864": {
+        "question": "Phương thức nào sau đây không thuộc pageContext",
+        "answer": "getParameter()"
+    },
+    "149865": {
+        "question": "Phương thức nào sau đây không thuộc pageContext",
+        "answer": "getInitParameter()"
+    },
+    "149866": {
+        "question": "Phương thức nào sau đây không thuộc pageContext",
+        "answer": "getCookie()"
+    },
+    "149867": {
+        "question": "Phương thức nào của pageContext được sử dụng để bao hàm một trang jsp hoặc chuyển tiếp đến một trang JSP khác",
+        "answer": "include(), forward()"
+    },
+    "149870": {
+        "question": "Đặc tả thư viện thẻ được đặt trong thư mục nào",
+        "answer": "/WEB-INF/tlds"
+    },
+    "149908": {
+        "question": "Hibernate ra đời vào năm nào?",
+        "answer": "2001"
+    },
+    "149912": {
+        "question": "Thành phần nào không thuộc Hibernate&nbsp;",
+        "answer": "Hibernate Servlet"
+    },
+    "149913": {
+        "question": "Phương thức nào không thuộc lớp Session của Hibernate",
+        "answer": "insert()"
+    },
+    "149951": {
+        "question": "Phương thức nào không thuộc lớp Session của Hibernate",
+        "answer": "select()"
+    },
+    "149953": {
+        "question": "Phương thức nào không thuộc lớp Session của Hibernate",
+        "answer": "call()"
+    },
+    "149954": {
+        "question": "Trạng thái nào không thuộc một trong 4 trạng thái của một đối tượng trong Hibernate",
+        "answer": "Ready (Sẵn sàng)"
+    },
+    "149957": {
+        "question": "Trường hợp bạn tạo mới một đối tượng java từ một Entity, đối tượng đó có tình trạng nào",
+        "answer": "Transient"
+    },
+    "149958": {
+        "question": "Trường hợp bạn lấy ra đối tượng Entity bằng method get, load hoặc find, bạn có được một đối tượng nó tương ứng với 1 record dưới database. Đối tượng này có trạng thái là gì",
+        "answer": "Persistent&nbsp;"
+    },
+    "149959": {
+        "question": "Session gọi một trong các method save,saveOrUpdate, persist, merge sẽ đẩy đối tượng Transient vào sự quản lý của Hibernate và đối tượng này chuyển sang trạng thái gì?",
+        "answer": "Persistent&nbsp;"
+    },
+    "149960": {
+        "question": "Session gọi evict(..) hoặc clear() để đuổi các đối tượng có trạng thái persistent (bền vững) ra khỏi sự quản lý của Hibernate, giờ các đối tượng này sẽ có trạng thái là gì",
+        "answer": "Detached&nbsp;"
+    },
+    "149961": {
+        "question": "Session gọi method remove(..), delete(..) để xóa một bản ghi, đối tượng persistent giờ chuyển sang trạng thái gì?",
+        "answer": "Removed"
+    },
+    "149962": {
+        "question": "Có bao nhiêu bước trong sử dụng Hibernate",
+        "answer": "7"
+    },
+    "149963": {
+        "question": "Thuộc tính nào của hibernate chỉ ra cơ chế xử lý câu lệnh SQL thùy thuộc vào hệ quản trị CSDL",
+        "answer": "hibernate.dialect"
+    },
+    "149966": {
+        "question": "Khi ánh xạ thực thể với bảng, công việc nào sau đây không nên thực hiện",
+        "answer": "Có thể lược bỏ type nhưng sẽ làm giảm hiệu suất"
+    },
+    "149967": {
+        "question": "Khi đặt file cấu hình hibernate *.hbm.xml trong gói có tên là entity thì khi khai báo trong file cấu hình &lt;mapping resource=\"?\"&gt; sẽ sử dụng đường dẫn nào\n 1. entity/*.hbm.xml\n 2. entity.*.hbm.xml",
+        "answer": "1 đúng, 2 sai"
+    },
+    "149968": {
+        "question": "Cấu trúc mã lệnh sau không nên áp dụng cho hành động nào trong Hibernate\n try {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n session.beginTransaction();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n // thao tác dữ liệu\n session.getTransaction().commit();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n } \n catch (Exception e) {&nbsp;&nbsp; \n session.getTransaction().rollback();\n }&nbsp;",
+        "answer": "load()"
+    },
+    "149969": {
+        "question": "Để làm việc được với tiếng Việt trong CSDL MySQL bạn cần thêm chuỗi truy vấn gì vào sau chuỗi kết nối CSDL",
+        "answer": "?useUnicode=true&amp;characterEncoding=UTF-8"
+    },
+    "149970": {
+        "question": "Có bao nhiêu kiểu ánh xạ thực thể kết hợp?",
+        "answer": "4"
+    },
+    "149972": {
+        "question": "Ở chế độ ánh xạ lazy, sau khi truy vấn thực thể chính xong bạn đóng session. Công việc tiếp theo gồm\n 1. Truy xuất các thuộc tính của thực thể\n 2. Truy xuất các thực thể kết hợp",
+        "answer": "1 thực hiện được, 2 không thực hiện được"
+    },
+    "149973": {
+        "question": "Ở chế độ ánh xạ easay (lazy=false), sau khi truy vấn thực thể chính xong bạn đóng session. Công việc tiếp theo gồm\n 1. Truy xuất các thuộc tính của thực thể\n 2. Truy xuất các thực thể kết hợp",
+        "answer": "Cả 1 và 2 thực hiện được"
+    },
+    "149974": {
+        "question": "Phát biểu 1: với ánh xạ lazy=true thì các thực thể kết hợp được truy vấn cùng với thực thể chính\n Phát biểu 2: với ánh xạ lazy=false thì các thực thể kết hợp được truy vấn cùng với thực thể chính",
+        "answer": "Phát biểu 2 đúng, phát biểu 1 sai"
+    },
+    "149975": {
+        "question": "Tên của tham số trong câu lệnh HQL bắt đầu bởi ký tự gì?",
+        "answer": ":"
+    },
+    "149976": {
+        "question": "Để cung cấp giá trị số nguyên cho một tham số trong câu lệnh HQL thì hibernate sử dụng phương thức gì của Query",
+        "answer": "setInteger()"
+    },
+    "149977": {
+        "question": "Để truy vấn một thuộc tính đơn, Query cung cấp cho bạn phương thức gì?",
+        "answer": "uniqueResult()"
+    },
+    "149978": {
+        "question": "Giá trị không hợp lệ của thuộc tính cascade trong cấu hình ánh xạ thực thể kết hợp",
+        "answer": "insert"
+    },
+    "149979": {
+        "question": "Đoạn mã khai báo thực thể kết hớp sau đây mô tả loại kết hợp nào?\n &lt;set name=\"danhSachHocSinh\"&gt;\n &lt;key&gt;\n &lt;column name=\"MaLop\"/&gt;\n &lt;/key&gt;\n &lt;one-to-many class=\"pojo.HocSinhPojo\" /&gt;\n &lt;/set&gt;&nbsp;&nbsp;",
+        "answer": "Một-nhiều"
+    }
+}
