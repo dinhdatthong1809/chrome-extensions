@@ -6,7 +6,7 @@ It will automatically choose the correct answer for "online lectures' questions"
 Developed in 2nd year, I found out the correct answer was checked on client side
 
 ## 2 - fpt-poly-quiz-exam-data-crawler
-This tool massively crawl data from "online quizes" of various lessons of my school (FPT Polytechnic).
+This tool massively crawls data from "online quizzes" of various lessons of my school (FPT Polytechnic).
 
 Data includes multiple-choice questions and their correct answer.
 
