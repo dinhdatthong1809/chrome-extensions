@@ -15,7 +15,7 @@ Developed in 2nd year, I exploited a security hole of my school's web-site, whic
 ## 3 - gpx-plus-tricker
 Tool for a "mass-clicking game".
 Developed feature like:
-- auto interact
+- automatically interact with the a huge number of objects in the game
 - manipulate data and override some scripts of the game
 - adaptive UI based on different context
 
