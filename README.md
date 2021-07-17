@@ -1,8 +1,8 @@
 My personal tools
 
 ##### 1 - fpt-poly-lms-online-lecture-auto-cheater
-It will automatically choose the correct answer for "questions in online lectures" of my school (FPT Polytechnic)
-Developed in 2nd year, I found out the correct answer is checked on client side
+It will automatically choose the correct answer for "online lectures' questions" of my school (FPT Polytechnic)
+Developed in 2nd year, I found out the correct answer was checked on client side
 
 ##### 2 - fpt-poly-quiz-exam-data-crawler
 This tool massively crawl data from "online quizes" of various lessons of my school (FPT Polytechnic)
