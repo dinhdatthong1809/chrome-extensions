@@ -3,19 +3,44 @@ main();
 async function main() {
 
     const isPageUser = window.location.href.startsWith("https://gpx.plus/users");
+    
     if (isPageUser) {
         if (await hasNothingToInteract()) {
             goToNextPage();
         } else {
             await openNewFeeder();
         }
+        
     } else {
+        if (isErrorDialogAppear()) {
+            location.reload();
+            return;
+        }
+
         interactPokemon();
     }
 }
 
+async function hasNothingToInteract() {
+    await sleep(7000);
+    let listUserToInteract = $(".light2 > div[class!='userClicked']");
+    return !listUserToInteract || listUserToInteract.length === 0;
+}
+
 function goToNextPage() {
     window.location.href = calculateNextPage();
+}
+
+function calculateNextPage() {
+    const currentUrl = window.location.href;
+    const indexOfLastSlash = currentUrl.lastIndexOf("/");
+
+    const currentPage = currentUrl.substring(indexOfLastSlash + 1, currentUrl.length);
+    const nextPage = +currentPage + 1;
+
+    const nextUrl = currentUrl.substring(0, indexOfLastSlash + 1) + nextPage;
+
+    return nextUrl;
 }
 
 async function openNewFeeder() {
@@ -28,22 +53,16 @@ async function openNewFeeder() {
     }
 }
 
-async function hasNothingToInteract() {
-    await sleep(7000);
-    let listUserToInteract = $(".light2 > div[class!='userClicked']");
-    return !listUserToInteract || listUserToInteract.length === 0;
-}
-
-function calculateNextPage() {
-    const currentUrl = window.location.href;
-    const indexOfLastSlash = currentUrl.lastIndexOf("/");
-
-    const currentPage = currentUrl.substring(indexOfLastSlash + 1, currentUrl.length);
-    const nextPage = +currentPage + 1;
-
-    const nextUrl = currentUrl.substring(0, indexOfLastSlash + 1) + nextPage;
+function isErrorDialogAppear() {
+    const dialogAlert = $(".ui-dialog-content");
+    if (dialogAlert) {
+        const textAlert = dialogAlert.html();
+        if (textAlert === "There was an error; please try again later.") {
+            return true;
+        }
+    }
     
-    return nextUrl;
+    return false;
 }
 
 function interactPokemon() {
