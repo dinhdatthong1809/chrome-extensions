@@ -13,9 +13,10 @@ Data includes multiple-choice questions and their correct answer.
 Developed in 2nd year, I exploited a security hole of my school's web-site, which related to "Insecure Direct Object References"
 
 ## 3 - gpx-plus-tricker
-Tool for a "mass-clicking game".
-Developed feature like:
-- automatically interact with the a huge number of objects in the game
+Auto click tool for GPXPlus a "mass-clicking game".
+Developed features like:
+- automatically interact with the a huge number of pokemons/eggs in the game
+- automatically search for expected pokemons and eggs based on names
 - manipulate data and override some scripts of the game
 - adaptive UI based on different context
 
