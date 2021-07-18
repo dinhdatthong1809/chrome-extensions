@@ -62,10 +62,10 @@ export default class ShelterEgg {
     };
 
     getEggsFromInputFields = () => {
-        let eggs = [];
+        const eggs = [];
 
         this.PARTY_SLOT.forEach((x, i) => {
-            let egg = {
+            const egg = {
                 name: $(`#eggName${i}`).val().trim()
             };
 
@@ -89,7 +89,12 @@ export default class ShelterEgg {
         for (const element of htmlElementsContainEggName) {
             const textInElement = $(`div:nth-child(1)`, element).html().trim();
             const eggName = textInElement.substring(textInElement.indexOf(" "), textInElement.length).trim();
-            eggs.push(eggName);
+
+            const egg = {
+                name: eggName
+            };
+            
+            eggs.push(egg);
         }
 
         return eggs;
