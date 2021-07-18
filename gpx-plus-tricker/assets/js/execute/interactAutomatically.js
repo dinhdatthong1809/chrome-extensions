@@ -28,19 +28,17 @@ async function hasNothingToInteract() {
 }
 
 function goToNextPage() {
-    window.location.href = calculateNextPage();
+    const nextPage = calculateNextPage();
+    const nextPageElement = $(`#usersTable > table > tbody > tr:nth-child(2) > th > div.buttonGroup > span:nth-child(${nextPage + 1})`);
+    
+    if (nextPageElement) {
+        nextPageElement.click();
+    }
 }
 
 function calculateNextPage() {
-    const currentUrl = window.location.href;
-    const indexOfLastSlash = currentUrl.lastIndexOf("/");
-
-    const currentPage = currentUrl.substring(indexOfLastSlash + 1, currentUrl.length);
-    const nextPage = +currentPage + 1;
-
-    const nextUrl = currentUrl.substring(0, indexOfLastSlash + 1) + nextPage;
-
-    return nextUrl;
+    const currentPage = $("#usersTable > table > tbody > tr:nth-child(2) > th > div.buttonGroup > span.disabled").index();
+    return +currentPage + 1;
 }
 
 async function openNewFeeder() {
