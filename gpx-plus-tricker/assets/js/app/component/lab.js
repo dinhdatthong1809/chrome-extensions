@@ -13,7 +13,7 @@ export default class Lab {
 
     buildTemplate = () => {
         return `
-            <h2><img src="assets/img/egg.png"> Lab<h2>
+            <h2><img src="assets/img/egg.png"> Egg Finder<h2>
             <input id="eggId" type="text" class="text-box-yellow" placeholder="Image url of egg" autocomplete="off" autofocus>
             <button type="button" id="btnSearchEgg" class="button button-yellow">Start searching!</button>
         `;
@@ -59,7 +59,7 @@ export default class Lab {
     };
 
     setStateInput = (enable) => {
-        $("#eggId").prop('disabled', !enable);
+        $("#eggId").prop("disabled", !enable);
     };
 
     disableAllInputFields = () => {

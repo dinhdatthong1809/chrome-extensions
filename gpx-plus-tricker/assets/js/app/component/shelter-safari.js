@@ -2,6 +2,9 @@ export default class ShelterSafari {
     interval = null;
     isSearching = false;
 
+    MAX_NUMBER_OF_POKEMONS = 6;
+    PARTY_SLOT = Array.from(Array(this.MAX_NUMBER_OF_POKEMONS));
+    
     init = () => {
         this.initUI();
         this.initFunctions();
@@ -15,12 +18,14 @@ export default class ShelterSafari {
         let template = "";
 
         template += `<h2><img src="assets/img/bulbasaur.png"> Safari Zone<h2>`;
-        for (let i = 1; i <= 6; i++) {
+        
+        this.PARTY_SLOT.forEach((x, i) => {
             template += (`
                 <input id="pokemonName${i}" type="text" class="text-box-green pokemonName" placeholder="Name" autofocus>
                 <input id="pokemonLevel${i}" type="number" class="text-box-green pokemonLevel" placeholder="Level" min="1" max="100">
             `);
-        }
+        });
+        
         template += `<button type="button" id="btnSearchPokemon" class="button button-green">Search pokemon!</button>`;
 
         return template;
@@ -47,7 +52,7 @@ export default class ShelterSafari {
     getPokemonsForSearching = () => {
         const pokemons = [];
 
-        for (let i = 1; i <= 6; i++) {
+        this.PARTY_SLOT.forEach((x, i) => {
             let pokemon = {
                 name: $(`#pokemonName${i}`).val().trim(),
                 level: $(`#pokemonLevel${i}`).val().trim()
@@ -56,7 +61,7 @@ export default class ShelterSafari {
             if (pokemon.name) {
                 pokemons.push(pokemon);
             }
-        }
+        });
 
         return pokemons;
     };
@@ -82,10 +87,11 @@ export default class ShelterSafari {
     };
 
     setStateInput = (enable) => {
-        for (let i = 1; i <= 6; i++) {
-            $(`#pokemonName${i}`).prop('disabled', !enable);
-            $(`#pokemonLevel${i}`).prop('disabled', !enable);
-        }
+        this.PARTY_SLOT.forEach((x, i) => {
+            $(`#pokemonName${i}`).prop("disabled", !enable);
+            $(`#pokemonLevel${i}`).prop("disabled", !enable);
+        });
+        
     };
 
     disableAllInputFields = () => {
