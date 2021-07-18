@@ -1,9 +1,9 @@
 let hasLocalStorage = true;
 let max = 4000;
 
-runAfterDocument();
+main();
 
-function runAfterDocument() {
+function main() {
     editMaxValueOfOpenFeeder();
     modifyUsersScript();
 }

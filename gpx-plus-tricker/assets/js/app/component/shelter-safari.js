@@ -76,7 +76,7 @@ export default class ShelterSafari {
     searchPokemonInSafari = (pokemons) => {
         chrome.tabs.executeScript(null, {file: "assets/plugins/jquery/jquery-3.4.1.min.js"}, function () {
             chrome.tabs.executeScript(null, {code: `pokemons = ${JSON.stringify(pokemons)}`}, function () {
-                chrome.tabs.executeScript(null, {file: "assets/js/execute/searchPokemonInSafari.js"});
+                chrome.tabs.executeScript(null, {file: "assets/js/execute/search-pokemon-in-safari.js"});
             });
         });
     };

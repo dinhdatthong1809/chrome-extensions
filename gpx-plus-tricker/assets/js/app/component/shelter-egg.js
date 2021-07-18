@@ -61,7 +61,7 @@ export default class ShelterEgg {
 
     startSearching = (eggs) => {
         this.disableAllInputFields();
-        this.interval = setInterval(this.searchEgg, 2000, eggs);
+        this.interval = setInterval(this.searchEggInShelter, 2000, eggs);
         $("#btnSearchEgg").html("Stop searching!");
     };
 
@@ -71,10 +71,10 @@ export default class ShelterEgg {
         $("#btnSearchEgg").html("Start searching!");
     };
 
-    searchEgg = (eggs) => {
+    searchEggInShelter = (eggs) => {
         chrome.tabs.executeScript(null, {file: "assets/plugins/jquery/jquery-3.4.1.min.js"}, function () {
             chrome.tabs.executeScript(null, {code: `eggs = ${JSON.stringify(eggs)}`}, function () {
-                chrome.tabs.executeScript(null, {file: "assets/js/execute/searchEgg.js"});
+                chrome.tabs.executeScript(null, {file: "assets/js/execute/search-egg-in-shelter.js"});
             });
         });
     };

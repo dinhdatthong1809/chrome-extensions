@@ -1,6 +1,6 @@
-runBeforeDocument();
+main();
 
-function runBeforeDocument() {
+function main() {
     editDataInLocalStorage();
 }
 

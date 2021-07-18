@@ -42,7 +42,7 @@
       ],
       "js": [
         "assets/plugins/jquery/jquery-3.4.1.min.js",
-        "assets/js/execute/hooks/runBeforeDocument.js"
+        "assets/js/execute/hooks/override-data-in-local-storage-before-user-page-loaded.js"
       ]
     },
     {
@@ -52,7 +52,7 @@
       ],
       "js": [
         "assets/plugins/jquery/jquery-3.4.1.min.js",
-        "assets/js/execute/hooks/runAfterDocument.js"
+        "assets/js/execute/hooks/override-script-after-user-page-loaded.js"
       ]
     }
   ]

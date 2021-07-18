@@ -53,7 +53,7 @@ export default class Lab {
     searchEggInLab = (eggId) => {
         chrome.tabs.executeScript(null, {file: "assets/plugins/jquery/jquery-3.4.1.min.js"}, function () {
             chrome.tabs.executeScript(null, {code: `eggId = "${eggId}"`}, function () {
-                chrome.tabs.executeScript(null, {file: "assets/js/execute/searchEggInLab.js"});
+                chrome.tabs.executeScript(null, {file: "assets/js/execute/search-egg-in-lab.js"});
             });
         });
     };
