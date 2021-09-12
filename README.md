@@ -3,14 +3,14 @@ My personal tools
 ## 1 - fpt-poly-lms-online-lecture-auto-cheater
 It will automatically choose the correct answer for "online lectures' questions" of my school (FPT Polytechnic).
 
-Developed in 2nd year, I found out they also passed the correct answers to client side
+Developed in 2nd year, I found out they also passed the correct answers to client side.
 
 ## 2 - fpt-poly-quiz-exam-data-crawler
 This tool massively crawls data related to "online quizzes" from various lessons of my school (FPT Polytechnic).
 
-Data includes multiple-choice questions and their correct answer.
+Data includes multiple-choice questions and their correct answers.
 
-Developed in 2nd year, I exploited a security hole of my school's web-site, which related to "Insecure Direct Object References"
+Developed in 2nd year, I exploited a security hole of my school's web-site, which related to "Insecure Direct Object References".
 
 ## 3 - gpx-plus-tricker
 Tool for cheating GPXPlus (a mass-clicking game).
